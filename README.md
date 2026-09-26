@@ -26,10 +26,11 @@ Supabase + Vercel, com progresso sincronizado entre PC, celular e notebook.
    - `Project URL`
    - `anon public key`
    - `service_role key` (fica em "Project API keys" — mantenha em segredo)
-5. Vá em **Authentication → Providers → Email** e confirme que o login por
-   **magic link** (OTP) está habilitado (é o padrão). Em
-   **Authentication → URL Configuration**, adicione a URL do seu site na
-   Vercel (você vai ter essa URL no passo 4) em *Redirect URLs*.
+5. O login deste app é por **e-mail + senha** (não há tela de cadastro
+   pública). Crie seu usuário manualmente em **Authentication → Users →
+   Add user**, preenchendo e-mail e senha e marcando **Auto Confirm User**
+   (assim ele já entra confirmado, sem precisar clicar em link de
+   e-mail). Se quiser trocar a senha depois, edite o mesmo usuário ali.
 
 ### 2. Configurar o projeto localmente
 ```bash
@@ -52,8 +53,8 @@ Teste localmente antes de publicar:
 ```bash
 npm run dev
 ```
-Abra `http://localhost:3000`, entre com seu e-mail (chega um link mágico) e
-confira se a fila carrega.
+Abra `http://localhost:3000`, entre com o e-mail e a senha que você criou no
+passo 1.5 e confira se a fila carrega.
 
 ### 4. Subir para o GitHub
 ```bash
@@ -70,9 +71,8 @@ gh repo create fafipa-study-os --private --source=. --push
 2. Em **Environment Variables**, adicione `NEXT_PUBLIC_SUPABASE_URL` e
    `NEXT_PUBLIC_SUPABASE_ANON_KEY` (a `service_role` **não** vai para a
    Vercel — ela só é usada localmente pelo `npm run seed`).
-3. Deploy. Copie a URL gerada (ex. `fafipa-study-os.vercel.app`) e cole em
-   **Authentication → URL Configuration → Redirect URLs** no Supabase
-   (passo 1.5), senão o link mágico não vai voltar para o site certo.
+3. Deploy. Como o login é por e-mail+senha, não é preciso configurar
+   Redirect URLs no Supabase.
 
 Pronto — o painel está no ar, com progresso salvo no Supabase (não mais no
 navegador).
@@ -108,6 +108,3 @@ data/questoes.json  as 965 questões + resoluções já extraídas do seu painel
 
 - Colar os lotes de resolução 161–320 → 321–480 → 481–965 em `/admin`
   conforme forem ficando prontos.
-- Se quiser, dá para trocar o login por magic link por e-mail+senha depois —
-  é só trocar `signInWithOtp` por `signInWithPassword` em
-  `components/AuthGate.tsx`.
