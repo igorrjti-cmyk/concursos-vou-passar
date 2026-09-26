@@ -42,6 +42,16 @@ Edite `.env.local` com os três valores do passo 1 (`NEXT_PUBLIC_SUPABASE_URL`,
 `NEXT_PUBLIC_SUPABASE_ANON_KEY`, `SUPABASE_SERVICE_ROLE_KEY`).
 
 ### 3. Popular o banco com as 965 questões
+
+**Opção A — sem terminal (recomendado se você não usa Node.js):**
+Use os arquivos prontos em `supabase/seed-partes/` (`parte_01.sql` até
+`parte_10.sql`). No Supabase, vá em **SQL Editor → New query**, abra cada
+arquivo num editor de texto, cole o conteúdo e clique **Run** — um de cada
+vez, na ordem. Todos usam `on conflict (id) do update`, então é seguro rodar
+de novo se precisar. Se algum arquivo der o erro "Query is too large", me
+avise qual número que eu divido ele em partes menores.
+
+**Opção B — com terminal e Node.js instalado:**
 ```bash
 npm run seed
 ```
