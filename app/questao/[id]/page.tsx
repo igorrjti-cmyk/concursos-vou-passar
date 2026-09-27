@@ -127,13 +127,13 @@ function QuestaoDetalhe({ id }: { id: string }) {
   }
 
   if (!questao) {
-    return <p className="px-6 py-10 text-ink-light/60">Carregando questão…</p>;
+    return <p className="px-4 py-8 sm:px-6 sm:py-10 text-ink-light/60">Carregando questão…</p>;
   }
 
   const acertou = selecionada === questao.answer;
 
   return (
-    <div className="mx-auto max-w-2xl px-6 py-10">
+    <div className="mx-auto max-w-2xl px-4 py-8 sm:px-6 sm:py-10">
       <div className="flex items-center justify-between">
         <span className="badge bg-ink text-paper">Fila #{questao.rank}</span>
         <a

@@ -1,13 +1,14 @@
 # FAFIPA Study OS — Contador Curitiba 2026
 
-Fila priorizada de 965 questões (FAFIPA) com resolução individual, central de
+Fila priorizada de 964 questões (FAFIPA) com resolução individual, central de
 erros, revisão espaçada e desempenho por tópico — rodando em Next.js +
 Supabase + Vercel, com progresso sincronizado entre PC, celular e notebook.
 
 ## O que já vem pronto
 
-- **965 questões** extraídas do seu painel HTML V5, já na ordem de prioridade
-  (`rank` 1 → 965), em `data/questoes.json`.
+- **964 questões** extraídas do seu painel HTML V5, já na ordem de prioridade
+  (`rank` 1 → 965, com um número pulado por causa de uma duplicata removida),
+  em `data/questoes.json`.
 - **160 resoluções individuais** (questões 1–160, camada núcleo prioritário)
   já incluídas no mesmo arquivo.
 - Schema completo do Supabase em `supabase/schema.sql`.
@@ -41,7 +42,7 @@ cp .env.example .env.local
 Edite `.env.local` com os três valores do passo 1 (`NEXT_PUBLIC_SUPABASE_URL`,
 `NEXT_PUBLIC_SUPABASE_ANON_KEY`, `SUPABASE_SERVICE_ROLE_KEY`).
 
-### 3. Popular o banco com as 965 questões
+### 3. Popular o banco com as 964 questões
 
 **Opção A — sem terminal (recomendado se você não usa Node.js):**
 Use os arquivos prontos em `supabase/seed-partes/` (`parte_01.sql` até
@@ -111,7 +112,7 @@ components/     Nav e AuthGate (login por link mágico)
 lib/            cliente Supabase e tipos TypeScript
 supabase/       schema.sql — rode isso no SQL Editor do Supabase
 scripts/seed.mjs  importa data/questoes.json para o Supabase
-data/questoes.json  as 965 questões + resoluções já extraídas do seu painel V6
+data/questoes.json  as 964 questões + resoluções já extraídas do seu painel V6
 ```
 
 ## Próximos passos sugeridos

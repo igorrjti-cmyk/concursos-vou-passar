@@ -42,8 +42,8 @@ export default function AuthGate({ children }: { children: React.ReactNode }) {
 
   if (!session) {
     return (
-      <div className="flex min-h-[70vh] items-center justify-center px-6">
-        <div className="w-full max-w-sm rounded-lg border border-ink/10 bg-white/60 p-8 shadow-sm">
+      <div className="flex min-h-[70vh] items-center justify-center px-4 sm:px-6">
+        <div className="w-full max-w-sm rounded-lg border border-ink/10 border-t-[3px] border-t-gold bg-white/70 p-8 shadow-sm">
           <h1 className="font-serif text-2xl text-ink">FAFIPA Study OS</h1>
           <p className="mt-2 text-sm text-ink-light/80">
             Contador — Prefeitura de Curitiba. Entre com seu e-mail e senha
