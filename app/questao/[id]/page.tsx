@@ -4,6 +4,7 @@ import { useEffect, useState } from "react";
 import Link from "next/link";
 import AuthGate from "@/components/AuthGate";
 import Nav from "@/components/Nav";
+import MobileStudyBar from "@/components/MobileStudyBar";
 import { getSupabaseClient } from "@/lib/supabaseClient";
 import type { Progresso, Questao } from "@/lib/types";
 
@@ -133,7 +134,7 @@ function QuestaoDetalhe({ id }: { id: string }) {
   const acertou = selecionada === questao.answer;
 
   return (
-    <div className="mx-auto max-w-3xl px-4 py-8 sm:px-6 sm:py-10">
+    <main className="study-question-shell mx-auto max-w-3xl px-4 pb-28 pt-5 sm:px-6 sm:py-10 md:pb-10">
       <div className="flex items-center justify-between">
         <span className="badge bg-ink text-paper">Fila #{questao.rank}</span>
         <a
@@ -149,7 +150,7 @@ function QuestaoDetalhe({ id }: { id: string }) {
       <p className="mt-3 text-xs uppercase tracking-wide text-ink-light/50">
         {questao.topic}
       </p>
-      <p className="mt-2 whitespace-pre-line font-serif text-lg leading-relaxed text-ink">
+      <p className="mt-3 whitespace-pre-line font-serif text-[1.05rem] leading-8 text-ink sm:text-lg">
         {questao.stem}
       </p>
 
@@ -170,7 +171,7 @@ function QuestaoDetalhe({ id }: { id: string }) {
               key={letra}
               disabled={respondida}
               onClick={() => setSelecionada(letra)}
-              className={`w-full rounded-xl border px-4 py-3.5 text-left text-sm transition duration-150 ${estilo}`}
+              className={`question-option w-full rounded-2xl border px-4 py-4 text-left text-[0.93rem] leading-6 transition duration-150 ${estilo}`}
             >
               <span className="mr-2 font-medium">{letra})</span>
               {texto}
@@ -183,12 +184,16 @@ function QuestaoDetalhe({ id }: { id: string }) {
         <button
           disabled={!selecionada || salvando}
           onClick={responder}
-          className="mt-6 rounded-xl bg-gold px-5 py-2.5 text-sm font-semibold text-[#171107] shadow-lg shadow-gold/10 transition hover:bg-gold-light disabled:opacity-40"
+          className="mobile-action mt-6 min-h-12 rounded-xl bg-gold px-5 py-3 text-sm font-semibold text-[#171107] shadow-lg shadow-gold/10 transition hover:bg-gold-light disabled:opacity-40"
         >
           {salvando ? "Registrando…" : "Responder"}
         </button>
       ) : (
         <div className="mt-6 space-y-6">
+          <div className="study-result-banner">
+            <span className="study-result-dot" />
+            <div><span className="block text-[10px] font-semibold uppercase tracking-[.18em] text-white/40">Resultado</span><span className="text-sm font-semibold text-white">{acertou ? "Resposta correta" : "Resposta incorreta"}</span></div>
+          </div>
           <p
             className={`rounded-md px-4 py-2 text-sm font-medium ${
               acertou ? "bg-certo/10 text-certo" : "bg-errado/10 text-errado"
@@ -261,7 +266,7 @@ function QuestaoDetalhe({ id }: { id: string }) {
           </div>
         </div>
       )}
-    </div>
+    </main>
   );
 }
 
@@ -340,6 +345,7 @@ export default function Page({ params }: { params: { id: string } }) {
     <AuthGate>
       <Nav />
       <QuestaoDetalhe id={params.id} />
+      <MobileStudyBar />
     </AuthGate>
   );
 }
