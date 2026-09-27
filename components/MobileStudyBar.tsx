@@ -52,12 +52,12 @@ export default function MobileStudyBar() {
     <>
       {maisAberto && (
         <div
-          className="fixed inset-0 z-[75] bg-black/40 backdrop-blur-sm md:hidden"
+          className="fixed inset-0 z-[85] bg-black/40 backdrop-blur-sm md:hidden"
           onClick={() => setMaisAberto(false)}
         />
       )}
       {maisAberto && (
-        <div className="fixed inset-x-0 bottom-0 z-[76] rounded-t-3xl border-t border-white/10 bg-[#0b1120] p-4 pb-[calc(1rem+env(safe-area-inset-bottom,0px))] md:hidden">
+        <div className="fixed inset-x-0 bottom-0 z-[90] rounded-t-3xl border-t border-white/10 bg-[#0b1120] p-4 pb-[calc(1rem+env(safe-area-inset-bottom,0px))] md:hidden">
           <div className="mx-auto mb-3 h-1 w-10 rounded-full bg-white/15" />
           <div className="grid grid-cols-3 gap-3">
             {maisItens.map((item) => (

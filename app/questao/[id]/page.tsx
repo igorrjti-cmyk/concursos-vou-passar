@@ -61,6 +61,7 @@ function QuestaoDetalhe({ id }: { id: string }) {
   const [explicacao, setExplicacao] = useState<ExplicacaoIA | null>(null);
   const [gerandoExplicacao, setGerandoExplicacao] = useState(false);
   const [erroExplicacao, setErroExplicacao] = useState<string | null>(null);
+  const [userId, setUserId] = useState<string | null>(null);
 
   useEffect(() => {
     (async () => {
@@ -73,7 +74,8 @@ function QuestaoDetalhe({ id }: { id: string }) {
       setQuestao(q ?? null);
 
       const { data: userData } = await supabase.auth.getUser();
-      const userId = userData.user?.id;
+      const userId = userData.user?.id ?? null;
+      setUserId(userId);
       if (userId) {
         const { data: p } = await supabase
           .from("progresso")
