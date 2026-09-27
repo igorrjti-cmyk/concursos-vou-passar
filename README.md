@@ -198,3 +198,13 @@ A fila dinâmica usa o histórico da tabela `progresso` e não apaga a classific
 1. Execute `supabase/migrations_20260927_priorizacao_filas.sql`.
 2. Depois execute `supabase/seed-priorizacao.sql`.
 3. O app passa a ordenar a fila pela prioridade estratégica e pelo domínio do usuário.
+
+## Correção da paginação do banco
+
+A tela **Filas inteligentes** não usa 1.000 como limite do banco. A busca é paginada em blocos de até 1.000 linhas e a tela também consulta o `count` exato da tabela `questoes`. No cabeçalho ela mostra `Banco: X · carregadas: Y`.
+
+- Se aparecer **Banco: 1958 · carregadas: 1958**, as 1.958 questões foram carregadas.
+- Se aparecer **Banco: 1000 · carregadas: 1000**, o banco Supabase atualmente tem somente 1.000 questões; nesse caso, é necessário concluir a carga dos arquivos `supabase/seed-partes/parte_01.sql` até `parte_24...` na ordem indicada.
+- Se `Banco` for maior que `carregadas`, existe uma falha de paginação/permissão a investigar; a tela não deve tratar 1.000 como total.
+
+A classificação anterior continua junto da nova camada: **Rank + Score + Banda A/B/C** permanecem visíveis, enquanto **P1–P4, prioridade base e Fila A/B/C/D** são a camada estratégica/dinâmica.

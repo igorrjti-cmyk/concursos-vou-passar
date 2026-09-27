@@ -29,6 +29,7 @@ function FilaLista() {
   const [filaFiltro, setFilaFiltro] = useState<"todas" | FilaDinamica>("todas");
   const [materiaFiltro, setMateriaFiltro] = useState<"todas" | string>("todas");
   const [carregando, setCarregando] = useState(true);
+  const [totalBanco, setTotalBanco] = useState<number | null>(null);
 
   useEffect(() => { setPagina(0); }, [materiaFiltro, filaFiltro, statusFiltro]);
 
@@ -46,6 +47,12 @@ function FilaLista() {
         progresso.forEach((p) => { map[p.questao_id] = p; });
         setProgressoMap(map);
       }
+      const { count: totalCount, error: totalError } = await supabase
+        .from("questoes")
+        .select("id", { count: "exact", head: true });
+      if (totalError) throw totalError;
+      setTotalBanco(totalCount ?? null);
+
       const data = await fetchAllPages<Questao>((from, to) =>
         supabase
           .from("questoes")
@@ -77,7 +84,10 @@ function FilaLista() {
   return <div className="mx-auto max-w-5xl px-4 py-8 sm:px-6 sm:py-10">
     <div className="flex flex-col gap-2 sm:flex-row sm:items-end sm:justify-between">
       <div><h1 className="font-serif text-3xl text-ink">Filas inteligentes</h1><p className="mt-1 text-ink-light/70">A classificação histórica continua preservada; a fila agora combina importância estratégica e seu domínio.</p></div>
-      <div className="text-xs text-ink-light/50">{lista.length} questões no filtro atual</div>
+      <div className="text-right text-xs text-ink-light/50">
+        <div>{lista.length} questões no filtro atual</div>
+        <div>Banco: {totalBanco ?? "…"} · carregadas: {questoes.length}</div>
+      </div>
     </div>
 
     <div className="mt-6 grid gap-2 sm:grid-cols-4">
@@ -109,6 +119,8 @@ function FilaLista() {
         return <Link key={q.id} href={`/questao/${q.id}`} className="block px-4 py-4 transition hover:bg-white/80">
           <div className="flex flex-wrap items-center gap-2">
             <span className="font-serif text-sm text-ink-light/50">Rank #{q.rank}</span>
+            <span className="badge border border-ink/10 bg-white/60 text-ink-light">Score {q.score ?? "—"}</span>
+            <span className="badge border border-ink/10 bg-white/60 text-ink-light">Banda {q.band ?? "—"}</span>
             <span className="badge bg-ink text-paper">{prioridadeLabel(q.prioridade_base)}</span>
             <span className="badge border border-ink/10 bg-white/60 text-ink-light">Base {q.prioridade_base ?? "—"}/100</span>
             <span className="badge border border-ink/10 bg-white/60 text-ink-light">{FILA_LABEL[fila]}</span>
