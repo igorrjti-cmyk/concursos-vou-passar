@@ -10,7 +10,11 @@ const links = [
   { href: "/fila", label: "Fila", icon: "list" },
   { href: "/erros", label: "Erros", icon: "alert" },
   { href: "/revisao", label: "Revisão", icon: "clock" },
+  { href: "/favoritos", label: "Favoritos", icon: "star" },
+  { href: "/metas", label: "Metas", icon: "target" },
+  { href: "/simulados", label: "Simulados", icon: "timer" },
   { href: "/desempenho", label: "Desempenho", icon: "chart" },
+  { href: "/buscar", label: "Buscar", icon: "search" },
 ];
 
 function Icon({ name }: { name: string }) {
@@ -21,6 +25,10 @@ function Icon({ name }: { name: string }) {
     clock: <><circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 2"/></>,
     chart: <><path d="M4 19V5M4 19h17"/><path d="m7 15 4-4 3 2 5-7"/></>,
     upload: <><path d="M12 16V4M8 8l4-4 4 4"/><path d="M5 20h14"/></>,
+    star: <path d="M12 3.5l2.6 5.3 5.8.8-4.2 4.1 1 5.8L12 16.7 6.8 19.5l1-5.8L3.6 9.6l5.8-.8L12 3.5Z"/>,
+    target: <><circle cx="12" cy="12" r="8"/><circle cx="12" cy="12" r="4"/><circle cx="12" cy="12" r="0.6" fill="currentColor"/></>,
+    timer: <><circle cx="12" cy="13" r="8"/><path d="M12 9v4l3 2M10 2h4"/></>,
+    search: <><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></>,
   };
   return <svg aria-hidden="true" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.7" strokeLinecap="round" strokeLinejoin="round">{paths[name]}</svg>;
 }
@@ -40,7 +48,7 @@ export default function Nav() {
           </span>
           <span className="hidden min-[430px]:block"><span className="block text-sm font-semibold tracking-tight text-white">FAFIPA Study OS</span><span className="block text-[10px] uppercase tracking-[.18em] text-white/35">Contador · Curitiba</span></span>
         </Link>
-        <nav className="ml-auto hidden items-center gap-1 rounded-2xl border border-white/[.08] bg-white/[.025] p-1 md:flex">
+        <nav className="ml-auto hidden max-w-[560px] flex-wrap items-center gap-1 rounded-2xl border border-white/[.08] bg-white/[.025] p-1 md:flex">
           {links.map((l) => {
             const active = pathname === l.href || (l.href !== "/" && pathname.startsWith(l.href));
             return <Link key={l.href} href={l.href} className={`group flex items-center gap-2 rounded-xl px-3 py-2 text-xs font-medium transition ${active ? "bg-gold/[.13] text-gold shadow-[inset_0_0_0_1px_rgba(231,187,98,.12)]" : "text-white/50 hover:bg-white/[.05] hover:text-white/85"}`}><Icon name={l.icon}/>{l.label}</Link>;

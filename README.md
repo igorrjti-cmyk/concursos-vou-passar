@@ -1,20 +1,28 @@
 # FAFIPA Study OS — Contador Curitiba 2026
 
-Fila priorizada de 964 questões (FAFIPA) com resolução individual, central de
-erros, revisão espaçada e desempenho por tópico — rodando em Next.js +
-Supabase + Vercel, com progresso sincronizado entre PC, celular e notebook.
+Fila priorizada de questões (FAFIPA) com resolução individual, central de
+erros, revisão espaçada automática, favoritos, metas diárias, gamificação
+(XP/nível/streak/medalhas), simulados com cronômetro, busca global,
+dashboard de desempenho e um explicador de questões com IA (Gemini) —
+rodando em Next.js + Supabase + Vercel, com progresso sincronizado entre PC,
+celular e notebook.
 
 ## O que já vem pronto
 
 - **964 questões** extraídas do seu painel HTML V5, já na ordem de prioridade
   (`rank` 1 → 965, com um número pulado por causa de uma duplicata removida),
-  em `data/questoes.json`.
-- **160 resoluções individuais** (questões 1–160, camada núcleo prioritário)
-  já incluídas no mesmo arquivo.
-- Schema completo do Supabase em `supabase/schema.sql`.
-- App Next.js com: painel, fila, tela de questão (responder + resolução +
-  revisão espaçada), central de erros, desempenho por tópico e uma tela
-  `/admin` para colar novos lotes de resolução conforme forem sendo gerados.
+  em `data/questoes.json` — depois ampliado para **1.958 questões** com a
+  entrada de Português, Informática, Matemática Financeira e Estatística.
+- **160+ resoluções individuais** já incluídas no mesmo arquivo.
+- Schema completo do Supabase em `supabase/schema.sql`, mais as migrações de
+  priorização (`migrations_20260927_priorizacao_filas.sql`) e de
+  gamificação/IA (`migrations_20260927_v6v7_gamificacao_ia.sql`).
+- App Next.js com: painel, filas inteligentes (A/B/C/D por prioridade e
+  domínio), tela de questão (responder + resolução + explicação por IA +
+  revisão espaçada + favoritar), central de erros (hoje/recorrentes/por
+  disciplina), revisão, favoritos, metas diárias, simulados com cronômetro,
+  desempenho (XP/nível/streak + insights por IA) e busca global. A antiga
+  tela `/admin` de colar resoluções manualmente foi removida.
 
 ## Passo a passo do deploy
 
@@ -88,31 +96,40 @@ gh repo create fafipa-study-os --private --source=. --push
 Pronto — o painel está no ar, com progresso salvo no Supabase (não mais no
 navegador).
 
-## Importando os próximos lotes de resolução
+## Adicionando novas resoluções (a tela /admin foi removida)
 
-Enquanto as resoluções das camadas 161–320, 321–480 e 481–965 forem sendo
-geradas (fora deste app), é só colar o JSON de cada lote na tela **Importar**
-(`/admin`) do próprio site. O formato esperado é:
+A antiga tela `/admin` de colar JSON de resolução foi removida na V6/V7.
+Agora há duas formas de preencher a `resolution` de uma questão:
 
-```json
-[
-  { "id": "3936169", "resolution": { "regra": "...", "passos": ["..."], "calculo": "...", "correta": "...", "erradas": ["..."], "fundamento": "...", "pegadinha": "..." } }
-]
-```
-
-O `id` é o mesmo id do TEC Concursos que já está em `data/questoes.json` (e
-visível em cada questão pelo link "Abrir no TEC"). A tela atualiza direto no
-Supabase — sem precisar rodar o seed de novo.
+1. **Manual, direto no banco** — gere um `UPDATE public.questoes SET resolution = ...
+   WHERE id = '...'` e rode no SQL Editor do Supabase (é o que fizemos até
+   aqui pelas conversas anteriores).
+2. **Automático, sob demanda, pela IA (V7)** — dentro da tela de qualquer
+   questão respondida, o aluno pode clicar em "Gerar com IA" no bloco
+   "Explicação simplificada": o Gemini gera uma explicação simplificada +
+   pegadinha + macete (não substitui a `resolution` oficial, mas cobre o
+   mesmo objetivo de ajudar a entender a questão) e fica em cache — nunca
+   chama a IA duas vezes para a mesma questão.
 
 ## Estrutura do projeto
 
 ```
-app/            páginas (painel, fila, questão, erros, revisão, desempenho, admin)
-components/     Nav e AuthGate (login por link mágico)
-lib/            cliente Supabase e tipos TypeScript
-supabase/       schema.sql — rode isso no SQL Editor do Supabase
-scripts/seed.mjs  importa data/questoes.json para o Supabase
-data/questoes.json  as 964 questões + resoluções já extraídas do seu painel V6
+app/                páginas: painel, fila, questão, erros, revisão,
+                     favoritos, metas, simulados, desempenho, buscar
+app/api/explicar     rota de API — explicador híbrido com Gemini (V7)
+app/api/insights     rota de API — insights inteligentes com Gemini (V7)
+lib/ai/              cliente Gemini, prompts e schemas (V7)
+lib/supabaseServer.ts cliente Supabase para as rotas de API
+lib/prioridade.ts    fila dinâmica (Ataque/Consolidação/Manutenção/Cobertura)
+lib/paginar.ts        pagina consultas do Supabase acima de 1.000 linhas
+components/          Nav (desktop) e MobileStudyBar (barra fixa mobile)
+supabase/schema.sql                       schema base
+supabase/migrations_20260927_priorizacao_filas.sql  prioridade_base / filas dinâmicas
+supabase/migrations_20260927_v6v7_gamificacao_ia.sql revisão espaçada avançada,
+                     favoritos, metas, gamificação, conquistas, simulados, cache de IA
+supabase/seed-partes/           964+994 questões em blocos prontos para colar
+scripts/seed.mjs     importa data/questoes.json via terminal (alternativa)
+data/questoes.json   as 1.958 questões + resoluções
 ```
 
 ## Atualização — Português, Informática, Matemática Financeira e Estatística
@@ -208,3 +225,46 @@ A tela **Filas inteligentes** não usa 1.000 como limite do banco. A busca é pa
 - Se `Banco` for maior que `carregadas`, existe uma falha de paginação/permissão a investigar; a tela não deve tratar 1.000 como total.
 
 A classificação anterior continua junto da nova camada: **Rank + Score + Banda A/B/C** permanecem visíveis, enquanto **P1–P4, prioridade base e Fila A/B/C/D** são a camada estratégica/dinâmica.
+
+## V6 + V7 — revisão espaçada avançada, gamificação, simulados e IA
+
+### Rodar a migração
+No SQL Editor do Supabase, depois do `schema.sql` e da
+`migrations_20260927_priorizacao_filas.sql`, rode também:
+```
+supabase/migrations_20260927_v6v7_gamificacao_ia.sql
+```
+Ela adiciona: campos de revisão espaçada avançada em `progresso`
+(`review_stage`, `next_review_at`, `mastery_level`, `success_count`,
+`error_count`, `last_seen_at`); as tabelas `favoritos`, `metas_config`,
+`gamificacao`, `conquistas`, `simulados`, `simulado_itens`, `explicacoes_ia`
+e `insights_ia`; e as funções `registrar_tentativa_v2` (substitui a
+`registrar_tentativa` antiga) e `conceder_bonus_meta`.
+
+### Revisão espaçada automática
+Toda resposta correta pede uma auto-avaliação (difícil / normal / fácil)
+antes de gravar, e o sistema agenda a próxima revisão:
+
+| Resultado                      | Próxima revisão |
+|---------------------------------|------------------|
+| Errou                            | 1 dia            |
+| Acertou com dificuldade          | 3 dias           |
+| Acertou (normal)                 | 7 dias           |
+| Acertou fácil                     | 15 dias          |
+| Dominado (4+ acertos seguidos)    | 30 dias          |
+
+### Gamificação
+10 XP por acerto (+5 se a questão já tinha sido respondida antes — ou seja,
+era uma revisão), +50 XP quando bate a meta diária, nível calculado a partir
+do XP total, streak de dias seguidos e medalhas por sequência de 7/30/100
+dias — tudo isso é calculado dentro de `registrar_tentativa_v2` no banco.
+
+### Chave do Gemini (IA)
+1. Gere uma chave gratuita em [aistudio.google.com/apikey](https://aistudio.google.com/apikey).
+2. Coloque em `GEMINI_API_KEY` no `.env.local` (local) e nas env vars do
+   projeto na Vercel (produção) — nunca em variável `NEXT_PUBLIC_`, pois só é
+   usada nas rotas `app/api/explicar` e `app/api/insights` (servidor).
+
+### Não implementado (por decisão de escopo)
+PWA / funcionamento offline, plano de estudos automático e ranking entre
+usuários ficaram de fora intencionalmente.

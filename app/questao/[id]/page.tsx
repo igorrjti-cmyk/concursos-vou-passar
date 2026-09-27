@@ -5,8 +5,8 @@ import Link from "next/link";
 import AuthGate from "@/components/AuthGate";
 import Nav from "@/components/Nav";
 import { getSupabaseClient } from "@/lib/supabaseClient";
-import type { Progresso, Questao } from "@/lib/types";
-import { filaDinamica, FILA_LABEL, prioridadeLabel, prioridadeTexto, filaSortScore } from "@/lib/prioridade";
+import type { Progresso, Questao, ExplicacaoIA } from "@/lib/types";
+import { filaDinamica, FILA_LABEL, prioridadeLabel, filaSortScore } from "@/lib/prioridade";
 
 const REVISOES = [
   { label: "1 dia", dias: 1 },
@@ -15,21 +15,47 @@ const REVISOES = [
   { label: "14 dias", dias: 14 },
 ];
 
+const DIFICULDADES: { valor: "dificil" | "medio" | "facil"; label: string }[] = [
+  { valor: "dificil", label: "Acertei com dificuldade" },
+  { valor: "medio", label: "Acertei normal" },
+  { valor: "facil", label: "Acertei fácil" },
+];
+
 function isoDaqui(dias: number) {
   const d = new Date();
   d.setDate(d.getDate() + dias);
   return d.toISOString().slice(0, 10);
 }
 
+type ResultadoGamificacao = {
+  xp_ganho: number;
+  xp_total: number;
+  nivel: number;
+  streak_atual: number;
+  conquistas_novas: string[];
+};
+
+const NOME_CONQUISTA: Record<string, string> = {
+  streak_7: "🔥 7 dias seguidos",
+  streak_30: "🏅 30 dias seguidos",
+  streak_100: "👑 100 dias seguidos",
+};
+
 function QuestaoDetalhe({ id }: { id: string }) {
   const [questao, setQuestao] = useState<Questao | null>(null);
   const [progresso, setProgresso] = useState<Progresso | null>(null);
   const [selecionada, setSelecionada] = useState<string | null>(null);
   const [respondida, setRespondida] = useState(false);
+  const [aguardandoDificuldade, setAguardandoDificuldade] = useState(false);
   const [observacao, setObservacao] = useState("");
   const [inicio] = useState(() => Date.now());
   const [proxima, setProxima] = useState<Questao | null>(null);
   const [salvando, setSalvando] = useState(false);
+  const [favorito, setFavorito] = useState(false);
+  const [resultadoGam, setResultadoGam] = useState<ResultadoGamificacao | null>(null);
+  const [explicacao, setExplicacao] = useState<ExplicacaoIA | null>(null);
+  const [gerandoExplicacao, setGerandoExplicacao] = useState(false);
+  const [erroExplicacao, setErroExplicacao] = useState<string | null>(null);
 
   useEffect(() => {
     (async () => {
@@ -53,6 +79,14 @@ function QuestaoDetalhe({ id }: { id: string }) {
         setProgresso(p ?? null);
         setObservacao(p?.observacao ?? "");
         if (p && p.status !== "nao_iniciada") setRespondida(true);
+
+        const { data: fav } = await supabase
+          .from("favoritos")
+          .select("questao_id")
+          .eq("user_id", userId)
+          .eq("questao_id", id)
+          .maybeSingle();
+        setFavorito(!!fav);
       }
 
       if (q) {
@@ -72,23 +106,78 @@ function QuestaoDetalhe({ id }: { id: string }) {
     })();
   }, [id]);
 
-  async function responder() {
+  async function gravar(dificuldade: "dificil" | "medio" | "facil" | null, acertou: boolean) {
     if (!questao || !selecionada) return;
     setSalvando(true);
-    const acertou = selecionada === questao.answer;
     const tempo = Math.round((Date.now() - inicio) / 1000);
     const supabase = getSupabaseClient();
-    await supabase.rpc("registrar_tentativa", {
+    const { data } = await supabase.rpc("registrar_tentativa_v2", {
       p_questao_id: questao.id,
       p_alternativa: selecionada,
       p_acertou: acertou,
       p_tempo_seg: tempo,
+      p_dificuldade: dificuldade,
       p_confianca: null,
       p_observacao: null,
-      p_proxima_revisao: null,
     });
+    if (data) setResultadoGam(data as ResultadoGamificacao);
+    setAguardandoDificuldade(false);
     setRespondida(true);
     setSalvando(false);
+  }
+
+  async function responder() {
+    if (!questao || !selecionada) return;
+    const acertou = selecionada === questao.answer;
+    if (acertou) {
+      setAguardandoDificuldade(true);
+    } else {
+      await gravar(null, false);
+    }
+  }
+
+  async function toggleFavorito() {
+    if (!questao) return;
+    const supabase = getSupabaseClient();
+    const { data: userData } = await supabase.auth.getUser();
+    const userId = userData.user?.id;
+    if (!userId) return;
+    if (favorito) {
+      await supabase
+        .from("favoritos")
+        .delete()
+        .eq("user_id", userId)
+        .eq("questao_id", questao.id);
+      setFavorito(false);
+    } else {
+      await supabase
+        .from("favoritos")
+        .upsert({ user_id: userId, questao_id: questao.id }, { onConflict: "user_id,questao_id" });
+      setFavorito(true);
+    }
+  }
+
+  async function gerarExplicacaoIA() {
+    if (!questao) return;
+    setGerandoExplicacao(true);
+    setErroExplicacao(null);
+    try {
+      const supabase = getSupabaseClient();
+      const { data: sessionData } = await supabase.auth.getSession();
+      const token = sessionData.session?.access_token;
+      const resp = await fetch("/api/explicar", {
+        method: "POST",
+        headers: { "Content-Type": "application/json", Authorization: `Bearer ${token}` },
+        body: JSON.stringify({ questaoId: questao.id }),
+      });
+      const json = await resp.json();
+      if (!resp.ok) throw new Error(json.error || "Falha ao gerar explicação.");
+      setExplicacao(json.explicacao as ExplicacaoIA);
+    } catch (e) {
+      setErroExplicacao((e as Error).message);
+    } finally {
+      setGerandoExplicacao(false);
+    }
   }
 
   async function marcarRevisao(dias: number) {
@@ -99,7 +188,7 @@ function QuestaoDetalhe({ id }: { id: string }) {
     if (!userId) return;
     await supabase
       .from("progresso")
-      .update({ proxima_revisao: isoDaqui(dias) })
+      .update({ proxima_revisao: isoDaqui(dias), next_review_at: isoDaqui(dias) })
       .eq("user_id", userId)
       .eq("questao_id", questao.id);
   }
@@ -140,16 +229,33 @@ function QuestaoDetalhe({ id }: { id: string }) {
 
   return (
     <main className="study-question-shell mx-auto max-w-3xl px-4 pb-28 pt-5 sm:px-6 sm:py-10 md:pb-10">
-      <div className="flex items-center justify-between">
-        <div className="flex flex-wrap gap-2"><span className="badge bg-ink text-paper">Rank #{questao.rank}</span><span className="badge border border-gold/20 bg-gold/10 text-gold">{prioridadeLabel(questao.prioridade_base)} · {questao.prioridade_base ?? "—"}/100</span><span className="badge border border-ink/10 bg-white/60 text-ink-light">{FILA_LABEL[filaDinamica(questao, progresso ?? undefined)]}</span></div>
-        <a
-          href={questao.tec_link}
-          target="_blank"
-          rel="noreferrer"
-          className="text-xs text-ink-light/60 underline hover:text-gold"
-        >
-          Abrir no TEC ↗
-        </a>
+      <div className="flex items-center justify-between gap-3">
+        <div className="flex flex-wrap gap-2">
+          <span className="badge bg-ink text-paper">Rank #{questao.rank}</span>
+          <span className="badge border border-gold/20 bg-gold/10 text-gold">
+            {prioridadeLabel(questao.prioridade_base)} · {questao.prioridade_base ?? "—"}/100
+          </span>
+          <span className="badge border border-ink/10 bg-white/60 text-ink-light">
+            {FILA_LABEL[filaDinamica(questao, progresso ?? undefined)]}
+          </span>
+        </div>
+        <div className="flex items-center gap-3">
+          <button
+            onClick={toggleFavorito}
+            aria-label={favorito ? "Remover dos favoritos" : "Favoritar questão"}
+            className={`text-lg transition ${favorito ? "text-gold" : "text-ink-light/40 hover:text-gold"}`}
+          >
+            {favorito ? "★" : "☆"}
+          </button>
+          <a
+            href={questao.tec_link}
+            target="_blank"
+            rel="noreferrer"
+            className="text-xs text-ink-light/60 underline hover:text-gold"
+          >
+            Abrir no TEC ↗
+          </a>
+        </div>
       </div>
 
       <p className="mt-3 text-xs uppercase tracking-wide text-ink-light/50">
@@ -174,7 +280,7 @@ function QuestaoDetalhe({ id }: { id: string }) {
           return (
             <button
               key={letra}
-              disabled={respondida}
+              disabled={respondida || aguardandoDificuldade}
               onClick={() => setSelecionada(letra)}
               className={`question-option w-full rounded-2xl border px-4 py-4 text-left text-[0.93rem] leading-6 transition duration-150 ${estilo}`}
             >
@@ -185,7 +291,25 @@ function QuestaoDetalhe({ id }: { id: string }) {
         })}
       </div>
 
-      {!respondida ? (
+      {aguardandoDificuldade ? (
+        <div className="mt-6 space-y-2">
+          <p className="text-xs uppercase tracking-wide text-ink-light/50">
+            Você acertou — como foi?
+          </p>
+          <div className="grid grid-cols-1 gap-2 sm:grid-cols-3">
+            {DIFICULDADES.map((d) => (
+              <button
+                key={d.valor}
+                disabled={salvando}
+                onClick={() => gravar(d.valor, true)}
+                className="rounded-xl border border-ink/15 bg-white/60 px-4 py-3 text-sm text-ink transition hover:border-gold disabled:opacity-40"
+              >
+                {d.label}
+              </button>
+            ))}
+          </div>
+        </div>
+      ) : !respondida ? (
         <button
           disabled={!selecionada || salvando}
           onClick={responder}
@@ -209,6 +333,21 @@ function QuestaoDetalhe({ id }: { id: string }) {
               : `Você errou. Gabarito: ${questao.answer}.`}
           </p>
 
+          {resultadoGam && (
+            <div className="flex flex-wrap items-center gap-3 rounded-xl border border-gold/20 bg-gold/10 px-4 py-3 text-sm text-ink">
+              {resultadoGam.xp_ganho > 0 && (
+                <span className="font-medium text-gold">+{resultadoGam.xp_ganho} XP</span>
+              )}
+              <span className="text-ink-light/70">Nível {resultadoGam.nivel}</span>
+              <span className="text-ink-light/70">🔥 {resultadoGam.streak_atual} dia(s) seguidos</span>
+              {resultadoGam.conquistas_novas?.map((c) => (
+                <span key={c} className="badge bg-gold text-[#171107]">
+                  {NOME_CONQUISTA[c] ?? c}
+                </span>
+              ))}
+            </div>
+          )}
+
           {questao.resolution ? (
             <Resolucao resolution={questao.resolution} />
           ) : (
@@ -218,9 +357,46 @@ function QuestaoDetalhe({ id }: { id: string }) {
             </p>
           )}
 
+          <div className="rounded-2xl border border-white/10 bg-white/60 p-5">
+            <div className="flex items-center justify-between gap-3">
+              <h2 className="font-serif text-lg text-ink">Explicação simplificada (IA)</h2>
+              {!explicacao && (
+                <button
+                  onClick={gerarExplicacaoIA}
+                  disabled={gerandoExplicacao}
+                  className="rounded-md bg-ink px-3 py-1.5 text-xs font-medium text-paper transition hover:bg-ink-light disabled:opacity-40"
+                >
+                  {gerandoExplicacao ? "Gerando…" : "Gerar com IA"}
+                </button>
+              )}
+            </div>
+            {erroExplicacao && (
+              <p className="mt-2 text-sm text-errado">{erroExplicacao}</p>
+            )}
+            {explicacao && (
+              <div className="mt-3 space-y-3 text-sm text-ink">
+                <Bloco titulo="Em outras palavras">
+                  {explicacao.explicacao_simplificada ?? ""}
+                </Bloco>
+                {explicacao.pegadinha && (
+                  <div className="rounded-md bg-gold/10 p-3">
+                    <span className="font-medium">⚠️ Pegadinha: </span>
+                    {explicacao.pegadinha}
+                  </div>
+                )}
+                {explicacao.macete && (
+                  <Bloco titulo="Macete">{explicacao.macete}</Bloco>
+                )}
+              </div>
+            )}
+          </div>
+
           <div>
             <p className="text-xs uppercase tracking-wide text-ink-light/50">
               Revisão espaçada
+            </p>
+            <p className="mt-1 text-xs text-ink-light/60">
+              Agendada automaticamente pelo sistema. Prefere outra data?
             </p>
             <div className="mt-2 flex flex-wrap gap-2">
               {REVISOES.map((r) => (
