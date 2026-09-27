@@ -30,6 +30,7 @@ function FilaLista() {
   const [materiaFiltro, setMateriaFiltro] = useState<"todas" | string>("todas");
   const [carregando, setCarregando] = useState(true);
   const [totalBanco, setTotalBanco] = useState<number | null>(null);
+  const [busca, setBusca] = useState("");
 
   useEffect(() => { setPagina(0); }, [materiaFiltro, filaFiltro, statusFiltro]);
 
@@ -68,6 +69,8 @@ function FilaLista() {
 
   const lista = useMemo(() => {
     let arr = questoes.filter(q => materiaFiltro === "todas" || (q.topic ?? "").startsWith(`${materiaFiltro} - `));
+    const termo = busca.trim().toLowerCase();
+    if (termo) arr = arr.filter(q => `${q.topic ?? ""} ${q.stem ?? ""} ${q.rank}`.toLowerCase().includes(termo));
     if (statusFiltro !== "todas") arr = arr.filter(q => (progressoMap[q.id]?.status ?? "nao_iniciada") === statusFiltro);
     if (filaFiltro !== "todas") arr = arr.filter(q => filaDinamica(q, progressoMap[q.id]) === filaFiltro);
     return [...arr].sort((a, b) => {
@@ -75,68 +78,85 @@ function FilaLista() {
       const sb = filaSortScore(b, progressoMap[b.id]);
       return sb - sa || (a.rank - b.rank);
     });
-  }, [questoes, progressoMap, statusFiltro, filaFiltro, materiaFiltro]);
+  }, [questoes, progressoMap, statusFiltro, filaFiltro, materiaFiltro, busca]);
 
   const totalPaginas = Math.max(1, Math.ceil(lista.length / PAGE_SIZE));
   const paginaSegura = Math.min(pagina, totalPaginas - 1);
   const visiveis = lista.slice(paginaSegura * PAGE_SIZE, paginaSegura * PAGE_SIZE + PAGE_SIZE);
 
-  return <div className="mx-auto max-w-5xl px-4 py-8 sm:px-6 sm:py-10">
-    <div className="flex flex-col gap-2 sm:flex-row sm:items-end sm:justify-between">
-      <div><h1 className="font-serif text-3xl text-ink">Filas inteligentes</h1><p className="mt-1 text-ink-light/70">A classificação histórica continua preservada; a fila agora combina importância estratégica e seu domínio.</p></div>
-      <div className="text-right text-xs text-ink-light/50">
-        <div>{lista.length} questões no filtro atual</div>
-        <div>Banco: {totalBanco ?? "…"} · carregadas: {questoes.length}</div>
-      </div>
-    </div>
+  const counts = useMemo(() => {
+    const all = lista;
+    return {
+      ataque: all.filter(q => filaDinamica(q, progressoMap[q.id]) === "ataque").length,
+      consolidacao: all.filter(q => filaDinamica(q, progressoMap[q.id]) === "consolidacao").length,
+      manutencao: all.filter(q => filaDinamica(q, progressoMap[q.id]) === "manutencao").length,
+      cobertura: all.filter(q => filaDinamica(q, progressoMap[q.id]) === "cobertura").length,
+    };
+  }, [lista, progressoMap]);
 
-    <div className="mt-6 grid gap-2 sm:grid-cols-4">
-      {(["todas", "ataque", "consolidacao", "manutencao", "cobertura"] as const).map(f => (
-        <button key={f} onClick={() => setFilaFiltro(f)} className={`rounded-xl border px-3 py-3 text-left ${filaFiltro === f ? "border-gold bg-gold/10" : "border-ink/10 bg-white/50"}`}>
-          <div className="text-xs font-semibold text-ink">{f === "todas" ? "Todas as filas" : FILA_LABEL[f]}</div>
-          <div className="mt-1 text-[11px] text-ink-light/60">{f === "todas" ? "Ordem dinâmica" : FILA_DESC[f]}</div>
+  return <div className="queue-page mx-auto px-4 py-7 sm:px-6 lg:px-8">
+    <section className="queue-hero">
+      <div className="relative z-10">
+        <p className="queue-kicker">Central de estudo</p>
+        <h1 className="queue-hero__title">Fila de estudos</h1>
+        <p className="queue-hero__desc">Sua sequência personalizada de questões. A prioridade combina importância estratégica, histórico de respostas e domínio do conteúdo.</p>
+        <Link href={visiveis[0] ? `/questao/${visiveis[0].id}` : "/fila"} className="queue-hero__action">▶ Começar próxima questão <span>→</span></Link>
+      </div>
+      <div className="queue-hero__meta"><div>{lista.length} questões no filtro atual</div><div className="mt-1">Banco: {totalBanco ?? "…"}</div></div>
+    </section>
+
+    <section className="queue-strategy" aria-label="Resumo das filas">
+      {(["ataque", "consolidacao", "manutencao", "cobertura"] as FilaDinamica[]).map(f => (
+        <button key={f} onClick={() => setFilaFiltro(f)} className={`queue-strategy-card text-left ${filaFiltro === f ? "ring-1 ring-blue-400/30" : ""}`}>
+          <div className="queue-strategy-card__top"><span className="queue-strategy-card__dot"/><span className="queue-strategy-card__label">{FILA_LABEL[f]}</span></div>
+          <div className="queue-strategy-card__count">{counts[f]}</div>
+          <div className="queue-strategy-card__desc">{FILA_DESC[f]}</div>
         </button>
       ))}
-    </div>
+    </section>
 
-    <div className="mt-4 flex flex-wrap gap-2">
-      {(["todas", "nao_iniciada", "feita_certo", "feita_errado", "duvida"] as const).map(f => <button key={f} onClick={() => setStatusFiltro(f)} className={`rounded-full px-3 py-1 text-xs ${statusFiltro === f ? "bg-ink text-paper" : "bg-white/60 text-ink-light border border-ink/10"}`}>{f === "todas" ? "Todos os status" : STATUS_LABEL[f]}</button>)}
-      <select value={materiaFiltro} onChange={e => setMateriaFiltro(e.target.value)} className="rounded-full border border-ink/10 bg-white/60 px-3 py-1 text-xs text-ink-light">
-        <option value="todas">Todas as matérias</option>{MATERIAS.map(m => <option key={m} value={m}>{m}</option>)}
-      </select>
-    </div>
+    <section className="queue-controls">
+      <div className="queue-status-tabs" role="tablist" aria-label="Status da fila">
+        {(["todas", "nao_iniciada", "feita_errado", "duvida", "feita_certo"] as const).map(f => (
+          <button key={f} onClick={() => setStatusFiltro(f)} className={`queue-status-tab ${statusFiltro === f ? "is-active" : ""}`}>
+            {f === "todas" ? "Todas" : f === "nao_iniciada" ? "Não iniciadas" : f === "feita_errado" ? "Errei" : f === "duvida" ? "Dúvidas" : "Concluídas"}
+          </button>
+        ))}
+      </div>
+      <div className="queue-filter-row">
+        <label className="queue-filter-input"><span>⌕</span><input placeholder="Buscar na fila de estudos..." aria-label="Buscar na fila" value={busca} onChange={e => setBusca(e.target.value)} /></label>
+        <select value={materiaFiltro} onChange={e => setMateriaFiltro(e.target.value)} className="queue-filter-select">
+          <option value="todas">Todas as matérias</option>{MATERIAS.map(m => <option key={m} value={m}>{m}</option>)}
+        </select>
+      </div>
+    </section>
 
-    <div className="mt-5 grid gap-2 sm:grid-cols-4">
-      {(["ataque", "consolidacao", "manutencao", "cobertura"] as FilaDinamica[]).map(f => {
-        const n = lista.filter(q => filaDinamica(q, progressoMap[q.id]) === f).length;
-        return <div key={f} className="rounded-xl border border-ink/10 bg-white/50 p-3"><div className="text-[10px] uppercase tracking-wide text-ink-light/50">{FILA_LABEL[f]}</div><div className="mt-1 font-serif text-xl text-ink">{n}</div></div>;
-      })}
-    </div>
-
-    <div className="mt-5 divide-y divide-ink/10 rounded-2xl border border-white/10 bg-white/60">
-      {carregando ? <p className="p-6 text-ink-light/60">Carregando…</p> : visiveis.length === 0 ? <p className="p-6 text-ink-light/60">Nada neste filtro.</p> : visiveis.map(q => {
+    <section className="queue-list">
+      {carregando ? <p className="p-7 text-sm text-white/35">Preparando sua fila inteligente…</p> : visiveis.length === 0 ? <p className="p-7 text-sm text-white/35">Nada encontrado neste filtro.</p> : visiveis.map(q => {
         const p = progressoMap[q.id]; const status = p?.status ?? "nao_iniciada"; const fila = filaDinamica(q, p); const acc = accuracyOf(p);
-        return <Link key={q.id} href={`/questao/${q.id}`} className="block px-4 py-4 transition hover:bg-white/80">
-          <div className="flex flex-wrap items-center gap-2">
-            <span className="font-serif text-sm text-ink-light/50">Rank #{q.rank}</span>
-            <span className="badge border border-ink/10 bg-white/60 text-ink-light">Score {q.score ?? "—"}</span>
-            <span className="badge border border-ink/10 bg-white/60 text-ink-light">Banda {q.band ?? "—"}</span>
-            <span className="badge bg-ink text-paper">{prioridadeLabel(q.prioridade_base)}</span>
-            <span className="badge border border-ink/10 bg-white/60 text-ink-light">Base {q.prioridade_base ?? "—"}/100</span>
-            <span className="badge border border-ink/10 bg-white/60 text-ink-light">{FILA_LABEL[fila]}</span>
-            <span className={`badge ${STATUS_COLOR[status]}`}>{STATUS_LABEL[status]}</span>
-            {acc !== null && <span className="text-[11px] text-ink-light/50">{Math.round(acc)}% ({p?.acertos}/{p?.tentativas})</span>}
+        return <Link key={q.id} href={`/questao/${q.id}`} className="queue-item">
+          <div className="queue-item__grid">
+            <span className="queue-item__rank">#{q.rank}</span>
+            <div className="queue-item__main">
+              <div className="queue-item__chips">
+                <span className="queue-chip is-priority">{prioridadeLabel(q.prioridade_base)}</span>
+                <span className="queue-chip is-fila">{FILA_LABEL[fila]}</span>
+                <span className="queue-chip">{STATUS_LABEL[status]}</span>
+              </div>
+              <p className="queue-item__topic">{q.topic}</p>
+              <p className="queue-item__detail">{prioridadeTexto(q.prioridade_base)} · Score {q.score ?? "—"} · Base {q.prioridade_base ?? "—"}/100{acc !== null ? ` · ${Math.round(acc)}% de aproveitamento` : ""}</p>
+            </div>
+            <div className="queue-item__side"><span className="queue-item__status" style={{color: status === "feita_errado" ? "#ff7373" : status === "feita_certo" ? "#55d6a2" : "#70a7ff"}}>{acc !== null ? `${Math.round(acc)}%` : "Nova"}</span><span className="queue-item__score">{p?.tentativas ?? 0} tentativas</span></div>
+            <span className="queue-item__arrow">›</span>
           </div>
-          <p className="mt-2 text-xs uppercase tracking-wide text-ink-light/50">{q.topic}</p>
-          <p className="mt-1 text-sm text-ink">{prioridadeTexto(q.prioridade_base)}</p>
         </Link>;
       })}
-    </div>
+    </section>
 
-    <div className="mt-6 flex items-center justify-between text-sm">
-      <button disabled={paginaSegura === 0} onClick={() => setPagina(p => Math.max(0, p - 1))} className="rounded-md border border-ink/10 px-3 py-1.5 disabled:opacity-30">← Anterior</button>
-      <span className="text-ink-light/60">Página {paginaSegura + 1} de {totalPaginas}</span>
-      <button disabled={paginaSegura + 1 >= totalPaginas} onClick={() => setPagina(p => p + 1)} className="rounded-md border border-ink/10 px-3 py-1.5 disabled:opacity-30">Próxima →</button>
+    <div className="queue-pagination">
+      <button disabled={paginaSegura === 0} onClick={() => setPagina(p => Math.max(0, p - 1))} className="queue-page-button">← Anterior</button>
+      <span className="queue-page-info">Página {paginaSegura + 1} de {totalPaginas}</span>
+      <button disabled={paginaSegura + 1 >= totalPaginas} onClick={() => setPagina(p => p + 1)} className="queue-page-button">Próxima →</button>
     </div>
   </div>;
 }

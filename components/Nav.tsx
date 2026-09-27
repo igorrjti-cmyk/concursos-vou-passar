@@ -1,20 +1,20 @@
 "use client";
 
-import { useState } from "react";
+import { useEffect, useState } from "react";
 import Link from "next/link";
 import { usePathname } from "next/navigation";
 import { getSupabaseClient } from "@/lib/supabaseClient";
 
 const links = [
-  { href: "/", label: "Painel", icon: "grid" },
-  { href: "/fila", label: "Fila", icon: "list" },
-  { href: "/erros", label: "Erros", icon: "alert" },
+  { href: "/", label: "Início", icon: "grid" },
+  { href: "/fila", label: "Fila de estudos", short: "Fila", icon: "list" },
   { href: "/revisao", label: "Revisão", icon: "clock" },
+  { href: "/erros", label: "Erros", icon: "alert" },
   { href: "/favoritos", label: "Favoritos", icon: "star" },
   { href: "/metas", label: "Metas", icon: "target" },
   { href: "/simulados", label: "Simulados", icon: "timer" },
   { href: "/desempenho", label: "Desempenho", icon: "chart" },
-  { href: "/buscar", label: "Buscar", icon: "search" },
+  { href: "/buscar", label: "Buscar questões", short: "Buscar", icon: "search" },
 ];
 
 function Icon({ name }: { name: string }) {
@@ -24,40 +24,116 @@ function Icon({ name }: { name: string }) {
     alert: <><path d="M12 4l9 16H3L12 4Z"/><path d="M12 9v5M12 17h.01"/></>,
     clock: <><circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 2"/></>,
     chart: <><path d="M4 19V5M4 19h17"/><path d="m7 15 4-4 3 2 5-7"/></>,
-    upload: <><path d="M12 16V4M8 8l4-4 4 4"/><path d="M5 20h14"/></>,
     star: <path d="M12 3.5l2.6 5.3 5.8.8-4.2 4.1 1 5.8L12 16.7 6.8 19.5l1-5.8L3.6 9.6l5.8-.8L12 3.5Z"/>,
-    target: <><circle cx="12" cy="12" r="8"/><circle cx="12" cy="12" r="4"/><circle cx="12" cy="12" r="0.6" fill="currentColor"/></>,
+    target: <><circle cx="12" cy="12" r="8"/><circle cx="12" cy="12" r="4"/><circle cx="12" cy="12" r=".6" fill="currentColor"/></>,
     timer: <><circle cx="12" cy="13" r="8"/><path d="M12 9v4l3 2M10 2h4"/></>,
     search: <><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></>,
+    bell: <><path d="M18 9a6 6 0 0 0-12 0c0 7-3 7-3 9h18c0-2-3-2-3-9"/><path d="M10 21h4"/></>,
+    moon: <path d="M20 15.5A8 8 0 0 1 8.5 4 8 8 0 1 0 20 15.5Z"/>,
+    user: <><circle cx="12" cy="8" r="3.5"/><path d="M4.5 21a7.5 7.5 0 0 1 15 0"/></>,
+    arrow: <><path d="M5 12h14"/><path d="m13 6 6 6-6 6"/></>,
   };
-  return <svg aria-hidden="true" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.7" strokeLinecap="round" strokeLinejoin="round">{paths[name]}</svg>;
+  return <svg aria-hidden="true" width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.7" strokeLinecap="round" strokeLinejoin="round">{paths[name]}</svg>;
 }
 
 export default function Nav() {
   const pathname = usePathname();
-  const [aberto, setAberto] = useState(false);
-  async function sair() { await getSupabaseClient().auth.signOut(); window.location.href = "/"; }
+  const [email, setEmail] = useState("");
+  const [busca, setBusca] = useState("");
+
+  useEffect(() => {
+    getSupabaseClient().auth.getUser().then(({ data }) => setEmail(data.user?.email ?? ""));
+  }, []);
+
+  async function sair() {
+    await getSupabaseClient().auth.signOut();
+    window.location.href = "/";
+  }
+
+  function active(href: string) {
+    return pathname === href || (href !== "/" && pathname.startsWith(href));
+  }
+
+  function submitBusca(e: React.FormEvent) {
+    e.preventDefault();
+    const q = busca.trim();
+    if (q) window.location.href = `/buscar?q=${encodeURIComponent(q)}`;
+    else window.location.href = "/buscar";
+  }
 
   return (
-    <header className="sticky top-0 z-40 border-b border-white/[.07] bg-[#050810]/80 pt-[env(safe-area-inset-top,0px)] backdrop-blur-2xl">
-      <div className="mx-auto flex h-[72px] max-w-7xl items-center gap-4 px-4 sm:px-6 lg:px-8">
-        <Link href="/" onClick={() => setAberto(false)} className="group flex min-w-0 items-center gap-3">
-          <span className="relative flex h-10 w-10 shrink-0 items-center justify-center rounded-2xl border border-gold/25 bg-gold/[.08] shadow-[0_0_30px_rgba(231,187,98,.08)]">
-            <span className="absolute inset-1 rounded-xl border border-gold/10" />
-            <span className="font-serif text-lg font-bold text-gold">F</span>
-          </span>
-          <span className="hidden min-[430px]:block"><span className="block text-sm font-semibold tracking-tight text-white">FAFIPA Study OS</span><span className="block text-[10px] uppercase tracking-[.18em] text-white/35">Contador · Curitiba</span></span>
+    <div className="nav-shell">
+      <header className="study-topbar">
+        <div className="study-topbar__brand">
+          <Link href="/" className="study-brand" aria-label="FAFIPA Study OS">
+            <span className="study-brand__mark"><span>F</span></span>
+            <span className="study-brand__copy">
+              <strong>FAFIPA Study OS</strong>
+              <small>Contador · Curitiba</small>
+            </span>
+          </Link>
+        </div>
+
+        <form onSubmit={submitBusca} className="study-search">
+          <Icon name="search" />
+          <input value={busca} onChange={e => setBusca(e.target.value)} placeholder="Buscar questões, temas, leis..." aria-label="Buscar questões" />
+          <kbd>⌘ K</kbd>
+        </form>
+
+        <div className="study-topbar__actions">
+          <div className="study-progress-pill" title="Seu progresso geral">
+            <span className="study-progress-pill__flame">🔥</span>
+            <span className="study-progress-pill__copy"><b>Seu progresso</b><span><i /></span></span>
+            <strong>42%</strong>
+          </div>
+          <button className="study-icon-button" aria-label="Notificações"><Icon name="bell" /><span className="study-notification-dot" /></button>
+          <button className="study-icon-button hidden sm:flex" aria-label="Tema"><Icon name="moon" /></button>
+          <button className="study-profile" aria-label="Perfil">
+            <span className="study-profile__avatar"><Icon name="user" /></span>
+            <span className="study-profile__text"><b>{email ? email.split("@")[0] : "Aluno"}</b><small>Estudante</small></span>
+          </button>
+          <button onClick={sair} className="study-logout">Sair</button>
+        </div>
+      </header>
+
+      <aside className="study-sidebar" aria-label="Navegação principal">
+        <Link href="/" className="study-sidebar__brand" aria-label="FAFIPA Study OS">
+          <span className="study-brand__mark"><span>F</span></span>
+          <span className="study-brand__copy"><strong>FAFIPA Study OS</strong><small>Contador · Curitiba</small></span>
         </Link>
-        <nav className="ml-auto hidden max-w-[560px] flex-wrap items-center gap-1 rounded-2xl border border-white/[.08] bg-white/[.025] p-1 md:flex">
-          {links.map((l) => {
-            const active = pathname === l.href || (l.href !== "/" && pathname.startsWith(l.href));
-            return <Link key={l.href} href={l.href} className={`group flex items-center gap-2 rounded-xl px-3 py-2 text-xs font-medium transition ${active ? "bg-gold/[.13] text-gold shadow-[inset_0_0_0_1px_rgba(231,187,98,.12)]" : "text-white/50 hover:bg-white/[.05] hover:text-white/85"}`}><Icon name={l.icon}/>{l.label}</Link>;
-          })}
-        </nav>
-        <button onClick={() => setAberto(v=>!v)} aria-label={aberto?"Fechar menu":"Abrir menu"} aria-expanded={aberto} className="ml-2 flex h-10 w-10 items-center justify-center rounded-xl border border-white/10 bg-white/[.04] text-white/75 hidden"><Icon name={aberto?"alert":"list"}/></button>
-        <button onClick={sair} className="hidden rounded-xl border border-white/[.08] bg-white/[.03] px-3 py-2 text-xs font-medium text-white/45 transition hover:border-white/15 hover:text-white/80 lg:block">Sair</button>
-      </div>
-      {aberto && <nav className="border-t border-white/[.07] bg-[#070b14]/98 px-4 py-3 shadow-2xl hidden"><div className="grid grid-cols-2 gap-2">{links.map(l=>{const active=pathname===l.href|| (l.href!=="/"&&pathname.startsWith(l.href));return <Link key={l.href} href={l.href} onClick={()=>setAberto(false)} className={`flex items-center gap-2 rounded-xl px-3 py-3 text-sm ${active?"bg-gold/10 text-gold":"text-white/60 hover:bg-white/5 hover:text-white"}`}><Icon name={l.icon}/>{l.label}</Link>})}</div><button onClick={sair} className="mt-2 w-full rounded-xl px-3 py-3 text-left text-sm text-white/40">Sair da conta</button></nav>}
-    </header>
+        <div className="study-sidebar__section">
+          <p className="study-sidebar__label">Estudar</p>
+          {links.slice(0, 4).map(l => (
+            <Link key={l.href} href={l.href} className={`study-side-link ${active(l.href) ? "is-active" : ""}`}>
+              <span className="study-side-link__icon"><Icon name={l.icon}/></span>
+              <span>{l.label}</span>
+              {l.href === "/fila" && <em>Prioridade</em>}
+            </Link>
+          ))}
+        </div>
+        <div className="study-sidebar__section">
+          <p className="study-sidebar__label">Organizar</p>
+          {links.slice(4, 7).map(l => (
+            <Link key={l.href} href={l.href} className={`study-side-link ${active(l.href) ? "is-active" : ""}`}>
+              <span className="study-side-link__icon"><Icon name={l.icon}/></span><span>{l.label}</span>
+            </Link>
+          ))}
+        </div>
+        <div className="study-sidebar__section">
+          <p className="study-sidebar__label">Acompanhar</p>
+          {links.slice(7).map(l => (
+            <Link key={l.href} href={l.href} className={`study-side-link ${active(l.href) ? "is-active" : ""}`}>
+              <span className="study-side-link__icon"><Icon name={l.icon}/></span><span>{l.label}</span>
+            </Link>
+          ))}
+        </div>
+
+        <div className="study-sidebar__goal">
+          <div className="study-sidebar__goal-icon"><Icon name="target"/></div>
+          <p>Disciplina hoje,<br/><b>resultado amanhã.</b></p>
+          <div className="study-sidebar__goal-bars"><i/><i/><i/><i/><i/></div>
+        </div>
+      </aside>
+    </div>
   );
 }
