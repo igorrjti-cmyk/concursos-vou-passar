@@ -16,12 +16,14 @@ export const FILA_DESC: Record<FilaDinamica, string> = {
   cobertura: "Complemento e expansão da cobertura",
 };
 
-export function accuracyOf(p?: Pick<Progresso, "tentativas" | "acertos" | "status"> | null) {
+type ProgressoFila = Pick<Progresso, "status"> & Partial<Pick<Progresso, "tentativas" | "acertos">>;
+
+export function accuracyOf(p?: ProgressoFila | null) {
   if (!p || !p.tentativas) return null;
   return (p.acertos / p.tentativas) * 100;
 }
 
-export function filaDinamica(q: Questao, p?: Pick<Progresso, "tentativas" | "acertos" | "status"> | null): FilaDinamica {
+export function filaDinamica(q: Questao, p?: ProgressoFila | null): FilaDinamica {
   const base = q.prioridade_base ?? 0;
   const acc = accuracyOf(p);
 
@@ -33,7 +35,7 @@ export function filaDinamica(q: Questao, p?: Pick<Progresso, "tentativas" | "ace
   return "manutencao";
 }
 
-export function filaSortScore(q: Questao, p?: Pick<Progresso, "tentativas" | "acertos" | "status"> | null) {
+export function filaSortScore(q: Questao, p?: ProgressoFila | null) {
   const base = q.prioridade_base ?? 0;
   const acc = accuracyOf(p);
   const dominioPenalty = acc === null ? 0 : acc < 70 ? 20 : acc < 90 ? 8 : -8;
