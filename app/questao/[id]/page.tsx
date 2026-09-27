@@ -6,6 +6,7 @@ import AuthGate from "@/components/AuthGate";
 import Nav from "@/components/Nav";
 import { getSupabaseClient } from "@/lib/supabaseClient";
 import type { Progresso, Questao } from "@/lib/types";
+import { filaDinamica, FILA_LABEL, prioridadeLabel, prioridadeTexto, filaSortScore } from "@/lib/prioridade";
 
 const REVISOES = [
   { label: "1 dia", dias: 1 },
@@ -55,13 +56,18 @@ function QuestaoDetalhe({ id }: { id: string }) {
       }
 
       if (q) {
-        const { data: nextList } = await supabase
+        const { data: allQuestions } = await supabase
           .from("questoes")
           .select("*")
-          .gt("rank", q.rank)
-          .order("rank", { ascending: true })
-          .limit(1);
-        setProxima(nextList?.[0] ?? null);
+          .order("prioridade_base", { ascending: false, nullsFirst: false })
+          .order("rank", { ascending: true });
+        const { data: allProgress } = userId
+          ? await supabase.from("progresso").select("*").eq("user_id", userId)
+          : { data: [] as Progresso[] };
+        const progressMap = Object.fromEntries((allProgress ?? []).map((p: Progresso) => [p.questao_id, p]));
+        const candidatos = (allQuestions ?? []).filter((x: Questao) => x.id !== q.id);
+        candidatos.sort((a: Questao, b: Questao) => filaSortScore(b, progressMap[b.id]) - filaSortScore(a, progressMap[a.id]) || a.rank - b.rank);
+        setProxima(candidatos[0] ?? null);
       }
     })();
   }, [id]);
@@ -135,7 +141,7 @@ function QuestaoDetalhe({ id }: { id: string }) {
   return (
     <main className="study-question-shell mx-auto max-w-3xl px-4 pb-28 pt-5 sm:px-6 sm:py-10 md:pb-10">
       <div className="flex items-center justify-between">
-        <span className="badge bg-ink text-paper">Fila #{questao.rank}</span>
+        <div className="flex flex-wrap gap-2"><span className="badge bg-ink text-paper">Rank #{questao.rank}</span><span className="badge border border-gold/20 bg-gold/10 text-gold">{prioridadeLabel(questao.prioridade_base)} · {questao.prioridade_base ?? "—"}/100</span><span className="badge border border-ink/10 bg-white/60 text-ink-light">{FILA_LABEL[filaDinamica(questao, progresso ?? undefined)]}</span></div>
         <a
           href={questao.tec_link}
           target="_blank"

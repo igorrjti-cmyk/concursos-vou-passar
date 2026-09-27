@@ -174,3 +174,27 @@ preferir.
   de questões dessa matéria; se você tiver ou gerar um, mando entrar na fila
   também, provavelmente na mesma faixa de prioridade de Matemática
   Financeira/Estatística.
+
+## Priorização estratégica de questões (2026-09-27)
+
+A classificação histórica foi preservada:
+- `rank`: ordem histórica/priorização anterior do banco;
+- `band`: A/B/C original;
+- `score`: score original.
+
+Foi acrescentada uma camada independente:
+- `prioridade_base`: 0–100, calculada a partir de aderência ao núcleo do edital, frequência do tópico no banco, band, rank histórico, tópicos centrais e sinal de recência FAFIPA;
+- `prioridade_faixa`: P1/P2/P3/P4. P0 continua reservado a lacunas do edital que ainda não possuem questão suficiente no banco.
+
+As filas dinâmicas são:
+- **Fila A — Ataque:** alta importância + baixo domínio;
+- **Fila B — Consolidação:** alta importância + domínio intermediário;
+- **Fila C — Manutenção:** alta importância + domínio alto;
+- **Fila D — Cobertura:** complemento/expansão.
+
+A fila dinâmica usa o histórico da tabela `progresso` e não apaga a classificação anterior.
+
+### Aplicação no Supabase
+1. Execute `supabase/migrations_20260927_priorizacao_filas.sql`.
+2. Depois execute `supabase/seed-priorizacao.sql`.
+3. O app passa a ordenar a fila pela prioridade estratégica e pelo domínio do usuário.

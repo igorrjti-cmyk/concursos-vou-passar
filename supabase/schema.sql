@@ -6,7 +6,9 @@
 -- ============================================================
 create table if not exists public.questoes (
   id text primary key,                 -- id da questão no TEC Concursos
-  rank integer not null unique,        -- posição na fila de prioridade (1 = mais prioritária)
+  rank integer not null unique,        -- classificação histórica/original do banco (preservada)
+  prioridade_base integer,              -- prioridade estratégica nova (0-100)
+  prioridade_faixa text,                -- P1/P2/P3/P4; P0 é reservado a lacunas sem questão
   topic text,
   origin text,
   file_source text,                    -- caderno de origem (ex.: "Caderno Contabilidade Pública Parte 2")
@@ -26,6 +28,7 @@ create table if not exists public.questoes (
 );
 
 create index if not exists questoes_rank_idx on public.questoes (rank);
+create index if not exists questoes_prioridade_idx on public.questoes (prioridade_base desc, rank asc);
 create index if not exists questoes_topic_idx on public.questoes (topic);
 
 -- Leitura pública das questões (não há dado sensível aqui; login continua exigido

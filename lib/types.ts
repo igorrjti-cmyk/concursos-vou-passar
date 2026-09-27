@@ -12,6 +12,8 @@ export type Resolucao = {
 export type Questao = {
   id: string;
   rank: number;
+  prioridade_base: number | null;
+  prioridade_faixa: string | null;
   topic: string | null;
   origin: string | null;
   file_source: string | null;
