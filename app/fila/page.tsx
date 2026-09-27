@@ -40,8 +40,8 @@ function FilaLista() {
       const { data: userData } = await supabase.auth.getUser();
       const userId = userData.user?.id;
       if (userId) {
-        const progresso = await fetchAllPages<Progresso>((from, to) =>
-          supabase.from("progresso").select("*").eq("user_id", userId).range(from, to)
+        const progresso = await fetchAllPages<Progresso>(async (from, to) =>
+          await supabase.from("progresso").select("*", { count: "exact" }).eq("user_id", userId).range(from, to)
         );
         const map: Record<string, Progresso> = {};
         progresso.forEach((p) => { map[p.questao_id] = p; });
@@ -53,10 +53,10 @@ function FilaLista() {
       if (totalError) throw totalError;
       setTotalBanco(totalCount ?? null);
 
-      const data = await fetchAllPages<Questao>((from, to) =>
-        supabase
+      const data = await fetchAllPages<Questao>(async (from, to) =>
+        await supabase
           .from("questoes")
-          .select("*")
+          .select("*", { count: "exact" })
           .order("prioridade_base", { ascending: false, nullsFirst: false })
           .order("rank", { ascending: true })
           .range(from, to)
