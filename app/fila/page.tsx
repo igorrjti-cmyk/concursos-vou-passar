@@ -23,13 +23,30 @@ const STATUS_COLOR: Record<StatusProgresso, string> = {
 
 const PAGE_SIZE = 40;
 
+const MATERIAS = [
+  "AFO, Direito Financeiro e Contabilidade Pública",
+  "Língua Portuguesa (Português)",
+  "Informática",
+  "Contabilidade Geral",
+  "Matemática Financeira",
+  "Estatística",
+  "Contabilidade de Custos",
+];
+
 function FilaLista() {
   const [questoes, setQuestoes] = useState<Questao[]>([]);
   const [progressoMap, setProgressoMap] = useState<Record<string, StatusProgresso>>({});
   const [pagina, setPagina] = useState(0);
   const [total, setTotal] = useState(0);
   const [filtro, setFiltro] = useState<"todas" | StatusProgresso>("todas");
+  const [materiaFiltro, setMateriaFiltro] = useState<"todas" | string>("todas");
   const [carregando, setCarregando] = useState(true);
+
+  // Volta para a primeira página sempre que o filtro de matéria muda,
+  // já que o filtro é aplicado na consulta (afeta total e paginação).
+  useEffect(() => {
+    setPagina(0);
+  }, [materiaFiltro]);
 
   useEffect(() => {
     (async () => {
@@ -50,21 +67,28 @@ function FilaLista() {
         setProgressoMap(map);
       }
 
-      const { count } = await supabase
+      let countQuery = supabase
         .from("questoes")
         .select("id", { count: "exact", head: true });
+      let dataQuery = supabase
+        .from("questoes")
+        .select("*")
+        .order("rank", { ascending: true });
+
+      if (materiaFiltro !== "todas") {
+        countQuery = countQuery.ilike("topic", `${materiaFiltro} - %`);
+        dataQuery = dataQuery.ilike("topic", `${materiaFiltro} - %`);
+      }
+
+      const { count } = await countQuery;
       setTotal(count ?? 0);
 
       const from = pagina * PAGE_SIZE;
-      const { data } = await supabase
-        .from("questoes")
-        .select("*")
-        .order("rank", { ascending: true })
-        .range(from, from + PAGE_SIZE - 1);
+      const { data } = await dataQuery.range(from, from + PAGE_SIZE - 1);
       setQuestoes(data ?? []);
       setCarregando(false);
     })();
-  }, [pagina]);
+  }, [pagina, materiaFiltro]);
 
   const listaFiltrada = useMemo(() => {
     if (filtro === "todas") return questoes;
@@ -96,6 +120,21 @@ function FilaLista() {
             </button>
           )
         )}
+      </div>
+
+      <div className="mt-3">
+        <select
+          value={materiaFiltro}
+          onChange={(e) => setMateriaFiltro(e.target.value)}
+          className="w-full rounded-lg border border-ink/10 bg-white/60 px-3 py-2 text-sm text-ink-light sm:w-auto"
+        >
+          <option value="todas">Todas as matérias</option>
+          {MATERIAS.map((m) => (
+            <option key={m} value={m}>
+              {m}
+            </option>
+          ))}
+        </select>
       </div>
 
       <div className="mt-6 divide-y divide-ink/10 rounded-2xl border border-white/10 bg-white/60">
