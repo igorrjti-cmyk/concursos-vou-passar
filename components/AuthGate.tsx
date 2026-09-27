@@ -43,7 +43,7 @@ export default function AuthGate({ children }: { children: React.ReactNode }) {
   if (!session) {
     return (
       <div className="flex min-h-[70vh] items-center justify-center px-4 sm:px-6">
-        <div className="w-full max-w-sm rounded-lg border border-ink/10 border-t-[3px] border-t-gold bg-white/70 p-8 shadow-sm">
+        <div className="w-full max-w-sm rounded-2xl border border-white/10 border-t-[3px] border-t-gold bg-white/70 p-8 shadow-[0_24px_70px_rgba(0,0,0,.38)] backdrop-blur-xl">
           <h1 className="font-serif text-2xl text-ink">FAFIPA Study OS</h1>
           <p className="mt-2 text-sm text-ink-light/80">
             Contador — Prefeitura de Curitiba. Entre com seu e-mail e senha
@@ -56,7 +56,7 @@ export default function AuthGate({ children }: { children: React.ReactNode }) {
               placeholder="seu@email.com"
               value={email}
               onChange={(e) => setEmail(e.target.value)}
-              className="w-full rounded-md border border-ink/20 bg-white px-3 py-2 text-sm outline-none focus:border-gold"
+              className="w-full rounded-xl border border-white/10 bg-white/5 px-3 py-2.5 text-sm outline-none transition focus:border-gold focus:bg-white/10"
             />
             <input
               type="password"
@@ -64,12 +64,12 @@ export default function AuthGate({ children }: { children: React.ReactNode }) {
               placeholder="Senha"
               value={senha}
               onChange={(e) => setSenha(e.target.value)}
-              className="w-full rounded-md border border-ink/20 bg-white px-3 py-2 text-sm outline-none focus:border-gold"
+              className="w-full rounded-xl border border-white/10 bg-white/5 px-3 py-2.5 text-sm outline-none transition focus:border-gold focus:bg-white/10"
             />
             <button
               type="submit"
               disabled={enviando}
-              className="w-full rounded-md bg-ink px-3 py-2 text-sm font-medium text-paper transition hover:bg-ink-light disabled:opacity-60"
+              className="w-full rounded-xl bg-gold px-3 py-2.5 text-sm font-semibold text-[#171107] shadow-lg shadow-gold/10 transition hover:bg-gold-light disabled:opacity-60"
             >
               {enviando ? "Entrando…" : "Entrar"}
             </button>

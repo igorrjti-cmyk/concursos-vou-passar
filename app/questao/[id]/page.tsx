@@ -133,7 +133,7 @@ function QuestaoDetalhe({ id }: { id: string }) {
   const acertou = selecionada === questao.answer;
 
   return (
-    <div className="mx-auto max-w-2xl px-4 py-8 sm:px-6 sm:py-10">
+    <div className="mx-auto max-w-3xl px-4 py-8 sm:px-6 sm:py-10">
       <div className="flex items-center justify-between">
         <span className="badge bg-ink text-paper">Fila #{questao.rank}</span>
         <a
@@ -170,7 +170,7 @@ function QuestaoDetalhe({ id }: { id: string }) {
               key={letra}
               disabled={respondida}
               onClick={() => setSelecionada(letra)}
-              className={`w-full rounded-md border px-4 py-3 text-left text-sm transition ${estilo}`}
+              className={`w-full rounded-xl border px-4 py-3.5 text-left text-sm transition duration-150 ${estilo}`}
             >
               <span className="mr-2 font-medium">{letra})</span>
               {texto}
@@ -183,7 +183,7 @@ function QuestaoDetalhe({ id }: { id: string }) {
         <button
           disabled={!selecionada || salvando}
           onClick={responder}
-          className="mt-6 rounded-md bg-ink px-5 py-2.5 text-sm font-medium text-paper transition hover:bg-ink-light disabled:opacity-40"
+          className="mt-6 rounded-xl bg-gold px-5 py-2.5 text-sm font-semibold text-[#171107] shadow-lg shadow-gold/10 transition hover:bg-gold-light disabled:opacity-40"
         >
           {salvando ? "Registrando…" : "Responder"}
         </button>
@@ -267,7 +267,7 @@ function QuestaoDetalhe({ id }: { id: string }) {
 
 function Resolucao({ resolution }: { resolution: NonNullable<Questao["resolution"]> }) {
   return (
-    <div className="space-y-4 rounded-lg border border-ink/10 bg-white/70 p-5">
+    <div className="space-y-4 rounded-2xl border border-white/10 bg-white/70 p-6 shadow-[0_18px_45px_rgba(0,0,0,.18)]">
       <h2 className="font-serif text-lg text-ink">Resolução</h2>
 
       {resolution.regra && (

@@ -98,7 +98,7 @@ function FilaLista() {
         )}
       </div>
 
-      <div className="mt-6 divide-y divide-ink/10 rounded-lg border border-ink/10 bg-white/60">
+      <div className="mt-6 divide-y divide-ink/10 rounded-2xl border border-white/10 bg-white/60">
         {carregando ? (
           <p className="p-6 text-ink-light/60">Carregando…</p>
         ) : listaFiltrada.length === 0 ? (
@@ -110,7 +110,7 @@ function FilaLista() {
               <Link
                 key={q.id}
                 href={`/questao/${q.id}`}
-                className="flex items-center gap-4 px-4 py-3 transition hover:bg-white"
+                className="flex items-center gap-4 px-4 py-3 transition hover:bg-white/80"
               >
                 <span className="w-12 shrink-0 font-serif text-sm text-ink-light/50">
                   #{q.rank}

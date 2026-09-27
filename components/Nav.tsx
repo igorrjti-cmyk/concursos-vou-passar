@@ -24,26 +24,26 @@ export default function Nav() {
   }
 
   return (
-    <header className="sticky top-0 z-20 border-b border-ink/10 border-t-[3px] border-t-gold bg-ink text-paper pt-[env(safe-area-inset-top,0px)]">
-      <div className="mx-auto flex max-w-5xl items-center justify-between px-4 py-4 sm:px-6">
+    <header className="sticky top-0 z-30 border-b border-white/10 border-t-[3px] border-t-gold bg-ink-dark/95 text-paper shadow-[0_10px_35px_rgba(0,0,0,.28)] backdrop-blur-xl pt-[env(safe-area-inset-top,0px)]">
+      <div className="mx-auto flex max-w-6xl items-center justify-between px-4 py-3.5 sm:px-6">
         <Link
           href="/"
           onClick={() => setAberto(false)}
-          className="font-serif text-lg tracking-tight"
+          className="font-serif text-lg font-semibold tracking-tight text-paper"
         >
           FAFIPA Study OS
         </Link>
 
         {/* Navegação de mesa (md e acima) */}
-        <nav className="hidden items-center gap-6 text-sm md:flex">
+        <nav className="hidden items-center gap-1 rounded-full border border-white/10 bg-white/[.04] p-1 text-sm md:flex">
           {links.map((l) => (
             <Link
               key={l.href}
               href={l.href}
-              className={`border-b-2 pb-0.5 transition ${
+              className={`rounded-full px-3 py-1.5 transition ${
                 pathname === l.href
-                  ? "border-gold-light text-paper"
-                  : "border-transparent text-paper/70 hover:border-paper/30 hover:text-paper"
+                  ? "bg-gold/15 text-gold-light"
+                  : "border-transparent text-paper/65 hover:bg-white/5 hover:text-paper"
               }`}
             >
               {l.label}
@@ -51,7 +51,7 @@ export default function Nav() {
           ))}
           <button
             onClick={sair}
-            className="text-paper/50 transition hover:text-paper/80"
+            className="rounded-full px-3 py-1.5 text-paper/50 transition hover:bg-white/5 hover:text-paper/90"
           >
             Sair
           </button>
@@ -62,7 +62,7 @@ export default function Nav() {
           onClick={() => setAberto((v) => !v)}
           aria-label={aberto ? "Fechar menu" : "Abrir menu"}
           aria-expanded={aberto}
-          className="flex h-9 w-9 items-center justify-center rounded-md text-paper transition hover:bg-paper/10 md:hidden"
+          className="flex h-9 w-9 items-center justify-center rounded-xl border border-white/10 bg-white/5 text-paper transition hover:bg-white/10 md:hidden"
         >
           <svg
             width="20"
@@ -84,7 +84,7 @@ export default function Nav() {
 
       {/* Painel de navegação mobile */}
       {aberto && (
-        <nav className="flex flex-col border-t border-paper/10 bg-ink-dark px-4 py-2 text-sm md:hidden">
+        <nav className="flex flex-col border-t border-white/10 bg-ink-dark/98 px-4 py-3 text-sm shadow-2xl md:hidden">
           {links.map((l) => (
             <Link
               key={l.href}

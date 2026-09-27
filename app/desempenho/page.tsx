@@ -81,7 +81,7 @@ function Desempenho() {
             return (
               <div
                 key={l.topico}
-                className="rounded-lg border border-ink/10 bg-white/60 p-4"
+                className="rounded-2xl border border-white/10 bg-white/60 p-4"
               >
                 <div className="flex items-center justify-between text-sm">
                   <span className="text-ink">{l.topico}</span>

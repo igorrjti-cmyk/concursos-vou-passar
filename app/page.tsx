@@ -77,11 +77,11 @@ function Dashboard() {
   }, []);
 
   return (
-    <div className="mx-auto max-w-5xl px-4 py-8 sm:px-6 sm:py-10">
-      <h1 className="font-serif text-3xl text-ink">O que estudar hoje?</h1>
+    <div className="mx-auto max-w-6xl px-4 py-8 sm:px-6 sm:py-10">
+      <div className="flex flex-col gap-3 sm:flex-row sm:items-end sm:justify-between"><div><p className="text-xs font-semibold uppercase tracking-[.22em] text-gold/80">Study OS · 2026</p><h1 className="mt-2 font-serif text-3xl font-semibold tracking-tight text-ink sm:text-4xl">O que estudar hoje?</h1>
       <p className="mt-1 text-ink-light/70">
         Contador — Prefeitura de Curitiba (FAFIPA), 2026.
-      </p>
+      </p></div><div className="rounded-2xl border border-gold/15 bg-gold/5 px-4 py-3 text-xs font-semibold tracking-wide text-gold/80">FOCO · CONTADOR CURITIBA</div></div>
 
       <div className="mt-8 grid gap-4 sm:grid-cols-3">
         <StatCard label="Questões feitas" value={`${totalFeitas} / ${totalQuestoes}`} />
@@ -98,7 +98,7 @@ function Dashboard() {
         ) : proxima ? (
           <Link
             href={`/questao/${proxima.id}`}
-            className="block rounded-lg border border-ink/10 bg-white/70 p-6 shadow-sm transition hover:border-gold"
+            className="group block rounded-2xl border border-white/10 bg-white/70 p-6 shadow-[0_16px_40px_rgba(0,0,0,.20)] transition duration-200 hover:-translate-y-0.5 hover:border-gold/50 hover:bg-white/80"
           >
             <div className="flex items-center justify-between">
               <span className="badge bg-ink text-paper">Fila #{proxima.rank}</span>
@@ -127,7 +127,7 @@ function Dashboard() {
           {CAMADAS.map((c) => (
             <div
               key={c.nome}
-              className="flex items-center justify-between rounded-md border border-ink/10 bg-white/50 px-4 py-3"
+              className="flex items-center justify-between rounded-xl border border-white/10 bg-white/50 px-4 py-3 transition hover:border-gold/25 hover:bg-white/70"
             >
               <div className="flex items-center gap-3">
                 <span className={`h-2.5 w-2.5 rounded-full ${c.cor}`} />
@@ -146,7 +146,7 @@ function Dashboard() {
 
 function StatCard({ label, value }: { label: string; value: string }) {
   return (
-    <div className="rounded-lg border border-ink/10 bg-white/70 p-5">
+    <div className="rounded-2xl border border-white/10 bg-white/60 p-5 shadow-[0_14px_35px_rgba(0,0,0,.18)]">
       <p className="text-xs uppercase tracking-wide text-ink-light/50">
         {label}
       </p>
