@@ -11,7 +11,6 @@ const links = [
   { href: "/erros", label: "Erros", icon: "alert" },
   { href: "/revisao", label: "Revisão", icon: "clock" },
   { href: "/desempenho", label: "Desempenho", icon: "chart" },
-  { href: "/admin", label: "Importar", icon: "upload" },
 ];
 
 function Icon({ name }: { name: string }) {
@@ -47,10 +46,10 @@ export default function Nav() {
             return <Link key={l.href} href={l.href} className={`group flex items-center gap-2 rounded-xl px-3 py-2 text-xs font-medium transition ${active ? "bg-gold/[.13] text-gold shadow-[inset_0_0_0_1px_rgba(231,187,98,.12)]" : "text-white/50 hover:bg-white/[.05] hover:text-white/85"}`}><Icon name={l.icon}/>{l.label}</Link>;
           })}
         </nav>
-        <button onClick={() => setAberto(v=>!v)} aria-label={aberto?"Fechar menu":"Abrir menu"} aria-expanded={aberto} className="ml-2 flex h-10 w-10 items-center justify-center rounded-xl border border-white/10 bg-white/[.04] text-white/75 md:hidden"><Icon name={aberto?"alert":"list"}/></button>
+        <button onClick={() => setAberto(v=>!v)} aria-label={aberto?"Fechar menu":"Abrir menu"} aria-expanded={aberto} className="ml-2 flex h-10 w-10 items-center justify-center rounded-xl border border-white/10 bg-white/[.04] text-white/75 hidden"><Icon name={aberto?"alert":"list"}/></button>
         <button onClick={sair} className="hidden rounded-xl border border-white/[.08] bg-white/[.03] px-3 py-2 text-xs font-medium text-white/45 transition hover:border-white/15 hover:text-white/80 lg:block">Sair</button>
       </div>
-      {aberto && <nav className="border-t border-white/[.07] bg-[#070b14]/98 px-4 py-3 shadow-2xl md:hidden"><div className="grid grid-cols-2 gap-2">{links.map(l=>{const active=pathname===l.href|| (l.href!=="/"&&pathname.startsWith(l.href));return <Link key={l.href} href={l.href} onClick={()=>setAberto(false)} className={`flex items-center gap-2 rounded-xl px-3 py-3 text-sm ${active?"bg-gold/10 text-gold":"text-white/60 hover:bg-white/5 hover:text-white"}`}><Icon name={l.icon}/>{l.label}</Link>})}</div><button onClick={sair} className="mt-2 w-full rounded-xl px-3 py-3 text-left text-sm text-white/40">Sair da conta</button></nav>}
+      {aberto && <nav className="border-t border-white/[.07] bg-[#070b14]/98 px-4 py-3 shadow-2xl hidden"><div className="grid grid-cols-2 gap-2">{links.map(l=>{const active=pathname===l.href|| (l.href!=="/"&&pathname.startsWith(l.href));return <Link key={l.href} href={l.href} onClick={()=>setAberto(false)} className={`flex items-center gap-2 rounded-xl px-3 py-3 text-sm ${active?"bg-gold/10 text-gold":"text-white/60 hover:bg-white/5 hover:text-white"}`}><Icon name={l.icon}/>{l.label}</Link>})}</div><button onClick={sair} className="mt-2 w-full rounded-xl px-3 py-3 text-left text-sm text-white/40">Sair da conta</button></nav>}
     </header>
   );
 }

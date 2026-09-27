@@ -1,3 +1,4 @@
+import MobileStudyBar from "@/components/MobileStudyBar";
 import type { Metadata, Viewport } from "next";
 import "./globals.css";
 
@@ -20,7 +21,7 @@ export default function RootLayout({
 }) {
   return (
     <html lang="pt-BR">
-      <body className="min-h-screen font-sans">{children}</body>
+      <body className="min-h-screen font-sans">{children}<MobileStudyBar /></body>
     </html>
   );
 }

@@ -4,7 +4,6 @@ import { useEffect, useState } from "react";
 import Link from "next/link";
 import AuthGate from "@/components/AuthGate";
 import Nav from "@/components/Nav";
-import MobileStudyBar from "@/components/MobileStudyBar";
 import { getSupabaseClient } from "@/lib/supabaseClient";
 import type { Progresso, Questao } from "@/lib/types";
 
@@ -345,7 +344,6 @@ export default function Page({ params }: { params: { id: string } }) {
     <AuthGate>
       <Nav />
       <QuestaoDetalhe id={params.id} />
-      <MobileStudyBar />
     </AuthGate>
   );
 }

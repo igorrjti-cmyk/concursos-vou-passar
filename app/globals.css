@@ -116,3 +116,5 @@ input::placeholder,textarea::placeholder { color:#68758a!important; }
 @media (min-width:768px) {
   .study-question-shell { padding-top:2.25rem; }
 }
+
+@media (max-width:767px){ header.sticky{position:sticky;} }
