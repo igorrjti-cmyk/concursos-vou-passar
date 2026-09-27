@@ -140,14 +140,14 @@ function Metas() {
 
   if (carregando || !config) {
     return (
-      <div className="mx-auto max-w-2xl px-4 py-8 sm:px-6 sm:py-10">
+      <div className="study-page mx-auto max-w-5xl px-4 py-8 sm:px-6 sm:py-10">
         <p className="text-ink-light/60">Carregando…</p>
       </div>
     );
   }
 
   return (
-    <div className="mx-auto max-w-2xl px-4 py-8 sm:px-6 sm:py-10">
+    <div className="study-page mx-auto max-w-5xl px-4 py-8 sm:px-6 sm:py-10">
       <h1 className="font-serif text-3xl text-ink">Metas diárias</h1>
       <p className="mt-1 text-ink-light/70">
         🔥 {streak} dia(s) seguidos de estudo

@@ -277,3 +277,83 @@ input::placeholder,textarea::placeholder { color:#68758a!important; }
   .queue-item__detail { font-size:8px; }
   .queue-item__arrow { display:block; }
 }
+
+/* ===== Study OS unified page language ===== */
+.study-page { position:relative; }
+.study-page > h1 { color:#fff!important; }
+.study-page > h1 + p { color:rgba(255,255,255,.42)!important; }
+.study-page .study-legacy-card,
+.study-page > div > .bg-white\/60,
+.study-page .bg-white\/60 { background:linear-gradient(145deg,rgba(18,28,48,.84),rgba(9,15,28,.76))!important; border-color:rgba(255,255,255,.07)!important; box-shadow:0 20px 55px rgba(0,0,0,.16); }
+.study-page .text-ink { color:var(--text)!important; }
+.study-page .text-ink-light,.study-page .text-ink-light\/60,.study-page .text-ink-light\/70 { color:rgba(255,255,255,.42)!important; }
+.study-page .border-ink\/10,.study-page .border-ink\/15,.study-page .divide-ink\/10 > :not([hidden]) ~ :not([hidden]) { border-color:rgba(255,255,255,.07)!important; }
+.study-page select,.study-page input { background:rgba(5,10,20,.82)!important; color:#fff!important; border-color:rgba(255,255,255,.09)!important; }
+.study-page button { transition:transform .18s ease,border-color .18s ease,background .18s ease; }
+.study-page button:hover:not(:disabled) { border-color:rgba(231,187,98,.22); }
+.study-page .font-serif { color:#fff; }
+
+/* Simulados */
+.sim-hero { position:relative; overflow:hidden; display:flex; align-items:flex-end; justify-content:space-between; gap:24px; padding:28px; border:1px solid rgba(255,255,255,.08); border-radius:26px; background:linear-gradient(135deg,rgba(16,29,51,.95),rgba(8,14,26,.92)); box-shadow:0 28px 80px rgba(0,0,0,.22); }
+.sim-hero:after { content:""; position:absolute; right:-100px; top:-150px; width:360px; height:360px; border-radius:50%; background:rgba(231,187,98,.08); filter:blur(50px); }
+.sim-kicker,.sim-section-head p { color:var(--gold); font-size:9px; font-weight:800; letter-spacing:.2em; text-transform:uppercase; }
+.sim-hero h1 { position:relative; z-index:1; margin-top:5px; font-family:"Source Serif 4",serif; font-size:32px; font-weight:600; letter-spacing:-.025em; color:#fff; }
+.sim-hero p { position:relative; z-index:1; max-width:690px; margin-top:7px; color:rgba(255,255,255,.43); font-size:12px; line-height:1.6; }
+.sim-hero__stat { position:relative; z-index:1; flex:none; padding:13px 17px; border:1px solid rgba(231,187,98,.14); border-radius:15px; background:rgba(231,187,98,.06); text-align:right; }
+.sim-hero__stat strong { display:block; color:#fff; font-family:"Source Serif 4",serif; font-size:26px; }
+.sim-hero__stat span { color:rgba(255,255,255,.35); font-size:9px; text-transform:uppercase; letter-spacing:.08em; }
+.sim-shortcuts { display:grid; grid-template-columns:repeat(4,1fr); gap:9px; margin-top:12px; }
+.sim-shortcut { display:flex; align-items:center; gap:11px; padding:14px; border:1px solid rgba(255,255,255,.07); border-radius:16px; background:rgba(255,255,255,.025); text-align:left; }
+.sim-shortcut:hover,.sim-shortcut.is-active { background:rgba(112,167,255,.07); border-color:rgba(112,167,255,.18); transform:translateY(-1px); }
+.sim-shortcut__icon { display:flex; width:34px; height:34px; flex:none; align-items:center; justify-content:center; border-radius:11px; background:rgba(231,187,98,.08); color:var(--gold); font-size:17px; }
+.sim-shortcut span:last-child { min-width:0; }
+.sim-shortcut b { display:block; color:rgba(255,255,255,.85); font-size:11px; }
+.sim-shortcut small { display:block; margin-top:3px; color:rgba(255,255,255,.32); font-size:9px; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
+.sim-layout { display:grid; grid-template-columns:minmax(0,1.5fr) minmax(300px,.75fr); gap:12px; margin-top:12px; }
+.sim-builder { padding:20px; border-radius:22px; }
+.sim-section-head { display:flex; align-items:center; justify-content:space-between; gap:15px; }
+.sim-section-head h2 { margin-top:3px; color:#fff; font-family:"Source Serif 4",serif; font-size:20px; }
+.sim-live { color:rgba(85,214,162,.65); font-size:8px; text-transform:uppercase; letter-spacing:.08em; }
+.sim-fields { display:grid; grid-template-columns:1fr 1fr; gap:9px; margin-top:19px; }
+.sim-field { position:relative; }
+.sim-field label,.sim-quantity label { display:block; margin:0 0 7px 2px; color:rgba(255,255,255,.4); font-size:9px; font-weight:700; letter-spacing:.12em; text-transform:uppercase; }
+.sim-select { display:flex; width:100%; min-height:48px; align-items:center; justify-content:space-between; gap:10px; padding:0 13px; border:1px solid rgba(255,255,255,.08); border-radius:13px; background:rgba(5,10,20,.72); color:rgba(255,255,255,.72); font-size:11px; text-align:left; }
+.sim-select:disabled { opacity:.45; }
+.sim-popover { position:absolute; left:0; right:0; top:76px; z-index:50; max-height:330px; overflow:auto; padding:7px; border:1px solid rgba(255,255,255,.1); border-radius:16px; background:#0a1220; box-shadow:0 25px 70px rgba(0,0,0,.5); }
+.sim-popover input { width:100%; height:38px; margin-bottom:5px; border-radius:10px!important; padding:0 10px; font-size:10px; }
+.sim-option { display:flex; width:100%; align-items:center; justify-content:space-between; gap:10px; padding:10px; border:1px solid transparent; border-radius:10px; color:rgba(255,255,255,.6); font-size:10px; text-align:left; }
+.sim-option:hover,.sim-option.is-selected { background:rgba(112,167,255,.08); color:#fff; }
+.sim-option span { min-width:0; }
+.sim-option small { display:block; margin-top:2px; color:rgba(255,255,255,.27); font-size:8px; }
+.sim-option em { color:rgba(255,255,255,.25); font-size:9px; font-style:normal; }
+.sim-option.is-all { color:var(--gold); }
+.sim-quantity { margin-top:17px; }
+.sim-quantity__buttons { display:flex; flex-wrap:wrap; gap:6px; }
+.sim-quantity__buttons button,.sim-quantity__buttons input { min-width:45px; height:38px; border:1px solid rgba(255,255,255,.08); border-radius:10px; background:rgba(255,255,255,.025)!important; color:rgba(255,255,255,.5)!important; font-size:10px; }
+.sim-quantity__buttons button.is-active { border-color:rgba(231,187,98,.3); background:rgba(231,187,98,.1)!important; color:var(--gold)!important; }
+.sim-quantity__buttons input { width:70px; padding:0 8px; text-align:center; }
+.sim-summary { display:flex; align-items:center; justify-content:space-between; gap:12px; margin-top:16px; padding:13px; border:1px solid rgba(112,167,255,.12); border-radius:14px; background:rgba(55,110,190,.055); }
+.sim-summary > div { display:flex; align-items:center; gap:10px; }
+.sim-summary > div > span { display:flex; width:32px; height:32px; align-items:center; justify-content:center; border-radius:10px; background:rgba(112,167,255,.1); }
+.sim-summary b { display:block; color:rgba(255,255,255,.72); font-size:10px; }
+.sim-summary small { display:block; margin-top:3px; color:rgba(255,255,255,.3); font-size:8px; }
+.sim-summary > strong { color:#70a7ff; font-size:9px; }
+.sim-error { margin-top:10px; padding:10px 12px; border-radius:11px; background:rgba(255,115,115,.08); color:#ff8b8b; font-size:10px; }
+.sim-start { width:100%; margin-top:12px; min-height:48px; border-radius:14px; background:linear-gradient(135deg,#f3cf7c,#e7bb62); color:#161006; font-size:11px; font-weight:900; letter-spacing:.03em; box-shadow:0 13px 32px rgba(231,187,98,.14); }
+.sim-start:hover:not(:disabled) { transform:translateY(-1px); }
+.sim-start:disabled { opacity:.45; }
+.sim-history { padding:3px 0; }
+.sim-link { color:#70a7ff; font-size:9px; }
+.sim-history-list { display:grid; gap:8px; margin-top:10px; }
+.sim-history-card { padding:14px; border:1px solid rgba(255,255,255,.07); border-radius:17px; background:linear-gradient(145deg,rgba(16,27,46,.72),rgba(8,14,25,.65)); }
+.sim-history-card__top { display:flex; align-items:center; justify-content:space-between; }
+.sim-history-card__top span { color:rgba(255,255,255,.25); font-size:8px; letter-spacing:.15em; }
+.sim-history-card__top strong { color:#55d6a2; font-size:12px; }
+.sim-history-card h3 { margin-top:8px; color:rgba(255,255,255,.75); font-size:11px; line-height:1.45; }
+.sim-history-card p { margin-top:4px; color:rgba(255,255,255,.3); font-size:9px; }
+.sim-history-card > div:last-child { display:flex; gap:6px; margin-top:12px; }
+.sim-history-card button { flex:1; min-height:32px; border:1px solid rgba(255,255,255,.08); border-radius:9px; color:rgba(255,255,255,.48); background:rgba(255,255,255,.025); font-size:8px; font-weight:700; }
+.sim-history-card button:first-child { border-color:rgba(112,167,255,.15); color:#70a7ff; }
+.sim-empty { padding:20px; border:1px dashed rgba(255,255,255,.08); border-radius:15px; color:rgba(255,255,255,.3); font-size:10px; }
+@media(max-width:900px){ .sim-layout{grid-template-columns:1fr}.sim-history{margin-top:4px}.sim-shortcuts{grid-template-columns:repeat(2,1fr)} }
+@media(max-width:640px){ .sim-hero{display:block;padding:21px}.sim-hero h1{font-size:27px}.sim-hero__stat{display:inline-block;margin-top:16px;text-align:left}.sim-fields{grid-template-columns:1fr}.sim-builder{padding:15px}.sim-shortcuts{grid-template-columns:1fr 1fr}.sim-shortcut{padding:11px}.sim-shortcut small{white-space:normal}.sim-summary{align-items:flex-start;flex-direction:column}.sim-summary>strong{padding-left:42px}.sim-popover{position:fixed;left:12px;right:12px;top:112px;max-height:60vh} }

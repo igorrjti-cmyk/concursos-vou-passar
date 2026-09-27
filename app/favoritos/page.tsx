@@ -61,7 +61,7 @@ function Favoritos() {
   }
 
   return (
-    <div className="mx-auto max-w-2xl px-4 py-8 sm:px-6 sm:py-10">
+    <div className="study-page mx-auto max-w-5xl px-4 py-8 sm:px-6 sm:py-10">
       <h1 className="font-serif text-3xl text-ink">Favoritos</h1>
       <p className="mt-1 text-ink-light/70">
         Questões que você marcou para revisar com calma.

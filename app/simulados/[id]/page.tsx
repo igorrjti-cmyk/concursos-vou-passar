@@ -124,7 +124,7 @@ function RodarSimulado({ id }: { id: string }) {
   if (simulado.status === "concluido") {
     const pct = simulado.total ? Math.round((simulado.acertos / simulado.total) * 100) : 0;
     return (
-      <div className="mx-auto max-w-2xl px-4 py-8 sm:px-6 sm:py-10">
+      <div className="study-page mx-auto max-w-5xl px-4 py-8 sm:px-6 sm:py-10">
         <h1 className="font-serif text-3xl text-ink">Resultado do simulado</h1>
         <p className="mt-1 text-ink-light/70">{simulado.topico ?? "Todos os assuntos"}</p>
 
@@ -152,7 +152,7 @@ function RodarSimulado({ id }: { id: string }) {
   }
 
   return (
-    <div className="mx-auto max-w-2xl px-4 pb-28 pt-5 sm:px-6 sm:py-10 md:pb-10">
+    <div className="study-page mx-auto max-w-5xl px-4 pb-28 pt-5 sm:px-6 sm:py-10 md:pb-10">
       <div className="flex items-center justify-between text-sm">
         <span className="text-ink-light/70">
           Questão {indice + 1} de {itens.length}
