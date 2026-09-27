@@ -115,7 +115,62 @@ scripts/seed.mjs  importa data/questoes.json para o Supabase
 data/questoes.json  as 964 questões + resoluções já extraídas do seu painel V6
 ```
 
+## Atualização — Português, Informática, Matemática Financeira e Estatística
+entraram na fila (setembro/2026)
+
+O banco cresceu de **964 para 1.958 questões**. Foram extraídas e priorizadas as
+questões dos 6 cadernos novos que você mandou (Português Partes 1 e 2,
+Informática Partes 1 e 2, Matemática Financeira e Estatística), com base no
+edital verticalizado do Contador — Prefeitura de Curitiba (FAFIPA):
+
+- A Prova Objetiva tem **40 questões, todas eliminatórias e classificatórias**,
+  valendo 2,00 pontos cada: 5 de Língua Portuguesa, 5 de Noções de Informática e
+  30 de Conhecimentos Específicos.
+- Dentro dos 30 de Específicos, pela contagem de itens do edital verticalizado,
+  a fatia estimada é: ~23 de Contabilidade/AFO/Direito Financeiro (já 100%
+  coberta pelas 964 questões originais), ~3 de Matemática Financeira, ~2 de
+  Estatística e ~2 de Legislação Municipal (sem material ainda).
+- **Português e Informática são menores em volume mas eliminatórias e muito
+  repetitivas de banca para banca** (atalhos, fórmulas de Excel, protocolos) —
+  alto retorno por hora de estudo. Por isso entram logo depois do topo do
+  banco de Contabilidade (rank 716–1489), não no fim da fila.
+- **Matemática Financeira e Estatística** têm menos questões na prova mas são
+  muito mecânicas (fórmulas fixas) — entram intercaladas com a banda média/C
+  de Contabilidade (rank 1490–1958).
+- As **964 questões de Contabilidade mantiveram seu score/band originais** — só
+  o `rank` foi recalculado para abrir espaço às novas matérias na posição
+  correta, e 439 delas ganharam a resolução que estava faltando (lote
+  cumulativo de resoluções 121–560 que você mandou no zip).
+
+### Rodando a atualização no Supabase
+
+Os arquivos ficam em `supabase/seed-partes/`, numerados na ordem certa —
+**rode-os em ordem crescente, um de cada vez, no SQL Editor**:
+
+1. `parte_11_passo1_offset_ranks.sql` — roda sozinho, sem risco: só empurra o
+   rank das 964 questões antigas para uma faixa alta (rank + 100000), abrindo
+   espaço para o rank final das questões novas sem violar a restrição de
+   unicidade.
+2. `parte_12` a `parte_19_passo2_novas_materias.sql` — inserem as 994 questões
+   novas (Português, Informática, Matemática Financeira, Estatística) já no
+   rank final e intercalado.
+3. `parte_20` a `parte_26_passo3_reindex_e_resolucoes.sql` — trazem as 964
+   questões de Contabilidade de volta ao rank final correto e gravam as 439
+   resoluções novas.
+
+Se algum arquivo der "Query is too large" no SQL Editor, me avise qual número
+que eu quebro em partes menores. `data/questoes.json` já está com as 1.958
+questões e pode ser usado direto com `npm run seed` em vez do SQL manual, se
+preferir.
+
 ## Próximos passos sugeridos
 
-- Colar os lotes de resolução 161–320 → 321–480 → 481–965 em `/admin`
-  conforme forem ficando prontos.
+- As ~994 questões novas ainda não têm o campo `resolution` preenchido — vá
+  gerando os lotes de resolução (mesmo formato do `/admin`) e colando por lá,
+  matéria por matéria; sugiro começar por Informática e Português (maior
+  prioridade) e depois Matemática Financeira/Estatística.
+- Ainda falta Legislação Municipal no banco (Lei Orgânica de Curitiba,
+  Estatuto do Servidor, Código Tributário Municipal etc.) — não veio caderno
+  de questões dessa matéria; se você tiver ou gerar um, mando entrar na fila
+  também, provavelmente na mesma faixa de prioridade de Matemática
+  Financeira/Estatística.
