@@ -159,3 +159,7 @@ alter table public.sessoes_fila enable row level security;
 drop policy if exists "sessoes_fila: proprio usuario" on public.sessoes_fila;
 create policy "sessoes_fila: proprio usuario" on public.sessoes_fila
   for all using (auth.uid() = user_id) with check (auth.uid() = user_id);
+
+
+alter table if exists public.sessoes_fila add column if not exists ultima_questao_aberta_id text references public.questoes (id) on delete set null;
+alter table if exists public.sessoes_fila add column if not exists ultima_aberta_em timestamptz;

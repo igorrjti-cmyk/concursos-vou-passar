@@ -7,7 +7,8 @@ import Nav from "@/components/Nav";
 import { getSupabaseClient } from "@/lib/supabaseClient";
 import { fetchAllPages } from "@/lib/paginar";
 import type { Progresso, Questao } from "@/lib/types";
-import { filaSortScore } from "@/lib/prioridade";
+import { filaDinamica, filaSortScore } from "@/lib/prioridade";
+import { filaQuery, type FilaFiltros } from "@/lib/filaSessao";
 
 const CAMADAS = [
   { nome: "Núcleo prioritário", de: 1, ate: 160, cor: "bg-[#ff7373]", desc: "Conteúdo de maior impacto" },
@@ -18,35 +19,89 @@ const CAMADAS = [
 
 function Icon({name}:{name:string}) { const p:Record<string,React.ReactNode>={play:<><path d="m9 6 9 6-9 6V6Z"/></>,target:<><circle cx="12" cy="12" r="8"/><circle cx="12" cy="12" r="3"/></>,clock:<><circle cx="12" cy="12" r="8"/><path d="M12 7v5l3 2"/></>,spark:<><path d="m12 3 1.2 5.8L19 10l-5.8 1.2L12 17l-1.2-5.8L5 10l5.8-1.2L12 3Z"/></>,check:<path d="m5 12 4 4L19 6"/>,arrow:<><path d="M5 12h14"/><path d="m13 6 6 6-6 6"/></>}; return <svg aria-hidden="true" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round">{p[name]}</svg>; }
 
+type SessaoRecente = {
+  ultimo_rank: number;
+  ultima_questao_id: string | null;
+  atualizado_em: string;
+  filtros: FilaFiltros;
+};
+
 function Dashboard() {
-  const [proxima,setProxima]=useState<Questao|null>(null),[totalFeitas,setTotalFeitas]=useState(0),[totalCertas,setTotalCertas]=useState(0),[totalQuestoes,setTotalQuestoes]=useState(0),[revisoesHoje,setRevisoesHoje]=useState(0),[carregando,setCarregando]=useState(true);
+  const [proxima,setProxima]=useState<Questao|null>(null);
+  const [continuar,setContinuar]=useState<{questao:Questao; sessao:SessaoRecente}|null>(null);
+  const [totalFeitas,setTotalFeitas]=useState(0),[totalCertas,setTotalCertas]=useState(0),[totalQuestoes,setTotalQuestoes]=useState(0),[revisoesHoje,setRevisoesHoje]=useState(0),[carregando,setCarregando]=useState(true);
   const [gam,setGam]=useState<{xp:number;nivel:number;streak_atual:number}|null>(null);
-  useEffect(()=>{(async()=>{const supabase=getSupabaseClient();const {data:userData}=await supabase.auth.getUser();const userId=userData.user?.id;const {count:total}=await supabase.from("questoes").select("id",{count:"exact",head:true});setTotalQuestoes(total??0);if(userId){const progresso=await fetchAllPages<Pick<Progresso,"questao_id"|"status"|"proxima_revisao">>(async (from,to)=>await supabase.from("progresso").select("questao_id,status,proxima_revisao",{count:"exact"}).eq("user_id",userId).range(from,to));const feitas=progresso.filter((p:Pick<Progresso,"status">)=>p.status!=="nao_iniciada");setTotalFeitas(feitas.length);setTotalCertas(feitas.filter((p:Pick<Progresso,"status">)=>p.status==="feita_certo").length);const hoje=new Date().toISOString().slice(0,10);setRevisoesHoje(progresso.filter((p:Pick<Progresso,"proxima_revisao">)=>p.proxima_revisao&&p.proxima_revisao<=hoje).length);const ids=new Set(feitas.map((p:Pick<Progresso,"questao_id">)=>p.questao_id));const questoes=await fetchAllPages<Questao>(async (from,to)=>await supabase.from("questoes").select("*",{count:"exact"}).order("prioridade_base",{ascending:false,nullsFirst:false}).order("rank",{ascending:true}).range(from,to));const candidatos=questoes.filter((q:Questao)=>!ids.has(q.id));const progressoMap=Object.fromEntries(progresso.map((p:Pick<Progresso,"questao_id"|"status"|"proxima_revisao">)=>[p.questao_id,p] as const));candidatos.sort((a:Questao,b:Questao)=>filaSortScore(b,progressoMap[b.id])-filaSortScore(a,progressoMap[a.id])||a.rank-b.rank);setProxima(candidatos[0]??null);const {data:gamData}=await supabase.from("gamificacao").select("xp,nivel,streak_atual").eq("user_id",userId).maybeSingle();setGam(gamData??{xp:0,nivel:1,streak_atual:0});}else{const {data:questoes}=await supabase.from("questoes").select("*").order("prioridade_base",{ascending:false,nullsFirst:false}).order("rank",{ascending:true}).limit(1);setProxima(questoes?.[0]??null);}setCarregando(false);})()},[]);
+
+  useEffect(()=>{(async()=>{
+    const supabase=getSupabaseClient();
+    const {data:userData}=await supabase.auth.getUser();
+    const userId=userData.user?.id;
+    const {count:total}=await supabase.from("questoes").select("id",{count:"exact",head:true});
+    setTotalQuestoes(total??0);
+
+    if(userId){
+      const progresso=await fetchAllPages<Pick<Progresso,"questao_id"|"status"|"proxima_revisao">>(async (from,to)=>await supabase.from("progresso").select("questao_id,status,proxima_revisao",{count:"exact"}).eq("user_id",userId).range(from,to));
+      const feitas=progresso.filter(p=>p.status!=="nao_iniciada");
+      setTotalFeitas(feitas.length); setTotalCertas(feitas.filter(p=>p.status==="feita_certo").length);
+      const hoje=new Date().toISOString().slice(0,10);
+      setRevisoesHoje(progresso.filter(p=>p.proxima_revisao&&p.proxima_revisao<=hoje).length);
+
+      const questoes=await fetchAllPages<Questao>(async (from,to)=>await supabase.from("questoes").select("*",{count:"exact"}).order("prioridade_base",{ascending:false,nullsFirst:false}).order("rank",{ascending:true}).range(from,to));
+      const progressoMap=Object.fromEntries(progresso.map(p=>[p.questao_id,p] as const));
+      const ids=new Set(feitas.map(p=>p.questao_id));
+      const candidatos=questoes.filter(q=>!ids.has(q.id));
+      candidatos.sort((a,b)=>filaSortScore(b,progressoMap[b.id])-filaSortScore(a,progressoMap[a.id])||a.rank-b.rank);
+      setProxima(candidatos[0]??null);
+
+      const {data:gamData}=await supabase.from("gamificacao").select("xp,nivel,streak_atual").eq("user_id",userId).maybeSingle();
+      setGam(gamData??{xp:0,nivel:1,streak_atual:0});
+
+      const {data:sessoes}=await supabase.from("sessoes_fila").select("ultimo_rank,ultima_questao_id,atualizado_em,filtros").eq("user_id",userId).order("atualizado_em",{ascending:false}).limit(8);
+      const recentes=(sessoes??[]) as SessaoRecente[];
+      const sessao=computarSessaoContinua(recentes,questoes,progressoMap);
+      if(sessao) setContinuar(sessao);
+    } else {
+      const {data:questoes}=await supabase.from("questoes").select("*").order("prioridade_base",{ascending:false,nullsFirst:false}).order("rank",{ascending:true}).limit(1);
+      setProxima(questoes?.[0]??null);
+    }
+    setCarregando(false);
+  })()},[]);
+
   const pct=totalFeitas?Math.round(totalCertas/totalFeitas*100):0;
+  const continuarHref=continuar ? `/questao/${continuar.questao.id}${filaQuery(continuar.sessao.filtros,"retomar")}` : "/fila";
+
   return <div className="app-shell mx-auto max-w-7xl px-4 py-7 sm:px-6 lg:px-8 lg:py-10">
     <section className="relative overflow-hidden rounded-[28px] border border-white/[.08] bg-gradient-to-br from-[#111a2c] via-[#0d1525] to-[#0a101d] p-6 shadow-[0_30px_100px_rgba(0,0,0,.34)] sm:p-8 lg:p-10">
       <div className="absolute -right-20 -top-24 h-72 w-72 rounded-full bg-gold/[.07] blur-3xl"/><div className="absolute bottom-[-100px] left-[35%] h-64 w-64 rounded-full bg-blue-500/[.05] blur-3xl"/>
       <div className="relative grid gap-8 lg:grid-cols-[1fr_auto] lg:items-center">
-        <div><div className="flex items-center gap-2 text-[11px] font-semibold uppercase tracking-[.24em] text-gold/80"><span className="h-1.5 w-1.5 rounded-full bg-gold shadow-[0_0_12px_rgba(231,187,98,.8)]"/> Study OS · 2026</div>{gam&&<div className="mt-3 flex flex-wrap items-center gap-2 text-xs text-white/60"><span className="badge border border-gold/20 bg-gold/[.08] text-gold">Nível {gam.nivel}</span><span className="badge border border-white/10 bg-white/[.04] text-white/60">{gam.xp} XP</span><span className="badge border border-white/10 bg-white/[.04] text-white/60">🔥 {gam.streak_atual} dia(s)</span></div>}<h1 className="mt-4 max-w-2xl font-serif text-4xl font-semibold leading-[1.06] tracking-tight text-white sm:text-5xl">Sua aprovação começa <span className="text-gradient">pela próxima questão.</span></h1><p className="mt-4 max-w-xl text-sm leading-6 text-white/50 sm:text-base">Ambiente de preparação para Contador — Prefeitura de Curitiba. Estude por prioridade, registre seus erros e transforme revisão em rotina.</p><div className="mt-7 flex flex-wrap gap-3"><Link href={proxima?`/questao/${proxima.id}`:"/fila"} className="group inline-flex items-center gap-2 rounded-2xl bg-gold px-5 py-3 text-sm font-bold text-[#161006] shadow-[0_12px_35px_rgba(231,187,98,.18)] transition hover:-translate-y-0.5 hover:bg-[#f0c975]"><Icon name="play"/> Continuar estudando <Icon name="arrow"/></Link><Link href="/desempenho" className="inline-flex items-center gap-2 rounded-2xl border border-white/10 bg-white/[.04] px-5 py-3 text-sm font-semibold text-white/70 transition hover:border-white/20 hover:bg-white/[.07] hover:text-white"><Icon name="target"/> Ver desempenho</Link></div></div>
+        <div><div className="flex items-center gap-2 text-[11px] font-semibold uppercase tracking-[.24em] text-gold/80"><span className="h-1.5 w-1.5 rounded-full bg-gold shadow-[0_0_12px_rgba(231,187,98,.8)]"/> Study OS · 2026</div>{gam&&<div className="mt-3 flex flex-wrap items-center gap-2 text-xs text-white/60"><span className="badge border border-gold/20 bg-gold/[.08] text-gold">Nível {gam.nivel}</span><span className="badge border border-white/10 bg-white/[.04] text-white/60">{gam.xp} XP</span><span className="badge border border-white/10 bg-white/[.04] text-white/60">🔥 {gam.streak_atual} dia(s)</span></div>}<h1 className="mt-4 max-w-2xl font-serif text-4xl font-semibold leading-[1.06] tracking-tight text-white sm:text-5xl">Seu próximo passo <span className="text-gradient">está aqui.</span></h1><p className="mt-4 max-w-xl text-sm leading-6 text-white/50 sm:text-base">Estude por prioridade, registre seus erros e retome cada sessão exatamente do ponto em que parou.</p><div className="mt-7 flex flex-wrap gap-3"><Link href={continuarHref} className="group inline-flex items-center gap-2 rounded-2xl bg-gold px-5 py-3 text-sm font-bold text-[#161006] shadow-[0_12px_35px_rgba(231,187,98,.18)] transition hover:-translate-y-0.5 hover:bg-[#f0c975]"><Icon name="play"/> {continuar?"Continuar de onde parei":"Começar a estudar"} <Icon name="arrow"/></Link><Link href="/desempenho" className="inline-flex items-center gap-2 rounded-2xl border border-white/10 bg-white/[.04] px-5 py-3 text-sm font-semibold text-white/70 transition hover:border-white/20 hover:bg-white/[.07] hover:text-white"><Icon name="target"/> Ver desempenho</Link></div></div>
         <div className="relative flex items-center justify-center lg:pr-5"><div className="gold-ring flex h-44 w-44 items-center justify-center rounded-full border border-gold/20 bg-[#09101d]/80"><div className="flex h-32 w-32 flex-col items-center justify-center rounded-full border border-white/[.06] bg-[#0e1727]"><span className="font-serif text-4xl font-semibold text-white">{pct}<span className="text-lg text-gold">%</span></span><span className="mt-1 text-[10px] uppercase tracking-[.18em] text-white/35">acerto</span></div></div><div className="absolute bottom-0 right-2 rounded-xl border border-white/[.08] bg-[#111b2c]/90 px-3 py-2 text-[10px] text-white/45 backdrop-blur"><span className="text-gold">●</span> progresso ao vivo</div></div>
       </div>
     </section>
 
-    <section className="mt-5 grid gap-3 sm:grid-cols-3">
-      <StatCard icon="target" label="Questões feitas" value={`${totalFeitas}`} detail={`de ${totalQuestoes || "—"} disponíveis`} />
-      <StatCard icon="check" label="Aproveitamento" value={totalFeitas?`${pct}%`:"—"} detail={totalFeitas?`${totalCertas} acertos registrados`:"Comece sua primeira sessão"} accent />
-      <StatCard icon="clock" label="Revisões de hoje" value={`${revisoesHoje}`} detail={revisoesHoje?"Prontas para você revisar":"Sua fila está limpa"} />
-    </section>
+    {continuar && <section className="mt-5 overflow-hidden rounded-[24px] border border-gold/15 bg-gradient-to-r from-gold/[.08] via-white/[.025] to-transparent p-5 shadow-[0_20px_60px_rgba(0,0,0,.18)] sm:p-6"><div className="flex flex-col gap-5 sm:flex-row sm:items-center sm:justify-between"><div><p className="text-[10px] font-semibold uppercase tracking-[.2em] text-gold/70">Continuar estudando</p><h2 className="mt-1 font-serif text-xl text-white">Você parou no Rank #{continuar.sessao.ultimo_rank}</h2><p className="mt-1 text-sm text-white/45">{continuar.sessao.filtros.materia === "todas" ? "Todas as disciplinas" : continuar.sessao.filtros.materia}</p><p className="mt-1 text-xs text-white/30">Próxima: Rank #{continuar.questao.rank} · {continuar.questao.topic}</p><p className="mt-2 text-[10px] text-white/20">Salvo em {new Date(continuar.sessao.atualizado_em).toLocaleString("pt-BR",{dateStyle:"short",timeStyle:"short"})}</p></div><Link href={continuarHref} className="inline-flex shrink-0 items-center justify-center rounded-2xl bg-gold px-5 py-3 text-sm font-bold text-[#161006] shadow-[0_10px_30px_rgba(231,187,98,.16)] transition hover:-translate-y-0.5 hover:bg-[#f0c975]">Continuar <span className="ml-2">→</span></Link></div></section>}
 
-    <div className="mt-8 grid gap-5 lg:grid-cols-[1.35fr_.65fr]">
-      <section className="glass overflow-hidden rounded-[24px]">
-        <div className="flex items-center justify-between border-b border-white/[.07] px-5 py-5 sm:px-6"><div><p className="text-[10px] font-semibold uppercase tracking-[.2em] text-gold/70">Próximo passo</p><h2 className="mt-1 font-serif text-xl text-white">Sua fila de estudo</h2></div><Link href="/fila" className="text-xs font-semibold text-white/40 transition hover:text-gold">Ver fila completa →</Link></div>
-        {carregando?<div className="p-6 text-sm text-white/40">Preparando sua fila…</div>:proxima?<Link href={`/questao/${proxima.id}`} className="group block p-5 transition hover:bg-white/[.025] sm:p-6"><div className="flex flex-wrap items-center gap-2"><span className="badge border border-gold/15 bg-gold/[.08] text-gold">Questão #{proxima.rank}</span>{proxima.resolution&&<span className="badge border border-white/10 bg-white/[.04] text-white/45">resolução disponível</span>}</div><p className="mt-5 text-xs font-semibold uppercase tracking-[.14em] text-white/35">{proxima.topic}</p><p className="mt-2 max-w-3xl font-serif text-xl leading-8 text-white/90 sm:text-2xl">{proxima.stem}</p><div className="mt-6 flex items-center gap-2 text-sm font-semibold text-gold">Resolver agora <span className="transition group-hover:translate-x-1">→</span></div></Link>:<div className="p-6 text-sm text-green-300/70">Todas as questões da fila foram concluídas.</div>}
-      </section>
-      <section className="glass rounded-[24px] p-5 sm:p-6"><div className="flex items-start justify-between"><div><p className="text-[10px] font-semibold uppercase tracking-[.2em] text-gold/70">Estratégia</p><h2 className="mt-1 font-serif text-xl text-white">Camadas de estudo</h2></div><Icon name="spark"/></div><div className="mt-5 space-y-2.5">{CAMADAS.map((c,i)=><div key={c.nome} className="group rounded-2xl border border-white/[.06] bg-white/[.025] p-3.5 transition hover:border-gold/15 hover:bg-white/[.04]"><div className="flex items-center gap-3"><span className={`h-2.5 w-2.5 shrink-0 rounded-full ${c.cor} shadow-[0_0_10px_currentColor]`}/><div className="min-w-0 flex-1"><div className="flex items-center justify-between gap-2"><span className="text-sm font-semibold text-white/80">{c.nome}</span><span className="text-[10px] font-medium text-white/30">{c.de}–{c.ate}</span></div><p className="mt-0.5 text-[11px] text-white/30">{c.desc}</p></div></div></div>)}</div></section>
-    </div>
+    <section className="mt-5 grid gap-3 sm:grid-cols-3"><StatCard icon="target" label="Questões feitas" value={`${totalFeitas}`} detail={`de ${totalQuestoes || "—"} disponíveis`} /><StatCard icon="check" label="Aproveitamento" value={totalFeitas?`${pct}%`:"—"} detail={totalFeitas?`${totalCertas} acertos registrados`:"Comece sua primeira sessão"} accent /><StatCard icon="clock" label="Revisões de hoje" value={`${revisoesHoje}`} detail={revisoesHoje?"Prontas para você revisar":"Sua fila está limpa"} /></section>
+
+    <div className="mt-8 grid gap-5 lg:grid-cols-[1.35fr_.65fr]"><section className="glass overflow-hidden rounded-[24px]"><div className="flex items-center justify-between border-b border-white/[.07] px-5 py-5 sm:px-6"><div><p className="text-[10px] font-semibold uppercase tracking-[.2em] text-gold/70">Próximo passo</p><h2 className="mt-1 font-serif text-xl text-white">Sua fila de estudo</h2></div><Link href="/fila" className="text-xs font-semibold text-white/40 transition hover:text-gold">Ver fila completa →</Link></div>{carregando?<div className="p-6 text-sm text-white/40">Preparando sua fila…</div>:proxima?<Link href={`/questao/${proxima.id}`} className="group block p-5 transition hover:bg-white/[.025] sm:p-6"><div className="flex flex-wrap items-center gap-2"><span className="badge border border-gold/15 bg-gold/[.08] text-gold">Questão #{proxima.rank}</span>{proxima.resolution&&<span className="badge border border-white/10 bg-white/[.04] text-white/45">resolução disponível</span>}</div><p className="mt-5 text-xs font-semibold uppercase tracking-[.14em] text-white/35">{proxima.topic}</p><p className="mt-2 max-w-3xl font-serif text-xl leading-8 text-white/90 sm:text-2xl">{proxima.stem}</p><div className="mt-6 flex items-center gap-2 text-sm font-semibold text-gold">Resolver agora <span className="transition group-hover:translate-x-1">→</span></div></Link>:<div className="p-6 text-sm text-green-300/70">Todas as questões da fila foram concluídas.</div>}</section><section className="glass rounded-[24px] p-5 sm:p-6"><div className="flex items-start justify-between"><div><p className="text-[10px] font-semibold uppercase tracking-[.2em] text-gold/70">Estratégia</p><h2 className="mt-1 font-serif text-xl text-white">Camadas de estudo</h2></div><Icon name="spark"/></div><div className="mt-5 space-y-2.5">{CAMADAS.map(c=><div key={c.nome} className="group rounded-2xl border border-white/[.06] bg-white/[.025] p-3.5 transition hover:border-gold/15 hover:bg-white/[.04]"><div className="flex items-center gap-3"><span className={`h-2.5 w-2.5 shrink-0 rounded-full ${c.cor} shadow-[0_0_10px_currentColor]`}/><div className="min-w-0 flex-1"><div className="flex items-center justify-between gap-2"><span className="text-sm font-semibold text-white/80">{c.nome}</span><span className="text-[10px] font-medium text-white/30">{c.de}–{c.ate}</span></div><p className="mt-0.5 text-[11px] text-white/30">{c.desc}</p></div></div></div>)}</div></section></div>
     <p className="mt-8 text-center text-[10px] uppercase tracking-[.22em] text-white/20">FAFIPA Study OS · foco, consistência e revisão inteligente</p>
   </div>;
+}
+
+function computarSessaoContinua(sessoes:SessaoRecente[],questoes:Questao[],progressoMap:Record<string,Pick<Progresso,"questao_id"|"status"|"proxima_revisao">>){
+  for(const sessao of sessoes){
+    const f=sessao.filtros;
+    if(!f || typeof f!=="object") continue;
+    let candidatos=questoes.filter(q=>{
+      if(f.materia!=="todas" && !(q.topic??"").startsWith(`${f.materia} - `)) return false;
+      if(f.busca && !`${q.topic??""} ${q.stem??""} ${q.rank}`.toLowerCase().includes(f.busca.trim().toLowerCase())) return false;
+      if(f.status!=="todas" && (progressoMap[q.id]?.status??"nao_iniciada")!==f.status) return false;
+      if(f.fila!=="todas" && filaDinamica(q,progressoMap[q.id])!==f.fila) return false;
+      return q.rank>sessao.ultimo_rank;
+    }).sort((a,b)=>a.rank-b.rank);
+    if(candidatos[0]) return {questao:candidatos[0],sessao};
+  }
+  return null;
 }
 
 function StatCard({label,value,detail,icon,accent}:{label:string;value:string;detail:string;icon:string;accent?:boolean}){return <div className={`glass rounded-[22px] p-5 transition hover:-translate-y-0.5 ${accent?"gold-glow":""}`}><div className="flex items-center justify-between"><span className="flex h-9 w-9 items-center justify-center rounded-xl border border-white/[.07] bg-white/[.04] text-gold"><Icon name={icon}/></span><span className="text-[9px] font-semibold uppercase tracking-[.18em] text-white/25">status</span></div><p className="mt-5 text-[10px] font-semibold uppercase tracking-[.18em] text-white/35">{label}</p><p className="mt-1 font-serif text-3xl font-semibold text-white">{value}</p><p className="mt-1 text-xs text-white/35">{detail}</p></div>}

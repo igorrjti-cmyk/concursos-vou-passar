@@ -8,6 +8,8 @@ create table if not exists public.sessoes_fila (
   ultimo_rank integer not null default 0,
   ultima_questao_id text references public.questoes (id) on delete set null,
   atualizado_em timestamptz not null default now(),
+  ultima_questao_aberta_id text references public.questoes (id) on delete set null,
+  ultima_aberta_em timestamptz,
   primary key (user_id, filtro_chave)
 );
 
@@ -17,3 +19,7 @@ alter table public.sessoes_fila enable row level security;
 drop policy if exists "sessoes_fila: proprio usuario" on public.sessoes_fila;
 create policy "sessoes_fila: proprio usuario" on public.sessoes_fila
   for all using (auth.uid() = user_id) with check (auth.uid() = user_id);
+
+-- Campos adicionados para diferenciar a última questão respondida da última questão aberta.
+alter table public.sessoes_fila add column if not exists ultima_questao_aberta_id text references public.questoes (id) on delete set null;
+alter table public.sessoes_fila add column if not exists ultima_aberta_em timestamptz;

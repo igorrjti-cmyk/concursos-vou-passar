@@ -61,6 +61,7 @@ function QuestaoDetalhe({ id }: { id: string }) {
   const [explicacao, setExplicacao] = useState<ExplicacaoIA | null>(null);
   const [gerandoExplicacao, setGerandoExplicacao] = useState(false);
   const [erroExplicacao, setErroExplicacao] = useState<string | null>(null);
+  const [userId, setUserId] = useState<string | null>(null);
 
   useEffect(() => {
     (async () => {
@@ -73,7 +74,8 @@ function QuestaoDetalhe({ id }: { id: string }) {
       setQuestao(q ?? null);
 
       const { data: userData } = await supabase.auth.getUser();
-      const userId = userData.user?.id;
+      const userId = userData.user?.id ?? null;
+      setUserId(userId);
       if (userId) {
         const { data: p } = await supabase
           .from("progresso")
@@ -92,6 +94,16 @@ function QuestaoDetalhe({ id }: { id: string }) {
           .eq("questao_id", id)
           .maybeSingle();
         setFavorito(!!fav);
+      }
+
+      if (q && userId && temContexto) {
+        await supabase.from("sessoes_fila").upsert({
+          user_id: userId,
+          filtro_chave: chaveFila(filtrosContexto),
+          filtros: filtrosContexto,
+          ultima_questao_aberta_id: q.id,
+          ultima_aberta_em: new Date().toISOString(),
+        }, { onConflict: "user_id,filtro_chave" });
       }
 
       if (q) {
@@ -145,14 +157,18 @@ function QuestaoDetalhe({ id }: { id: string }) {
 
     // A posição é gravada somente depois de uma resposta registrada.
     // Assim, se o usuário fechar a tela antes de responder, ele retoma a mesma questão.
-    if (temContexto && userId) {
+    const { data: respostaUsuario } = await supabase.auth.getUser();
+    const currentUserId = respostaUsuario.user?.id ?? null;
+    if (temContexto && currentUserId) {
       await supabase.from("sessoes_fila").upsert({
-        user_id: userId,
+        user_id: currentUserId,
         filtro_chave: chaveFila(filtrosContexto),
         filtros: filtrosContexto,
         ultimo_rank: questao.rank,
         ultima_questao_id: questao.id,
         atualizado_em: new Date().toISOString(),
+        ultima_questao_aberta_id: questao.id,
+        ultima_aberta_em: new Date().toISOString(),
       }, { onConflict: "user_id,filtro_chave" });
     }
 

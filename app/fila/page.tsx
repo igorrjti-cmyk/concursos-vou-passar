@@ -32,7 +32,8 @@ function FilaLista() {
   const [carregando, setCarregando] = useState(true);
   const [totalBanco, setTotalBanco] = useState<number | null>(null);
   const [busca, setBusca] = useState("");
-  const [sessao, setSessao] = useState<{ ultimo_rank: number; ultima_questao_id: string | null } | null>(null);
+  const [sessao, setSessao] = useState<{ ultimo_rank: number; ultima_questao_id: string | null; ultima_questao_aberta_id: string | null; ultima_aberta_em: string | null; atualizado_em: string } | null>(null);
+  const [sessoesRecentes, setSessoesRecentes] = useState<Array<{ ultimo_rank:number; ultima_questao_id:string|null; atualizado_em:string; filtros:FilaFiltros }>>([]);
   const [salvandoInicio, setSalvandoInicio] = useState(false);
 
   useEffect(() => { setPagina(0); }, [materiaFiltro, filaFiltro, statusFiltro, busca]);
@@ -52,11 +53,19 @@ function FilaLista() {
       if (!userId) { setSessao(null); return; }
       const { data } = await supabase
         .from("sessoes_fila")
-        .select("ultimo_rank,ultima_questao_id")
+        .select("ultimo_rank,ultima_questao_id,ultima_questao_aberta_id,ultima_aberta_em,atualizado_em")
         .eq("user_id", userId)
         .eq("filtro_chave", chaveFila(filtrosAtuais))
         .maybeSingle();
       setSessao(data ?? null);
+
+      const { data: recentes } = await supabase
+        .from("sessoes_fila")
+        .select("ultimo_rank,ultima_questao_id,atualizado_em,filtros")
+        .eq("user_id", userId)
+        .order("atualizado_em", { ascending: false })
+        .limit(6);
+      setSessoesRecentes((recentes ?? []) as Array<{ ultimo_rank:number; ultima_questao_id:string|null; atualizado_em:string; filtros:FilaFiltros }>);
     })();
   }, [materiaFiltro, filaFiltro, statusFiltro, busca]);
 
@@ -133,12 +142,32 @@ function FilaLista() {
         ultimo_rank: 0,
         ultima_questao_id: null,
         atualizado_em: new Date().toISOString(),
+        ultima_questao_aberta_id: null,
+        ultima_aberta_em: null,
       }, { onConflict: "user_id,filtro_chave" });
       window.location.href = `/questao/${primeira.id}${filaQuery(filtrosAtuais, "inicio")}`;
     } finally {
       setSalvandoInicio(false);
     }
   }
+
+  const sessoesComProxima = useMemo(() => sessoesRecentes.map(s => {
+    const f = s.filtros;
+    let candidatos = questoes.filter(q => {
+      if (!f || f.materia !== "todas" && !(q.topic ?? "").startsWith(`${f.materia} - `)) return false;
+      if (f?.busca && !`${q.topic ?? ""} ${q.stem ?? ""} ${q.rank}`.toLowerCase().includes(f.busca.trim().toLowerCase())) return false;
+      if (f?.status !== "todas" && (progressoMap[q.id]?.status ?? "nao_iniciada") !== f.status) return false;
+      if (f?.fila !== "todas" && filaDinamica(q, progressoMap[q.id]) !== f.fila) return false;
+      return q.rank > s.ultimo_rank;
+    }).sort((a,b) => a.rank - b.rank);
+    return { ...s, proxima: candidatos[0] ?? null };
+  }).filter(s => s.proxima || s.ultimo_rank > 0), [sessoesRecentes, questoes, progressoMap]);
+
+  const resumoFiltros = (f: FilaFiltros) => {
+    const materia = f.materia === "todas" ? "Todas as disciplinas" : f.materia;
+    const detalhes = [f.fila !== "todas" ? FILA_LABEL[f.fila as FilaDinamica] : null, f.status !== "todas" ? STATUS_LABEL[f.status as StatusProgresso] : null].filter(Boolean);
+    return detalhes.length ? `${materia} · ${detalhes.join(" · ")}` : materia;
+  };
 
   const counts = useMemo(() => {
     const all = lista;
@@ -180,6 +209,34 @@ function FilaLista() {
         </div>
       </div>
     </section>
+
+    {sessao && (proximaRetomada || sessao.ultimo_rank) && (
+      <section className="mt-5 overflow-hidden rounded-[24px] border border-gold/15 bg-gradient-to-r from-gold/[.07] via-white/[.025] to-transparent p-5 shadow-[0_20px_60px_rgba(0,0,0,.18)] sm:p-6">
+        <div className="flex flex-col gap-5 sm:flex-row sm:items-center sm:justify-between">
+          <div>
+            <p className="text-[10px] font-semibold uppercase tracking-[.2em] text-gold/70">Sua sessão</p>
+            <h2 className="mt-1 font-serif text-xl text-white">Você parou no Rank #{sessao.ultimo_rank}</h2>
+            <p className="mt-1 text-xs text-white/40">Próxima questão: {proximaRetomada ? `Rank #${proximaRetomada.rank}` : "sequência concluída"}</p>
+            {sessao.atualizado_em && <p className="mt-2 text-[10px] text-white/25">Última resposta salva em {new Date(sessao.atualizado_em).toLocaleString("pt-BR", { dateStyle: "short", timeStyle: "short" })}</p>}
+          </div>
+          {proximaRetomada && <Link href={`/questao/${proximaRetomada.id}${filaQuery(filtrosAtuais, "retomar")}`} className="inline-flex shrink-0 items-center justify-center rounded-2xl bg-gold px-5 py-3 text-sm font-bold text-[#161006] shadow-[0_10px_30px_rgba(231,187,98,.16)] transition hover:-translate-y-0.5 hover:bg-[#f0c975]">Continuar estudo <span className="ml-2">→</span></Link>}
+        </div>
+      </section>
+    )}
+
+    {sessoesComProxima.length > 0 && (
+      <section className="mt-5">
+        <div className="mb-3 flex items-end justify-between gap-3"><div><p className="text-[10px] font-semibold uppercase tracking-[.2em] text-gold/70">Histórico rápido</p><h2 className="mt-1 font-serif text-xl text-white">Continue suas sessões</h2></div><span className="text-[10px] text-white/25">{sessoesComProxima.length} recentes</span></div>
+        <div className="grid gap-3 md:grid-cols-2 xl:grid-cols-3">
+          {sessoesComProxima.map((s) => <div key={chaveFila(s.filtros)} className="glass rounded-[20px] border border-white/[.06] p-4">
+            <p className="line-clamp-2 text-xs font-semibold leading-5 text-white/70">{resumoFiltros(s.filtros)}</p>
+            <div className="mt-3 flex items-end justify-between gap-3"><div><p className="text-[10px] uppercase tracking-[.16em] text-white/25">Último Rank</p><p className="mt-1 font-serif text-2xl text-white">#{s.ultimo_rank}</p></div>{s.proxima ? <div className="text-right"><p className="text-[10px] uppercase tracking-[.16em] text-white/25">Próxima</p><p className="mt-1 text-sm font-semibold text-gold">#{s.proxima.rank}</p></div> : <span className="text-xs text-green-300/60">Concluída</span>}</div>
+            <p className="mt-3 text-[10px] text-white/20">{new Date(s.atualizado_em).toLocaleString("pt-BR", { dateStyle:"short", timeStyle:"short" })}</p>
+            {s.proxima && <Link href={`/questao/${s.proxima.id}${filaQuery(s.filtros, "retomar")}`} className="mt-4 flex items-center justify-center rounded-xl border border-gold/15 bg-gold/[.06] px-3 py-2.5 text-xs font-bold text-gold transition hover:bg-gold/[.1]">Continuar →</Link>}
+          </div>)}
+        </div>
+      </section>
+    )}
 
     <section className="queue-strategy" aria-label="Resumo das filas">
       {(["ataque", "consolidacao", "manutencao", "cobertura"] as FilaDinamica[]).map(f => (
