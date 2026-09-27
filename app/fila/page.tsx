@@ -1,20 +1,16 @@
 "use client";
 
-import { useEffect, useMemo, useState } from "react";
+import { useEffect, useState } from "react";
 import Link from "next/link";
 import AuthGate from "@/components/AuthGate";
 import Nav from "@/components/Nav";
 import { getSupabaseClient } from "@/lib/supabaseClient";
-import type { Progresso, Questao, StatusProgresso } from "@/lib/types";
-import { FILA_DESC, FILA_LABEL, filaDinamica, filaSortScore, prioridadeLabel, prioridadeTexto, accuracyOf, type FilaDinamica } from "@/lib/prioridade";
-import { fetchAllPages } from "@/lib/paginar";
+import type { StatusProgresso } from "@/lib/types";
+import { FILA_DESC, FILA_LABEL, prioridadeLabel, prioridadeTexto, type FilaDinamica } from "@/lib/prioridade";
 import { chaveFila, filaQuery, type FilaFiltros } from "@/lib/filaSessao";
 
 const STATUS_LABEL: Record<StatusProgresso, string> = {
   nao_iniciada: "Não iniciada", feita_certo: "Acertou", feita_errado: "Errou", duvida: "Dúvida",
-};
-const STATUS_COLOR: Record<StatusProgresso, string> = {
-  nao_iniciada: "bg-ink/10 text-ink-light", feita_certo: "bg-certo/10 text-certo", feita_errado: "bg-errado/10 text-errado", duvida: "bg-gold/20 text-gold",
 };
 const PAGE_SIZE = 40;
 const MATERIAS = [
@@ -22,28 +18,74 @@ const MATERIAS = [
   "Contabilidade Geral", "Matemática Financeira", "Estatística", "Contabilidade de Custos",
 ];
 
+// Uma linha já vem pronta do banco (fila_pagina): sem stem/options/resolution,
+// que a lista não usa mesmo — só o necessário pra renderizar o card.
+type LinhaFila = {
+  id: string;
+  rank: number;
+  prioridade_base: number | null;
+  score: number | null;
+  topic: string | null;
+  status: StatusProgresso;
+  tentativas: number | null;
+  acertos: number | null;
+  acc: number | null;
+  fila: FilaDinamica;
+};
+
+type Contagens = Record<FilaDinamica, number>;
+const CONTAGENS_VAZIAS: Contagens = { ataque: 0, consolidacao: 0, manutencao: 0, cobertura: 0 };
+
+function useDebounced<T>(valor: T, atrasoMs: number): T {
+  const [debounced, setDebounced] = useState(valor);
+  useEffect(() => {
+    const t = setTimeout(() => setDebounced(valor), atrasoMs);
+    return () => clearTimeout(t);
+  }, [valor, atrasoMs]);
+  return debounced;
+}
+
 function FilaLista() {
-  const [questoes, setQuestoes] = useState<Questao[]>([]);
-  const [progressoMap, setProgressoMap] = useState<Record<string, Progresso>>({});
   const [pagina, setPagina] = useState(0);
   const [statusFiltro, setStatusFiltro] = useState<"todas" | StatusProgresso>("todas");
   const [filaFiltro, setFilaFiltro] = useState<"todas" | FilaDinamica>("todas");
   const [materiaFiltro, setMateriaFiltro] = useState<"todas" | string>("todas");
-  const [carregando, setCarregando] = useState(true);
-  const [totalBanco, setTotalBanco] = useState<number | null>(null);
   const [busca, setBusca] = useState("");
+  const buscaDebounced = useDebounced(busca.trim(), 300);
+
+  const [linhas, setLinhas] = useState<LinhaFila[]>([]);
+  const [totalFiltro, setTotalFiltro] = useState(0);
+  const [totalBanco, setTotalBanco] = useState<number | null>(null);
+  const [contagens, setContagens] = useState<Contagens>(CONTAGENS_VAZIAS);
+  const [carregando, setCarregando] = useState(true);
+  const [erro, setErro] = useState<string | null>(null);
+
   const [sessao, setSessao] = useState<{ ultimo_rank: number; ultima_questao_id: string | null } | null>(null);
+  const [nav, setNav] = useState<{ primeiraId: string | null; primeiraRank: number | null; retomadaId: string | null; retomadaRank: number | null }>({
+    primeiraId: null, primeiraRank: null, retomadaId: null, retomadaRank: null,
+  });
   const [salvandoInicio, setSalvandoInicio] = useState(false);
 
-  useEffect(() => { setPagina(0); }, [materiaFiltro, filaFiltro, statusFiltro, busca]);
+  useEffect(() => { setPagina(0); }, [materiaFiltro, filaFiltro, statusFiltro, buscaDebounced]);
 
   const filtrosAtuais: FilaFiltros = {
     materia: materiaFiltro,
     fila: filaFiltro,
     status: statusFiltro,
-    busca,
+    busca: buscaDebounced,
   };
+  const rpcFiltros = { p_materia: materiaFiltro, p_fila: filaFiltro, p_status: statusFiltro, p_busca: buscaDebounced };
 
+  // Total do banco: só uma contagem (head:true não traz linhas), não precisa de RPC.
+  useEffect(() => {
+    (async () => {
+      const supabase = getSupabaseClient();
+      const { count } = await supabase.from("questoes").select("id", { count: "exact", head: true });
+      setTotalBanco(count ?? null);
+    })();
+  }, []);
+
+  // Sessão de retomada (posição salva por combinação de filtros).
   useEffect(() => {
     (async () => {
       const supabase = getSupabaseClient();
@@ -58,68 +100,65 @@ function FilaLista() {
         .maybeSingle();
       setSessao(data ?? null);
     })();
-  }, [materiaFiltro, filaFiltro, statusFiltro, busca]);
+  }, [materiaFiltro, filaFiltro, statusFiltro, buscaDebounced]);
 
+  // Página atual da fila — o banco já filtra, ordena (score) e pagina.
   useEffect(() => {
     (async () => {
       setCarregando(true);
+      setErro(null);
       const supabase = getSupabaseClient();
-      const { data: userData } = await supabase.auth.getUser();
-      const userId = userData.user?.id;
-      if (userId) {
-        const progresso = await fetchAllPages<Progresso>(async (from, to) =>
-          await supabase.from("progresso").select("*", { count: "exact" }).eq("user_id", userId).range(from, to)
-        );
-        const map: Record<string, Progresso> = {};
-        progresso.forEach((p) => { map[p.questao_id] = p; });
-        setProgressoMap(map);
+      const { data, error } = await supabase.rpc("fila_pagina", {
+        ...rpcFiltros,
+        p_ordenar_por: "score",
+        p_limit: PAGE_SIZE,
+        p_offset: pagina * PAGE_SIZE,
+      });
+      if (error) {
+        setErro("Não foi possível carregar a fila agora. Tente novamente em instantes.");
+        setLinhas([]); setTotalFiltro(0);
+      } else {
+        const linhasBanco = (data ?? []) as (LinhaFila & { total_count: number })[];
+        setLinhas(linhasBanco);
+        setTotalFiltro(linhasBanco[0]?.total_count ?? 0);
       }
-      const { count: totalCount, error: totalError } = await supabase
-        .from("questoes")
-        .select("id", { count: "exact", head: true });
-      if (totalError) throw totalError;
-      setTotalBanco(totalCount ?? null);
-
-      const data = await fetchAllPages<Questao>(async (from, to) =>
-        await supabase
-          .from("questoes")
-          .select("*", { count: "exact" })
-          .order("prioridade_base", { ascending: false, nullsFirst: false })
-          .order("rank", { ascending: true })
-          .range(from, to)
-      );
-      setQuestoes(data);
       setCarregando(false);
     })();
-  }, []);
+  }, [materiaFiltro, filaFiltro, statusFiltro, buscaDebounced, pagina]);
 
-  const lista = useMemo(() => {
-    let arr = questoes.filter(q => materiaFiltro === "todas" || (q.topic ?? "").startsWith(`${materiaFiltro} - `));
-    const termo = busca.trim().toLowerCase();
-    if (termo) arr = arr.filter(q => `${q.topic ?? ""} ${q.stem ?? ""} ${q.rank}`.toLowerCase().includes(termo));
-    if (statusFiltro !== "todas") arr = arr.filter(q => (progressoMap[q.id]?.status ?? "nao_iniciada") === statusFiltro);
-    if (filaFiltro !== "todas") arr = arr.filter(q => filaDinamica(q, progressoMap[q.id]) === filaFiltro);
-    return [...arr].sort((a, b) => {
-      const sa = filaSortScore(a, progressoMap[a.id]);
-      const sb = filaSortScore(b, progressoMap[b.id]);
-      return sb - sa || (a.rank - b.rank);
-    });
-  }, [questoes, progressoMap, statusFiltro, filaFiltro, materiaFiltro, busca]);
+  // Contagens por fila para os cards de resumo (mesmos filtros, sem paginação).
+  useEffect(() => {
+    (async () => {
+      const supabase = getSupabaseClient();
+      const { data, error } = await supabase.rpc("fila_contagens", rpcFiltros);
+      if (error) { setContagens(CONTAGENS_VAZIAS); return; }
+      const mapa = { ...CONTAGENS_VAZIAS };
+      (data ?? []).forEach((row: { fila: FilaDinamica; total: number }) => { mapa[row.fila] = row.total; });
+      setContagens(mapa);
+    })();
+  }, [materiaFiltro, filaFiltro, statusFiltro, buscaDebounced]);
 
-  const totalPaginas = Math.max(1, Math.ceil(lista.length / PAGE_SIZE));
-  const paginaSegura = Math.min(pagina, totalPaginas - 1);
-  const visiveis = lista.slice(paginaSegura * PAGE_SIZE, paginaSegura * PAGE_SIZE + PAGE_SIZE);
-
-  // A posição de retomada usa o rank estável do banco, enquanto a exibição
-  // continua respeitando a prioridade inteligente da Fila.
-  const sequenciaRank = useMemo(() => [...lista].sort((a, b) => a.rank - b.rank), [lista]);
-  const primeira = sequenciaRank[0] ?? null;
-  const proximaRetomada = sessao?.ultimo_rank
-    ? sequenciaRank.find(q => q.rank > sessao.ultimo_rank) ?? null
-    : null;
+  // Navegação (primeira questão da sequência + próxima depois de ultimo_rank).
+  useEffect(() => {
+    (async () => {
+      const supabase = getSupabaseClient();
+      const { data, error } = await supabase.rpc("fila_navegacao", {
+        ...rpcFiltros,
+        p_ultimo_rank: sessao?.ultimo_rank ?? 0,
+      });
+      if (error) { setNav({ primeiraId: null, primeiraRank: null, retomadaId: null, retomadaRank: null }); return; }
+      const linha = (data ?? [])[0];
+      setNav({
+        primeiraId: linha?.primeira_id ?? null,
+        primeiraRank: linha?.primeira_rank ?? null,
+        retomadaId: linha?.retomada_id ?? null,
+        retomadaRank: linha?.retomada_rank ?? null,
+      });
+    })();
+  }, [materiaFiltro, filaFiltro, statusFiltro, buscaDebounced, sessao]);
 
   async function comecarDoInicio() {
-    if (!primeira || salvandoInicio) return;
+    if (!nav.primeiraId || salvandoInicio) return;
     setSalvandoInicio(true);
     try {
       const supabase = getSupabaseClient();
@@ -134,21 +173,15 @@ function FilaLista() {
         ultima_questao_id: null,
         atualizado_em: new Date().toISOString(),
       }, { onConflict: "user_id,filtro_chave" });
-      window.location.href = `/questao/${primeira.id}${filaQuery(filtrosAtuais, "inicio")}`;
+      window.location.href = `/questao/${nav.primeiraId}${filaQuery(filtrosAtuais, "inicio")}`;
     } finally {
       setSalvandoInicio(false);
     }
   }
 
-  const counts = useMemo(() => {
-    const all = lista;
-    return {
-      ataque: all.filter(q => filaDinamica(q, progressoMap[q.id]) === "ataque").length,
-      consolidacao: all.filter(q => filaDinamica(q, progressoMap[q.id]) === "consolidacao").length,
-      manutencao: all.filter(q => filaDinamica(q, progressoMap[q.id]) === "manutencao").length,
-      cobertura: all.filter(q => filaDinamica(q, progressoMap[q.id]) === "cobertura").length,
-    };
-  }, [lista, progressoMap]);
+  const totalPaginas = Math.max(1, Math.ceil(totalFiltro / PAGE_SIZE));
+  const paginaSegura = Math.min(pagina, totalPaginas - 1);
+  const proximaRetomada = nav.retomadaId ? { id: nav.retomadaId, rank: nav.retomadaRank } : null;
 
   return <div className="queue-page mx-auto px-4 py-7 sm:px-6 lg:px-8">
     <section className="queue-hero">
@@ -157,7 +190,7 @@ function FilaLista() {
         <h1 className="queue-hero__title">Fila de estudos</h1>
         <p className="queue-hero__desc">Sua sequência personalizada de questões. A prioridade combina importância estratégica, histórico de respostas e domínio do conteúdo.</p>
         <div className="queue-hero__actions">
-          <button type="button" onClick={comecarDoInicio} disabled={!primeira || salvandoInicio} className="queue-hero__action">
+          <button type="button" onClick={comecarDoInicio} disabled={!nav.primeiraId || salvandoInicio} className="queue-hero__action">
             {salvandoInicio ? "Preparando…" : "▶ Começar do início"} <span>→</span>
           </button>
           {proximaRetomada && (
@@ -167,14 +200,14 @@ function FilaLista() {
           )}
         </div>
       </div>
-      <div className="queue-hero__meta"><div>{lista.length} questões no filtro atual</div><div className="mt-1">Banco: {totalBanco ?? "…"}</div></div>
+      <div className="queue-hero__meta"><div>{totalFiltro} questões no filtro atual</div><div className="mt-1">Banco: {totalBanco ?? "…"}</div></div>
     </section>
 
     <section className="queue-strategy" aria-label="Resumo das filas">
       {(["ataque", "consolidacao", "manutencao", "cobertura"] as FilaDinamica[]).map(f => (
         <button key={f} onClick={() => setFilaFiltro(f)} className={`queue-strategy-card text-left ${filaFiltro === f ? "ring-1 ring-blue-400/30" : ""}`}>
           <div className="queue-strategy-card__top"><span className="queue-strategy-card__dot"/><span className="queue-strategy-card__label">{FILA_LABEL[f]}</span></div>
-          <div className="queue-strategy-card__count">{counts[f]}</div>
+          <div className="queue-strategy-card__count">{contagens[f]}</div>
           <div className="queue-strategy-card__desc">{FILA_DESC[f]}</div>
         </button>
       ))}
@@ -197,21 +230,21 @@ function FilaLista() {
     </section>
 
     <section className="queue-list">
-      {carregando ? <p className="p-7 text-sm text-white/35">Preparando sua fila inteligente…</p> : visiveis.length === 0 ? <p className="p-7 text-sm text-white/35">Nada encontrado neste filtro.</p> : visiveis.map(q => {
-        const p = progressoMap[q.id]; const status = p?.status ?? "nao_iniciada"; const fila = filaDinamica(q, p); const acc = accuracyOf(p);
+      {erro ? <p className="p-7 text-sm text-errado">{erro}</p> : carregando ? <p className="p-7 text-sm text-white/35">Preparando sua fila inteligente…</p> : linhas.length === 0 ? <p className="p-7 text-sm text-white/35">Nada encontrado neste filtro.</p> : linhas.map(q => {
+        const acc = q.acc;
         return <Link key={q.id} href={`/questao/${q.id}${filaQuery(filtrosAtuais, "retomar")}`} className="queue-item">
           <div className="queue-item__grid">
             <span className="queue-item__rank">#{q.rank}</span>
             <div className="queue-item__main">
               <div className="queue-item__chips">
                 <span className="queue-chip is-priority">{prioridadeLabel(q.prioridade_base)}</span>
-                <span className="queue-chip is-fila">{FILA_LABEL[fila]}</span>
-                <span className="queue-chip">{STATUS_LABEL[status]}</span>
+                <span className="queue-chip is-fila">{FILA_LABEL[q.fila]}</span>
+                <span className="queue-chip">{STATUS_LABEL[q.status]}</span>
               </div>
               <p className="queue-item__topic">{q.topic}</p>
               <p className="queue-item__detail">{prioridadeTexto(q.prioridade_base)} · Score {q.score ?? "—"} · Base {q.prioridade_base ?? "—"}/100{acc !== null ? ` · ${Math.round(acc)}% de aproveitamento` : ""}</p>
             </div>
-            <div className="queue-item__side"><span className="queue-item__status" style={{color: status === "feita_errado" ? "#ff7373" : status === "feita_certo" ? "#55d6a2" : "#70a7ff"}}>{acc !== null ? `${Math.round(acc)}%` : "Nova"}</span><span className="queue-item__score">{p?.tentativas ?? 0} tentativas</span></div>
+            <div className="queue-item__side"><span className="queue-item__status" style={{color: q.status === "feita_errado" ? "#ff7373" : q.status === "feita_certo" ? "#55d6a2" : "#70a7ff"}}>{acc !== null ? `${Math.round(acc)}%` : "Nova"}</span><span className="queue-item__score">{q.tentativas ?? 0} tentativas</span></div>
             <span className="queue-item__arrow">›</span>
           </div>
         </Link>;
