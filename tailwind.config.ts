@@ -6,17 +6,17 @@ const config: Config = {
     extend: {
       colors: {
         ink: {
-          DEFAULT: "#1b2a4a",
-          light: "#2b3d63",
-          dark: "#101a30",
+          DEFAULT: "#f3f6fb",
+          light: "#aeb9cb",
+          dark: "#070b14",
         },
-        paper: "#f6f4ee",
+        paper: "#0b1020",
         gold: {
-          DEFAULT: "#c08a28",
-          light: "#e0b45c",
+          DEFAULT: "#d6a84f",
+          light: "#f0c96b",
         },
-        errado: "#a3372f",
-        certo: "#2f6b4f",
+        errado: "#ef6a6a",
+        certo: "#58c792",
       },
       fontFamily: {
         serif: ["'Source Serif 4'", "Georgia", "serif"],
