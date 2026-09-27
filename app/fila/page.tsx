@@ -7,6 +7,7 @@ import Nav from "@/components/Nav";
 import { getSupabaseClient } from "@/lib/supabaseClient";
 import type { Progresso, Questao, StatusProgresso } from "@/lib/types";
 import { FILA_DESC, FILA_LABEL, filaDinamica, filaSortScore, prioridadeLabel, prioridadeTexto, accuracyOf, type FilaDinamica } from "@/lib/prioridade";
+import { fetchAllPages } from "@/lib/paginar";
 
 const STATUS_LABEL: Record<StatusProgresso, string> = {
   nao_iniciada: "Não iniciada", feita_certo: "Acertou", feita_errado: "Errou", duvida: "Dúvida",
@@ -38,13 +39,22 @@ function FilaLista() {
       const { data: userData } = await supabase.auth.getUser();
       const userId = userData.user?.id;
       if (userId) {
-        const { data: progresso } = await supabase.from("progresso").select("*").eq("user_id", userId);
+        const progresso = await fetchAllPages<Progresso>((from, to) =>
+          supabase.from("progresso").select("*").eq("user_id", userId).range(from, to)
+        );
         const map: Record<string, Progresso> = {};
-        (progresso ?? []).forEach((p: Progresso) => { map[p.questao_id] = p; });
+        progresso.forEach((p) => { map[p.questao_id] = p; });
         setProgressoMap(map);
       }
-      const { data } = await supabase.from("questoes").select("*").order("prioridade_base", { ascending: false, nullsFirst: false }).order("rank", { ascending: true });
-      setQuestoes(data ?? []);
+      const data = await fetchAllPages<Questao>((from, to) =>
+        supabase
+          .from("questoes")
+          .select("*")
+          .order("prioridade_base", { ascending: false, nullsFirst: false })
+          .order("rank", { ascending: true })
+          .range(from, to)
+      );
+      setQuestoes(data);
       setCarregando(false);
     })();
   }, []);
