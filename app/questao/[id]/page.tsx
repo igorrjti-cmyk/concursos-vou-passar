@@ -7,7 +7,7 @@ import AuthGate from "@/components/AuthGate";
 import Nav from "@/components/Nav";
 import { getSupabaseClient } from "@/lib/supabaseClient";
 import type { Progresso, Questao, ExplicacaoIA } from "@/lib/types";
-import { filaDinamica, FILA_LABEL, prioridadeLabel } from "@/lib/prioridade";
+import { filaDinamica, FILA_LABEL, prioridadeLabel, filaSortScore } from "@/lib/prioridade";
 import { chaveFila, filaQuery, filtrosDaUrl, type FilaFiltros } from "@/lib/filaSessao";
 
 const REVISOES = [
@@ -61,70 +61,67 @@ function QuestaoDetalhe({ id }: { id: string }) {
   const [explicacao, setExplicacao] = useState<ExplicacaoIA | null>(null);
   const [gerandoExplicacao, setGerandoExplicacao] = useState(false);
   const [erroExplicacao, setErroExplicacao] = useState<string | null>(null);
-  const [userId, setUserId] = useState<string | null>(null);
-  const [erroCarregamento, setErroCarregamento] = useState<string | null>(null);
 
   useEffect(() => {
     (async () => {
-      setErroCarregamento(null);
       const supabase = getSupabaseClient();
-      const { data: q, error: erroQuestao } = await supabase
+      const { data: q } = await supabase
         .from("questoes")
         .select("*")
         .eq("id", id)
         .maybeSingle();
-      if (erroQuestao) {
-        setErroCarregamento("Não foi possível carregar esta questão agora. Tente novamente.");
-        return;
-      }
       setQuestao(q ?? null);
 
       const { data: userData } = await supabase.auth.getUser();
-      const uid = userData.user?.id ?? null;
-      setUserId(uid);
-      if (uid) {
-        const { data: p, error: erroProgresso } = await supabase
+      const userId = userData.user?.id;
+      if (userId) {
+        const { data: p } = await supabase
           .from("progresso")
           .select("*")
-          .eq("user_id", uid)
+          .eq("user_id", userId)
           .eq("questao_id", id)
           .maybeSingle();
-        if (erroProgresso) {
-          setErroCarregamento("Não foi possível carregar seu progresso nesta questão.");
-        } else {
-          setProgresso(p ?? null);
-          setObservacao(p?.observacao ?? "");
-          if (p && p.status !== "nao_iniciada") setRespondida(true);
-        }
+        setProgresso(p ?? null);
+        setObservacao(p?.observacao ?? "");
+        if (p && p.status !== "nao_iniciada") setRespondida(true);
 
-        const { data: fav, error: erroFav } = await supabase
+        const { data: fav } = await supabase
           .from("favoritos")
           .select("questao_id")
-          .eq("user_id", uid)
+          .eq("user_id", userId)
           .eq("questao_id", id)
           .maybeSingle();
-        if (!erroFav) setFavorito(!!fav);
+        setFavorito(!!fav);
       }
 
-      // Em vez de baixar as ~965 questões + todo o progresso do usuário só para
-      // achar a próxima, o banco já devolve direto o próximo id/rank pronto.
       if (q) {
+        const { data: allQuestions } = await supabase
+          .from("questoes")
+          .select("*")
+          .order("rank", { ascending: true });
+        const { data: allProgress } = userId
+          ? await supabase.from("progresso").select("*").eq("user_id", userId)
+          : { data: [] as Progresso[] };
+        const progressMap = Object.fromEntries((allProgress ?? []).map((p: Progresso) => [p.questao_id, p]));
+
         if (temContexto) {
-          const { data: nav, error: erroNav } = await supabase.rpc("fila_navegacao", {
-            p_materia: filtrosContexto.materia,
-            p_fila: filtrosContexto.fila,
-            p_status: filtrosContexto.status,
-            p_busca: filtrosContexto.busca,
-            p_ultimo_rank: q.rank,
+          let candidatos = (allQuestions ?? []).filter((x: Questao) => {
+            if (filtrosContexto.materia !== "todas" && !(x.topic ?? "").startsWith(`${filtrosContexto.materia} - `)) return false;
+            if (filtrosContexto.busca) {
+              const termo = filtrosContexto.busca.toLowerCase();
+              if (!`${x.topic ?? ""} ${x.stem ?? ""} ${x.rank}`.toLowerCase().includes(termo)) return false;
+            }
+            if (filtrosContexto.status !== "todas" && (progressMap[x.id]?.status ?? "nao_iniciada") !== filtrosContexto.status) return false;
+            if (filtrosContexto.fila !== "todas" && filaDinamica(x, progressMap[x.id]) !== filtrosContexto.fila) return false;
+            return true;
           });
-          const linha = erroNav ? null : (nav ?? [])[0];
-          setProxima(linha?.retomada_id ? ({ id: linha.retomada_id, rank: linha.retomada_rank } as Questao) : null);
+          candidatos = candidatos.filter((x) => x.id !== q.id && x.rank > q.rank);
+          candidatos.sort((a, b) => a.rank - b.rank);
+          setProxima(candidatos[0] ?? null);
         } else {
-          const { data: prox, error: erroProx } = await supabase.rpc("fila_proxima_sem_contexto", {
-            p_questao_atual_id: q.id,
-          });
-          const linha = erroProx ? null : (prox ?? [])[0];
-          setProxima(linha?.proxima_id ? ({ id: linha.proxima_id, rank: linha.proxima_rank } as Questao) : null);
+          const candidatos = (allQuestions ?? []).filter((x: Questao) => x.id !== q.id);
+          candidatos.sort((a: Questao, b: Questao) => filaSortScore(b, progressMap[b.id]) - filaSortScore(a, progressMap[a.id]) || a.rank - b.rank);
+          setProxima(candidatos[0] ?? null);
         }
       }
     })();
@@ -260,9 +257,6 @@ function QuestaoDetalhe({ id }: { id: string }) {
   }
 
   if (!questao) {
-    if (erroCarregamento) {
-      return <p className="px-4 py-8 sm:px-6 sm:py-10 text-errado">{erroCarregamento}</p>;
-    }
     return <p className="px-4 py-8 sm:px-6 sm:py-10 text-ink-light/60">Carregando questão…</p>;
   }
 

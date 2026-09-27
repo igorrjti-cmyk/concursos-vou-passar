@@ -19,12 +19,10 @@ type Aba = "todos" | "hoje" | "recorrentes" | "disciplina";
 function CentralErros() {
   const [itens, setItens] = useState<ItemErro[]>([]);
   const [carregando, setCarregando] = useState(true);
-  const [erro, setErro] = useState<string | null>(null);
   const [aba, setAba] = useState<Aba>("todos");
 
   useEffect(() => {
     (async () => {
-      setErro(null);
       const supabase = getSupabaseClient();
       const { data: userData } = await supabase.auth.getUser();
       const userId = userData.user?.id;
@@ -33,16 +31,11 @@ function CentralErros() {
         return;
       }
 
-      const { data: progresso, error: erroProgresso } = await supabase
+      const { data: progresso } = await supabase
         .from("progresso")
         .select("questao_id,status,error_count,ultima_resolucao,observacao")
         .eq("user_id", userId)
         .in("status", ["feita_errado", "duvida"]);
-      if (erroProgresso) {
-        setErro("Não foi possível carregar sua central de erros agora. Tente novamente.");
-        setCarregando(false);
-        return;
-      }
 
       const ids = (progresso ?? []).map((p) => p.questao_id);
       if (ids.length === 0) {
@@ -50,16 +43,11 @@ function CentralErros() {
         return;
       }
 
-      const { data: questoes, error: erroQuestoes } = await supabase
+      const { data: questoes } = await supabase
         .from("questoes")
         .select("*")
         .in("id", ids)
         .order("rank", { ascending: true });
-      if (erroQuestoes) {
-        setErro("Não foi possível carregar as questões agora. Tente novamente.");
-        setCarregando(false);
-        return;
-      }
 
       const infoMap = Object.fromEntries((progresso ?? []).map((p) => [p.questao_id, p]));
 
@@ -130,8 +118,6 @@ function CentralErros() {
         <div className="mt-6 space-y-4">
           {carregando ? (
             <p className="text-ink-light/60">Carregando…</p>
-          ) : erro ? (
-            <p className="rounded-2xl border border-white/10 bg-white/60 p-6 text-errado">{erro}</p>
           ) : porDisciplina.length === 0 ? (
             <p className="rounded-2xl border border-white/10 bg-white/60 p-6 text-ink-light/60">
               Nenhum erro ou dúvida registrada ainda. 👍
@@ -156,8 +142,6 @@ function CentralErros() {
         <div className="mt-6 divide-y divide-ink/10 rounded-2xl border border-white/10 bg-white/60">
           {carregando ? (
             <p className="p-6 text-ink-light/60">Carregando…</p>
-          ) : erro ? (
-            <p className="p-6 text-errado">{erro}</p>
           ) : filtrados.length === 0 ? (
             <p className="p-6 text-ink-light/60">Nada por aqui. 👍</p>
           ) : (

@@ -10,11 +10,9 @@ import type { Questao } from "@/lib/types";
 function Favoritos() {
   const [itens, setItens] = useState<Questao[]>([]);
   const [carregando, setCarregando] = useState(true);
-  const [erro, setErro] = useState<string | null>(null);
 
   async function carregar() {
     setCarregando(true);
-    setErro(null);
     const supabase = getSupabaseClient();
     const { data: userData } = await supabase.auth.getUser();
     const userId = userData.user?.id;
@@ -23,15 +21,10 @@ function Favoritos() {
       return;
     }
 
-    const { data: favoritos, error: erroFavoritos } = await supabase
+    const { data: favoritos } = await supabase
       .from("favoritos")
       .select("questao_id")
       .eq("user_id", userId);
-    if (erroFavoritos) {
-      setErro("Não foi possível carregar seus favoritos agora. Tente novamente.");
-      setCarregando(false);
-      return;
-    }
 
     const ids = (favoritos ?? []).map((f) => f.questao_id);
     if (ids.length === 0) {
@@ -40,16 +33,11 @@ function Favoritos() {
       return;
     }
 
-    const { data: questoes, error: erroQuestoes } = await supabase
+    const { data: questoes } = await supabase
       .from("questoes")
       .select("*")
       .in("id", ids)
       .order("rank", { ascending: true });
-    if (erroQuestoes) {
-      setErro("Não foi possível carregar as questões favoritadas agora. Tente novamente.");
-      setCarregando(false);
-      return;
-    }
 
     setItens(questoes ?? []);
     setCarregando(false);
@@ -82,8 +70,6 @@ function Favoritos() {
       <div className="mt-6 divide-y divide-ink/10 rounded-2xl border border-white/10 bg-white/60">
         {carregando ? (
           <p className="p-6 text-ink-light/60">Carregando…</p>
-        ) : erro ? (
-          <p className="p-6 text-errado">{erro}</p>
         ) : itens.length === 0 ? (
           <p className="p-6 text-ink-light/60">
             Nenhum favorito ainda. Toque na estrela ☆ dentro de uma questão para
