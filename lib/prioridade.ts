@@ -19,7 +19,7 @@ export const FILA_DESC: Record<FilaDinamica, string> = {
 type ProgressoFila = Pick<Progresso, "status"> & Partial<Pick<Progresso, "tentativas" | "acertos">>;
 
 export function accuracyOf(p?: ProgressoFila | null) {
-  if (!p || !p.tentativas) return null;
+  if (!p || !p.tentativas || p.acertos === undefined) return null;
   return (p.acertos / p.tentativas) * 100;
 }
 
