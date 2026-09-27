@@ -268,3 +268,13 @@ dias — tudo isso é calculado dentro de `registrar_tentativa_v2` no banco.
 ### Não implementado (por decisão de escopo)
 PWA / funcionamento offline, plano de estudos automático e ranking entre
 usuários ficaram de fora intencionalmente.
+
+## Retomada da Fila por filtro
+
+A Fila agora grava a posição de estudo por combinação de filtros (matéria, fila, status e busca). A posição usa o `rank` estável das questões.
+
+Antes de publicar esta versão, rode no Supabase:
+
+`supabase/migrations_20260927_sessoes_fila.sql`
+
+Na Fila aparecem os comandos **Começar do início** e **Começar de onde parei**. A retomada só avança o ponto salvo depois que a resposta da questão é registrada, para que fechar a página sem responder não faça o aluno perder a questão atual.

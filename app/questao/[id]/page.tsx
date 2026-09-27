@@ -1,12 +1,14 @@
 "use client";
 
 import { useEffect, useState } from "react";
+import { useSearchParams } from "next/navigation";
 import Link from "next/link";
 import AuthGate from "@/components/AuthGate";
 import Nav from "@/components/Nav";
 import { getSupabaseClient } from "@/lib/supabaseClient";
 import type { Progresso, Questao, ExplicacaoIA } from "@/lib/types";
 import { filaDinamica, FILA_LABEL, prioridadeLabel, filaSortScore } from "@/lib/prioridade";
+import { chaveFila, filaQuery, filtrosDaUrl, type FilaFiltros } from "@/lib/filaSessao";
 
 const REVISOES = [
   { label: "1 dia", dias: 1 },
@@ -42,6 +44,9 @@ const NOME_CONQUISTA: Record<string, string> = {
 };
 
 function QuestaoDetalhe({ id }: { id: string }) {
+  const searchParams = useSearchParams();
+  const filtrosContexto: FilaFiltros = filtrosDaUrl(searchParams);
+  const temContexto = ["materia", "fila", "status", "busca"].some((key) => searchParams.has(key));
   const [questao, setQuestao] = useState<Questao | null>(null);
   const [progresso, setProgresso] = useState<Progresso | null>(null);
   const [selecionada, setSelecionada] = useState<string | null>(null);
@@ -93,15 +98,31 @@ function QuestaoDetalhe({ id }: { id: string }) {
         const { data: allQuestions } = await supabase
           .from("questoes")
           .select("*")
-          .order("prioridade_base", { ascending: false, nullsFirst: false })
           .order("rank", { ascending: true });
         const { data: allProgress } = userId
           ? await supabase.from("progresso").select("*").eq("user_id", userId)
           : { data: [] as Progresso[] };
         const progressMap = Object.fromEntries((allProgress ?? []).map((p: Progresso) => [p.questao_id, p]));
-        const candidatos = (allQuestions ?? []).filter((x: Questao) => x.id !== q.id);
-        candidatos.sort((a: Questao, b: Questao) => filaSortScore(b, progressMap[b.id]) - filaSortScore(a, progressMap[a.id]) || a.rank - b.rank);
-        setProxima(candidatos[0] ?? null);
+
+        if (temContexto) {
+          let candidatos = (allQuestions ?? []).filter((x: Questao) => {
+            if (filtrosContexto.materia !== "todas" && !(x.topic ?? "").startsWith(`${filtrosContexto.materia} - `)) return false;
+            if (filtrosContexto.busca) {
+              const termo = filtrosContexto.busca.toLowerCase();
+              if (!`${x.topic ?? ""} ${x.stem ?? ""} ${x.rank}`.toLowerCase().includes(termo)) return false;
+            }
+            if (filtrosContexto.status !== "todas" && (progressMap[x.id]?.status ?? "nao_iniciada") !== filtrosContexto.status) return false;
+            if (filtrosContexto.fila !== "todas" && filaDinamica(x, progressMap[x.id]) !== filtrosContexto.fila) return false;
+            return true;
+          });
+          candidatos = candidatos.filter((x) => x.id !== q.id && x.rank > q.rank);
+          candidatos.sort((a, b) => a.rank - b.rank);
+          setProxima(candidatos[0] ?? null);
+        } else {
+          const candidatos = (allQuestions ?? []).filter((x: Questao) => x.id !== q.id);
+          candidatos.sort((a: Questao, b: Questao) => filaSortScore(b, progressMap[b.id]) - filaSortScore(a, progressMap[a.id]) || a.rank - b.rank);
+          setProxima(candidatos[0] ?? null);
+        }
       }
     })();
   }, [id]);
@@ -121,6 +142,20 @@ function QuestaoDetalhe({ id }: { id: string }) {
       p_observacao: null,
     });
     if (data) setResultadoGam(data as ResultadoGamificacao);
+
+    // A posição é gravada somente depois de uma resposta registrada.
+    // Assim, se o usuário fechar a tela antes de responder, ele retoma a mesma questão.
+    if (temContexto && userId) {
+      await supabase.from("sessoes_fila").upsert({
+        user_id: userId,
+        filtro_chave: chaveFila(filtrosContexto),
+        filtros: filtrosContexto,
+        ultimo_rank: questao.rank,
+        ultima_questao_id: questao.id,
+        atualizado_em: new Date().toISOString(),
+      }, { onConflict: "user_id,filtro_chave" });
+    }
+
     setAguardandoDificuldade(false);
     setRespondida(true);
     setSalvando(false);
@@ -261,6 +296,11 @@ function QuestaoDetalhe({ id }: { id: string }) {
       <p className="mt-3 text-xs uppercase tracking-wide text-ink-light/50">
         {questao.topic}
       </p>
+      {temContexto && (
+        <p className="mt-2 text-[10px] uppercase tracking-[.16em] text-blue-300/60">
+          Sequência por rank · filtros preservados nesta sessão
+        </p>
+      )}
       <p className="mt-3 whitespace-pre-line font-serif text-[1.05rem] leading-8 text-ink sm:text-lg">
         {questao.stem}
       </p>
@@ -434,7 +474,7 @@ function QuestaoDetalhe({ id }: { id: string }) {
             </button>
             {proxima ? (
               <Link
-                href={`/questao/${proxima.id}`}
+                href={`/questao/${proxima.id}${temContexto ? filaQuery(filtrosContexto, "retomar") : ""}`}
                 className="rounded-md bg-ink px-5 py-2.5 text-sm font-medium text-paper transition hover:bg-ink-light"
               >
                 Próxima da fila →
