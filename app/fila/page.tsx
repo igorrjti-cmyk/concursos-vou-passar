@@ -9,6 +9,7 @@ import type { Progresso, Questao, StatusProgresso } from "@/lib/types";
 import { FILA_DESC, FILA_LABEL, filaDinamica, filaSortScore, prioridadeLabel, prioridadeTexto, accuracyOf, type FilaDinamica } from "@/lib/prioridade";
 import { fetchAllPages } from "@/lib/paginar";
 import { chaveFila, filaQuery, type FilaFiltros } from "@/lib/filaSessao";
+import { MATERIA_POR_ID } from "@/lib/materiaPorId";
 
 const STATUS_LABEL: Record<StatusProgresso, string> = {
   nao_iniciada: "Não iniciada", feita_certo: "Acertou", feita_errado: "Errou", duvida: "Dúvida",
@@ -271,7 +272,7 @@ function FilaLista() {
           <span className="text-xs text-white/35">{desempenhoResumo.respondidas.toLocaleString("pt-BR")} respondidas</span>
         </div>
         <div className="mt-5 grid grid-cols-2 gap-3 sm:grid-cols-4">
-          <div className="rounded-2xl border border-white/[.05] bg-black/10 p-4"><p className="text-[10px] uppercase tracking-[.12em] text-white/30">Acurácia</p><b className="mt-2 block text-2xl text-white">{desempenhoResumo.acuracia}%</b></div>
+          <div className="rounded-2xl border border-white/[.05] bg-black/10 p-4"><p className="text-[10px] uppercase tracking-[.12em] text-white/30">Taxa de acertos</p><b className="mt-2 block text-2xl text-white">{desempenhoResumo.acuracia}%</b></div>
           <button onClick={()=>setStatusFiltro("feita_errado")} className="rounded-2xl border border-rose-400/10 bg-rose-500/[.04] p-4 text-left"><p className="text-[10px] uppercase tracking-[.12em] text-rose-300/60">Erros</p><b className="mt-2 block text-2xl text-white">{progressoResumo.erros}</b></button>
           <button onClick={()=>setStatusFiltro("duvida")} className="rounded-2xl border border-amber-400/10 bg-amber-500/[.04] p-4 text-left"><p className="text-[10px] uppercase tracking-[.12em] text-amber-300/60">Dúvidas</p><b className="mt-2 block text-2xl text-white">{progressoResumo.duvidas}</b></button>
           <div className="rounded-2xl border border-white/[.05] bg-black/10 p-4"><p className="text-[10px] uppercase tracking-[.12em] text-white/30">Pendentes</p><b className="mt-2 block text-2xl text-white">{desempenhoResumo.pendentes.toLocaleString("pt-BR")}</b></div>
