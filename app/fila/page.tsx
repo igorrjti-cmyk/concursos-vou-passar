@@ -83,7 +83,7 @@ function FilaLista() {
         .limit(6);
       setSessoesRecentes((recentes ?? []) as Array<{ ultimo_rank:number; ultima_questao_id:string|null; atualizado_em:string; filtros:FilaFiltros }>);
     })();
-  }, [materiaFiltro, filaFiltro, statusFiltro, busca]);
+  }, [materiaFiltro, filaFiltro, statusFiltro, prioridadeFiltro, busca]);
 
   useEffect(() => {
     (async () => {
@@ -193,6 +193,16 @@ function FilaLista() {
     return { materia: m, total: itens.length, counts: Object.fromEntries(PRIORIDADES.map(p => [p, itens.filter(q => faixa(q) === p).length])) as Record<string, number> };
   }), [questoes]);
 
+  const progressoResumo = useMemo(() => {
+    const registros = Object.values(progressoMap);
+    const concluidas = registros.filter(p => p.status === "feita_certo" || p.status === "feita_errado").length;
+    const erros = registros.filter(p => p.status === "feita_errado").length;
+    const duvidas = registros.filter(p => p.status === "duvida").length;
+    const total = totalBanco ?? questoes.length;
+    const pct = total ? Math.round((concluidas / total) * 100) : 0;
+    return { concluidas, erros, duvidas, total, pct };
+  }, [progressoMap, totalBanco, questoes.length]);
+
   const counts = useMemo(() => {
     const all = lista;
     return {
@@ -207,8 +217,8 @@ function FilaLista() {
     <section className="queue-hero">
       <div className="relative z-10">
         <p className="queue-kicker">Central de estudo</p>
-        <h1 className="queue-hero__title">Fila de estudos</h1>
-        <p className="queue-hero__desc">Sua sequência personalizada de questões. A prioridade combina importância estratégica, histórico de respostas e domínio do conteúdo.</p>
+        <h1 className="queue-hero__title">Painel de Prioridades</h1>
+        <p className="queue-hero__desc">Classificação estratégica das questões conforme edital, auditoria pedagógica e seu desempenho. P1+ indica núcleo indispensável; P4 fica fora do fluxo normal.</p>
         <div className="queue-hero__actions">
           <button type="button" onClick={comecarDoInicio} disabled={!primeira || salvandoInicio} className="queue-hero__action">
             {salvandoInicio ? "Preparando…" : "▶ Começar do início"} <span>→</span>
@@ -241,6 +251,18 @@ function FilaLista() {
       <div className="mt-4 rounded-[24px] border border-white/[.06] bg-white/[.025] p-5">
         <div className="mb-4 flex items-end justify-between"><div><p className="text-[10px] font-semibold uppercase tracking-[.2em] text-blue-300/70">Classificação do edital</p><h2 className="mt-1 font-serif text-xl text-white">Questões por matéria</h2></div><span className="text-xs text-white/35">{questoes.length} questões carregadas</span></div>
         <div className="grid gap-2 md:grid-cols-2 xl:grid-cols-4">{materiaCounts.map(m => <button key={m.materia} onClick={()=>setMateriaFiltro(materiaFiltro===m.materia?"todas":m.materia)} className={`rounded-2xl border p-3 text-left ${materiaFiltro===m.materia?"border-blue-400/30 bg-blue-400/[.08]":"border-white/[.05] bg-black/10"}`}><div className="flex items-center justify-between gap-2"><span className="text-xs font-semibold text-white/75">{m.materia}</span><b className="text-lg text-white">{m.total}</b></div><div className="mt-3 flex gap-1 overflow-hidden rounded-full bg-white/[.04]">{PRIORIDADES.map((p,i)=>{const widths=m.total?m.counts[p]/m.total*100:0; const c=["bg-fuchsia-500","bg-rose-500","bg-amber-400","bg-sky-400","bg-slate-500"][i];return widths>0?<span key={p} className={`h-1.5 ${c}`} style={{width:`${widths}%`}}/>:null})}</div><div className="mt-2 flex flex-wrap gap-x-2 gap-y-1 text-[10px] text-white/35">{PRIORIDADES.map(p=><span key={p}>{p} <b className="text-white/60">{m.counts[p]}</b></span>)}</div></button>)}</div>
+      </div>
+    </section>
+
+    <section className="mt-4 grid gap-4 xl:grid-cols-[1.35fr_.65fr]">
+      <div className="rounded-[24px] border border-white/[.06] bg-white/[.025] p-5">
+        <div className="flex items-center justify-between"><div><p className="text-[10px] font-semibold uppercase tracking-[.2em] text-blue-300/70">Visão geral</p><h2 className="mt-1 font-serif text-xl text-white">Distribuição das prioridades</h2></div><b className="text-2xl text-white">{questoes.length}</b></div>
+        <div className="mt-5 flex h-4 overflow-hidden rounded-full bg-white/[.04]">{PRIORIDADES.map((p,i)=>{const w=questoes.length?(prioridadeCounts[p]||0)/questoes.length*100:0;const c=["bg-fuchsia-500","bg-rose-500","bg-amber-400","bg-sky-400","bg-slate-500"][i];return <span key={p} className={c} style={{width:`${w}%`}} title={`${p}: ${prioridadeCounts[p]||0}`}/>})}</div>
+        <div className="mt-4 grid grid-cols-5 gap-2">{PRIORIDADES.map((p,i)=><button key={p} onClick={()=>setPrioridadeFiltro(prioridadeFiltro===p?"todas":p)} className="rounded-xl border border-white/[.05] bg-black/10 p-2 text-left"><span className="text-[10px] text-white/35">{p}</span><div className="mt-1 text-lg font-bold text-white">{prioridadeCounts[p]||0}</div><div className="text-[9px] text-white/30">{questoes.length?(((prioridadeCounts[p]||0)/questoes.length)*100).toFixed(1):"0.0"}%</div></button>)}</div>
+      </div>
+      <div className="rounded-[24px] border border-white/[.06] bg-white/[.025] p-5">
+        <p className="text-[10px] font-semibold uppercase tracking-[.2em] text-blue-300/70">Seu estudo</p><h2 className="mt-1 font-serif text-xl text-white">Progresso</h2>
+        <div className="mt-4 flex items-center gap-5"><div className="grid h-24 w-24 shrink-0 place-items-center rounded-full border-[9px] border-blue-500/70 bg-blue-500/[.05]"><div className="text-center"><b className="text-xl text-white">{progressoResumo.pct}%</b><div className="text-[9px] text-white/35">concluído</div></div></div><div className="min-w-0 flex-1"><div className="text-sm font-semibold text-white">{progressoResumo.concluidas.toLocaleString("pt-BR")} / {progressoResumo.total.toLocaleString("pt-BR")}</div><div className="mt-2 h-2 overflow-hidden rounded-full bg-white/[.06]"><div className="h-full rounded-full bg-blue-500" style={{width:`${Math.min(100,progressoResumo.pct)}%`}}/></div><div className="mt-3 flex gap-3 text-[10px] text-white/40"><span>{progressoResumo.erros} erros</span><span>{progressoResumo.duvidas} dúvidas</span></div></div></div>
       </div>
     </section>
 
@@ -282,6 +304,7 @@ function FilaLista() {
       ))}
     </section>
 
+    <div className="mt-7 mb-3 flex items-end justify-between"><div><p className="text-[10px] font-semibold uppercase tracking-[.2em] text-blue-300/70">Execução</p><h2 className="mt-1 font-serif text-2xl text-white">Fila de estudos</h2></div><span className="text-xs text-white/30">{lista.length} questões neste filtro</span></div>
     <section className="queue-controls">
       <div className="queue-status-tabs" role="tablist" aria-label="Status da fila">
         {(["todas", "nao_iniciada", "feita_errado", "duvida", "feita_certo"] as const).map(f => (
