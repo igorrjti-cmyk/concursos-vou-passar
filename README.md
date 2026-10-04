@@ -278,3 +278,7 @@ Antes de publicar esta versão, rode no Supabase:
 `supabase/migrations_20260927_sessoes_fila.sql`
 
 Na Fila aparecem os comandos **Começar do início** e **Começar de onde parei**. A retomada só avança o ponto salvo depois que a resposta da questão é registrada, para que fechar a página sem responder não faça o aluno perder a questão atual.
+
+## Curitiba 2026 — priorização FAFIPA
+
+A versão atual usa `prioridade_base`/`prioridade_faixa` para ordenar o banco por aderência ao edital e padrão FAFIPA. Erros e dúvidas recebem precedência dinâmica. Veja `PRIORIZACAO_CURITIBA_2026.md`.
