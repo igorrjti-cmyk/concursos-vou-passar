@@ -7,7 +7,7 @@ import { getSupabaseClient } from "@/lib/supabaseClient";
 
 const links = [
   { href: "/", label: "Início", icon: "grid" },
-  { href: "/fila", label: "Fila de estudos", short: "Fila", icon: "list" },
+  { href: "/fila", label: "Plano de estudos", short: "Fila", icon: "list" },
   { href: "/revisao", label: "Revisão", icon: "clock" },
   { href: "/erros", label: "Erros", icon: "alert" },
   { href: "/favoritos", label: "Favoritos", icon: "star" },

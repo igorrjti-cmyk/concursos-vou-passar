@@ -294,17 +294,7 @@ function FilaLista() {
       </section>
     )}
 
-    <section className="queue-strategy" aria-label="Resumo das filas">
-      {(["ataque", "consolidacao", "manutencao", "cobertura"] as FilaDinamica[]).map(f => (
-        <button key={f} onClick={() => setFilaFiltro(f)} className={`queue-strategy-card text-left ${filaFiltro === f ? "ring-1 ring-blue-400/30" : ""}`}>
-          <div className="queue-strategy-card__top"><span className="queue-strategy-card__dot"/><span className="queue-strategy-card__label">{FILA_LABEL[f]}</span></div>
-          <div className="queue-strategy-card__count">{counts[f]}</div>
-          <div className="queue-strategy-card__desc">{FILA_DESC[f]}</div>
-        </button>
-      ))}
-    </section>
-
-    <div className="mt-7 mb-3 flex items-end justify-between"><div><p className="text-[10px] font-semibold uppercase tracking-[.2em] text-blue-300/70">Execução</p><h2 className="mt-1 font-serif text-2xl text-white">Fila de estudos</h2></div><span className="text-xs text-white/30">{lista.length} questões neste filtro</span></div>
+    <div className="mt-7 mb-3 flex items-end justify-between"><div><p className="text-[10px] font-semibold uppercase tracking-[.2em] text-blue-300/70">Execução</p><h2 className="mt-1 font-serif text-2xl text-white">Plano de estudos</h2></div><span className="text-xs text-white/30">{lista.length} questões neste filtro</span></div>
     <section className="queue-controls">
       <div className="queue-status-tabs" role="tablist" aria-label="Status da fila">
         {(["todas", "nao_iniciada", "feita_errado", "duvida", "feita_certo"] as const).map(f => (
