@@ -135360,5 +135360,4865 @@
       "pegadinha": "Evite decidir apenas por aparência ou memorização isolada; confira a função e o sentido no contexto.",
       "cobranca": "Português — edital Curitiba 2026."
     }
+  },
+  {
+    "id": "LEG-AUT-0001",
+    "file": "Legislação Municipal — Curitiba — P1+",
+    "origin": "Autoral – padrão FAFIPA",
+    "topic": "Lei Orgânica — Câmara Municipal",
+    "stem": "Segundo a Lei Orgânica de Curitiba, assinale a alternativa que contém apenas matérias sobre as quais a Câmara Municipal delibera mediante projeto de lei sujeito à sanção do Prefeito.",
+    "options": [
+      [
+        "A",
+        "Regimento Interno e eleição da Mesa."
+      ],
+      [
+        "B",
+        "PPA, LDO e LOA."
+      ],
+      [
+        "C",
+        "Posse do Prefeito e Plano Diretor."
+      ],
+      [
+        "D",
+        "Eleição da Mesa e concessão de isenções fiscais."
+      ],
+      [
+        "E",
+        "Regimento Interno e criação de cargos."
+      ]
+    ],
+    "answer": "B",
+    "year": 2026,
+    "qnum": 1,
+    "score": 1000,
+    "band": "A",
+    "rank": 2794,
+    "resolution": {
+      "whatTests": "Lei Orgânica — Câmara Municipal",
+      "rule": "PPA, LDO e LOA estão entre as matérias submetidas à deliberação legislativa; Regimento Interno, eleição da Mesa e posse integram competências privativas da Câmara.",
+      "steps": [
+        "Identifique o dispositivo/instituto cobrado.",
+        "Compare cada alternativa com a regra legal indicada.",
+        "Alternativa correta: B."
+      ],
+      "calculation": "Não se aplica.",
+      "whyCorrect": "B — corresponde à regra legal indicada no fundamento.",
+      "whyWrong": "As demais alternativas alteram conceito, prazo, percentual, competência, requisito ou exceção legal.",
+      "basis": "Lei Orgânica de Curitiba, arts. 19-20.",
+      "fafipaTrap": "Competência legislativa × competência privativa.",
+      "title": "Resolução individual — LEG-AUT-0001",
+      "status": "resolvida"
+    },
+    "summary": "Segundo a Lei Orgânica de Curitiba, assinale a alternativa que contém apenas matérias sobre as quais a Câmara Municipal delibera mediante projeto de lei sujeito à sanção do Prefeito.",
+    "prioridade_base": 100,
+    "prioridade_faixa": "P1+"
+  },
+  {
+    "id": "LEG-AUT-0002",
+    "file": "Legislação Municipal — Curitiba — P1+",
+    "origin": "Autoral – padrão FAFIPA",
+    "topic": "Lei Orgânica — Administração",
+    "stem": "Analise: I. A Administração Direta estrutura-se a partir das Secretarias Municipais. II. Podem ser criadas administrações regionais. III. Empresas públicas integram a Administração Direta. IV. Fundações estatais sob regime de direito privado integram a Administração Indireta. Está correto:",
+    "options": [
+      [
+        "A",
+        "I e III apenas."
+      ],
+      [
+        "B",
+        "II e III apenas."
+      ],
+      [
+        "C",
+        "I, II e IV apenas."
+      ],
+      [
+        "D",
+        "I, II, III e IV."
+      ],
+      [
+        "E",
+        "III e IV apenas."
+      ]
+    ],
+    "answer": "C",
+    "year": 2026,
+    "qnum": 2,
+    "score": 1000,
+    "band": "A",
+    "rank": 2795,
+    "resolution": {
+      "whatTests": "Lei Orgânica — Administração",
+      "rule": "Empresas públicas pertencem à Administração Indireta; as demais assertivas indicadas como corretas seguem a Lei Orgânica.",
+      "steps": [
+        "Identifique o dispositivo/instituto cobrado.",
+        "Compare cada alternativa com a regra legal indicada.",
+        "Alternativa correta: C."
+      ],
+      "calculation": "Não se aplica.",
+      "whyCorrect": "C — corresponde à regra legal indicada no fundamento.",
+      "whyWrong": "As demais alternativas alteram conceito, prazo, percentual, competência, requisito ou exceção legal.",
+      "basis": "Lei Orgânica de Curitiba, organização da Administração Municipal.",
+      "fafipaTrap": "Direta × Indireta.",
+      "title": "Resolução individual — LEG-AUT-0002",
+      "status": "resolvida"
+    },
+    "summary": "Analise: I. A Administração Direta estrutura-se a partir das Secretarias Municipais. II. Podem ser criadas administrações regionais. III. Empresas públicas integram a Administração Direta. IV. Fundações estatais sob regi",
+    "prioridade_base": 100,
+    "prioridade_faixa": "P1+"
+  },
+  {
+    "id": "LEG-AUT-0003",
+    "file": "Legislação Municipal — Curitiba — P1+",
+    "origin": "Autoral – padrão FAFIPA",
+    "topic": "Lei Orgânica — Administração",
+    "stem": "Complete corretamente: Os órgãos da Administração Direta vinculam-se ao Prefeito por linha de ________, enquanto as entidades da Administração Indireta vinculam-se por linha de ________.",
+    "options": [
+      [
+        "A",
+        "tutela / hierarquia"
+      ],
+      [
+        "B",
+        "subordinação hierárquica / tutela"
+      ],
+      [
+        "C",
+        "descentralização / desconcentração"
+      ],
+      [
+        "D",
+        "supervisão / subordinação hierárquica"
+      ],
+      [
+        "E",
+        "autonomia / delegação"
+      ]
+    ],
+    "answer": "B",
+    "year": 2026,
+    "qnum": 3,
+    "score": 1000,
+    "band": "A",
+    "rank": 2796,
+    "resolution": {
+      "whatTests": "Lei Orgânica — Administração",
+      "rule": "Administração Direta: subordinação hierárquica. Administração Indireta: tutela.",
+      "steps": [
+        "Identifique o dispositivo/instituto cobrado.",
+        "Compare cada alternativa com a regra legal indicada.",
+        "Alternativa correta: B."
+      ],
+      "calculation": "Não se aplica.",
+      "whyCorrect": "B — corresponde à regra legal indicada no fundamento.",
+      "whyWrong": "As demais alternativas alteram conceito, prazo, percentual, competência, requisito ou exceção legal.",
+      "basis": "Lei Orgânica de Curitiba, art. 78.",
+      "fafipaTrap": "Direta = hierarquia; Indireta = tutela.",
+      "title": "Resolução individual — LEG-AUT-0003",
+      "status": "resolvida"
+    },
+    "summary": "Complete corretamente: Os órgãos da Administração Direta vinculam-se ao Prefeito por linha de ________, enquanto as entidades da Administração Indireta vinculam-se por linha de ________.",
+    "prioridade_base": 100,
+    "prioridade_faixa": "P1+"
+  },
+  {
+    "id": "LEG-AUT-0004",
+    "file": "Legislação Municipal — Curitiba — P1+",
+    "origin": "Autoral – padrão FAFIPA",
+    "topic": "Lei Orgânica — Processo Legislativo",
+    "stem": "São de iniciativa privativa do Executivo leis que disponham sobre: I. regime jurídico dos servidores; II. criação, estruturação e atribuições de órgãos e entidades; III. Plano Diretor; IV. Regimento Interno da Câmara.",
+    "options": [
+      [
+        "A",
+        "I apenas."
+      ],
+      [
+        "B",
+        "I e II apenas."
+      ],
+      [
+        "C",
+        "II e IV apenas."
+      ],
+      [
+        "D",
+        "I, II e III apenas."
+      ],
+      [
+        "E",
+        "I, II, III e IV."
+      ]
+    ],
+    "answer": "D",
+    "year": 2026,
+    "qnum": 4,
+    "score": 1000,
+    "band": "A",
+    "rank": 2797,
+    "resolution": {
+      "whatTests": "Lei Orgânica — Processo Legislativo",
+      "rule": "As três primeiras são matérias de iniciativa privativa do Executivo; Regimento Interno é matéria da Câmara.",
+      "steps": [
+        "Identifique o dispositivo/instituto cobrado.",
+        "Compare cada alternativa com a regra legal indicada.",
+        "Alternativa correta: D."
+      ],
+      "calculation": "Não se aplica.",
+      "whyCorrect": "D — corresponde à regra legal indicada no fundamento.",
+      "whyWrong": "As demais alternativas alteram conceito, prazo, percentual, competência, requisito ou exceção legal.",
+      "basis": "Lei Orgânica de Curitiba, art. 53.",
+      "fafipaTrap": "Iniciativa privativa × competência interna da Câmara.",
+      "title": "Resolução individual — LEG-AUT-0004",
+      "status": "resolvida"
+    },
+    "summary": "São de iniciativa privativa do Executivo leis que disponham sobre: I. regime jurídico dos servidores; II. criação, estruturação e atribuições de órgãos e entidades; III. Plano Diretor; IV. Regimento Interno da Câmara.",
+    "prioridade_base": 100,
+    "prioridade_faixa": "P1+"
+  },
+  {
+    "id": "LEG-AUT-0005",
+    "file": "Legislação Municipal — Curitiba — P1+",
+    "origin": "Autoral – padrão FAFIPA",
+    "topic": "Lei Orgânica — Processo Legislativo",
+    "stem": "Havendo interesse público relevante e urgência solicitada pelo Prefeito para projeto de sua iniciativa, sem prazo específico, a proposição será incluída na ordem do dia se a Câmara não se manifestar em até:",
+    "options": [
+      [
+        "A",
+        "15 dias."
+      ],
+      [
+        "B",
+        "30 dias."
+      ],
+      [
+        "C",
+        "45 dias."
+      ],
+      [
+        "D",
+        "60 dias."
+      ],
+      [
+        "E",
+        "90 dias."
+      ]
+    ],
+    "answer": "C",
+    "year": 2026,
+    "qnum": 5,
+    "score": 1000,
+    "band": "A",
+    "rank": 2798,
+    "resolution": {
+      "whatTests": "Lei Orgânica — Processo Legislativo",
+      "rule": "O prazo é de 45 dias.",
+      "steps": [
+        "Identifique o dispositivo/instituto cobrado.",
+        "Compare cada alternativa com a regra legal indicada.",
+        "Alternativa correta: C."
+      ],
+      "calculation": "Não se aplica.",
+      "whyCorrect": "C — corresponde à regra legal indicada no fundamento.",
+      "whyWrong": "As demais alternativas alteram conceito, prazo, percentual, competência, requisito ou exceção legal.",
+      "basis": "Lei Orgânica de Curitiba, art. 53, §2º.",
+      "fafipaTrap": "Prazo puro: 45 dias.",
+      "title": "Resolução individual — LEG-AUT-0005",
+      "status": "resolvida"
+    },
+    "summary": "Havendo interesse público relevante e urgência solicitada pelo Prefeito para projeto de sua iniciativa, sem prazo específico, a proposição será incluída na ordem do dia se a Câmara não se manifestar em até:",
+    "prioridade_base": 100,
+    "prioridade_faixa": "P1+"
+  },
+  {
+    "id": "LEG-AUT-0006",
+    "file": "Legislação Municipal — Curitiba — P1+",
+    "origin": "Autoral – padrão FAFIPA",
+    "topic": "Lei Orgânica — Fiscalização",
+    "stem": "O prazo mencionado para atendimento de pedido escrito de informação da Câmara às autoridades municipais abrangidas pela Lei Orgânica é de:",
+    "options": [
+      [
+        "A",
+        "10 dias."
+      ],
+      [
+        "B",
+        "15 dias."
+      ],
+      [
+        "C",
+        "20 dias."
+      ],
+      [
+        "D",
+        "30 dias."
+      ],
+      [
+        "E",
+        "45 dias."
+      ]
+    ],
+    "answer": "D",
+    "year": 2026,
+    "qnum": 6,
+    "score": 1000,
+    "band": "A",
+    "rank": 2799,
+    "resolution": {
+      "whatTests": "Lei Orgânica — Fiscalização",
+      "rule": "O prazo é de 30 dias.",
+      "steps": [
+        "Identifique o dispositivo/instituto cobrado.",
+        "Compare cada alternativa com a regra legal indicada.",
+        "Alternativa correta: D."
+      ],
+      "calculation": "Não se aplica.",
+      "whyCorrect": "D — corresponde à regra legal indicada no fundamento.",
+      "whyWrong": "As demais alternativas alteram conceito, prazo, percentual, competência, requisito ou exceção legal.",
+      "basis": "Lei Orgânica de Curitiba, dispositivo sobre pedidos de informação da Câmara.",
+      "fafipaTrap": "Não confundir com 45 dias da urgência legislativa.",
+      "title": "Resolução individual — LEG-AUT-0006",
+      "status": "resolvida"
+    },
+    "summary": "O prazo mencionado para atendimento de pedido escrito de informação da Câmara às autoridades municipais abrangidas pela Lei Orgânica é de:",
+    "prioridade_base": 100,
+    "prioridade_faixa": "P1+"
+  },
+  {
+    "id": "LEG-AUT-0007",
+    "file": "Legislação Municipal — Curitiba — P1+",
+    "origin": "Autoral – padrão FAFIPA",
+    "topic": "Lei Orgânica — Plano de Metas",
+    "stem": "O Plano de Metas do Governo Municipal deverá ser entregue pelo Prefeito à Câmara Municipal de Curitiba:",
+    "options": [
+      [
+        "A",
+        "até 30 dias da posse."
+      ],
+      [
+        "B",
+        "até 45 dias da eleição."
+      ],
+      [
+        "C",
+        "até 60 dias da diplomação."
+      ],
+      [
+        "D",
+        "até 90 dias da posse."
+      ],
+      [
+        "E",
+        "até 120 dias da posse."
+      ]
+    ],
+    "answer": "D",
+    "year": 2026,
+    "qnum": 7,
+    "score": 1000,
+    "band": "A",
+    "rank": 2800,
+    "resolution": {
+      "whatTests": "Lei Orgânica — Plano de Metas",
+      "rule": "O prazo é de até 90 dias após a posse.",
+      "steps": [
+        "Identifique o dispositivo/instituto cobrado.",
+        "Compare cada alternativa com a regra legal indicada.",
+        "Alternativa correta: D."
+      ],
+      "calculation": "Não se aplica.",
+      "whyCorrect": "D — corresponde à regra legal indicada no fundamento.",
+      "whyWrong": "As demais alternativas alteram conceito, prazo, percentual, competência, requisito ou exceção legal.",
+      "basis": "Lei Orgânica de Curitiba, Plano de Metas.",
+      "fafipaTrap": "30 informações; 45 urgência; 90 Plano de Metas.",
+      "title": "Resolução individual — LEG-AUT-0007",
+      "status": "resolvida"
+    },
+    "summary": "O Plano de Metas do Governo Municipal deverá ser entregue pelo Prefeito à Câmara Municipal de Curitiba:",
+    "prioridade_base": 100,
+    "prioridade_faixa": "P1+"
+  },
+  {
+    "id": "LEG-AUT-0008",
+    "file": "Legislação Municipal — Curitiba — P1+",
+    "origin": "Autoral – padrão FAFIPA",
+    "topic": "LC 101/2017 — Despesa com Pessoal",
+    "stem": "A despesa total com pessoal é apurada:",
+    "options": [
+      [
+        "A",
+        "apenas no mês de referência."
+      ],
+      [
+        "B",
+        "pelo mês de referência mais os cinco anteriores."
+      ],
+      [
+        "C",
+        "pelo mês de referência mais os onze imediatamente anteriores, pelo regime de competência."
+      ],
+      [
+        "D",
+        "pelos doze meses anteriores, excluído o mês de referência, pelo regime de caixa."
+      ],
+      [
+        "E",
+        "pelo exercício financeiro encerrado, exclusivamente."
+      ]
+    ],
+    "answer": "C",
+    "year": 2026,
+    "qnum": 8,
+    "score": 1000,
+    "band": "A",
+    "rank": 2801,
+    "resolution": {
+      "whatTests": "LC 101/2017 — Despesa com Pessoal",
+      "rule": "Soma-se o mês de referência aos 11 imediatamente anteriores, pelo regime de competência.",
+      "steps": [
+        "Identifique o dispositivo/instituto cobrado.",
+        "Compare cada alternativa com a regra legal indicada.",
+        "Alternativa correta: C."
+      ],
+      "calculation": "Não se aplica.",
+      "whyCorrect": "C — corresponde à regra legal indicada no fundamento.",
+      "whyWrong": "As demais alternativas alteram conceito, prazo, percentual, competência, requisito ou exceção legal.",
+      "basis": "LC Municipal 101/2017, art. 13, §2º.",
+      "fafipaTrap": "12 meses no total; competência, não caixa.",
+      "title": "Resolução individual — LEG-AUT-0008",
+      "status": "resolvida"
+    },
+    "summary": "A despesa total com pessoal é apurada:",
+    "prioridade_base": 100,
+    "prioridade_faixa": "P1+"
+  },
+  {
+    "id": "LEG-AUT-0009",
+    "file": "Legislação Municipal — Curitiba — P1+",
+    "origin": "Autoral – padrão FAFIPA",
+    "topic": "LC 101/2017 — Despesa com Pessoal",
+    "stem": "A despesa total com pessoal, em cada período de apuração, não poderá exceder:",
+    "options": [
+      [
+        "A",
+        "50% da RCL."
+      ],
+      [
+        "B",
+        "54% da RCL."
+      ],
+      [
+        "C",
+        "57% da RCL."
+      ],
+      [
+        "D",
+        "60% da RCL."
+      ],
+      [
+        "E",
+        "65% da RCL."
+      ]
+    ],
+    "answer": "D",
+    "year": 2026,
+    "qnum": 9,
+    "score": 1000,
+    "band": "A",
+    "rank": 2802,
+    "resolution": {
+      "whatTests": "LC 101/2017 — Despesa com Pessoal",
+      "rule": "O limite municipal é 60% da Receita Corrente Líquida.",
+      "steps": [
+        "Identifique o dispositivo/instituto cobrado.",
+        "Compare cada alternativa com a regra legal indicada.",
+        "Alternativa correta: D."
+      ],
+      "calculation": "Não se aplica.",
+      "whyCorrect": "D — corresponde à regra legal indicada no fundamento.",
+      "whyWrong": "As demais alternativas alteram conceito, prazo, percentual, competência, requisito ou exceção legal.",
+      "basis": "LC Municipal 101/2017, art. 14.",
+      "fafipaTrap": "60% da RCL.",
+      "title": "Resolução individual — LEG-AUT-0009",
+      "status": "resolvida"
+    },
+    "summary": "A despesa total com pessoal, em cada período de apuração, não poderá exceder:",
+    "prioridade_base": 100,
+    "prioridade_faixa": "P1+"
+  },
+  {
+    "id": "LEG-AUT-0010",
+    "file": "Legislação Municipal — Curitiba — P1+",
+    "origin": "Autoral – padrão FAFIPA",
+    "topic": "LC 101/2017 — Despesa com Pessoal",
+    "stem": "Os contratos de terceirização de mão de obra referentes à substituição de servidores e empregados públicos serão contabilizados como:",
+    "options": [
+      [
+        "A",
+        "investimentos."
+      ],
+      [
+        "B",
+        "outras despesas correntes, sem reflexo em pessoal."
+      ],
+      [
+        "C",
+        "Outras Despesas de Pessoal."
+      ],
+      [
+        "D",
+        "despesas de capital."
+      ],
+      [
+        "E",
+        "transferências correntes."
+      ]
+    ],
+    "answer": "C",
+    "year": 2026,
+    "qnum": 10,
+    "score": 1000,
+    "band": "A",
+    "rank": 2803,
+    "resolution": {
+      "whatTests": "LC 101/2017 — Despesa com Pessoal",
+      "rule": "São contabilizados como Outras Despesas de Pessoal.",
+      "steps": [
+        "Identifique o dispositivo/instituto cobrado.",
+        "Compare cada alternativa com a regra legal indicada.",
+        "Alternativa correta: C."
+      ],
+      "calculation": "Não se aplica.",
+      "whyCorrect": "C — corresponde à regra legal indicada no fundamento.",
+      "whyWrong": "As demais alternativas alteram conceito, prazo, percentual, competência, requisito ou exceção legal.",
+      "basis": "LC Municipal 101/2017, art. 13, §1º.",
+      "fafipaTrap": "Terceirização substitutiva entra em pessoal.",
+      "title": "Resolução individual — LEG-AUT-0010",
+      "status": "resolvida"
+    },
+    "summary": "Os contratos de terceirização de mão de obra referentes à substituição de servidores e empregados públicos serão contabilizados como:",
+    "prioridade_base": 100,
+    "prioridade_faixa": "P1+"
+  },
+  {
+    "id": "LEG-AUT-0011",
+    "file": "Legislação Municipal — Curitiba — P1+",
+    "origin": "Autoral – padrão FAFIPA",
+    "topic": "Decreto 2.051/2025 — Índices",
+    "stem": "Uma empresa apresenta AC=1.200.000, PC=800.000, RLP=400.000 e ELP=200.000. Seu ILC e ILG são, respectivamente:",
+    "options": [
+      [
+        "A",
+        "1,20 e 1,50."
+      ],
+      [
+        "B",
+        "1,50 e 1,60."
+      ],
+      [
+        "C",
+        "1,50 e 2,00."
+      ],
+      [
+        "D",
+        "1,60 e 1,50."
+      ],
+      [
+        "E",
+        "2,00 e 1,60."
+      ]
+    ],
+    "answer": "B",
+    "year": 2026,
+    "qnum": 11,
+    "score": 1000,
+    "band": "A",
+    "rank": 2804,
+    "resolution": {
+      "whatTests": "Decreto 2.051/2025 — Índices",
+      "rule": "ILC=AC/PC=1,50; ILG=(AC+RLP)/(PC+ELP)=1,60.",
+      "steps": [
+        "Identifique o dispositivo/instituto cobrado.",
+        "Compare cada alternativa com a regra legal indicada.",
+        "Alternativa correta: B."
+      ],
+      "calculation": "ILC=1,50; ILG=1,60.",
+      "whyCorrect": "B — corresponde à regra legal indicada no fundamento.",
+      "whyWrong": "As demais alternativas alteram conceito, prazo, percentual, competência, requisito ou exceção legal.",
+      "basis": "Decreto 2.051/2025, art. 7º, redação do Decreto 707/2026.",
+      "fafipaTrap": "Fórmulas de liquidez.",
+      "title": "Resolução individual — LEG-AUT-0011",
+      "status": "resolvida"
+    },
+    "summary": "Uma empresa apresenta AC=1.200.000, PC=800.000, RLP=400.000 e ELP=200.000. Seu ILC e ILG são, respectivamente:",
+    "prioridade_base": 100,
+    "prioridade_faixa": "P1+"
+  },
+  {
+    "id": "LEG-AUT-0012",
+    "file": "Legislação Municipal — Curitiba — P1+",
+    "origin": "Autoral – padrão FAFIPA",
+    "topic": "Decreto 2.051/2025 — Índices",
+    "stem": "Uma empresa apresenta GE de 0,38. Quanto exclusivamente a esse indicador:",
+    "options": [
+      [
+        "A",
+        "está habilitada, pois GE ≥ 0,35."
+      ],
+      [
+        "B",
+        "está habilitada, pois GE ≤ 0,40."
+      ],
+      [
+        "C",
+        "não atende ao requisito, pois GE deve ser ≤ 0,35."
+      ],
+      [
+        "D",
+        "não atende porque GE deve ser ≥ 1,00."
+      ],
+      [
+        "E",
+        "o decreto não estabelece limite para GE."
+      ]
+    ],
+    "answer": "C",
+    "year": 2026,
+    "qnum": 12,
+    "score": 1000,
+    "band": "A",
+    "rank": 2805,
+    "resolution": {
+      "whatTests": "Decreto 2.051/2025 — Índices",
+      "rule": "GE deve ser menor ou igual a 0,35.",
+      "steps": [
+        "Identifique o dispositivo/instituto cobrado.",
+        "Compare cada alternativa com a regra legal indicada.",
+        "Alternativa correta: C."
+      ],
+      "calculation": "Não se aplica.",
+      "whyCorrect": "C — corresponde à regra legal indicada no fundamento.",
+      "whyWrong": "As demais alternativas alteram conceito, prazo, percentual, competência, requisito ou exceção legal.",
+      "basis": "Decreto 2.051/2025, art. 7º, IV, redação do Decreto 707/2026.",
+      "fafipaTrap": "GE inverte o sentido: máximo, não mínimo.",
+      "title": "Resolução individual — LEG-AUT-0012",
+      "status": "resolvida"
+    },
+    "summary": "Uma empresa apresenta GE de 0,38. Quanto exclusivamente a esse indicador:",
+    "prioridade_base": 100,
+    "prioridade_faixa": "P1+"
+  },
+  {
+    "id": "LEG-AUT-0013",
+    "file": "Legislação Municipal — Curitiba — P1+",
+    "origin": "Autoral – padrão FAFIPA",
+    "topic": "Decreto 2.051/2025 — CCL",
+    "stem": "O Capital Circulante Líquido exigido deverá corresponder a, no mínimo:",
+    "options": [
+      [
+        "A",
+        "10% do valor mensal estimado."
+      ],
+      [
+        "B",
+        "12% do valor anual."
+      ],
+      [
+        "C",
+        "16,66% do valor anual estimado da contratação."
+      ],
+      [
+        "D",
+        "20% do patrimônio líquido."
+      ],
+      [
+        "E",
+        "35% do valor anual máximo."
+      ]
+    ],
+    "answer": "C",
+    "year": 2026,
+    "qnum": 13,
+    "score": 1000,
+    "band": "A",
+    "rank": 2806,
+    "resolution": {
+      "whatTests": "Decreto 2.051/2025 — CCL",
+      "rule": "CCL ≥ 16,66% do valor anual estimado da contratação.",
+      "steps": [
+        "Identifique o dispositivo/instituto cobrado.",
+        "Compare cada alternativa com a regra legal indicada.",
+        "Alternativa correta: C."
+      ],
+      "calculation": "Não se aplica.",
+      "whyCorrect": "C — corresponde à regra legal indicada no fundamento.",
+      "whyWrong": "As demais alternativas alteram conceito, prazo, percentual, competência, requisito ou exceção legal.",
+      "basis": "Decreto 2.051/2025, art. 7º, V, redação do Decreto 707/2026.",
+      "fafipaTrap": "16,66%.",
+      "title": "Resolução individual — LEG-AUT-0013",
+      "status": "resolvida"
+    },
+    "summary": "O Capital Circulante Líquido exigido deverá corresponder a, no mínimo:",
+    "prioridade_base": 100,
+    "prioridade_faixa": "P1+"
+  },
+  {
+    "id": "LEG-AUT-0014",
+    "file": "Legislação Municipal — Curitiba — P1+",
+    "origin": "Autoral – padrão FAFIPA",
+    "topic": "Decreto 2.051/2025 — RCA",
+    "stem": "Na Relação de Compromissos Assumidos (RCA), exige-se:",
+    "options": [
+      [
+        "A",
+        "PL ≥ total dos contratos × 12."
+      ],
+      [
+        "B",
+        "PL ≥ total dos contratos ÷ 12."
+      ],
+      [
+        "C",
+        "PL ≤ total dos contratos ÷ 12."
+      ],
+      [
+        "D",
+        "AC ≥ total dos contratos ÷ 12."
+      ],
+      [
+        "E",
+        "CCL ≥ total dos contratos × 10%."
+      ]
+    ],
+    "answer": "B",
+    "year": 2026,
+    "qnum": 14,
+    "score": 1000,
+    "band": "A",
+    "rank": 2807,
+    "resolution": {
+      "whatTests": "Decreto 2.051/2025 — RCA",
+      "rule": "PL ≥ total dos contratos firmados / 12.",
+      "steps": [
+        "Identifique o dispositivo/instituto cobrado.",
+        "Compare cada alternativa com a regra legal indicada.",
+        "Alternativa correta: B."
+      ],
+      "calculation": "Não se aplica.",
+      "whyCorrect": "B — corresponde à regra legal indicada no fundamento.",
+      "whyWrong": "As demais alternativas alteram conceito, prazo, percentual, competência, requisito ou exceção legal.",
+      "basis": "Decreto 2.051/2025, art. 7º, VI.",
+      "fafipaTrap": "RCA = contratos/12.",
+      "title": "Resolução individual — LEG-AUT-0014",
+      "status": "resolvida"
+    },
+    "summary": "Na Relação de Compromissos Assumidos (RCA), exige-se:",
+    "prioridade_base": 100,
+    "prioridade_faixa": "P1+"
+  },
+  {
+    "id": "LEG-AUT-0015",
+    "file": "Legislação Municipal — Curitiba — P1+",
+    "origin": "Autoral – padrão FAFIPA",
+    "topic": "Decreto 2.051/2025 — Índices",
+    "stem": "Analise: I. ILC ≥ 1,00. II. ILG ≥ 1,00. III. SG ≥ 1,00. IV. GE ≥ 0,35. V. PL ≥ 10% do valor anual estimado. Está correto:",
+    "options": [
+      [
+        "A",
+        "I, II e III apenas."
+      ],
+      [
+        "B",
+        "I, II, III e V apenas."
+      ],
+      [
+        "C",
+        "II, III e IV apenas."
+      ],
+      [
+        "D",
+        "I, IV e V apenas."
+      ],
+      [
+        "E",
+        "I, II, III, IV e V."
+      ]
+    ],
+    "answer": "B",
+    "year": 2026,
+    "qnum": 15,
+    "score": 1000,
+    "band": "A",
+    "rank": 2808,
+    "resolution": {
+      "whatTests": "Decreto 2.051/2025 — Índices",
+      "rule": "IV é falsa: GE ≤ 0,35. As demais estão corretas.",
+      "steps": [
+        "Identifique o dispositivo/instituto cobrado.",
+        "Compare cada alternativa com a regra legal indicada.",
+        "Alternativa correta: B."
+      ],
+      "calculation": "Não se aplica.",
+      "whyCorrect": "B — corresponde à regra legal indicada no fundamento.",
+      "whyWrong": "As demais alternativas alteram conceito, prazo, percentual, competência, requisito ou exceção legal.",
+      "basis": "Decreto 2.051/2025, art. 7º.",
+      "fafipaTrap": "GE é ≤0,35.",
+      "title": "Resolução individual — LEG-AUT-0015",
+      "status": "resolvida"
+    },
+    "summary": "Analise: I. ILC ≥ 1,00. II. ILG ≥ 1,00. III. SG ≥ 1,00. IV. GE ≥ 0,35. V. PL ≥ 10% do valor anual estimado. Está correto:",
+    "prioridade_base": 100,
+    "prioridade_faixa": "P1+"
+  },
+  {
+    "id": "LEG-AUT-0016",
+    "file": "Legislação Municipal — Curitiba — P1+",
+    "origin": "Autoral – padrão FAFIPA",
+    "topic": "Lei 1.656/1958 — Provimento",
+    "stem": "A respeito da reintegração e readmissão: I. Reintegração permite ressarcimento. II. Readmissão pode alcançar demitido ou exonerado. III. Readmissão assegura ressarcimento. IV. Reintegração ocorre, em regra, no cargo anteriormente ocupado.",
+    "options": [
+      [
+        "A",
+        "I e II apenas."
+      ],
+      [
+        "B",
+        "I, II e IV apenas."
+      ],
+      [
+        "C",
+        "II e III apenas."
+      ],
+      [
+        "D",
+        "I, III e IV apenas."
+      ],
+      [
+        "E",
+        "I, II, III e IV."
+      ]
+    ],
+    "answer": "B",
+    "year": 2026,
+    "qnum": 16,
+    "score": 1000,
+    "band": "A",
+    "rank": 2809,
+    "resolution": {
+      "whatTests": "Lei 1.656/1958 — Provimento",
+      "rule": "Na readmissão não há direito ao ressarcimento; reintegração envolve ressarcimento nos termos estatutários.",
+      "steps": [
+        "Identifique o dispositivo/instituto cobrado.",
+        "Compare cada alternativa com a regra legal indicada.",
+        "Alternativa correta: B."
+      ],
+      "calculation": "Não se aplica.",
+      "whyCorrect": "B — corresponde à regra legal indicada no fundamento.",
+      "whyWrong": "As demais alternativas alteram conceito, prazo, percentual, competência, requisito ou exceção legal.",
+      "basis": "Lei Municipal 1.656/1958, dispositivos sobre reintegração e readmissão.",
+      "fafipaTrap": "REINtegração = REssarcimento; readmissão = sem ressarcimento.",
+      "title": "Resolução individual — LEG-AUT-0016",
+      "status": "resolvida"
+    },
+    "summary": "A respeito da reintegração e readmissão: I. Reintegração permite ressarcimento. II. Readmissão pode alcançar demitido ou exonerado. III. Readmissão assegura ressarcimento. IV. Reintegração ocorre, em regra, no cargo ante",
+    "prioridade_base": 100,
+    "prioridade_faixa": "P1+"
+  },
+  {
+    "id": "LEG-AUT-0017",
+    "file": "Legislação Municipal — Curitiba — P1+",
+    "origin": "Autoral – padrão FAFIPA",
+    "topic": "Lei 1.656/1958 — Reversão",
+    "stem": "Reversão é:",
+    "options": [
+      [
+        "A",
+        "retorno do funcionário demitido com ressarcimento."
+      ],
+      [
+        "B",
+        "retorno do funcionário em disponibilidade."
+      ],
+      [
+        "C",
+        "reingresso do aposentado no serviço público, observadas as condições legais."
+      ],
+      [
+        "D",
+        "retorno do exonerado com indenização."
+      ],
+      [
+        "E",
+        "provimento decorrente exclusivamente de promoção."
+      ]
+    ],
+    "answer": "C",
+    "year": 2026,
+    "qnum": 17,
+    "score": 1000,
+    "band": "A",
+    "rank": 2810,
+    "resolution": {
+      "whatTests": "Lei 1.656/1958 — Reversão",
+      "rule": "Reversão é o reingresso do aposentado ao serviço público nas condições legais.",
+      "steps": [
+        "Identifique o dispositivo/instituto cobrado.",
+        "Compare cada alternativa com a regra legal indicada.",
+        "Alternativa correta: C."
+      ],
+      "calculation": "Não se aplica.",
+      "whyCorrect": "C — corresponde à regra legal indicada no fundamento.",
+      "whyWrong": "As demais alternativas alteram conceito, prazo, percentual, competência, requisito ou exceção legal.",
+      "basis": "Lei Municipal 1.656/1958, capítulo da reversão.",
+      "fafipaTrap": "Reversão = aposentado.",
+      "title": "Resolução individual — LEG-AUT-0017",
+      "status": "resolvida"
+    },
+    "summary": "Reversão é:",
+    "prioridade_base": 100,
+    "prioridade_faixa": "P1+"
+  },
+  {
+    "id": "LEG-AUT-0018",
+    "file": "Legislação Municipal — Curitiba — P1+",
+    "origin": "Autoral – padrão FAFIPA",
+    "topic": "Lei 1.656/1958 — Reversão",
+    "stem": "Segundo o texto do Estatuto estudado, o aposentado não poderá reverter à atividade se contar mais de:",
+    "options": [
+      [
+        "A",
+        "55 anos."
+      ],
+      [
+        "B",
+        "60 anos."
+      ],
+      [
+        "C",
+        "65 anos."
+      ],
+      [
+        "D",
+        "70 anos."
+      ],
+      [
+        "E",
+        "75 anos."
+      ]
+    ],
+    "answer": "B",
+    "year": 2026,
+    "qnum": 18,
+    "score": 1000,
+    "band": "A",
+    "rank": 2811,
+    "resolution": {
+      "whatTests": "Lei 1.656/1958 — Reversão",
+      "rule": "O limite indicado no dispositivo é mais de 60 anos.",
+      "steps": [
+        "Identifique o dispositivo/instituto cobrado.",
+        "Compare cada alternativa com a regra legal indicada.",
+        "Alternativa correta: B."
+      ],
+      "calculation": "Não se aplica.",
+      "whyCorrect": "B — corresponde à regra legal indicada no fundamento.",
+      "whyWrong": "As demais alternativas alteram conceito, prazo, percentual, competência, requisito ou exceção legal.",
+      "basis": "Lei Municipal 1.656/1958, dispositivo sobre reversão.",
+      "fafipaTrap": "Número literal: 60.",
+      "title": "Resolução individual — LEG-AUT-0018",
+      "status": "resolvida"
+    },
+    "summary": "Segundo o texto do Estatuto estudado, o aposentado não poderá reverter à atividade se contar mais de:",
+    "prioridade_base": 100,
+    "prioridade_faixa": "P1+"
+  },
+  {
+    "id": "LEG-AUT-0019",
+    "file": "Legislação Municipal — Curitiba — P1+",
+    "origin": "Autoral – padrão FAFIPA",
+    "topic": "Lei 1.656/1958 — Penalidades",
+    "stem": "São penas disciplinares previstas expressamente: I advertência; II repreensão; III suspensão; IV multa; V destituição de função; VI demissão.",
+    "options": [
+      [
+        "A",
+        "I, II e III apenas."
+      ],
+      [
+        "B",
+        "III, IV, V e VI apenas."
+      ],
+      [
+        "C",
+        "I, II, III e VI apenas."
+      ],
+      [
+        "D",
+        "I, II, III, IV, V e VI."
+      ],
+      [
+        "E",
+        "II, IV e VI apenas."
+      ]
+    ],
+    "answer": "D",
+    "year": 2026,
+    "qnum": 19,
+    "score": 1000,
+    "band": "A",
+    "rank": 2812,
+    "resolution": {
+      "whatTests": "Lei 1.656/1958 — Penalidades",
+      "rule": "Todos os itens constam do rol de penas disciplinares.",
+      "steps": [
+        "Identifique o dispositivo/instituto cobrado.",
+        "Compare cada alternativa com a regra legal indicada.",
+        "Alternativa correta: D."
+      ],
+      "calculation": "Não se aplica.",
+      "whyCorrect": "D — corresponde à regra legal indicada no fundamento.",
+      "whyWrong": "As demais alternativas alteram conceito, prazo, percentual, competência, requisito ou exceção legal.",
+      "basis": "Lei Municipal 1.656/1958, capítulo das penalidades.",
+      "fafipaTrap": "Rol completo.",
+      "title": "Resolução individual — LEG-AUT-0019",
+      "status": "resolvida"
+    },
+    "summary": "São penas disciplinares previstas expressamente: I advertência; II repreensão; III suspensão; IV multa; V destituição de função; VI demissão.",
+    "prioridade_base": 100,
+    "prioridade_faixa": "P1+"
+  },
+  {
+    "id": "LEG-AUT-0020",
+    "file": "Legislação Municipal — Curitiba — P1+",
+    "origin": "Autoral – padrão FAFIPA",
+    "topic": "Lei 1.656/1958 — Penalidades",
+    "stem": "Assinale a associação correta:",
+    "options": [
+      [
+        "A",
+        "Advertência — desobediência — verbal."
+      ],
+      [
+        "B",
+        "Repreensão — negligência — verbal."
+      ],
+      [
+        "C",
+        "Advertência — negligência — por escrito."
+      ],
+      [
+        "D",
+        "Suspensão — negligência — máximo 30 dias."
+      ],
+      [
+        "E",
+        "Repreensão — falta grave — máximo 90 dias."
+      ]
+    ],
+    "answer": "C",
+    "year": 2026,
+    "qnum": 20,
+    "score": 1000,
+    "band": "A",
+    "rank": 2813,
+    "resolution": {
+      "whatTests": "Lei 1.656/1958 — Penalidades",
+      "rule": "A advertência é escrita em caso de negligência; repreensão é escrita em caso de desobediência ou falta de cumprimento de deveres.",
+      "steps": [
+        "Identifique o dispositivo/instituto cobrado.",
+        "Compare cada alternativa com a regra legal indicada.",
+        "Alternativa correta: C."
+      ],
+      "calculation": "Não se aplica.",
+      "whyCorrect": "C — corresponde à regra legal indicada no fundamento.",
+      "whyWrong": "As demais alternativas alteram conceito, prazo, percentual, competência, requisito ou exceção legal.",
+      "basis": "Lei Municipal 1.656/1958, penalidades.",
+      "fafipaTrap": "Advertência/negligência × repreensão/desobediência.",
+      "title": "Resolução individual — LEG-AUT-0020",
+      "status": "resolvida"
+    },
+    "summary": "Assinale a associação correta:",
+    "prioridade_base": 100,
+    "prioridade_faixa": "P1+"
+  },
+  {
+    "id": "LEG-AUT-0021",
+    "file": "Legislação Municipal — Curitiba — P1+",
+    "origin": "Autoral – padrão FAFIPA",
+    "topic": "Lei 1.656/1958 — Penalidades",
+    "stem": "A pena de suspensão:",
+    "options": [
+      [
+        "A",
+        "não excederá 30 dias."
+      ],
+      [
+        "B",
+        "não excederá 60 dias."
+      ],
+      [
+        "C",
+        "não excederá 90 dias."
+      ],
+      [
+        "D",
+        "não possui limite temporal."
+      ],
+      [
+        "E",
+        "será obrigatoriamente convertida em multa."
+      ]
+    ],
+    "answer": "C",
+    "year": 2026,
+    "qnum": 21,
+    "score": 1000,
+    "band": "A",
+    "rank": 2814,
+    "resolution": {
+      "whatTests": "Lei 1.656/1958 — Penalidades",
+      "rule": "A suspensão não excederá 90 dias.",
+      "steps": [
+        "Identifique o dispositivo/instituto cobrado.",
+        "Compare cada alternativa com a regra legal indicada.",
+        "Alternativa correta: C."
+      ],
+      "calculation": "Não se aplica.",
+      "whyCorrect": "C — corresponde à regra legal indicada no fundamento.",
+      "whyWrong": "As demais alternativas alteram conceito, prazo, percentual, competência, requisito ou exceção legal.",
+      "basis": "Lei Municipal 1.656/1958, penalidades.",
+      "fafipaTrap": "90 dias.",
+      "title": "Resolução individual — LEG-AUT-0021",
+      "status": "resolvida"
+    },
+    "summary": "A pena de suspensão:",
+    "prioridade_base": 100,
+    "prioridade_faixa": "P1+"
+  },
+  {
+    "id": "LEG-AUT-0022",
+    "file": "Legislação Municipal — Curitiba — P1+",
+    "origin": "Autoral – padrão FAFIPA",
+    "topic": "Lei 1.656/1958 — Penalidades",
+    "stem": "Havendo conveniência para o serviço, a suspensão poderá ser convertida em multa:",
+    "options": [
+      [
+        "A",
+        "de 25% por dia, afastando-se o servidor."
+      ],
+      [
+        "B",
+        "de 50% por dia de vencimento ou remuneração, permanecendo o funcionário em serviço."
+      ],
+      [
+        "C",
+        "de 50% do vencimento mensal, com afastamento."
+      ],
+      [
+        "D",
+        "de 60% por dia, permanecendo em serviço."
+      ],
+      [
+        "E",
+        "de 90% da remuneração mensal."
+      ]
+    ],
+    "answer": "B",
+    "year": 2026,
+    "qnum": 22,
+    "score": 1000,
+    "band": "A",
+    "rank": 2815,
+    "resolution": {
+      "whatTests": "Lei 1.656/1958 — Penalidades",
+      "rule": "A conversão é em multa de 50% por dia de vencimento/remuneração, permanecendo o funcionário em serviço.",
+      "steps": [
+        "Identifique o dispositivo/instituto cobrado.",
+        "Compare cada alternativa com a regra legal indicada.",
+        "Alternativa correta: B."
+      ],
+      "calculation": "Não se aplica.",
+      "whyCorrect": "B — corresponde à regra legal indicada no fundamento.",
+      "whyWrong": "As demais alternativas alteram conceito, prazo, percentual, competência, requisito ou exceção legal.",
+      "basis": "Lei Municipal 1.656/1958, penalidades.",
+      "fafipaTrap": "50% por dia + permanece em serviço.",
+      "title": "Resolução individual — LEG-AUT-0022",
+      "status": "resolvida"
+    },
+    "summary": "Havendo conveniência para o serviço, a suspensão poderá ser convertida em multa:",
+    "prioridade_base": 100,
+    "prioridade_faixa": "P1+"
+  },
+  {
+    "id": "LEG-AUT-0023",
+    "file": "Legislação Municipal — Curitiba — P1+",
+    "origin": "Autoral – padrão FAFIPA",
+    "topic": "Lei 1.656/1958 — Abandono de Cargo",
+    "stem": "Configura a hipótese temporal de abandono de cargo estudada o não comparecimento injustificado por:",
+    "options": [
+      [
+        "A",
+        "mais de 15 dias consecutivos."
+      ],
+      [
+        "B",
+        "mais de 30 dias consecutivos ou 60 intercalados no ano."
+      ],
+      [
+        "C",
+        "mais de 30 dias consecutivos ou 90 intercalados durante o ano."
+      ],
+      [
+        "D",
+        "60 dias consecutivos ou 90 intercalados."
+      ],
+      [
+        "E",
+        "exatamente 30 dias consecutivos."
+      ]
+    ],
+    "answer": "C",
+    "year": 2026,
+    "qnum": 23,
+    "score": 1000,
+    "band": "A",
+    "rank": 2816,
+    "resolution": {
+      "whatTests": "Lei 1.656/1958 — Abandono de Cargo",
+      "rule": "O dispositivo usa mais de 30 dias consecutivos ou 90 intercalados durante o ano.",
+      "steps": [
+        "Identifique o dispositivo/instituto cobrado.",
+        "Compare cada alternativa com a regra legal indicada.",
+        "Alternativa correta: C."
+      ],
+      "calculation": "Não se aplica.",
+      "whyCorrect": "C — corresponde à regra legal indicada no fundamento.",
+      "whyWrong": "As demais alternativas alteram conceito, prazo, percentual, competência, requisito ou exceção legal.",
+      "basis": "Lei Municipal 1.656/1958, penalidades/demissão.",
+      "fafipaTrap": "Mais de 30 consecutivos / 90 intercalados.",
+      "title": "Resolução individual — LEG-AUT-0023",
+      "status": "resolvida"
+    },
+    "summary": "Configura a hipótese temporal de abandono de cargo estudada o não comparecimento injustificado por:",
+    "prioridade_base": 100,
+    "prioridade_faixa": "P1+"
+  },
+  {
+    "id": "LEG-AUT-0024",
+    "file": "Legislação Municipal — Curitiba — P1+",
+    "origin": "Autoral – padrão FAFIPA",
+    "topic": "LC 40/2001 — Penalidades",
+    "stem": "Quando a infração referente ao dever de recolher o imposto for apurada por procedimento fiscal, a multa indicada no art. 26 equivale a:",
+    "options": [
+      [
+        "A",
+        "20%."
+      ],
+      [
+        "B",
+        "25%."
+      ],
+      [
+        "C",
+        "30%."
+      ],
+      [
+        "D",
+        "40%."
+      ],
+      [
+        "E",
+        "60%."
+      ]
+    ],
+    "answer": "D",
+    "year": 2026,
+    "qnum": 24,
+    "score": 1000,
+    "band": "A",
+    "rank": 2817,
+    "resolution": {
+      "whatTests": "LC 40/2001 — Penalidades",
+      "rule": "A multa corresponde a 40% do valor atualizado do imposto.",
+      "steps": [
+        "Identifique o dispositivo/instituto cobrado.",
+        "Compare cada alternativa com a regra legal indicada.",
+        "Alternativa correta: D."
+      ],
+      "calculation": "Não se aplica.",
+      "whyCorrect": "D — corresponde à regra legal indicada no fundamento.",
+      "whyWrong": "As demais alternativas alteram conceito, prazo, percentual, competência, requisito ou exceção legal.",
+      "basis": "LC Municipal 40/2001, art. 26.",
+      "fafipaTrap": "40%.",
+      "title": "Resolução individual — LEG-AUT-0024",
+      "status": "resolvida"
+    },
+    "summary": "Quando a infração referente ao dever de recolher o imposto for apurada por procedimento fiscal, a multa indicada no art. 26 equivale a:",
+    "prioridade_base": 100,
+    "prioridade_faixa": "P1+"
+  },
+  {
+    "id": "LEG-AUT-0025",
+    "file": "Legislação Municipal — Curitiba — P1+",
+    "origin": "Autoral – padrão FAFIPA",
+    "topic": "LC 40/2001 — Penalidades",
+    "stem": "No caso de não retenção do imposto na fonte, a multa prevista é de:",
+    "options": [
+      [
+        "A",
+        "25%."
+      ],
+      [
+        "B",
+        "30%."
+      ],
+      [
+        "C",
+        "40%."
+      ],
+      [
+        "D",
+        "50%."
+      ],
+      [
+        "E",
+        "60%."
+      ]
+    ],
+    "answer": "C",
+    "year": 2026,
+    "qnum": 25,
+    "score": 1000,
+    "band": "A",
+    "rank": 2818,
+    "resolution": {
+      "whatTests": "LC 40/2001 — Penalidades",
+      "rule": "A multa é de 40%.",
+      "steps": [
+        "Identifique o dispositivo/instituto cobrado.",
+        "Compare cada alternativa com a regra legal indicada.",
+        "Alternativa correta: C."
+      ],
+      "calculation": "Não se aplica.",
+      "whyCorrect": "C — corresponde à regra legal indicada no fundamento.",
+      "whyWrong": "As demais alternativas alteram conceito, prazo, percentual, competência, requisito ou exceção legal.",
+      "basis": "LC Municipal 40/2001, art. 26.",
+      "fafipaTrap": "Não retenção = 40%.",
+      "title": "Resolução individual — LEG-AUT-0025",
+      "status": "resolvida"
+    },
+    "summary": "No caso de não retenção do imposto na fonte, a multa prevista é de:",
+    "prioridade_base": 100,
+    "prioridade_faixa": "P1+"
+  },
+  {
+    "id": "LEG-AUT-0026",
+    "file": "Legislação Municipal — Curitiba — P1+",
+    "origin": "Autoral – padrão FAFIPA",
+    "topic": "LC 40/2001 — Penalidades",
+    "stem": "Nos casos de dolo, fraude ou simulação, a multa será:",
+    "options": [
+      [
+        "A",
+        "30%."
+      ],
+      [
+        "B",
+        "40%."
+      ],
+      [
+        "C",
+        "50%."
+      ],
+      [
+        "D",
+        "60%."
+      ],
+      [
+        "E",
+        "100%."
+      ]
+    ],
+    "answer": "D",
+    "year": 2026,
+    "qnum": 26,
+    "score": 1000,
+    "band": "A",
+    "rank": 2819,
+    "resolution": {
+      "whatTests": "LC 40/2001 — Penalidades",
+      "rule": "A multa é de 60%.",
+      "steps": [
+        "Identifique o dispositivo/instituto cobrado.",
+        "Compare cada alternativa com a regra legal indicada.",
+        "Alternativa correta: D."
+      ],
+      "calculation": "Não se aplica.",
+      "whyCorrect": "D — corresponde à regra legal indicada no fundamento.",
+      "whyWrong": "As demais alternativas alteram conceito, prazo, percentual, competência, requisito ou exceção legal.",
+      "basis": "LC Municipal 40/2001, art. 26.",
+      "fafipaTrap": "Dolo/fraude/simulação = 60%.",
+      "title": "Resolução individual — LEG-AUT-0026",
+      "status": "resolvida"
+    },
+    "summary": "Nos casos de dolo, fraude ou simulação, a multa será:",
+    "prioridade_base": 100,
+    "prioridade_faixa": "P1+"
+  },
+  {
+    "id": "LEG-AUT-0027",
+    "file": "Legislação Municipal — Curitiba — P1+",
+    "origin": "Autoral – padrão FAFIPA",
+    "topic": "LC 40/2001 — Penalidades",
+    "stem": "Dentro do prazo legal do art. 27, o sujeito passivo opta pelo pagamento do crédito objeto do auto de infração. A multa será reduzida em:",
+    "options": [
+      [
+        "A",
+        "20%."
+      ],
+      [
+        "B",
+        "25%."
+      ],
+      [
+        "C",
+        "40%."
+      ],
+      [
+        "D",
+        "50%."
+      ],
+      [
+        "E",
+        "60%."
+      ]
+    ],
+    "answer": "D",
+    "year": 2026,
+    "qnum": 27,
+    "score": 1000,
+    "band": "A",
+    "rank": 2820,
+    "resolution": {
+      "whatTests": "LC 40/2001 — Penalidades",
+      "rule": "No pagamento tempestivo a redução é 50%; no parcelamento, 25%.",
+      "steps": [
+        "Identifique o dispositivo/instituto cobrado.",
+        "Compare cada alternativa com a regra legal indicada.",
+        "Alternativa correta: D."
+      ],
+      "calculation": "Não se aplica.",
+      "whyCorrect": "D — corresponde à regra legal indicada no fundamento.",
+      "whyWrong": "As demais alternativas alteram conceito, prazo, percentual, competência, requisito ou exceção legal.",
+      "basis": "LC Municipal 40/2001, art. 27.",
+      "fafipaTrap": "Paga -50%; parcela -25%.",
+      "title": "Resolução individual — LEG-AUT-0027",
+      "status": "resolvida"
+    },
+    "summary": "Dentro do prazo legal do art. 27, o sujeito passivo opta pelo pagamento do crédito objeto do auto de infração. A multa será reduzida em:",
+    "prioridade_base": 100,
+    "prioridade_faixa": "P1+"
+  },
+  {
+    "id": "LEG-AUT-0028",
+    "file": "Legislação Municipal — Curitiba — P1+",
+    "origin": "Autoral – padrão FAFIPA",
+    "topic": "LC 40/2001 — Penalidades",
+    "stem": "Uma multa de R$ 12.000 recebe a redução aplicável ao parcelamento tempestivo do art. 27. O valor da multa após a redução será:",
+    "options": [
+      [
+        "A",
+        "R$ 3.000."
+      ],
+      [
+        "B",
+        "R$ 6.000."
+      ],
+      [
+        "C",
+        "R$ 8.000."
+      ],
+      [
+        "D",
+        "R$ 9.000."
+      ],
+      [
+        "E",
+        "R$ 10.000."
+      ]
+    ],
+    "answer": "D",
+    "year": 2026,
+    "qnum": 28,
+    "score": 1000,
+    "band": "A",
+    "rank": 2821,
+    "resolution": {
+      "whatTests": "LC 40/2001 — Penalidades",
+      "rule": "Parcelamento: redução de 25%. R$12.000 × 75% = R$9.000.",
+      "steps": [
+        "Identifique o dispositivo/instituto cobrado.",
+        "Compare cada alternativa com a regra legal indicada.",
+        "Alternativa correta: D."
+      ],
+      "calculation": "12.000 × (1-0,25) = 9.000.",
+      "whyCorrect": "D — corresponde à regra legal indicada no fundamento.",
+      "whyWrong": "As demais alternativas alteram conceito, prazo, percentual, competência, requisito ou exceção legal.",
+      "basis": "LC Municipal 40/2001, art. 27.",
+      "fafipaTrap": "Não confundir valor da redução com valor remanescente.",
+      "title": "Resolução individual — LEG-AUT-0028",
+      "status": "resolvida"
+    },
+    "summary": "Uma multa de R$ 12.000 recebe a redução aplicável ao parcelamento tempestivo do art. 27. O valor da multa após a redução será:",
+    "prioridade_base": 100,
+    "prioridade_faixa": "P1+"
+  },
+  {
+    "id": "LEG-AUT-0029",
+    "file": "Legislação Municipal — Curitiba — P1+",
+    "origin": "Autoral – padrão FAFIPA",
+    "topic": "LC 40/2001 — Denúncia Espontânea",
+    "stem": "Sobre denúncia espontânea, assinale a correta:",
+    "options": [
+      [
+        "A",
+        "nunca exclui responsabilidade por infração."
+      ],
+      [
+        "B",
+        "exclui responsabilidade mesmo depois de iniciada fiscalização relacionada à infração."
+      ],
+      [
+        "C",
+        "exclui a responsabilidade por infração nos termos da lei."
+      ],
+      [
+        "D",
+        "dispensa necessariamente atualização e juros."
+      ],
+      [
+        "E",
+        "somente existe após lavrado auto de infração."
+      ]
+    ],
+    "answer": "C",
+    "year": 2026,
+    "qnum": 29,
+    "score": 1000,
+    "band": "A",
+    "rank": 2822,
+    "resolution": {
+      "whatTests": "LC 40/2001 — Denúncia Espontânea",
+      "rule": "A responsabilidade por infração é excluída pela denúncia espontânea, observadas as condições legais; não é espontânea após início de procedimento/medida de fiscalização relacionada.",
+      "steps": [
+        "Identifique o dispositivo/instituto cobrado.",
+        "Compare cada alternativa com a regra legal indicada.",
+        "Alternativa correta: C."
+      ],
+      "calculation": "Não se aplica.",
+      "whyCorrect": "C — corresponde à regra legal indicada no fundamento.",
+      "whyWrong": "As demais alternativas alteram conceito, prazo, percentual, competência, requisito ou exceção legal.",
+      "basis": "LC Municipal 40/2001, dispositivo sobre denúncia espontânea.",
+      "fafipaTrap": "Início da fiscalização elimina espontaneidade.",
+      "title": "Resolução individual — LEG-AUT-0029",
+      "status": "resolvida"
+    },
+    "summary": "Sobre denúncia espontânea, assinale a correta:",
+    "prioridade_base": 100,
+    "prioridade_faixa": "P1+"
+  },
+  {
+    "id": "LEG-AUT-0030",
+    "file": "Legislação Municipal — Curitiba — P1+",
+    "origin": "Autoral – padrão FAFIPA",
+    "topic": "Decreto 2.067/2025 — Índices",
+    "stem": "Para aquisição de bens, são admitidos resultados maiores ou iguais a 1 para:",
+    "options": [
+      [
+        "A",
+        "somente LC."
+      ],
+      [
+        "B",
+        "LC e LG apenas."
+      ],
+      [
+        "C",
+        "LC, LG e SG."
+      ],
+      [
+        "D",
+        "LC, LG, SG e GE."
+      ],
+      [
+        "E",
+        "LC, CCL e RCA."
+      ]
+    ],
+    "answer": "C",
+    "year": 2026,
+    "qnum": 30,
+    "score": 1000,
+    "band": "A",
+    "rank": 2823,
+    "resolution": {
+      "whatTests": "Decreto 2.067/2025 — Índices",
+      "rule": "LC, LG e SG devem ser ≥1 no núcleo de índices do Decreto 2.067.",
+      "steps": [
+        "Identifique o dispositivo/instituto cobrado.",
+        "Compare cada alternativa com a regra legal indicada.",
+        "Alternativa correta: C."
+      ],
+      "calculation": "Não se aplica.",
+      "whyCorrect": "C — corresponde à regra legal indicada no fundamento.",
+      "whyWrong": "As demais alternativas alteram conceito, prazo, percentual, competência, requisito ou exceção legal.",
+      "basis": "Decreto 2.067/2025, art. 7º.",
+      "fafipaTrap": "Não importar GE/CCL/RCA do Decreto 2.051.",
+      "title": "Resolução individual — LEG-AUT-0030",
+      "status": "resolvida"
+    },
+    "summary": "Para aquisição de bens, são admitidos resultados maiores ou iguais a 1 para:",
+    "prioridade_base": 100,
+    "prioridade_faixa": "P1+"
+  },
+  {
+    "id": "LEG-AUT-0031",
+    "file": "Legislação Municipal — Curitiba — P1+",
+    "origin": "Autoral – padrão FAFIPA",
+    "topic": "Decreto 2.067/2025 — Índices",
+    "stem": "Se houver divergência entre os índices apresentados pela empresa e a aferição da Administração:",
+    "options": [
+      [
+        "A",
+        "prevalece sempre o cálculo do licitante."
+      ],
+      [
+        "B",
+        "calcula-se a média."
+      ],
+      [
+        "C",
+        "a licitação deve ser anulada."
+      ],
+      [
+        "D",
+        "prevalece o cálculo da Administração."
+      ],
+      [
+        "E",
+        "prevalece o cálculo mais favorável ao licitante."
+      ]
+    ],
+    "answer": "D",
+    "year": 2026,
+    "qnum": 31,
+    "score": 1000,
+    "band": "A",
+    "rank": 2824,
+    "resolution": {
+      "whatTests": "Decreto 2.067/2025 — Índices",
+      "rule": "Prevalece o cálculo realizado pela Administração.",
+      "steps": [
+        "Identifique o dispositivo/instituto cobrado.",
+        "Compare cada alternativa com a regra legal indicada.",
+        "Alternativa correta: D."
+      ],
+      "calculation": "Não se aplica.",
+      "whyCorrect": "D — corresponde à regra legal indicada no fundamento.",
+      "whyWrong": "As demais alternativas alteram conceito, prazo, percentual, competência, requisito ou exceção legal.",
+      "basis": "Decreto 2.067/2025, art. 7º.",
+      "fafipaTrap": "Divergência → Administração.",
+      "title": "Resolução individual — LEG-AUT-0031",
+      "status": "resolvida"
+    },
+    "summary": "Se houver divergência entre os índices apresentados pela empresa e a aferição da Administração:",
+    "prioridade_base": 100,
+    "prioridade_faixa": "P1+"
+  },
+  {
+    "id": "LEG-AUT-0032",
+    "file": "Legislação Municipal — Curitiba — P1+",
+    "origin": "Autoral – padrão FAFIPA",
+    "topic": "Decreto 2.067/2025 — Patrimônio Líquido",
+    "stem": "Se os índices de solvência ou liquidez forem inferiores a 1, a Administração, nas condições do Decreto 2.067, poderá estabelecer no edital patrimônio líquido positivo mínimo de:",
+    "options": [
+      [
+        "A",
+        "exatamente 5%."
+      ],
+      [
+        "B",
+        "no mínimo 10%."
+      ],
+      [
+        "C",
+        "exatamente 10%."
+      ],
+      [
+        "D",
+        "até 10% do valor estimado da contratação."
+      ],
+      [
+        "E",
+        "até 16,66%."
+      ]
+    ],
+    "answer": "D",
+    "year": 2026,
+    "qnum": 32,
+    "score": 1000,
+    "band": "A",
+    "rank": 2825,
+    "resolution": {
+      "whatTests": "Decreto 2.067/2025 — Patrimônio Líquido",
+      "rule": "A norma admite PL positivo mínimo de até 10% do valor estimado, nas condições previstas.",
+      "steps": [
+        "Identifique o dispositivo/instituto cobrado.",
+        "Compare cada alternativa com a regra legal indicada.",
+        "Alternativa correta: D."
+      ],
+      "calculation": "Não se aplica.",
+      "whyCorrect": "D — corresponde à regra legal indicada no fundamento.",
+      "whyWrong": "As demais alternativas alteram conceito, prazo, percentual, competência, requisito ou exceção legal.",
+      "basis": "Decreto 2.067/2025, art. 8º.",
+      "fafipaTrap": "Até 10%, não exatamente 10%.",
+      "title": "Resolução individual — LEG-AUT-0032",
+      "status": "resolvida"
+    },
+    "summary": "Se os índices de solvência ou liquidez forem inferiores a 1, a Administração, nas condições do Decreto 2.067, poderá estabelecer no edital patrimônio líquido positivo mínimo de:",
+    "prioridade_base": 100,
+    "prioridade_faixa": "P1+"
+  },
+  {
+    "id": "LEG-AUT-0033",
+    "file": "Legislação Municipal — Curitiba — P1+",
+    "origin": "Autoral – padrão FAFIPA",
+    "topic": "Decreto 2.067/2025 — Patrimônio Líquido",
+    "stem": "Considera-se patrimônio líquido positivo, para o dispositivo estudado, a situação em que:",
+    "options": [
+      [
+        "A",
+        "AC > PC."
+      ],
+      [
+        "B",
+        "receitas > despesas."
+      ],
+      [
+        "C",
+        "ativo total > passivo total."
+      ],
+      [
+        "D",
+        "disponibilidades > PC."
+      ],
+      [
+        "E",
+        "PL > 10% obrigatoriamente."
+      ]
+    ],
+    "answer": "C",
+    "year": 2026,
+    "qnum": 33,
+    "score": 1000,
+    "band": "A",
+    "rank": 2826,
+    "resolution": {
+      "whatTests": "Decreto 2.067/2025 — Patrimônio Líquido",
+      "rule": "Patrimônio líquido positivo corresponde a ativo total superior ao passivo total.",
+      "steps": [
+        "Identifique o dispositivo/instituto cobrado.",
+        "Compare cada alternativa com a regra legal indicada.",
+        "Alternativa correta: C."
+      ],
+      "calculation": "Não se aplica.",
+      "whyCorrect": "C — corresponde à regra legal indicada no fundamento.",
+      "whyWrong": "As demais alternativas alteram conceito, prazo, percentual, competência, requisito ou exceção legal.",
+      "basis": "Decreto 2.067/2025, art. 8º.",
+      "fafipaTrap": "Conceito operacional do decreto.",
+      "title": "Resolução individual — LEG-AUT-0033",
+      "status": "resolvida"
+    },
+    "summary": "Considera-se patrimônio líquido positivo, para o dispositivo estudado, a situação em que:",
+    "prioridade_base": 100,
+    "prioridade_faixa": "P1+"
+  },
+  {
+    "id": "LEG-AUT-0034",
+    "file": "Legislação Municipal — Curitiba — P1+",
+    "origin": "Autoral – padrão FAFIPA",
+    "topic": "Decreto 2.067/2025 — MEI",
+    "stem": "Quanto ao MEI: I está desobrigado dos balanços referidos; II a verificação dos índices não se aplica; III apresenta recibo da Declaração Anual do SIMEI; IV deve demonstrar LC/LG/SG ≥1.",
+    "options": [
+      [
+        "A",
+        "I e II apenas."
+      ],
+      [
+        "B",
+        "III e IV apenas."
+      ],
+      [
+        "C",
+        "I, II e III apenas."
+      ],
+      [
+        "D",
+        "II, III e IV apenas."
+      ],
+      [
+        "E",
+        "I, II, III e IV."
+      ]
+    ],
+    "answer": "C",
+    "year": 2026,
+    "qnum": 34,
+    "score": 1000,
+    "band": "A",
+    "rank": 2827,
+    "resolution": {
+      "whatTests": "Decreto 2.067/2025 — MEI",
+      "rule": "IV é falsa: a verificação dos índices não se aplica ao MEI, nas condições do decreto.",
+      "steps": [
+        "Identifique o dispositivo/instituto cobrado.",
+        "Compare cada alternativa com a regra legal indicada.",
+        "Alternativa correta: C."
+      ],
+      "calculation": "Não se aplica.",
+      "whyCorrect": "C — corresponde à regra legal indicada no fundamento.",
+      "whyWrong": "As demais alternativas alteram conceito, prazo, percentual, competência, requisito ou exceção legal.",
+      "basis": "Decreto 2.067/2025, arts. 6º-8º.",
+      "fafipaTrap": "MEI: dispensa dos balanços/índices conforme regra específica.",
+      "title": "Resolução individual — LEG-AUT-0034",
+      "status": "resolvida"
+    },
+    "summary": "Quanto ao MEI: I está desobrigado dos balanços referidos; II a verificação dos índices não se aplica; III apresenta recibo da Declaração Anual do SIMEI; IV deve demonstrar LC/LG/SG ≥1.",
+    "prioridade_base": 100,
+    "prioridade_faixa": "P1+"
+  },
+  {
+    "id": "LEG-AUT-0035",
+    "file": "Legislação Municipal — Curitiba — P1+",
+    "origin": "Autoral – padrão FAFIPA",
+    "topic": "Decreto 2.067/2025 — Vedações",
+    "stem": "Nos termos do Decreto 2.067, é vedada a exigência de:",
+    "options": [
+      [
+        "A",
+        "demonstrações contábeis."
+      ],
+      [
+        "B",
+        "índices LC, LG e SG."
+      ],
+      [
+        "C",
+        "relação de compromissos assumidos."
+      ],
+      [
+        "D",
+        "valores mínimos de faturamento anterior e índices de rentabilidade ou lucratividade."
+      ],
+      [
+        "E",
+        "patrimônio líquido positivo nas circunstâncias autorizadas."
+      ]
+    ],
+    "answer": "D",
+    "year": 2026,
+    "qnum": 35,
+    "score": 1000,
+    "band": "A",
+    "rank": 2828,
+    "resolution": {
+      "whatTests": "Decreto 2.067/2025 — Vedações",
+      "rule": "É vedada exigência de faturamento anterior mínimo e índices de rentabilidade/lucratividade.",
+      "steps": [
+        "Identifique o dispositivo/instituto cobrado.",
+        "Compare cada alternativa com a regra legal indicada.",
+        "Alternativa correta: D."
+      ],
+      "calculation": "Não se aplica.",
+      "whyCorrect": "D — corresponde à regra legal indicada no fundamento.",
+      "whyWrong": "As demais alternativas alteram conceito, prazo, percentual, competência, requisito ou exceção legal.",
+      "basis": "Decreto 2.067/2025, art. 8º.",
+      "fafipaTrap": "Faturamento/rentabilidade/lucratividade.",
+      "title": "Resolução individual — LEG-AUT-0035",
+      "status": "resolvida"
+    },
+    "summary": "Nos termos do Decreto 2.067, é vedada a exigência de:",
+    "prioridade_base": 100,
+    "prioridade_faixa": "P1+"
+  },
+  {
+    "id": "LEG-AUT-0036",
+    "file": "Legislação Municipal — Curitiba — P1+",
+    "origin": "Autoral – padrão FAFIPA",
+    "topic": "Decreto 2.067/2025 — Consórcios",
+    "stem": "Quando admitido consórcio de empresas, para qualificação econômico-financeira:",
+    "options": [
+      [
+        "A",
+        "apenas a líder demonstra índices."
+      ],
+      [
+        "B",
+        "calcula-se um índice consolidado."
+      ],
+      [
+        "C",
+        "cada consorciada demonstra atendimento aos índices do instrumento convocatório."
+      ],
+      [
+        "D",
+        "os índices são dispensados."
+      ],
+      [
+        "E",
+        "somente estrangeiras demonstram."
+      ]
+    ],
+    "answer": "C",
+    "year": 2026,
+    "qnum": 36,
+    "score": 1000,
+    "band": "A",
+    "rank": 2829,
+    "resolution": {
+      "whatTests": "Decreto 2.067/2025 — Consórcios",
+      "rule": "Cada empresa consorciada deve demonstrar atendimento aos índices estabelecidos.",
+      "steps": [
+        "Identifique o dispositivo/instituto cobrado.",
+        "Compare cada alternativa com a regra legal indicada.",
+        "Alternativa correta: C."
+      ],
+      "calculation": "Não se aplica.",
+      "whyCorrect": "C — corresponde à regra legal indicada no fundamento.",
+      "whyWrong": "As demais alternativas alteram conceito, prazo, percentual, competência, requisito ou exceção legal.",
+      "basis": "Decreto 2.067/2025, art. 9º.",
+      "fafipaTrap": "Consórcio não transfere toda a prova à líder.",
+      "title": "Resolução individual — LEG-AUT-0036",
+      "status": "resolvida"
+    },
+    "summary": "Quando admitido consórcio de empresas, para qualificação econômico-financeira:",
+    "prioridade_base": 100,
+    "prioridade_faixa": "P1+"
+  },
+  {
+    "id": "LEG-AUT-0037",
+    "file": "Legislação Municipal — Curitiba — P1+",
+    "origin": "Autoral – padrão FAFIPA",
+    "topic": "Decreto 2.067/2025 — Requisitos",
+    "stem": "Os requisitos econômico-financeiros do Decreto 2.067:",
+    "options": [
+      [
+        "A",
+        "são absolutamente imutáveis."
+      ],
+      [
+        "B",
+        "somente podem ser reduzidos."
+      ],
+      [
+        "C",
+        "podem, justificadamente, ser suprimidos, adaptados ou acrescidos de outros relevantes/pertinentes, sem restrição à competitividade."
+      ],
+      [
+        "D",
+        "podem ser alterados livremente."
+      ],
+      [
+        "E",
+        "podem ser acrescidos independentemente do objeto."
+      ]
+    ],
+    "answer": "C",
+    "year": 2026,
+    "qnum": 37,
+    "score": 1000,
+    "band": "A",
+    "rank": 2830,
+    "resolution": {
+      "whatTests": "Decreto 2.067/2025 — Requisitos",
+      "rule": "A norma admite supressão, adaptação ou acréscimo justificado de requisitos relevantes/pertinentes, sem restringir competitividade.",
+      "steps": [
+        "Identifique o dispositivo/instituto cobrado.",
+        "Compare cada alternativa com a regra legal indicada.",
+        "Alternativa correta: C."
+      ],
+      "calculation": "Não se aplica.",
+      "whyCorrect": "C — corresponde à regra legal indicada no fundamento.",
+      "whyWrong": "As demais alternativas alteram conceito, prazo, percentual, competência, requisito ou exceção legal.",
+      "basis": "Decreto 2.067/2025, art. 10.",
+      "fafipaTrap": "Flexibilidade exige justificativa e pertinência.",
+      "title": "Resolução individual — LEG-AUT-0037",
+      "status": "resolvida"
+    },
+    "summary": "Os requisitos econômico-financeiros do Decreto 2.067:",
+    "prioridade_base": 100,
+    "prioridade_faixa": "P1+"
+  },
+  {
+    "id": "LEG-AUT-0038",
+    "file": "Legislação Municipal — Curitiba — P1+",
+    "origin": "Autoral – padrão FAFIPA",
+    "topic": "Decretos 2.051 e 2.067 — Comparação",
+    "stem": "Assinale a correta:",
+    "options": [
+      [
+        "A",
+        "Ambos exigem necessariamente GE ≤0,35."
+      ],
+      [
+        "B",
+        "Ambos exigem necessariamente CCL ≥16,66%."
+      ],
+      [
+        "C",
+        "O 2.051 contém GE, CCL, RCA e PL entre critérios do art. 7º; o 2.067 trabalha nesse núcleo com LC/LG/SG e disciplina possibilidade de PL positivo mínimo."
+      ],
+      [
+        "D",
+        "O 2.067 exige RCA e o 2.051 não."
+      ],
+      [
+        "E",
+        "Nenhum utiliza índices de liquidez."
+      ]
+    ],
+    "answer": "C",
+    "year": 2026,
+    "qnum": 38,
+    "score": 1000,
+    "band": "A",
+    "rank": 2831,
+    "resolution": {
+      "whatTests": "Decretos 2.051 e 2.067 — Comparação",
+      "rule": "Os decretos possuem estruturas distintas de qualificação econômico-financeira; não se devem transplantar os requisitos adicionais do 2.051 para o 2.067.",
+      "steps": [
+        "Identifique o dispositivo/instituto cobrado.",
+        "Compare cada alternativa com a regra legal indicada.",
+        "Alternativa correta: C."
+      ],
+      "calculation": "Não se aplica.",
+      "whyCorrect": "C — corresponde à regra legal indicada no fundamento.",
+      "whyWrong": "As demais alternativas alteram conceito, prazo, percentual, competência, requisito ou exceção legal.",
+      "basis": "Decretos 2.051/2025, art. 7º, e 2.067/2025, arts. 7º-8º.",
+      "fafipaTrap": "Questão comparativa central.",
+      "title": "Resolução individual — LEG-AUT-0038",
+      "status": "resolvida"
+    },
+    "summary": "Assinale a correta:",
+    "prioridade_base": 100,
+    "prioridade_faixa": "P1+"
+  },
+  {
+    "id": "LEG-AUT-0039",
+    "file": "Legislação Municipal — Curitiba — P1+",
+    "origin": "Autoral – padrão FAFIPA",
+    "topic": "Decreto 2.051/2025 — Dispensa",
+    "stem": "A habilitação econômico-financeira poderá ser dispensada total ou parcialmente, justificadamente, entre outras hipóteses:",
+    "options": [
+      [
+        "A",
+        "em qualquer contratação de serviços."
+      ],
+      [
+        "B",
+        "somente para MEI."
+      ],
+      [
+        "C",
+        "entrega imediata, valores inferiores a 1/4 do limite de dispensa para compras em geral e hipótese de P&D prevista na norma."
+      ],
+      [
+        "D",
+        "somente contratação estratégica."
+      ],
+      [
+        "E",
+        "sempre que índices forem inferiores a 1."
+      ]
+    ],
+    "answer": "C",
+    "year": 2026,
+    "qnum": 39,
+    "score": 1000,
+    "band": "A",
+    "rank": 2832,
+    "resolution": {
+      "whatTests": "Decreto 2.051/2025 — Dispensa",
+      "rule": "O art. 10 prevê essas hipóteses, condicionadas à justificativa na fase preparatória.",
+      "steps": [
+        "Identifique o dispositivo/instituto cobrado.",
+        "Compare cada alternativa com a regra legal indicada.",
+        "Alternativa correta: C."
+      ],
+      "calculation": "Não se aplica.",
+      "whyCorrect": "C — corresponde à regra legal indicada no fundamento.",
+      "whyWrong": "As demais alternativas alteram conceito, prazo, percentual, competência, requisito ou exceção legal.",
+      "basis": "Decreto 2.051/2025, art. 10.",
+      "fafipaTrap": "1/4 do limite, não 1/2.",
+      "title": "Resolução individual — LEG-AUT-0039",
+      "status": "resolvida"
+    },
+    "summary": "A habilitação econômico-financeira poderá ser dispensada total ou parcialmente, justificadamente, entre outras hipóteses:",
+    "prioridade_base": 100,
+    "prioridade_faixa": "P1+"
+  },
+  {
+    "id": "LEG-AUT-0040",
+    "file": "Legislação Municipal — Curitiba — P1+",
+    "origin": "Autoral – padrão FAFIPA",
+    "topic": "Decreto 2.051/2025 — Contratações Estratégicas",
+    "stem": "A aplicação cumulativa dos índices do art. 7º deve ser utilizada como referência:",
+    "options": [
+      [
+        "A",
+        "exclusivamente para aquisição de bens."
+      ],
+      [
+        "B",
+        "somente para MEI."
+      ],
+      [
+        "C",
+        "para contratações estratégicas mencionadas e para dedicação exclusiva de mão de obra."
+      ],
+      [
+        "D",
+        "para qualquer contratação, sem justificativa."
+      ],
+      [
+        "E",
+        "apenas para estrangeiras."
+      ]
+    ],
+    "answer": "C",
+    "year": 2026,
+    "qnum": 40,
+    "score": 1000,
+    "band": "A",
+    "rank": 2833,
+    "resolution": {
+      "whatTests": "Decreto 2.051/2025 — Contratações Estratégicas",
+      "rule": "É referência para contratações estratégicas e dedicação exclusiva; utilização ou não deve ser justificada.",
+      "steps": [
+        "Identifique o dispositivo/instituto cobrado.",
+        "Compare cada alternativa com a regra legal indicada.",
+        "Alternativa correta: C."
+      ],
+      "calculation": "Não se aplica.",
+      "whyCorrect": "C — corresponde à regra legal indicada no fundamento.",
+      "whyWrong": "As demais alternativas alteram conceito, prazo, percentual, competência, requisito ou exceção legal.",
+      "basis": "Decreto 2.051/2025, art. 13, redação do Decreto 707/2026.",
+      "fafipaTrap": "Não é aplicação automática sem justificativa.",
+      "title": "Resolução individual — LEG-AUT-0040",
+      "status": "resolvida"
+    },
+    "summary": "A aplicação cumulativa dos índices do art. 7º deve ser utilizada como referência:",
+    "prioridade_base": 100,
+    "prioridade_faixa": "P1+"
+  },
+  {
+    "id": "LEG-AUT-0041",
+    "file": "Legislação Municipal — Curitiba — P1+",
+    "origin": "Autoral – padrão FAFIPA",
+    "topic": "Lei 1.656/1958 — Vacância",
+    "stem": "Constitui hipótese de vacância: I exoneração; II demissão; III promoção; IV aposentadoria; V posse em outro cargo; VI falecimento.",
+    "options": [
+      [
+        "A",
+        "I, II e IV apenas."
+      ],
+      [
+        "B",
+        "I, III, IV e VI apenas."
+      ],
+      [
+        "C",
+        "II, III e V apenas."
+      ],
+      [
+        "D",
+        "I, II, III, IV, V e VI."
+      ],
+      [
+        "E",
+        "I, II, IV e V apenas."
+      ]
+    ],
+    "answer": "D",
+    "year": 2026,
+    "qnum": 41,
+    "score": 1000,
+    "band": "A",
+    "rank": 2834,
+    "resolution": {
+      "whatTests": "Lei 1.656/1958 — Vacância",
+      "rule": "Todas as hipóteses listadas constam do art. 79; também há transferência.",
+      "steps": [
+        "Identifique o dispositivo/instituto cobrado.",
+        "Compare cada alternativa com a regra legal indicada.",
+        "Alternativa correta: D."
+      ],
+      "calculation": "Não se aplica.",
+      "whyCorrect": "D — corresponde à regra legal indicada no fundamento.",
+      "whyWrong": "As demais alternativas alteram conceito, prazo, percentual, competência, requisito ou exceção legal.",
+      "basis": "Lei Municipal 1.656/1958, art. 79.",
+      "fafipaTrap": "Promoção e posse em outro cargo também geram vacância.",
+      "title": "Resolução individual — LEG-AUT-0041",
+      "status": "resolvida"
+    },
+    "summary": "Constitui hipótese de vacância: I exoneração; II demissão; III promoção; IV aposentadoria; V posse em outro cargo; VI falecimento.",
+    "prioridade_base": 100,
+    "prioridade_faixa": "P1+"
+  },
+  {
+    "id": "LEG-AUT-0042",
+    "file": "Legislação Municipal — Curitiba — P1+",
+    "origin": "Autoral – padrão FAFIPA",
+    "topic": "Lei 1.656/1958 — Exoneração",
+    "stem": "Dar-se-á exoneração: I a pedido; II a critério do Prefeito em cargo em comissão/função gratificada; III quando não satisfeitas condições do estágio probatório; IV obrigatoriamente como penalidade.",
+    "options": [
+      [
+        "A",
+        "I e II."
+      ],
+      [
+        "B",
+        "II e III."
+      ],
+      [
+        "C",
+        "I, II e III."
+      ],
+      [
+        "D",
+        "I, III e IV."
+      ],
+      [
+        "E",
+        "Todas."
+      ]
+    ],
+    "answer": "C",
+    "year": 2026,
+    "qnum": 42,
+    "score": 1000,
+    "band": "A",
+    "rank": 2835,
+    "resolution": {
+      "whatTests": "Lei 1.656/1958 — Exoneração",
+      "rule": "IV é falsa: demissão é aplicada como penalidade.",
+      "steps": [
+        "Identifique o dispositivo/instituto cobrado.",
+        "Compare cada alternativa com a regra legal indicada.",
+        "Alternativa correta: C."
+      ],
+      "calculation": "Não se aplica.",
+      "whyCorrect": "C — corresponde à regra legal indicada no fundamento.",
+      "whyWrong": "As demais alternativas alteram conceito, prazo, percentual, competência, requisito ou exceção legal.",
+      "basis": "Lei Municipal 1.656/1958, art. 79, §§1º-2º.",
+      "fafipaTrap": "Exoneração ≠ demissão.",
+      "title": "Resolução individual — LEG-AUT-0042",
+      "status": "resolvida"
+    },
+    "summary": "Dar-se-á exoneração: I a pedido; II a critério do Prefeito em cargo em comissão/função gratificada; III quando não satisfeitas condições do estágio probatório; IV obrigatoriamente como penalidade.",
+    "prioridade_base": 100,
+    "prioridade_faixa": "P1+"
+  },
+  {
+    "id": "LEG-AUT-0043",
+    "file": "Legislação Municipal — Curitiba — P1+",
+    "origin": "Autoral – padrão FAFIPA",
+    "topic": "Lei 1.656/1958 — Vacância",
+    "stem": "Assinale a INCORRETA:",
+    "options": [
+      [
+        "A",
+        "Exoneração pode ocorrer a pedido."
+      ],
+      [
+        "B",
+        "Demissão possui natureza de penalidade."
+      ],
+      [
+        "C",
+        "Aposentadoria pode gerar vacância."
+      ],
+      [
+        "D",
+        "Falecimento pode gerar vacância."
+      ],
+      [
+        "E",
+        "Promoção jamais produz vacância."
+      ]
+    ],
+    "answer": "E",
+    "year": 2026,
+    "qnum": 43,
+    "score": 1000,
+    "band": "A",
+    "rank": 2836,
+    "resolution": {
+      "whatTests": "Lei 1.656/1958 — Vacância",
+      "rule": "Promoção consta expressamente como hipótese de vacância.",
+      "steps": [
+        "Identifique o dispositivo/instituto cobrado.",
+        "Compare cada alternativa com a regra legal indicada.",
+        "Alternativa correta: E."
+      ],
+      "calculation": "Não se aplica.",
+      "whyCorrect": "E — corresponde à regra legal indicada no fundamento.",
+      "whyWrong": "As demais alternativas alteram conceito, prazo, percentual, competência, requisito ou exceção legal.",
+      "basis": "Lei Municipal 1.656/1958, art. 79.",
+      "fafipaTrap": "A palavra 'jamais' torna E falsa.",
+      "title": "Resolução individual — LEG-AUT-0043",
+      "status": "resolvida"
+    },
+    "summary": "Assinale a INCORRETA:",
+    "prioridade_base": 100,
+    "prioridade_faixa": "P1+"
+  },
+  {
+    "id": "LEG-AUT-0044",
+    "file": "Legislação Municipal — Curitiba — P1+",
+    "origin": "Autoral – padrão FAFIPA",
+    "topic": "Lei 1.656/1958 — Tempo de Serviço",
+    "stem": "Na apuração do tempo de serviço prevista pelo Estatuto, um ano é considerado como:",
+    "options": [
+      [
+        "A",
+        "360 dias."
+      ],
+      [
+        "B",
+        "365 dias."
+      ],
+      [
+        "C",
+        "366 dias."
+      ],
+      [
+        "D",
+        "12 meses de 30 dias obrigatoriamente."
+      ],
+      [
+        "E",
+        "número efetivo de dias do ano civil."
+      ]
+    ],
+    "answer": "B",
+    "year": 2026,
+    "qnum": 44,
+    "score": 1000,
+    "band": "A",
+    "rank": 2837,
+    "resolution": {
+      "whatTests": "Lei 1.656/1958 — Tempo de Serviço",
+      "rule": "O Estatuto considera o ano como 365 dias para essa conversão.",
+      "steps": [
+        "Identifique o dispositivo/instituto cobrado.",
+        "Compare cada alternativa com a regra legal indicada.",
+        "Alternativa correta: B."
+      ],
+      "calculation": "Não se aplica.",
+      "whyCorrect": "B — corresponde à regra legal indicada no fundamento.",
+      "whyWrong": "As demais alternativas alteram conceito, prazo, percentual, competência, requisito ou exceção legal.",
+      "basis": "Lei Municipal 1.656/1958, art. 81, §2º.",
+      "fafipaTrap": "365.",
+      "title": "Resolução individual — LEG-AUT-0044",
+      "status": "resolvida"
+    },
+    "summary": "Na apuração do tempo de serviço prevista pelo Estatuto, um ano é considerado como:",
+    "prioridade_base": 100,
+    "prioridade_faixa": "P1+"
+  },
+  {
+    "id": "LEG-AUT-0045",
+    "file": "Legislação Municipal — Curitiba — P1+",
+    "origin": "Autoral – padrão FAFIPA",
+    "topic": "Lei 1.656/1958 — Tempo de Serviço",
+    "stem": "Após a conversão do tempo de serviço em anos, os dias restantes:",
+    "options": [
+      [
+        "A",
+        "são sempre desprezados."
+      ],
+      [
+        "B",
+        "sempre formam novo ano."
+      ],
+      [
+        "C",
+        "até 182 não são computados; excedendo esse número, arredonda-se para um ano."
+      ],
+      [
+        "D",
+        "até 180 não são computados; acima disso equivalem a seis meses."
+      ],
+      [
+        "E",
+        "são convertidos proporcionalmente."
+      ]
+    ],
+    "answer": "C",
+    "year": 2026,
+    "qnum": 45,
+    "score": 1000,
+    "band": "A",
+    "rank": 2838,
+    "resolution": {
+      "whatTests": "Lei 1.656/1958 — Tempo de Serviço",
+      "rule": "Até 182 dias restantes não são computados; excedendo 182, arredonda-se para um ano.",
+      "steps": [
+        "Identifique o dispositivo/instituto cobrado.",
+        "Compare cada alternativa com a regra legal indicada.",
+        "Alternativa correta: C."
+      ],
+      "calculation": "Não se aplica.",
+      "whyCorrect": "C — corresponde à regra legal indicada no fundamento.",
+      "whyWrong": "As demais alternativas alteram conceito, prazo, percentual, competência, requisito ou exceção legal.",
+      "basis": "Lei Municipal 1.656/1958, art. 81, §3º.",
+      "fafipaTrap": "182, não 180.",
+      "title": "Resolução individual — LEG-AUT-0045",
+      "status": "resolvida"
+    },
+    "summary": "Após a conversão do tempo de serviço em anos, os dias restantes:",
+    "prioridade_base": 100,
+    "prioridade_faixa": "P1+"
+  },
+  {
+    "id": "LEG-AUT-0046",
+    "file": "Legislação Municipal — Curitiba — P1+",
+    "origin": "Autoral – padrão FAFIPA",
+    "topic": "Lei 1.656/1958 — Efetivo Exercício",
+    "stem": "São considerados de efetivo exercício: I férias; II licença-prêmio; III casamento até oito dias; IV luto pelas pessoas enumeradas, até oito dias.",
+    "options": [
+      [
+        "A",
+        "I e II apenas."
+      ],
+      [
+        "B",
+        "III e IV apenas."
+      ],
+      [
+        "C",
+        "I, II e III apenas."
+      ],
+      [
+        "D",
+        "I, II, III e IV."
+      ],
+      [
+        "E",
+        "II e IV apenas."
+      ]
+    ],
+    "answer": "D",
+    "year": 2026,
+    "qnum": 46,
+    "score": 1000,
+    "band": "A",
+    "rank": 2839,
+    "resolution": {
+      "whatTests": "Lei 1.656/1958 — Efetivo Exercício",
+      "rule": "Todos os afastamentos listados constam do rol estudado.",
+      "steps": [
+        "Identifique o dispositivo/instituto cobrado.",
+        "Compare cada alternativa com a regra legal indicada.",
+        "Alternativa correta: D."
+      ],
+      "calculation": "Não se aplica.",
+      "whyCorrect": "D — corresponde à regra legal indicada no fundamento.",
+      "whyWrong": "As demais alternativas alteram conceito, prazo, percentual, competência, requisito ou exceção legal.",
+      "basis": "Lei Municipal 1.656/1958, art. 82.",
+      "fafipaTrap": "Casamento/luto: até 8 dias.",
+      "title": "Resolução individual — LEG-AUT-0046",
+      "status": "resolvida"
+    },
+    "summary": "São considerados de efetivo exercício: I férias; II licença-prêmio; III casamento até oito dias; IV luto pelas pessoas enumeradas, até oito dias.",
+    "prioridade_base": 100,
+    "prioridade_faixa": "P1+"
+  },
+  {
+    "id": "LEG-AUT-0047",
+    "file": "Legislação Municipal — Curitiba — P1+",
+    "origin": "Autoral – padrão FAFIPA",
+    "topic": "LC 40/2001 — Arbitramento",
+    "stem": "Dados inexatos ou que não mereçam fé fornecidos pelo sujeito passivo — ou a ausência de fornecimento — podem submetê-lo:",
+    "options": [
+      [
+        "A",
+        "exclusivamente à imunidade."
+      ],
+      [
+        "B",
+        "ao regime especial de fiscalização, podendo resultar em arbitramento."
+      ],
+      [
+        "C",
+        "automaticamente à execução fiscal."
+      ],
+      [
+        "D",
+        "obrigatoriamente à cassação da inscrição."
+      ],
+      [
+        "E",
+        "somente à tributação fixa."
+      ]
+    ],
+    "answer": "B",
+    "year": 2026,
+    "qnum": 47,
+    "score": 1000,
+    "band": "A",
+    "rank": 2840,
+    "resolution": {
+      "whatTests": "LC 40/2001 — Arbitramento",
+      "rule": "O art. 23 prevê regime especial de fiscalização, do qual resultará fixação por arbitramento.",
+      "steps": [
+        "Identifique o dispositivo/instituto cobrado.",
+        "Compare cada alternativa com a regra legal indicada.",
+        "Alternativa correta: B."
+      ],
+      "calculation": "Não se aplica.",
+      "whyCorrect": "B — corresponde à regra legal indicada no fundamento.",
+      "whyWrong": "As demais alternativas alteram conceito, prazo, percentual, competência, requisito ou exceção legal.",
+      "basis": "LC Municipal 40/2001, art. 23.",
+      "fafipaTrap": "Dados sem fé → fiscalização especial/arbitramento.",
+      "title": "Resolução individual — LEG-AUT-0047",
+      "status": "resolvida"
+    },
+    "summary": "Dados inexatos ou que não mereçam fé fornecidos pelo sujeito passivo — ou a ausência de fornecimento — podem submetê-lo:",
+    "prioridade_base": 100,
+    "prioridade_faixa": "P1+"
+  },
+  {
+    "id": "LEG-AUT-0048",
+    "file": "Legislação Municipal — Curitiba — P1+",
+    "origin": "Autoral – padrão FAFIPA",
+    "topic": "LC 40/2001 — Arbitramento",
+    "stem": "O extravio de livros e documentos fiscais:",
+    "options": [
+      [
+        "A",
+        "impede arbitramento."
+      ],
+      [
+        "B",
+        "extingue o crédito."
+      ],
+      [
+        "C",
+        "também pode levar ao regime previsto para arbitramento."
+      ],
+      [
+        "D",
+        "gera imunidade temporária."
+      ],
+      [
+        "E",
+        "obriga uso exclusivo da receita declarada."
+      ]
+    ],
+    "answer": "C",
+    "year": 2026,
+    "qnum": 48,
+    "score": 1000,
+    "band": "A",
+    "rank": 2841,
+    "resolution": {
+      "whatTests": "LC 40/2001 — Arbitramento",
+      "rule": "O parágrafo único do art. 23 aplica o mesmo regime ao extravio de livros/documentos fiscais.",
+      "steps": [
+        "Identifique o dispositivo/instituto cobrado.",
+        "Compare cada alternativa com a regra legal indicada.",
+        "Alternativa correta: C."
+      ],
+      "calculation": "Não se aplica.",
+      "whyCorrect": "C — corresponde à regra legal indicada no fundamento.",
+      "whyWrong": "As demais alternativas alteram conceito, prazo, percentual, competência, requisito ou exceção legal.",
+      "basis": "LC Municipal 40/2001, art. 23, parágrafo único.",
+      "fafipaTrap": "Extravio não impede arbitramento.",
+      "title": "Resolução individual — LEG-AUT-0048",
+      "status": "resolvida"
+    },
+    "summary": "O extravio de livros e documentos fiscais:",
+    "prioridade_base": 100,
+    "prioridade_faixa": "P1+"
+  },
+  {
+    "id": "LEG-AUT-0049",
+    "file": "Legislação Municipal — Curitiba — P1+",
+    "origin": "Autoral – padrão FAFIPA",
+    "topic": "LC 40/2001 — Arbitramento",
+    "stem": "Podem ser critérios de arbitramento: I média aritmética; II percentual sobre receita bruta estimada; III despesas/custos acrescidos de até 50%; IV honorários fixados pelo órgão de classe.",
+    "options": [
+      [
+        "A",
+        "I e II apenas."
+      ],
+      [
+        "B",
+        "I, II e III apenas."
+      ],
+      [
+        "C",
+        "II e IV apenas."
+      ],
+      [
+        "D",
+        "I, II, III e IV."
+      ],
+      [
+        "E",
+        "III e IV apenas."
+      ]
+    ],
+    "answer": "D",
+    "year": 2026,
+    "qnum": 49,
+    "score": 1000,
+    "band": "A",
+    "rank": 2842,
+    "resolution": {
+      "whatTests": "LC 40/2001 — Arbitramento",
+      "rule": "Todos são critérios previstos no art. 24.",
+      "steps": [
+        "Identifique o dispositivo/instituto cobrado.",
+        "Compare cada alternativa com a regra legal indicada.",
+        "Alternativa correta: D."
+      ],
+      "calculation": "Não se aplica.",
+      "whyCorrect": "D — corresponde à regra legal indicada no fundamento.",
+      "whyWrong": "As demais alternativas alteram conceito, prazo, percentual, competência, requisito ou exceção legal.",
+      "basis": "LC Municipal 40/2001, art. 24.",
+      "fafipaTrap": "Rol de critérios.",
+      "title": "Resolução individual — LEG-AUT-0049",
+      "status": "resolvida"
+    },
+    "summary": "Podem ser critérios de arbitramento: I média aritmética; II percentual sobre receita bruta estimada; III despesas/custos acrescidos de até 50%; IV honorários fixados pelo órgão de classe.",
+    "prioridade_base": 100,
+    "prioridade_faixa": "P1+"
+  },
+  {
+    "id": "LEG-AUT-0050",
+    "file": "Legislação Municipal — Curitiba — P1+",
+    "origin": "Autoral – padrão FAFIPA",
+    "topic": "LC 40/2001 — Arbitramento",
+    "stem": "Quando a autoridade fazendária puder utilizar mais de um critério legal de arbitramento:",
+    "options": [
+      [
+        "A",
+        "adotará o de maior arrecadação."
+      ],
+      [
+        "B",
+        "escolherá aleatoriamente."
+      ],
+      [
+        "C",
+        "adotará o mais favorável ao contribuinte."
+      ],
+      [
+        "D",
+        "usará obrigatoriamente a média."
+      ],
+      [
+        "E",
+        "usará todos cumulativamente."
+      ]
+    ],
+    "answer": "C",
+    "year": 2026,
+    "qnum": 50,
+    "score": 1000,
+    "band": "A",
+    "rank": 2843,
+    "resolution": {
+      "whatTests": "LC 40/2001 — Arbitramento",
+      "rule": "Deve ser adotado o critério mais favorável ao contribuinte.",
+      "steps": [
+        "Identifique o dispositivo/instituto cobrado.",
+        "Compare cada alternativa com a regra legal indicada.",
+        "Alternativa correta: C."
+      ],
+      "calculation": "Não se aplica.",
+      "whyCorrect": "C — corresponde à regra legal indicada no fundamento.",
+      "whyWrong": "As demais alternativas alteram conceito, prazo, percentual, competência, requisito ou exceção legal.",
+      "basis": "LC Municipal 40/2001, art. 24, §1º.",
+      "fafipaTrap": "Mais favorável ao contribuinte.",
+      "title": "Resolução individual — LEG-AUT-0050",
+      "status": "resolvida"
+    },
+    "summary": "Quando a autoridade fazendária puder utilizar mais de um critério legal de arbitramento:",
+    "prioridade_base": 100,
+    "prioridade_faixa": "P1+"
+  },
+  {
+    "id": "LEG-AUT-0051",
+    "file": "Legislação Municipal — Curitiba — P1+",
+    "origin": "Autoral – padrão FAFIPA",
+    "topic": "LC 40/2001 — Intimação",
+    "stem": "Na intimação postal, se a data de recebimento for omitida, considera-se realizada:",
+    "options": [
+      [
+        "A",
+        "na postagem."
+      ],
+      [
+        "B",
+        "5 dias depois."
+      ],
+      [
+        "C",
+        "10 dias depois."
+      ],
+      [
+        "D",
+        "15 dias após a entrega à agência postal."
+      ],
+      [
+        "E",
+        "30 dias depois."
+      ]
+    ],
+    "answer": "D",
+    "year": 2026,
+    "qnum": 51,
+    "score": 1000,
+    "band": "A",
+    "rank": 2844,
+    "resolution": {
+      "whatTests": "LC 40/2001 — Intimação",
+      "rule": "Na omissão da data, considera-se feita 15 dias após entrega à agência postal.",
+      "steps": [
+        "Identifique o dispositivo/instituto cobrado.",
+        "Compare cada alternativa com a regra legal indicada.",
+        "Alternativa correta: D."
+      ],
+      "calculation": "Não se aplica.",
+      "whyCorrect": "D — corresponde à regra legal indicada no fundamento.",
+      "whyWrong": "As demais alternativas alteram conceito, prazo, percentual, competência, requisito ou exceção legal.",
+      "basis": "LC Municipal 40/2001, art. 22, §2º, I.",
+      "fafipaTrap": "Postal sem data = 15.",
+      "title": "Resolução individual — LEG-AUT-0051",
+      "status": "resolvida"
+    },
+    "summary": "Na intimação postal, se a data de recebimento for omitida, considera-se realizada:",
+    "prioridade_base": 100,
+    "prioridade_faixa": "P1+"
+  },
+  {
+    "id": "LEG-AUT-0052",
+    "file": "Legislação Municipal — Curitiba — P1+",
+    "origin": "Autoral – padrão FAFIPA",
+    "topic": "LC 40/2001 — Intimação",
+    "stem": "Quando utilizada intimação por edital, considera-se feita:",
+    "options": [
+      [
+        "A",
+        "na publicação."
+      ],
+      [
+        "B",
+        "10 dias depois."
+      ],
+      [
+        "C",
+        "15 dias depois."
+      ],
+      [
+        "D",
+        "30 dias após a publicação ou afixação."
+      ],
+      [
+        "E",
+        "45 dias depois."
+      ]
+    ],
+    "answer": "D",
+    "year": 2026,
+    "qnum": 52,
+    "score": 1000,
+    "band": "A",
+    "rank": 2845,
+    "resolution": {
+      "whatTests": "LC 40/2001 — Intimação",
+      "rule": "Considera-se feita 30 dias após publicação ou afixação.",
+      "steps": [
+        "Identifique o dispositivo/instituto cobrado.",
+        "Compare cada alternativa com a regra legal indicada.",
+        "Alternativa correta: D."
+      ],
+      "calculation": "Não se aplica.",
+      "whyCorrect": "D — corresponde à regra legal indicada no fundamento.",
+      "whyWrong": "As demais alternativas alteram conceito, prazo, percentual, competência, requisito ou exceção legal.",
+      "basis": "LC Municipal 40/2001, art. 22, §2º, III.",
+      "fafipaTrap": "Edital = 30.",
+      "title": "Resolução individual — LEG-AUT-0052",
+      "status": "resolvida"
+    },
+    "summary": "Quando utilizada intimação por edital, considera-se feita:",
+    "prioridade_base": 100,
+    "prioridade_faixa": "P1+"
+  },
+  {
+    "id": "LEG-AUT-0053",
+    "file": "Legislação Municipal — Curitiba — P1+",
+    "origin": "Autoral – padrão FAFIPA",
+    "topic": "LC 101/2017 — Abrangência",
+    "stem": "Para fins da LC 101/2017, Município de Curitiba compreende: I Executivo; II Legislativo; III Administração direta; IV fundos/autarquias; V fundações/estatais dependentes; VI serviços sociais autônomos.",
+    "options": [
+      [
+        "A",
+        "I e II apenas."
+      ],
+      [
+        "B",
+        "I, II e III apenas."
+      ],
+      [
+        "C",
+        "III, IV, V e VI apenas."
+      ],
+      [
+        "D",
+        "I, II, III, IV, V e VI."
+      ],
+      [
+        "E",
+        "I, II, IV e V apenas."
+      ]
+    ],
+    "answer": "D",
+    "year": 2026,
+    "qnum": 53,
+    "score": 1000,
+    "band": "A",
+    "rank": 2846,
+    "resolution": {
+      "whatTests": "LC 101/2017 — Abrangência",
+      "rule": "A lei inclui todos os itens apresentados.",
+      "steps": [
+        "Identifique o dispositivo/instituto cobrado.",
+        "Compare cada alternativa com a regra legal indicada.",
+        "Alternativa correta: D."
+      ],
+      "calculation": "Não se aplica.",
+      "whyCorrect": "D — corresponde à regra legal indicada no fundamento.",
+      "whyWrong": "As demais alternativas alteram conceito, prazo, percentual, competência, requisito ou exceção legal.",
+      "basis": "LC Municipal 101/2017, art. 1º, §2º.",
+      "fafipaTrap": "Abrangência ampla.",
+      "title": "Resolução individual — LEG-AUT-0053",
+      "status": "resolvida"
+    },
+    "summary": "Para fins da LC 101/2017, Município de Curitiba compreende: I Executivo; II Legislativo; III Administração direta; IV fundos/autarquias; V fundações/estatais dependentes; VI serviços sociais autônomos.",
+    "prioridade_base": 100,
+    "prioridade_faixa": "P1+"
+  },
+  {
+    "id": "LEG-AUT-0054",
+    "file": "Legislação Municipal — Curitiba — P1+",
+    "origin": "Autoral – padrão FAFIPA",
+    "topic": "LC 101/2017 — Definições",
+    "stem": "Empresa estatal dependente recebe recursos do ente controlador para certas despesas; quanto às despesas de capital, ficam excluídos da caracterização os recursos provenientes de:",
+    "options": [
+      [
+        "A",
+        "operação de crédito."
+      ],
+      [
+        "B",
+        "aumento de participação acionária."
+      ],
+      [
+        "C",
+        "alienação de bens."
+      ],
+      [
+        "D",
+        "transferências correntes."
+      ],
+      [
+        "E",
+        "receitas tributárias."
+      ]
+    ],
+    "answer": "B",
+    "year": 2026,
+    "qnum": 54,
+    "score": 1000,
+    "band": "A",
+    "rank": 2847,
+    "resolution": {
+      "whatTests": "LC 101/2017 — Definições",
+      "rule": "A definição exclui, no caso de despesas de capital, recursos provenientes de aumento de participação acionária.",
+      "steps": [
+        "Identifique o dispositivo/instituto cobrado.",
+        "Compare cada alternativa com a regra legal indicada.",
+        "Alternativa correta: B."
+      ],
+      "calculation": "Não se aplica.",
+      "whyCorrect": "B — corresponde à regra legal indicada no fundamento.",
+      "whyWrong": "As demais alternativas alteram conceito, prazo, percentual, competência, requisito ou exceção legal.",
+      "basis": "LC Municipal 101/2017, art. 2º, I.",
+      "fafipaTrap": "Exceção: aumento de participação acionária.",
+      "title": "Resolução individual — LEG-AUT-0054",
+      "status": "resolvida"
+    },
+    "summary": "Empresa estatal dependente recebe recursos do ente controlador para certas despesas; quanto às despesas de capital, ficam excluídos da caracterização os recursos provenientes de:",
+    "prioridade_base": 100,
+    "prioridade_faixa": "P1+"
+  },
+  {
+    "id": "LEG-AUT-0055",
+    "file": "Legislação Municipal — Curitiba — P1+",
+    "origin": "Autoral – padrão FAFIPA",
+    "topic": "LC 101/2017 — Execução Orçamentária",
+    "stem": "Até quantos dias após a publicação dos orçamentos o Executivo estabelecerá programação financeira e cronograma de execução mensal de desembolso?",
+    "options": [
+      [
+        "A",
+        "10."
+      ],
+      [
+        "B",
+        "15."
+      ],
+      [
+        "C",
+        "30."
+      ],
+      [
+        "D",
+        "45."
+      ],
+      [
+        "E",
+        "60."
+      ]
+    ],
+    "answer": "C",
+    "year": 2026,
+    "qnum": 55,
+    "score": 1000,
+    "band": "A",
+    "rank": 2848,
+    "resolution": {
+      "whatTests": "LC 101/2017 — Execução Orçamentária",
+      "rule": "O prazo é de até 30 dias.",
+      "steps": [
+        "Identifique o dispositivo/instituto cobrado.",
+        "Compare cada alternativa com a regra legal indicada.",
+        "Alternativa correta: C."
+      ],
+      "calculation": "Não se aplica.",
+      "whyCorrect": "C — corresponde à regra legal indicada no fundamento.",
+      "whyWrong": "As demais alternativas alteram conceito, prazo, percentual, competência, requisito ou exceção legal.",
+      "basis": "LC Municipal 101/2017, art. 3º.",
+      "fafipaTrap": "30 dias.",
+      "title": "Resolução individual — LEG-AUT-0055",
+      "status": "resolvida"
+    },
+    "summary": "Até quantos dias após a publicação dos orçamentos o Executivo estabelecerá programação financeira e cronograma de execução mensal de desembolso?",
+    "prioridade_base": 100,
+    "prioridade_faixa": "P1+"
+  },
+  {
+    "id": "LEG-AUT-0056",
+    "file": "Legislação Municipal — Curitiba — P1+",
+    "origin": "Autoral – padrão FAFIPA",
+    "topic": "LC 101/2017 — Limitação de Empenho",
+    "stem": "Verificado ao final de um bimestre risco ao cumprimento das metas, os Poderes promoverão limitação de empenho e movimentação financeira:",
+    "options": [
+      [
+        "A",
+        "em 24 horas."
+      ],
+      [
+        "B",
+        "nos 10 dias seguintes."
+      ],
+      [
+        "C",
+        "nos 15 dias seguintes."
+      ],
+      [
+        "D",
+        "nos 30 dias subsequentes."
+      ],
+      [
+        "E",
+        "somente ao final do quadrimestre."
+      ]
+    ],
+    "answer": "D",
+    "year": 2026,
+    "qnum": 56,
+    "score": 1000,
+    "band": "A",
+    "rank": 2849,
+    "resolution": {
+      "whatTests": "LC 101/2017 — Limitação de Empenho",
+      "rule": "A limitação deve ocorrer nos 30 dias subsequentes, segundo os critérios legais.",
+      "steps": [
+        "Identifique o dispositivo/instituto cobrado.",
+        "Compare cada alternativa com a regra legal indicada.",
+        "Alternativa correta: D."
+      ],
+      "calculation": "Não se aplica.",
+      "whyCorrect": "D — corresponde à regra legal indicada no fundamento.",
+      "whyWrong": "As demais alternativas alteram conceito, prazo, percentual, competência, requisito ou exceção legal.",
+      "basis": "LC Municipal 101/2017, art. 4º.",
+      "fafipaTrap": "Bimestre + 30 dias.",
+      "title": "Resolução individual — LEG-AUT-0056",
+      "status": "resolvida"
+    },
+    "summary": "Verificado ao final de um bimestre risco ao cumprimento das metas, os Poderes promoverão limitação de empenho e movimentação financeira:",
+    "prioridade_base": 100,
+    "prioridade_faixa": "P1+"
+  },
+  {
+    "id": "LEG-AUT-0057",
+    "file": "Legislação Municipal — Curitiba — P1+",
+    "origin": "Autoral – padrão FAFIPA",
+    "topic": "LC 101/2017 — Despesa com Pessoal",
+    "stem": "Ultrapassados 92,6% dos limites de pessoal, incluem-se entre as despesas a reduzir: I cargos em comissão/funções gratificadas; II horas extras/DSR; III RIT; IV terceirizados.",
+    "options": [
+      [
+        "A",
+        "I apenas."
+      ],
+      [
+        "B",
+        "I e II."
+      ],
+      [
+        "C",
+        "I, II e III."
+      ],
+      [
+        "D",
+        "II, III e IV."
+      ],
+      [
+        "E",
+        "I, II, III e IV."
+      ]
+    ],
+    "answer": "E",
+    "year": 2026,
+    "qnum": 57,
+    "score": 1000,
+    "band": "A",
+    "rank": 2850,
+    "resolution": {
+      "whatTests": "LC 101/2017 — Despesa com Pessoal",
+      "rule": "Todos constam das medidas de redução previstas.",
+      "steps": [
+        "Identifique o dispositivo/instituto cobrado.",
+        "Compare cada alternativa com a regra legal indicada.",
+        "Alternativa correta: E."
+      ],
+      "calculation": "Não se aplica.",
+      "whyCorrect": "E — corresponde à regra legal indicada no fundamento.",
+      "whyWrong": "As demais alternativas alteram conceito, prazo, percentual, competência, requisito ou exceção legal.",
+      "basis": "LC Municipal 101/2017, dispositivo de controle da despesa com pessoal.",
+      "fafipaTrap": "92,6%.",
+      "title": "Resolução individual — LEG-AUT-0057",
+      "status": "resolvida"
+    },
+    "summary": "Ultrapassados 92,6% dos limites de pessoal, incluem-se entre as despesas a reduzir: I cargos em comissão/funções gratificadas; II horas extras/DSR; III RIT; IV terceirizados.",
+    "prioridade_base": 100,
+    "prioridade_faixa": "P1+"
+  },
+  {
+    "id": "LEG-AUT-0058",
+    "file": "Legislação Municipal — Curitiba — P1+",
+    "origin": "Autoral – padrão FAFIPA",
+    "topic": "LC 101/2017 — Despesa com Pessoal",
+    "stem": "O percentual que aciona as medidas municipais estudadas é:",
+    "options": [
+      [
+        "A",
+        "90%."
+      ],
+      [
+        "B",
+        "90,6%."
+      ],
+      [
+        "C",
+        "92%."
+      ],
+      [
+        "D",
+        "92,6%."
+      ],
+      [
+        "E",
+        "95%."
+      ]
+    ],
+    "answer": "D",
+    "year": 2026,
+    "qnum": 58,
+    "score": 1000,
+    "band": "A",
+    "rank": 2851,
+    "resolution": {
+      "whatTests": "LC 101/2017 — Despesa com Pessoal",
+      "rule": "O percentual é 92,6%.",
+      "steps": [
+        "Identifique o dispositivo/instituto cobrado.",
+        "Compare cada alternativa com a regra legal indicada.",
+        "Alternativa correta: D."
+      ],
+      "calculation": "Não se aplica.",
+      "whyCorrect": "D — corresponde à regra legal indicada no fundamento.",
+      "whyWrong": "As demais alternativas alteram conceito, prazo, percentual, competência, requisito ou exceção legal.",
+      "basis": "LC Municipal 101/2017, dispositivo de controle da despesa com pessoal.",
+      "fafipaTrap": "Número incomum: 92,6%.",
+      "title": "Resolução individual — LEG-AUT-0058",
+      "status": "resolvida"
+    },
+    "summary": "O percentual que aciona as medidas municipais estudadas é:",
+    "prioridade_base": 100,
+    "prioridade_faixa": "P1+"
+  },
+  {
+    "id": "LEG-AUT-0059",
+    "file": "Legislação Municipal — Curitiba — P1+",
+    "origin": "Autoral – padrão FAFIPA",
+    "topic": "LC 101/2017 — Receitas",
+    "stem": "Constituem requisitos essenciais da responsabilidade na gestão fiscal:",
+    "options": [
+      [
+        "A",
+        "apenas previsão dos tributos."
+      ],
+      [
+        "B",
+        "somente instituição e previsão."
+      ],
+      [
+        "C",
+        "instituição, previsão e efetiva arrecadação dos tributos municipais e eficiência dos programas de benefícios/incentivos fiscais."
+      ],
+      [
+        "D",
+        "exclusivamente arrecadação."
+      ],
+      [
+        "E",
+        "instituição de tributos federais delegados."
+      ]
+    ],
+    "answer": "C",
+    "year": 2026,
+    "qnum": 59,
+    "score": 1000,
+    "band": "A",
+    "rank": 2852,
+    "resolution": {
+      "whatTests": "LC 101/2017 — Receitas",
+      "rule": "A lei exige instituição, previsão e efetiva arrecadação dos tributos da competência municipal e eficiência dos programas fiscais.",
+      "steps": [
+        "Identifique o dispositivo/instituto cobrado.",
+        "Compare cada alternativa com a regra legal indicada.",
+        "Alternativa correta: C."
+      ],
+      "calculation": "Não se aplica.",
+      "whyCorrect": "C — corresponde à regra legal indicada no fundamento.",
+      "whyWrong": "As demais alternativas alteram conceito, prazo, percentual, competência, requisito ou exceção legal.",
+      "basis": "LC Municipal 101/2017, capítulo de receitas públicas e benefícios fiscais.",
+      "fafipaTrap": "Instituir + prever + arrecadar.",
+      "title": "Resolução individual — LEG-AUT-0059",
+      "status": "resolvida"
+    },
+    "summary": "Constituem requisitos essenciais da responsabilidade na gestão fiscal:",
+    "prioridade_base": 100,
+    "prioridade_faixa": "P1+"
+  },
+  {
+    "id": "LEG-AUT-0060",
+    "file": "Legislação Municipal — Curitiba — P1+",
+    "origin": "Autoral – padrão FAFIPA",
+    "topic": "LC 101/2017 — Metas de Arrecadação",
+    "stem": "As receitas previstas serão desdobradas pelo Executivo em metas:",
+    "options": [
+      [
+        "A",
+        "mensais."
+      ],
+      [
+        "B",
+        "bimestrais."
+      ],
+      [
+        "C",
+        "trimestrais."
+      ],
+      [
+        "D",
+        "quadrimestrais."
+      ],
+      [
+        "E",
+        "semestrais."
+      ]
+    ],
+    "answer": "B",
+    "year": 2026,
+    "qnum": 60,
+    "score": 1000,
+    "band": "A",
+    "rank": 2853,
+    "resolution": {
+      "whatTests": "LC 101/2017 — Metas de Arrecadação",
+      "rule": "As metas de arrecadação são bimestrais.",
+      "steps": [
+        "Identifique o dispositivo/instituto cobrado.",
+        "Compare cada alternativa com a regra legal indicada.",
+        "Alternativa correta: B."
+      ],
+      "calculation": "Não se aplica.",
+      "whyCorrect": "B — corresponde à regra legal indicada no fundamento.",
+      "whyWrong": "As demais alternativas alteram conceito, prazo, percentual, competência, requisito ou exceção legal.",
+      "basis": "LC Municipal 101/2017, capítulo de receitas públicas.",
+      "fafipaTrap": "Metas bimestrais.",
+      "title": "Resolução individual — LEG-AUT-0060",
+      "status": "resolvida"
+    },
+    "summary": "As receitas previstas serão desdobradas pelo Executivo em metas:",
+    "prioridade_base": 100,
+    "prioridade_faixa": "P1+"
+  },
+  {
+    "id": "LEG-AUT-0061",
+    "file": "Legislação Municipal — Curitiba — P1+",
+    "origin": "Autoral – padrão FAFIPA",
+    "topic": "Lei Orgânica — Emenda",
+    "stem": "A proposta de emenda à Lei Orgânica pode ser apresentada: I por no mínimo 1/3 da Câmara; II pelo Prefeito; III pela população, subscrita por 5% do eleitorado.",
+    "options": [
+      [
+        "A",
+        "I apenas."
+      ],
+      [
+        "B",
+        "I e II."
+      ],
+      [
+        "C",
+        "II e III."
+      ],
+      [
+        "D",
+        "I e III."
+      ],
+      [
+        "E",
+        "I, II e III."
+      ]
+    ],
+    "answer": "E",
+    "year": 2026,
+    "qnum": 61,
+    "score": 1000,
+    "band": "A",
+    "rank": 2854,
+    "resolution": {
+      "whatTests": "Lei Orgânica — Emenda",
+      "rule": "Todas são hipóteses de iniciativa de emenda.",
+      "steps": [
+        "Identifique o dispositivo/instituto cobrado.",
+        "Compare cada alternativa com a regra legal indicada.",
+        "Alternativa correta: E."
+      ],
+      "calculation": "Não se aplica.",
+      "whyCorrect": "E — corresponde à regra legal indicada no fundamento.",
+      "whyWrong": "As demais alternativas alteram conceito, prazo, percentual, competência, requisito ou exceção legal.",
+      "basis": "Lei Orgânica de Curitiba, art. 51.",
+      "fafipaTrap": "1/3 e 5%.",
+      "title": "Resolução individual — LEG-AUT-0061",
+      "status": "resolvida"
+    },
+    "summary": "A proposta de emenda à Lei Orgânica pode ser apresentada: I por no mínimo 1/3 da Câmara; II pelo Prefeito; III pela população, subscrita por 5% do eleitorado.",
+    "prioridade_base": 100,
+    "prioridade_faixa": "P1+"
+  },
+  {
+    "id": "LEG-AUT-0062",
+    "file": "Legislação Municipal — Curitiba — P1+",
+    "origin": "Autoral – padrão FAFIPA",
+    "topic": "Lei Orgânica — Emenda",
+    "stem": "A proposta de emenda à Lei Orgânica é discutida e votada:",
+    "options": [
+      [
+        "A",
+        "em turno único, maioria absoluta."
+      ],
+      [
+        "B",
+        "em dois turnos, interstício mínimo de 10 dias."
+      ],
+      [
+        "C",
+        "em dois turnos, interstício de 30 dias."
+      ],
+      [
+        "D",
+        "em três turnos."
+      ],
+      [
+        "E",
+        "em dois turnos consecutivos na mesma sessão."
+      ]
+    ],
+    "answer": "B",
+    "year": 2026,
+    "qnum": 62,
+    "score": 1000,
+    "band": "A",
+    "rank": 2855,
+    "resolution": {
+      "whatTests": "Lei Orgânica — Emenda",
+      "rule": "São dois turnos com interstício mínimo de 10 dias.",
+      "steps": [
+        "Identifique o dispositivo/instituto cobrado.",
+        "Compare cada alternativa com a regra legal indicada.",
+        "Alternativa correta: B."
+      ],
+      "calculation": "Não se aplica.",
+      "whyCorrect": "B — corresponde à regra legal indicada no fundamento.",
+      "whyWrong": "As demais alternativas alteram conceito, prazo, percentual, competência, requisito ou exceção legal.",
+      "basis": "Lei Orgânica de Curitiba, art. 51, §3º.",
+      "fafipaTrap": "2 turnos / 10 dias.",
+      "title": "Resolução individual — LEG-AUT-0062",
+      "status": "resolvida"
+    },
+    "summary": "A proposta de emenda à Lei Orgânica é discutida e votada:",
+    "prioridade_base": 100,
+    "prioridade_faixa": "P1+"
+  },
+  {
+    "id": "LEG-AUT-0063",
+    "file": "Legislação Municipal — Curitiba — P1+",
+    "origin": "Autoral – padrão FAFIPA",
+    "topic": "Lei Orgânica — Emenda",
+    "stem": "Para aprovação da emenda à Lei Orgânica exige-se:",
+    "options": [
+      [
+        "A",
+        "maioria simples em um turno."
+      ],
+      [
+        "B",
+        "maioria absoluta em dois turnos."
+      ],
+      [
+        "C",
+        "3/5 em dois turnos."
+      ],
+      [
+        "D",
+        "2/3 dos membros da Câmara em ambos os turnos."
+      ],
+      [
+        "E",
+        "unanimidade."
+      ]
+    ],
+    "answer": "D",
+    "year": 2026,
+    "qnum": 63,
+    "score": 1000,
+    "band": "A",
+    "rank": 2856,
+    "resolution": {
+      "whatTests": "Lei Orgânica — Emenda",
+      "rule": "Exigem-se dois terços dos votos dos membros em ambos os turnos.",
+      "steps": [
+        "Identifique o dispositivo/instituto cobrado.",
+        "Compare cada alternativa com a regra legal indicada.",
+        "Alternativa correta: D."
+      ],
+      "calculation": "Não se aplica.",
+      "whyCorrect": "D — corresponde à regra legal indicada no fundamento.",
+      "whyWrong": "As demais alternativas alteram conceito, prazo, percentual, competência, requisito ou exceção legal.",
+      "basis": "Lei Orgânica de Curitiba, art. 51, §3º.",
+      "fafipaTrap": "2/3, não 3/5.",
+      "title": "Resolução individual — LEG-AUT-0063",
+      "status": "resolvida"
+    },
+    "summary": "Para aprovação da emenda à Lei Orgânica exige-se:",
+    "prioridade_base": 100,
+    "prioridade_faixa": "P1+"
+  },
+  {
+    "id": "LEG-AUT-0064",
+    "file": "Legislação Municipal — Curitiba — P1+",
+    "origin": "Autoral – padrão FAFIPA",
+    "topic": "Lei Orgânica — Emenda",
+    "stem": "A emenda aprovada fica sujeita a referendo facultativo se requerido no prazo de:",
+    "options": [
+      [
+        "A",
+        "30 dias."
+      ],
+      [
+        "B",
+        "45 dias."
+      ],
+      [
+        "C",
+        "60 dias."
+      ],
+      [
+        "D",
+        "90 dias."
+      ],
+      [
+        "E",
+        "120 dias."
+      ]
+    ],
+    "answer": "C",
+    "year": 2026,
+    "qnum": 64,
+    "score": 1000,
+    "band": "A",
+    "rank": 2857,
+    "resolution": {
+      "whatTests": "Lei Orgânica — Emenda",
+      "rule": "O prazo é de 60 dias; podem requerer a maioria dos membros da Câmara ou 5% do eleitorado.",
+      "steps": [
+        "Identifique o dispositivo/instituto cobrado.",
+        "Compare cada alternativa com a regra legal indicada.",
+        "Alternativa correta: C."
+      ],
+      "calculation": "Não se aplica.",
+      "whyCorrect": "C — corresponde à regra legal indicada no fundamento.",
+      "whyWrong": "As demais alternativas alteram conceito, prazo, percentual, competência, requisito ou exceção legal.",
+      "basis": "Lei Orgânica de Curitiba, art. 51, §5º.",
+      "fafipaTrap": "60 dias / 5%.",
+      "title": "Resolução individual — LEG-AUT-0064",
+      "status": "resolvida"
+    },
+    "summary": "A emenda aprovada fica sujeita a referendo facultativo se requerido no prazo de:",
+    "prioridade_base": 100,
+    "prioridade_faixa": "P1+"
+  },
+  {
+    "id": "LEG-AUT-0065",
+    "file": "Legislação Municipal — Curitiba — P1+",
+    "origin": "Autoral – padrão FAFIPA",
+    "topic": "Legislação Municipal — Integradora",
+    "stem": "Considere: I suspensão estatutária não excede 90 dias; II LC40: edital = intimação 30 dias após publicação/afixação; III LC101: programação financeira até 30 dias após orçamentos; IV emenda à LO: interstício mínimo 10 dias; V emenda à LO: aprovação por 3/5.",
+    "options": [
+      [
+        "A",
+        "I, II e III apenas."
+      ],
+      [
+        "B",
+        "II, III e V apenas."
+      ],
+      [
+        "C",
+        "I, II, III e IV apenas."
+      ],
+      [
+        "D",
+        "I, III, IV e V apenas."
+      ],
+      [
+        "E",
+        "I, II, III, IV e V."
+      ]
+    ],
+    "answer": "C",
+    "year": 2026,
+    "qnum": 65,
+    "score": 1000,
+    "band": "A",
+    "rank": 2858,
+    "resolution": {
+      "whatTests": "Legislação Municipal — Integradora",
+      "rule": "V é falsa: a aprovação exige 2/3, não 3/5.",
+      "steps": [
+        "Identifique o dispositivo/instituto cobrado.",
+        "Compare cada alternativa com a regra legal indicada.",
+        "Alternativa correta: C."
+      ],
+      "calculation": "Não se aplica.",
+      "whyCorrect": "C — corresponde à regra legal indicada no fundamento.",
+      "whyWrong": "As demais alternativas alteram conceito, prazo, percentual, competência, requisito ou exceção legal.",
+      "basis": "Lei 1.656/1958; LC 40/2001; LC 101/2017; Lei Orgânica de Curitiba.",
+      "fafipaTrap": "Mistura de números entre normas.",
+      "title": "Resolução individual — LEG-AUT-0065",
+      "status": "resolvida"
+    },
+    "summary": "Considere: I suspensão estatutária não excede 90 dias; II LC40: edital = intimação 30 dias após publicação/afixação; III LC101: programação financeira até 30 dias após orçamentos; IV emenda à LO: interstício mínimo 10 di",
+    "prioridade_base": 100,
+    "prioridade_faixa": "P1+"
+  },
+  {
+    "id": "LEG-AUT-0066",
+    "file": "Legislação Municipal — Curitiba — P1+",
+    "origin": "Autoral – padrão FAFIPA",
+    "topic": "Lei 7.671/1991 — Administração Indireta",
+    "stem": "A Administração Indireta compreende: I autarquias; II fundações públicas; III empresas públicas; IV sociedades de economia mista; V fundações estatais de direito privado.",
+    "options": [
+      [
+        "A",
+        "I, II e III apenas."
+      ],
+      [
+        "B",
+        "I, III e IV apenas."
+      ],
+      [
+        "C",
+        "II, IV e V apenas."
+      ],
+      [
+        "D",
+        "I, II, III e IV apenas."
+      ],
+      [
+        "E",
+        "I, II, III, IV e V."
+      ]
+    ],
+    "answer": "E",
+    "year": 2026,
+    "qnum": 66,
+    "score": 1000,
+    "band": "A",
+    "rank": 2859,
+    "resolution": {
+      "whatTests": "Lei 7.671/1991 — Administração Indireta",
+      "rule": "Todos integram a Administração Indireta segundo a redação consolidada.",
+      "steps": [
+        "Identifique o dispositivo/instituto cobrado.",
+        "Compare cada alternativa com a regra legal indicada.",
+        "Alternativa correta: E."
+      ],
+      "calculation": "Não se aplica.",
+      "whyCorrect": "E — corresponde à regra legal indicada no fundamento.",
+      "whyWrong": "As demais alternativas alteram conceito, prazo, percentual, competência, requisito ou exceção legal.",
+      "basis": "Lei Municipal 7.671/1991, art. 1º, §4º.",
+      "fafipaTrap": "Não esquecer fundações estatais de direito privado.",
+      "title": "Resolução individual — LEG-AUT-0066",
+      "status": "resolvida"
+    },
+    "summary": "A Administração Indireta compreende: I autarquias; II fundações públicas; III empresas públicas; IV sociedades de economia mista; V fundações estatais de direito privado.",
+    "prioridade_base": 100,
+    "prioridade_faixa": "P1+"
+  },
+  {
+    "id": "LEG-AUT-0067",
+    "file": "Legislação Municipal — Curitiba — P1+",
+    "origin": "Autoral – padrão FAFIPA",
+    "topic": "Lei 7.671/1991 — Secretarias",
+    "stem": "As Secretarias Municipais de natureza meio e fim são qualificadas como:",
+    "options": [
+      [
+        "A",
+        "entidades autônomas."
+      ],
+      [
+        "B",
+        "órgãos de primeiro nível hierárquico."
+      ],
+      [
+        "C",
+        "entidades da Administração Indireta."
+      ],
+      [
+        "D",
+        "sociedades de economia mista."
+      ],
+      [
+        "E",
+        "órgãos exclusivamente consultivos."
+      ]
+    ],
+    "answer": "B",
+    "year": 2026,
+    "qnum": 67,
+    "score": 1000,
+    "band": "A",
+    "rank": 2860,
+    "resolution": {
+      "whatTests": "Lei 7.671/1991 — Secretarias",
+      "rule": "São órgãos de primeiro nível hierárquico.",
+      "steps": [
+        "Identifique o dispositivo/instituto cobrado.",
+        "Compare cada alternativa com a regra legal indicada.",
+        "Alternativa correta: B."
+      ],
+      "calculation": "Não se aplica.",
+      "whyCorrect": "B — corresponde à regra legal indicada no fundamento.",
+      "whyWrong": "As demais alternativas alteram conceito, prazo, percentual, competência, requisito ou exceção legal.",
+      "basis": "Lei Municipal 7.671/1991, art. 1º.",
+      "fafipaTrap": "Meio/fim = primeiro nível hierárquico.",
+      "title": "Resolução individual — LEG-AUT-0067",
+      "status": "resolvida"
+    },
+    "summary": "As Secretarias Municipais de natureza meio e fim são qualificadas como:",
+    "prioridade_base": 100,
+    "prioridade_faixa": "P1+"
+  },
+  {
+    "id": "LEG-AUT-0068",
+    "file": "Legislação Municipal — Curitiba — P1+",
+    "origin": "Autoral – padrão FAFIPA",
+    "topic": "Lei 7.671/1991 — Administração Indireta",
+    "stem": "Uma empresa pública municipal deve ser classificada como:",
+    "options": [
+      [
+        "A",
+        "Administração Direta."
+      ],
+      [
+        "B",
+        "órgão de assessoramento."
+      ],
+      [
+        "C",
+        "Administração Indireta."
+      ],
+      [
+        "D",
+        "Secretaria de natureza meio."
+      ],
+      [
+        "E",
+        "unidade colegiada."
+      ]
+    ],
+    "answer": "C",
+    "year": 2026,
+    "qnum": 68,
+    "score": 1000,
+    "band": "A",
+    "rank": 2861,
+    "resolution": {
+      "whatTests": "Lei 7.671/1991 — Administração Indireta",
+      "rule": "Empresa pública é entidade da Administração Indireta.",
+      "steps": [
+        "Identifique o dispositivo/instituto cobrado.",
+        "Compare cada alternativa com a regra legal indicada.",
+        "Alternativa correta: C."
+      ],
+      "calculation": "Não se aplica.",
+      "whyCorrect": "C — corresponde à regra legal indicada no fundamento.",
+      "whyWrong": "As demais alternativas alteram conceito, prazo, percentual, competência, requisito ou exceção legal.",
+      "basis": "Lei Municipal 7.671/1991, art. 1º, §4º.",
+      "fafipaTrap": "Empresa pública ≠ órgão direto.",
+      "title": "Resolução individual — LEG-AUT-0068",
+      "status": "resolvida"
+    },
+    "summary": "Uma empresa pública municipal deve ser classificada como:",
+    "prioridade_base": 100,
+    "prioridade_faixa": "P1+"
+  },
+  {
+    "id": "LEG-AUT-0069",
+    "file": "Legislação Municipal — Curitiba — P1+",
+    "origin": "Autoral – padrão FAFIPA",
+    "topic": "Lei Orgânica e Lei 7.671 — Administração",
+    "stem": "Assinale a correta:",
+    "options": [
+      [
+        "A",
+        "Direta e Indireta vinculam-se por tutela."
+      ],
+      [
+        "B",
+        "Direta por tutela; Indireta por hierarquia."
+      ],
+      [
+        "C",
+        "Direta por subordinação hierárquica; Indireta por tutela."
+      ],
+      [
+        "D",
+        "somente Indireta está sujeita a controle."
+      ],
+      [
+        "E",
+        "empresas públicas integram Direta."
+      ]
+    ],
+    "answer": "C",
+    "year": 2026,
+    "qnum": 69,
+    "score": 1000,
+    "band": "A",
+    "rank": 2862,
+    "resolution": {
+      "whatTests": "Lei Orgânica e Lei 7.671 — Administração",
+      "rule": "A Lei Orgânica diferencia subordinação hierárquica (Direta) e tutela (Indireta).",
+      "steps": [
+        "Identifique o dispositivo/instituto cobrado.",
+        "Compare cada alternativa com a regra legal indicada.",
+        "Alternativa correta: C."
+      ],
+      "calculation": "Não se aplica.",
+      "whyCorrect": "C — corresponde à regra legal indicada no fundamento.",
+      "whyWrong": "As demais alternativas alteram conceito, prazo, percentual, competência, requisito ou exceção legal.",
+      "basis": "Lei Orgânica de Curitiba, art. 78; Lei 7.671/1991.",
+      "fafipaTrap": "Hierarquia × tutela.",
+      "title": "Resolução individual — LEG-AUT-0069",
+      "status": "resolvida"
+    },
+    "summary": "Assinale a correta:",
+    "prioridade_base": 100,
+    "prioridade_faixa": "P1+"
+  },
+  {
+    "id": "LEG-AUT-0070",
+    "file": "Legislação Municipal — Curitiba — P1+",
+    "origin": "Autoral – padrão FAFIPA",
+    "topic": "Lei Orgânica — Governo Municipal",
+    "stem": "Na direção superior da Administração Municipal, o Prefeito é auxiliado:",
+    "options": [
+      [
+        "A",
+        "apenas pelos Vereadores."
+      ],
+      [
+        "B",
+        "exclusivamente pelos Secretários."
+      ],
+      [
+        "C",
+        "pelos Secretários Municipais e Presidentes das entidades da Administração Indireta."
+      ],
+      [
+        "D",
+        "apenas pelo Presidente da Câmara."
+      ],
+      [
+        "E",
+        "pelo Tribunal de Contas."
+      ]
+    ],
+    "answer": "C",
+    "year": 2026,
+    "qnum": 70,
+    "score": 1000,
+    "band": "A",
+    "rank": 2863,
+    "resolution": {
+      "whatTests": "Lei Orgânica — Governo Municipal",
+      "rule": "O Prefeito exerce a direção superior com auxílio de Secretários e Presidentes das entidades da Administração Indireta.",
+      "steps": [
+        "Identifique o dispositivo/instituto cobrado.",
+        "Compare cada alternativa com a regra legal indicada.",
+        "Alternativa correta: C."
+      ],
+      "calculation": "Não se aplica.",
+      "whyCorrect": "C — corresponde à regra legal indicada no fundamento.",
+      "whyWrong": "As demais alternativas alteram conceito, prazo, percentual, competência, requisito ou exceção legal.",
+      "basis": "Lei Orgânica de Curitiba, art. 76.",
+      "fafipaTrap": "Quem auxilia o Prefeito.",
+      "title": "Resolução individual — LEG-AUT-0070",
+      "status": "resolvida"
+    },
+    "summary": "Na direção superior da Administração Municipal, o Prefeito é auxiliado:",
+    "prioridade_base": 100,
+    "prioridade_faixa": "P1+"
+  },
+  {
+    "id": "LEG-AUT-0071",
+    "file": "Legislação Municipal — Curitiba — P1+",
+    "origin": "Autoral – padrão FAFIPA",
+    "topic": "Decreto 2.051/2025 — Demonstrações Contábeis",
+    "stem": "A habilitação econômico-financeira exige, como regra, demonstrações contábeis:",
+    "options": [
+      [
+        "A",
+        "somente do exercício corrente."
+      ],
+      [
+        "B",
+        "dos dois últimos exercícios sociais já exigíveis."
+      ],
+      [
+        "C",
+        "dos três últimos exercícios."
+      ],
+      [
+        "D",
+        "dos cinco últimos exercícios."
+      ],
+      [
+        "E",
+        "apenas quando houver prejuízo."
+      ]
+    ],
+    "answer": "B",
+    "year": 2026,
+    "qnum": 71,
+    "score": 1000,
+    "band": "A",
+    "rank": 2864,
+    "resolution": {
+      "whatTests": "Decreto 2.051/2025 — Demonstrações Contábeis",
+      "rule": "Regra: dois últimos exercícios sociais já exigíveis.",
+      "steps": [
+        "Identifique o dispositivo/instituto cobrado.",
+        "Compare cada alternativa com a regra legal indicada.",
+        "Alternativa correta: B."
+      ],
+      "calculation": "Não se aplica.",
+      "whyCorrect": "B — corresponde à regra legal indicada no fundamento.",
+      "whyWrong": "As demais alternativas alteram conceito, prazo, percentual, competência, requisito ou exceção legal.",
+      "basis": "Decreto 2.051/2025, art. 6º, I.",
+      "fafipaTrap": "2 exercícios.",
+      "title": "Resolução individual — LEG-AUT-0071",
+      "status": "resolvida"
+    },
+    "summary": "A habilitação econômico-financeira exige, como regra, demonstrações contábeis:",
+    "prioridade_base": 100,
+    "prioridade_faixa": "P1+"
+  },
+  {
+    "id": "LEG-AUT-0072",
+    "file": "Legislação Municipal — Curitiba — P1+",
+    "origin": "Autoral – padrão FAFIPA",
+    "topic": "Decreto 2.051/2025 — Demonstrações Contábeis",
+    "stem": "Pessoa jurídica constituída há menos de dois anos apresentará os documentos contábeis referidos no art. 6º:",
+    "options": [
+      [
+        "A",
+        "dos últimos cinco exercícios."
+      ],
+      [
+        "B",
+        "dos últimos dois obrigatoriamente."
+      ],
+      [
+        "C",
+        "limitados ao último exercício."
+      ],
+      [
+        "D",
+        "somente após completar dois anos."
+      ],
+      [
+        "E",
+        "dispensados integralmente."
+      ]
+    ],
+    "answer": "C",
+    "year": 2026,
+    "qnum": 72,
+    "score": 1000,
+    "band": "A",
+    "rank": 2865,
+    "resolution": {
+      "whatTests": "Decreto 2.051/2025 — Demonstrações Contábeis",
+      "rule": "Para pessoa jurídica constituída há menos de dois anos, os documentos limitam-se ao último exercício.",
+      "steps": [
+        "Identifique o dispositivo/instituto cobrado.",
+        "Compare cada alternativa com a regra legal indicada.",
+        "Alternativa correta: C."
+      ],
+      "calculation": "Não se aplica.",
+      "whyCorrect": "C — corresponde à regra legal indicada no fundamento.",
+      "whyWrong": "As demais alternativas alteram conceito, prazo, percentual, competência, requisito ou exceção legal.",
+      "basis": "Decreto 2.051/2025, art. 6º, §1º.",
+      "fafipaTrap": "<2 anos = último exercício.",
+      "title": "Resolução individual — LEG-AUT-0072",
+      "status": "resolvida"
+    },
+    "summary": "Pessoa jurídica constituída há menos de dois anos apresentará os documentos contábeis referidos no art. 6º:",
+    "prioridade_base": 100,
+    "prioridade_faixa": "P1+"
+  },
+  {
+    "id": "LEG-AUT-0073",
+    "file": "Legislação Municipal — Curitiba — P1+",
+    "origin": "Autoral – padrão FAFIPA",
+    "topic": "Decreto 2.051/2025 — Empresa Nova",
+    "stem": "Empresa criada no exercício financeiro da licitação poderá substituir os demonstrativos contábeis:",
+    "options": [
+      [
+        "A",
+        "por declaração do administrador."
+      ],
+      [
+        "B",
+        "pelo balanço de abertura."
+      ],
+      [
+        "C",
+        "por extrato bancário."
+      ],
+      [
+        "D",
+        "pela declaração de IR."
+      ],
+      [
+        "E",
+        "por certidão fiscal."
+      ]
+    ],
+    "answer": "B",
+    "year": 2026,
+    "qnum": 73,
+    "score": 1000,
+    "band": "A",
+    "rank": 2866,
+    "resolution": {
+      "whatTests": "Decreto 2.051/2025 — Empresa Nova",
+      "rule": "É autorizado o balanço de abertura.",
+      "steps": [
+        "Identifique o dispositivo/instituto cobrado.",
+        "Compare cada alternativa com a regra legal indicada.",
+        "Alternativa correta: B."
+      ],
+      "calculation": "Não se aplica.",
+      "whyCorrect": "B — corresponde à regra legal indicada no fundamento.",
+      "whyWrong": "As demais alternativas alteram conceito, prazo, percentual, competência, requisito ou exceção legal.",
+      "basis": "Decreto 2.051/2025, art. 6º, §2º.",
+      "fafipaTrap": "Criada no exercício = balanço de abertura.",
+      "title": "Resolução individual — LEG-AUT-0073",
+      "status": "resolvida"
+    },
+    "summary": "Empresa criada no exercício financeiro da licitação poderá substituir os demonstrativos contábeis:",
+    "prioridade_base": 100,
+    "prioridade_faixa": "P1+"
+  },
+  {
+    "id": "LEG-AUT-0074",
+    "file": "Legislação Municipal — Curitiba — P1+",
+    "origin": "Autoral – padrão FAFIPA",
+    "topic": "Decreto 2.051/2025 — Falência",
+    "stem": "Além das demonstrações contábeis, o art. 6º inclui:",
+    "options": [
+      [
+        "A",
+        "certidão positiva de falência."
+      ],
+      [
+        "B",
+        "certidão negativa de falência expedida pelo distribuidor da sede."
+      ],
+      [
+        "C",
+        "certidão criminal dos sócios."
+      ],
+      [
+        "D",
+        "auditoria independente obrigatória."
+      ],
+      [
+        "E",
+        "garantia bancária obrigatória."
+      ]
+    ],
+    "answer": "B",
+    "year": 2026,
+    "qnum": 74,
+    "score": 1000,
+    "band": "A",
+    "rank": 2867,
+    "resolution": {
+      "whatTests": "Decreto 2.051/2025 — Falência",
+      "rule": "Exige-se certidão negativa de falência expedida pelo distribuidor da sede do licitante.",
+      "steps": [
+        "Identifique o dispositivo/instituto cobrado.",
+        "Compare cada alternativa com a regra legal indicada.",
+        "Alternativa correta: B."
+      ],
+      "calculation": "Não se aplica.",
+      "whyCorrect": "B — corresponde à regra legal indicada no fundamento.",
+      "whyWrong": "As demais alternativas alteram conceito, prazo, percentual, competência, requisito ou exceção legal.",
+      "basis": "Decreto 2.051/2025, art. 6º, II.",
+      "fafipaTrap": "Certidão negativa / distribuidor da sede.",
+      "title": "Resolução individual — LEG-AUT-0074",
+      "status": "resolvida"
+    },
+    "summary": "Além das demonstrações contábeis, o art. 6º inclui:",
+    "prioridade_base": 100,
+    "prioridade_faixa": "P1+"
+  },
+  {
+    "id": "LEG-AUT-0075",
+    "file": "Legislação Municipal — Curitiba — P1+",
+    "origin": "Autoral – padrão FAFIPA",
+    "topic": "Decreto 2.051/2025 — Habilitação Fiscal",
+    "stem": "Para habilitação fiscal, social e trabalhista, contempla-se: I CNPJ; II regularidade fazendária; III Seguridade Social/FGTS; IV Justiça do Trabalho.",
+    "options": [
+      [
+        "A",
+        "I e II apenas."
+      ],
+      [
+        "B",
+        "II e III apenas."
+      ],
+      [
+        "C",
+        "I, III e IV apenas."
+      ],
+      [
+        "D",
+        "I, II, III e IV."
+      ],
+      [
+        "E",
+        "III e IV apenas."
+      ]
+    ],
+    "answer": "D",
+    "year": 2026,
+    "qnum": 75,
+    "score": 1000,
+    "band": "A",
+    "rank": 2868,
+    "resolution": {
+      "whatTests": "Decreto 2.051/2025 — Habilitação Fiscal",
+      "rule": "Todos integram o rol do art. 5º.",
+      "steps": [
+        "Identifique o dispositivo/instituto cobrado.",
+        "Compare cada alternativa com a regra legal indicada.",
+        "Alternativa correta: D."
+      ],
+      "calculation": "Não se aplica.",
+      "whyCorrect": "D — corresponde à regra legal indicada no fundamento.",
+      "whyWrong": "As demais alternativas alteram conceito, prazo, percentual, competência, requisito ou exceção legal.",
+      "basis": "Decreto 2.051/2025, art. 5º.",
+      "fafipaTrap": "Fiscal + social + trabalhista.",
+      "title": "Resolução individual — LEG-AUT-0075",
+      "status": "resolvida"
+    },
+    "summary": "Para habilitação fiscal, social e trabalhista, contempla-se: I CNPJ; II regularidade fazendária; III Seguridade Social/FGTS; IV Justiça do Trabalho.",
+    "prioridade_base": 100,
+    "prioridade_faixa": "P1+"
+  },
+  {
+    "id": "LEG-AUT-0076",
+    "file": "Legislação Municipal — Curitiba — P1+",
+    "origin": "Autoral – padrão FAFIPA",
+    "topic": "Decreto 2.051/2025 — ME/EPP",
+    "stem": "ME e EPP deverão apresentar complementarmente:",
+    "options": [
+      [
+        "A",
+        "somente Declaração Anual do SIMEI."
+      ],
+      [
+        "B",
+        "Certidão Simplificada da Junta Comercial ou equivalente e declaração da condição legal."
+      ],
+      [
+        "C",
+        "GE zero."
+      ],
+      [
+        "D",
+        "exclusivamente balanço de abertura."
+      ],
+      [
+        "E",
+        "certificado do Banco Central."
+      ]
+    ],
+    "answer": "B",
+    "year": 2026,
+    "qnum": 76,
+    "score": 1000,
+    "band": "A",
+    "rank": 2869,
+    "resolution": {
+      "whatTests": "Decreto 2.051/2025 — ME/EPP",
+      "rule": "O art. 8º prevê Certidão Simplificada/equivalente e declaração sob as penas da lei.",
+      "steps": [
+        "Identifique o dispositivo/instituto cobrado.",
+        "Compare cada alternativa com a regra legal indicada.",
+        "Alternativa correta: B."
+      ],
+      "calculation": "Não se aplica.",
+      "whyCorrect": "B — corresponde à regra legal indicada no fundamento.",
+      "whyWrong": "As demais alternativas alteram conceito, prazo, percentual, competência, requisito ou exceção legal.",
+      "basis": "Decreto 2.051/2025, art. 8º, I.",
+      "fafipaTrap": "Não confundir ME/EPP com MEI.",
+      "title": "Resolução individual — LEG-AUT-0076",
+      "status": "resolvida"
+    },
+    "summary": "ME e EPP deverão apresentar complementarmente:",
+    "prioridade_base": 100,
+    "prioridade_faixa": "P1+"
+  },
+  {
+    "id": "LEG-AUT-0077",
+    "file": "Legislação Municipal — Curitiba — P1+",
+    "origin": "Autoral – padrão FAFIPA",
+    "topic": "Decreto 2.051/2025 — MEI",
+    "stem": "O MEI, segundo o Decreto 2.051:",
+    "options": [
+      [
+        "A",
+        "deve apresentar balanços obrigatoriamente."
+      ],
+      [
+        "B",
+        "é desobrigado da apresentação dos balanços patrimoniais nas condições previstas."
+      ],
+      [
+        "C",
+        "precisa demonstrar GE ≤0,35."
+      ],
+      [
+        "D",
+        "deve demonstrar CCL ≥16,66%."
+      ],
+      [
+        "E",
+        "deve comprovar RCA."
+      ]
+    ],
+    "answer": "B",
+    "year": 2026,
+    "qnum": 77,
+    "score": 1000,
+    "band": "A",
+    "rank": 2870,
+    "resolution": {
+      "whatTests": "Decreto 2.051/2025 — MEI",
+      "rule": "O MEI é desobrigado da apresentação dos balanços; a verificação dos índices do art. 7º também não se aplica.",
+      "steps": [
+        "Identifique o dispositivo/instituto cobrado.",
+        "Compare cada alternativa com a regra legal indicada.",
+        "Alternativa correta: B."
+      ],
+      "calculation": "Não se aplica.",
+      "whyCorrect": "B — corresponde à regra legal indicada no fundamento.",
+      "whyWrong": "As demais alternativas alteram conceito, prazo, percentual, competência, requisito ou exceção legal.",
+      "basis": "Decreto 2.051/2025, arts. 6º §4º, 7º §4º e 8º II.",
+      "fafipaTrap": "MEI é exceção.",
+      "title": "Resolução individual — LEG-AUT-0077",
+      "status": "resolvida"
+    },
+    "summary": "O MEI, segundo o Decreto 2.051:",
+    "prioridade_base": 100,
+    "prioridade_faixa": "P1+"
+  },
+  {
+    "id": "LEG-AUT-0078",
+    "file": "Legislação Municipal — Curitiba — P1+",
+    "origin": "Autoral – padrão FAFIPA",
+    "topic": "Decreto 2.051/2025 — Custos Trabalhistas",
+    "stem": "As propostas econômicas devem compreender:",
+    "options": [
+      [
+        "A",
+        "somente salário-base."
+      ],
+      [
+        "B",
+        "somente encargos previdenciários."
+      ],
+      [
+        "C",
+        "integralidade dos custos para atendimento dos direitos trabalhistas abrangidos pelo art. 12."
+      ],
+      [
+        "D",
+        "apenas custos de lei federal."
+      ],
+      [
+        "E",
+        "exclusivamente custos do edital."
+      ]
+    ],
+    "answer": "C",
+    "year": 2026,
+    "qnum": 78,
+    "score": 1000,
+    "band": "A",
+    "rank": 2871,
+    "resolution": {
+      "whatTests": "Decreto 2.051/2025 — Custos Trabalhistas",
+      "rule": "A declaração deve abranger a integralidade dos custos dos direitos trabalhistas indicados na norma.",
+      "steps": [
+        "Identifique o dispositivo/instituto cobrado.",
+        "Compare cada alternativa com a regra legal indicada.",
+        "Alternativa correta: C."
+      ],
+      "calculation": "Não se aplica.",
+      "whyCorrect": "C — corresponde à regra legal indicada no fundamento.",
+      "whyWrong": "As demais alternativas alteram conceito, prazo, percentual, competência, requisito ou exceção legal.",
+      "basis": "Decreto 2.051/2025, art. 12.",
+      "fafipaTrap": "Integralidade dos custos.",
+      "title": "Resolução individual — LEG-AUT-0078",
+      "status": "resolvida"
+    },
+    "summary": "As propostas econômicas devem compreender:",
+    "prioridade_base": 100,
+    "prioridade_faixa": "P1+"
+  },
+  {
+    "id": "LEG-AUT-0079",
+    "file": "Legislação Municipal — Curitiba — P1+",
+    "origin": "Autoral – padrão FAFIPA",
+    "topic": "Decreto 2.051/2025 — Empresa Estrangeira",
+    "stem": "Empresa estrangeira constituída há menos de dois anos apresentará, quanto às demonstrações contábeis:",
+    "options": [
+      [
+        "A",
+        "obrigatoriamente dois exercícios."
+      ],
+      [
+        "B",
+        "o último exercício, conforme a regra do decreto."
+      ],
+      [
+        "C",
+        "cinco exercícios."
+      ],
+      [
+        "D",
+        "nenhum exercício."
+      ],
+      [
+        "E",
+        "exclusivamente balanço de abertura brasileiro."
+      ]
+    ],
+    "answer": "B",
+    "year": 2026,
+    "qnum": 79,
+    "score": 1000,
+    "band": "A",
+    "rank": 2872,
+    "resolution": {
+      "whatTests": "Decreto 2.051/2025 — Empresa Estrangeira",
+      "rule": "Para pessoa jurídica estrangeira constituída há menos de dois anos, aplica-se o último exercício.",
+      "steps": [
+        "Identifique o dispositivo/instituto cobrado.",
+        "Compare cada alternativa com a regra legal indicada.",
+        "Alternativa correta: B."
+      ],
+      "calculation": "Não se aplica.",
+      "whyCorrect": "B — corresponde à regra legal indicada no fundamento.",
+      "whyWrong": "As demais alternativas alteram conceito, prazo, percentual, competência, requisito ou exceção legal.",
+      "basis": "Decreto 2.051/2025, art. 14, I.",
+      "fafipaTrap": "Estrangeira <2 anos = último exercício.",
+      "title": "Resolução individual — LEG-AUT-0079",
+      "status": "resolvida"
+    },
+    "summary": "Empresa estrangeira constituída há menos de dois anos apresentará, quanto às demonstrações contábeis:",
+    "prioridade_base": 100,
+    "prioridade_faixa": "P1+"
+  },
+  {
+    "id": "LEG-AUT-0080",
+    "file": "Legislação Municipal — Curitiba — P1+",
+    "origin": "Autoral – padrão FAFIPA",
+    "topic": "Decreto 2.051/2025 — Empresa Estrangeira",
+    "stem": "Os demonstrativos da empresa estrangeira, nas condições do art. 14, serão apresentados:",
+    "options": [
+      [
+        "A",
+        "apenas em português."
+      ],
+      [
+        "B",
+        "apenas na língua nativa."
+      ],
+      [
+        "C",
+        "em duas vias: língua nativa e versão traduzida para português."
+      ],
+      [
+        "D",
+        "exclusivamente em inglês."
+      ],
+      [
+        "E",
+        "em três línguas."
+      ]
+    ],
+    "answer": "C",
+    "year": 2026,
+    "qnum": 80,
+    "score": 1000,
+    "band": "A",
+    "rank": 2873,
+    "resolution": {
+      "whatTests": "Decreto 2.051/2025 — Empresa Estrangeira",
+      "rule": "A norma exige duas vias: língua nativa e tradução para português.",
+      "steps": [
+        "Identifique o dispositivo/instituto cobrado.",
+        "Compare cada alternativa com a regra legal indicada.",
+        "Alternativa correta: C."
+      ],
+      "calculation": "Não se aplica.",
+      "whyCorrect": "C — corresponde à regra legal indicada no fundamento.",
+      "whyWrong": "As demais alternativas alteram conceito, prazo, percentual, competência, requisito ou exceção legal.",
+      "basis": "Decreto 2.051/2025, art. 14, parágrafo único, I.",
+      "fafipaTrap": "Duas versões.",
+      "title": "Resolução individual — LEG-AUT-0080",
+      "status": "resolvida"
+    },
+    "summary": "Os demonstrativos da empresa estrangeira, nas condições do art. 14, serão apresentados:",
+    "prioridade_base": 100,
+    "prioridade_faixa": "P1+"
+  },
+  {
+    "id": "LEG-AUT-0081",
+    "file": "Legislação Municipal — Curitiba — P1+",
+    "origin": "Autoral – padrão FAFIPA",
+    "topic": "Decreto 2.051/2025 — Cálculo",
+    "stem": "Uma empresa apresenta AC=900.000, PC=600.000, RLP=300.000, ELP=200.000 e AT=2.000.000. O ILC e GE são:",
+    "options": [
+      [
+        "A",
+        "1,00 e 0,30."
+      ],
+      [
+        "B",
+        "1,50 e 0,40."
+      ],
+      [
+        "C",
+        "1,50 e 0,30."
+      ],
+      [
+        "D",
+        "2,00 e 0,40."
+      ],
+      [
+        "E",
+        "0,67 e 0,30."
+      ]
+    ],
+    "answer": "B",
+    "year": 2026,
+    "qnum": 81,
+    "score": 1000,
+    "band": "A",
+    "rank": 2874,
+    "resolution": {
+      "whatTests": "Decreto 2.051/2025 — Cálculo",
+      "rule": "ILC=900/600=1,50; GE=(600+200)/2.000=0,40. O GE não atende ao máximo 0,35.",
+      "steps": [
+        "Identifique o dispositivo/instituto cobrado.",
+        "Compare cada alternativa com a regra legal indicada.",
+        "Alternativa correta: B."
+      ],
+      "calculation": "ILC=1,50; GE=0,40.",
+      "whyCorrect": "B — corresponde à regra legal indicada no fundamento.",
+      "whyWrong": "As demais alternativas alteram conceito, prazo, percentual, competência, requisito ou exceção legal.",
+      "basis": "Decreto 2.051/2025, art. 7º.",
+      "fafipaTrap": "Um índice pode passar e outro reprovar.",
+      "title": "Resolução individual — LEG-AUT-0081",
+      "status": "resolvida"
+    },
+    "summary": "Uma empresa apresenta AC=900.000, PC=600.000, RLP=300.000, ELP=200.000 e AT=2.000.000. O ILC e GE são:",
+    "prioridade_base": 100,
+    "prioridade_faixa": "P1+"
+  },
+  {
+    "id": "LEG-AUT-0082",
+    "file": "Legislação Municipal — Curitiba — P1+",
+    "origin": "Autoral – padrão FAFIPA",
+    "topic": "Decreto 2.051/2025 — Patrimônio Líquido",
+    "stem": "Contrato anual estimado em R$3.000.000. Considerando PL ≥10%, o PL mínimo é:",
+    "options": [
+      [
+        "A",
+        "R$30.000."
+      ],
+      [
+        "B",
+        "R$150.000."
+      ],
+      [
+        "C",
+        "R$300.000."
+      ],
+      [
+        "D",
+        "R$499.800."
+      ],
+      [
+        "E",
+        "R$1.000.000."
+      ]
+    ],
+    "answer": "C",
+    "year": 2026,
+    "qnum": 82,
+    "score": 1000,
+    "band": "A",
+    "rank": 2875,
+    "resolution": {
+      "whatTests": "Decreto 2.051/2025 — Patrimônio Líquido",
+      "rule": "3.000.000 × 10% = 300.000.",
+      "steps": [
+        "Identifique o dispositivo/instituto cobrado.",
+        "Compare cada alternativa com a regra legal indicada.",
+        "Alternativa correta: C."
+      ],
+      "calculation": "3.000.000 × 0,10 = 300.000.",
+      "whyCorrect": "C — corresponde à regra legal indicada no fundamento.",
+      "whyWrong": "As demais alternativas alteram conceito, prazo, percentual, competência, requisito ou exceção legal.",
+      "basis": "Decreto 2.051/2025, art. 7º, VII.",
+      "fafipaTrap": "10% do valor anual.",
+      "title": "Resolução individual — LEG-AUT-0082",
+      "status": "resolvida"
+    },
+    "summary": "Contrato anual estimado em R$3.000.000. Considerando PL ≥10%, o PL mínimo é:",
+    "prioridade_base": 100,
+    "prioridade_faixa": "P1+"
+  },
+  {
+    "id": "LEG-AUT-0083",
+    "file": "Legislação Municipal — Curitiba — P1+",
+    "origin": "Autoral – padrão FAFIPA",
+    "topic": "Decreto 2.051/2025 — RCA",
+    "stem": "Uma licitante possui contratos firmados de R$4.800.000. Pelo RCA, seu PL deverá ser no mínimo:",
+    "options": [
+      [
+        "A",
+        "R$48.000."
+      ],
+      [
+        "B",
+        "R$400.000."
+      ],
+      [
+        "C",
+        "R$480.000."
+      ],
+      [
+        "D",
+        "R$800.000."
+      ],
+      [
+        "E",
+        "R$1.200.000."
+      ]
+    ],
+    "answer": "B",
+    "year": 2026,
+    "qnum": 83,
+    "score": 1000,
+    "band": "A",
+    "rank": 2876,
+    "resolution": {
+      "whatTests": "Decreto 2.051/2025 — RCA",
+      "rule": "PL ≥ contratos/12 = 4.800.000/12 = 400.000.",
+      "steps": [
+        "Identifique o dispositivo/instituto cobrado.",
+        "Compare cada alternativa com a regra legal indicada.",
+        "Alternativa correta: B."
+      ],
+      "calculation": "4.800.000 / 12 = 400.000.",
+      "whyCorrect": "B — corresponde à regra legal indicada no fundamento.",
+      "whyWrong": "As demais alternativas alteram conceito, prazo, percentual, competência, requisito ou exceção legal.",
+      "basis": "Decreto 2.051/2025, art. 7º, VI.",
+      "fafipaTrap": "Dividir por 12.",
+      "title": "Resolução individual — LEG-AUT-0083",
+      "status": "resolvida"
+    },
+    "summary": "Uma licitante possui contratos firmados de R$4.800.000. Pelo RCA, seu PL deverá ser no mínimo:",
+    "prioridade_base": 100,
+    "prioridade_faixa": "P1+"
+  },
+  {
+    "id": "LEG-AUT-0084",
+    "file": "Legislação Municipal — Curitiba — P1+",
+    "origin": "Autoral – padrão FAFIPA",
+    "topic": "LC 40/2001 — Arbitramento",
+    "stem": "Em arbitramento, despesas/custos de R$200.000 podem ser acrescidos de até 50%. Nesse limite, chega-se a:",
+    "options": [
+      [
+        "A",
+        "R$220.000."
+      ],
+      [
+        "B",
+        "R$250.000."
+      ],
+      [
+        "C",
+        "R$280.000."
+      ],
+      [
+        "D",
+        "R$300.000."
+      ],
+      [
+        "E",
+        "R$400.000."
+      ]
+    ],
+    "answer": "D",
+    "year": 2026,
+    "qnum": 84,
+    "score": 1000,
+    "band": "A",
+    "rank": 2877,
+    "resolution": {
+      "whatTests": "LC 40/2001 — Arbitramento",
+      "rule": "200.000 + 50% = 300.000.",
+      "steps": [
+        "Identifique o dispositivo/instituto cobrado.",
+        "Compare cada alternativa com a regra legal indicada.",
+        "Alternativa correta: D."
+      ],
+      "calculation": "200.000 × 1,5 = 300.000.",
+      "whyCorrect": "D — corresponde à regra legal indicada no fundamento.",
+      "whyWrong": "As demais alternativas alteram conceito, prazo, percentual, competência, requisito ou exceção legal.",
+      "basis": "LC Municipal 40/2001, art. 24, III.",
+      "fafipaTrap": "Até 50%.",
+      "title": "Resolução individual — LEG-AUT-0084",
+      "status": "resolvida"
+    },
+    "summary": "Em arbitramento, despesas/custos de R$200.000 podem ser acrescidos de até 50%. Nesse limite, chega-se a:",
+    "prioridade_base": 100,
+    "prioridade_faixa": "P1+"
+  },
+  {
+    "id": "LEG-AUT-0085",
+    "file": "Legislação Municipal — Curitiba — P1+",
+    "origin": "Autoral – padrão FAFIPA",
+    "topic": "LC 101/2017 — Pessoal",
+    "stem": "Julgue: I pessoal=mês referência+11 anteriores; II regime=competência; III limite=60% RCL; IV terceirização substitutiva nunca entra em pessoal.",
+    "options": [
+      [
+        "A",
+        "I apenas."
+      ],
+      [
+        "B",
+        "I e II."
+      ],
+      [
+        "C",
+        "II e III."
+      ],
+      [
+        "D",
+        "I, II e III."
+      ],
+      [
+        "E",
+        "Todas."
+      ]
+    ],
+    "answer": "D",
+    "year": 2026,
+    "qnum": 85,
+    "score": 1000,
+    "band": "A",
+    "rank": 2878,
+    "resolution": {
+      "whatTests": "LC 101/2017 — Pessoal",
+      "rule": "IV é falsa: terceirização substitutiva é contabilizada como Outras Despesas de Pessoal.",
+      "steps": [
+        "Identifique o dispositivo/instituto cobrado.",
+        "Compare cada alternativa com a regra legal indicada.",
+        "Alternativa correta: D."
+      ],
+      "calculation": "Não se aplica.",
+      "whyCorrect": "D — corresponde à regra legal indicada no fundamento.",
+      "whyWrong": "As demais alternativas alteram conceito, prazo, percentual, competência, requisito ou exceção legal.",
+      "basis": "LC Municipal 101/2017, arts. 13-14.",
+      "fafipaTrap": "Mês+11 / competência / 60%.",
+      "title": "Resolução individual — LEG-AUT-0085",
+      "status": "resolvida"
+    },
+    "summary": "Julgue: I pessoal=mês referência+11 anteriores; II regime=competência; III limite=60% RCL; IV terceirização substitutiva nunca entra em pessoal.",
+    "prioridade_base": 100,
+    "prioridade_faixa": "P1+"
+  },
+  {
+    "id": "LEG-AUT-0086",
+    "file": "Legislação Municipal — Curitiba — P1+",
+    "origin": "Autoral – padrão FAFIPA",
+    "topic": "Lei Orgânica — Emenda",
+    "stem": "Associe: I iniciativa popular; II aprovação; III interstício; IV prazo do referendo facultativo.",
+    "options": [
+      [
+        "A",
+        "5% — 2/3 — 10 dias — 60 dias."
+      ],
+      [
+        "B",
+        "10% — 3/5 — 15 dias — 30 dias."
+      ],
+      [
+        "C",
+        "5% — maioria absoluta — 10 dias — 60 dias."
+      ],
+      [
+        "D",
+        "3% — 2/3 — 30 dias — 90 dias."
+      ],
+      [
+        "E",
+        "5% — 3/5 — 10 dias — 45 dias."
+      ]
+    ],
+    "answer": "A",
+    "year": 2026,
+    "qnum": 86,
+    "score": 1000,
+    "band": "A",
+    "rank": 2879,
+    "resolution": {
+      "whatTests": "Lei Orgânica — Emenda",
+      "rule": "A sequência correta é 5%; 2/3; mínimo 10 dias; 60 dias.",
+      "steps": [
+        "Identifique o dispositivo/instituto cobrado.",
+        "Compare cada alternativa com a regra legal indicada.",
+        "Alternativa correta: A."
+      ],
+      "calculation": "Não se aplica.",
+      "whyCorrect": "A — corresponde à regra legal indicada no fundamento.",
+      "whyWrong": "As demais alternativas alteram conceito, prazo, percentual, competência, requisito ou exceção legal.",
+      "basis": "Lei Orgânica de Curitiba, art. 51.",
+      "fafipaTrap": "Memorização combinada.",
+      "title": "Resolução individual — LEG-AUT-0086",
+      "status": "resolvida"
+    },
+    "summary": "Associe: I iniciativa popular; II aprovação; III interstício; IV prazo do referendo facultativo.",
+    "prioridade_base": 100,
+    "prioridade_faixa": "P1+"
+  },
+  {
+    "id": "LEG-AUT-0087",
+    "file": "Legislação Municipal — Curitiba — P1+",
+    "origin": "Autoral – padrão FAFIPA",
+    "topic": "Lei 1.656/1958 — Abandono",
+    "stem": "Um funcionário deixa injustificadamente de comparecer por 31 dias consecutivos. À luz do dispositivo estudado:",
+    "options": [
+      [
+        "A",
+        "não pode haver abandono antes de 60 dias."
+      ],
+      [
+        "B",
+        "está configurada a hipótese temporal de abandono prevista para demissão."
+      ],
+      [
+        "C",
+        "somente aos 90 dias consecutivos."
+      ],
+      [
+        "D",
+        "deverá receber exclusivamente advertência."
+      ],
+      [
+        "E",
+        "deverá receber exclusivamente multa."
+      ]
+    ],
+    "answer": "B",
+    "year": 2026,
+    "qnum": 87,
+    "score": 1000,
+    "band": "A",
+    "rank": 2880,
+    "resolution": {
+      "whatTests": "Lei 1.656/1958 — Abandono",
+      "rule": "A lei usa mais de 30 dias consecutivos; 31 satisfaz o critério temporal.",
+      "steps": [
+        "Identifique o dispositivo/instituto cobrado.",
+        "Compare cada alternativa com a regra legal indicada.",
+        "Alternativa correta: B."
+      ],
+      "calculation": "Não se aplica.",
+      "whyCorrect": "B — corresponde à regra legal indicada no fundamento.",
+      "whyWrong": "As demais alternativas alteram conceito, prazo, percentual, competência, requisito ou exceção legal.",
+      "basis": "Lei Municipal 1.656/1958, dispositivo sobre abandono de cargo.",
+      "fafipaTrap": "'Mais de 30' significa 31 ou mais.",
+      "title": "Resolução individual — LEG-AUT-0087",
+      "status": "resolvida"
+    },
+    "summary": "Um funcionário deixa injustificadamente de comparecer por 31 dias consecutivos. À luz do dispositivo estudado:",
+    "prioridade_base": 100,
+    "prioridade_faixa": "P1+"
+  },
+  {
+    "id": "LEG-AUT-0088",
+    "file": "Legislação Municipal — Curitiba — P1+",
+    "origin": "Autoral – padrão FAFIPA",
+    "topic": "Decretos 2.051 e 2.067 — Comparação",
+    "stem": "Considere: I no 2.051 GE≤0,35; II no 2.051 CCL≥16,66%; III no 2.051 RCA com PL≥contratos/12; IV no 2.067 LC/LG/SG≥1.",
+    "options": [
+      [
+        "A",
+        "I e II apenas."
+      ],
+      [
+        "B",
+        "III e IV apenas."
+      ],
+      [
+        "C",
+        "I, II e III apenas."
+      ],
+      [
+        "D",
+        "II, III e IV apenas."
+      ],
+      [
+        "E",
+        "I, II, III e IV."
+      ]
+    ],
+    "answer": "E",
+    "year": 2026,
+    "qnum": 88,
+    "score": 1000,
+    "band": "A",
+    "rank": 2881,
+    "resolution": {
+      "whatTests": "Decretos 2.051 e 2.067 — Comparação",
+      "rule": "Todas as assertivas estão corretas nos respectivos decretos.",
+      "steps": [
+        "Identifique o dispositivo/instituto cobrado.",
+        "Compare cada alternativa com a regra legal indicada.",
+        "Alternativa correta: E."
+      ],
+      "calculation": "Não se aplica.",
+      "whyCorrect": "E — corresponde à regra legal indicada no fundamento.",
+      "whyWrong": "As demais alternativas alteram conceito, prazo, percentual, competência, requisito ou exceção legal.",
+      "basis": "Decretos 2.051/2025 e 2.067/2025.",
+      "fafipaTrap": "Não misturar os dois decretos.",
+      "title": "Resolução individual — LEG-AUT-0088",
+      "status": "resolvida"
+    },
+    "summary": "Considere: I no 2.051 GE≤0,35; II no 2.051 CCL≥16,66%; III no 2.051 RCA com PL≥contratos/12; IV no 2.067 LC/LG/SG≥1.",
+    "prioridade_base": 100,
+    "prioridade_faixa": "P1+"
+  },
+  {
+    "id": "LEG-AUT-0089",
+    "file": "Legislação Municipal — Curitiba — P1+",
+    "origin": "Autoral – padrão FAFIPA",
+    "topic": "Legislação Municipal — Integradora",
+    "stem": "Assinale a única associação INCORRETA:",
+    "options": [
+      [
+        "A",
+        "Estatuto — suspensão — máximo 90 dias."
+      ],
+      [
+        "B",
+        "LC40 — dolo/fraude/simulação — multa 60%."
+      ],
+      [
+        "C",
+        "LC101 — pessoal — 60% RCL."
+      ],
+      [
+        "D",
+        "Lei Orgânica — emenda — 2/3 em ambos os turnos."
+      ],
+      [
+        "E",
+        "Decreto 2.051 — GE — mínimo 0,35."
+      ]
+    ],
+    "answer": "E",
+    "year": 2026,
+    "qnum": 89,
+    "score": 1000,
+    "band": "A",
+    "rank": 2882,
+    "resolution": {
+      "whatTests": "Legislação Municipal — Integradora",
+      "rule": "GE tem limite máximo de 0,35 (≤0,35), não mínimo.",
+      "steps": [
+        "Identifique o dispositivo/instituto cobrado.",
+        "Compare cada alternativa com a regra legal indicada.",
+        "Alternativa correta: E."
+      ],
+      "calculation": "Não se aplica.",
+      "whyCorrect": "E — corresponde à regra legal indicada no fundamento.",
+      "whyWrong": "As demais alternativas alteram conceito, prazo, percentual, competência, requisito ou exceção legal.",
+      "basis": "Lei 1.656/1958; LC 40/2001; LC 101/2017; Lei Orgânica; Decreto 2.051/2025.",
+      "fafipaTrap": "Troca do sentido do sinal.",
+      "title": "Resolução individual — LEG-AUT-0089",
+      "status": "resolvida"
+    },
+    "summary": "Assinale a única associação INCORRETA:",
+    "prioridade_base": 100,
+    "prioridade_faixa": "P1+"
+  },
+  {
+    "id": "LEG-AUT-0090",
+    "file": "Legislação Municipal — Curitiba — P1+",
+    "origin": "Autoral – padrão FAFIPA",
+    "topic": "Legislação Municipal — Superintegradora",
+    "stem": "Considere: I readmissão sem ressarcimento; II Administração Indireta inclui empresas públicas; III LC40 pagamento tempestivo do art.27 reduz multa em 50%; IV LC101 metas de arrecadação são bimestrais; V Decreto 2.051 ILC/ILG/SG≥1 e GE≤0,35.",
+    "options": [
+      [
+        "A",
+        "I, II e III apenas."
+      ],
+      [
+        "B",
+        "III, IV e V apenas."
+      ],
+      [
+        "C",
+        "I, II, IV e V apenas."
+      ],
+      [
+        "D",
+        "I, II, III, IV e V."
+      ],
+      [
+        "E",
+        "II, III e V apenas."
+      ]
+    ],
+    "answer": "D",
+    "year": 2026,
+    "qnum": 90,
+    "score": 1000,
+    "band": "A",
+    "rank": 2883,
+    "resolution": {
+      "whatTests": "Legislação Municipal — Superintegradora",
+      "rule": "Todas as assertivas estão corretas segundo os dispositivos estudados.",
+      "steps": [
+        "Identifique o dispositivo/instituto cobrado.",
+        "Compare cada alternativa com a regra legal indicada.",
+        "Alternativa correta: D."
+      ],
+      "calculation": "Não se aplica.",
+      "whyCorrect": "D — corresponde à regra legal indicada no fundamento.",
+      "whyWrong": "As demais alternativas alteram conceito, prazo, percentual, competência, requisito ou exceção legal.",
+      "basis": "Lei 1.656/1958; Lei 7.671/1991; LC 40/2001; LC 101/2017; Decreto 2.051/2025.",
+      "fafipaTrap": "Revisão cruzada das normas.",
+      "title": "Resolução individual — LEG-AUT-0090",
+      "status": "resolvida"
+    },
+    "summary": "Considere: I readmissão sem ressarcimento; II Administração Indireta inclui empresas públicas; III LC40 pagamento tempestivo do art.27 reduz multa em 50%; IV LC101 metas de arrecadação são bimestrais; V Decreto 2.051 ILC",
+    "prioridade_base": 100,
+    "prioridade_faixa": "P1+"
   }
 ]
