@@ -284,7 +284,7 @@ function QuestaoDetalhe({ id }: { id: string }) {
         <div className="flex flex-wrap gap-2">
           <span className="badge bg-ink text-paper">Rank #{questao.rank}</span>
           <span className="badge border border-gold/20 bg-gold/10 text-gold">
-            {prioridadeLabel(questao.prioridade_base)} · {questao.prioridade_base ?? "—"}/100
+            {questao.prioridade_faixa || prioridadeLabel(questao.prioridade_base)}
           </span>
           <span className="badge border border-ink/10 bg-white/60 text-ink-light">
             {FILA_LABEL[filaDinamica(questao, progresso ?? undefined)]}

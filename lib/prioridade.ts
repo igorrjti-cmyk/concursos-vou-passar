@@ -23,30 +23,37 @@ export function accuracyOf(p?: ProgressoFila | null) {
   return (p.acertos / p.tentativas) * 100;
 }
 
-export function filaDinamica(q: Questao, p?: ProgressoFila | null): FilaDinamica {
-  const base = q.prioridade_base ?? 0;
-  const acc = accuracyOf(p);
+function faixaFromQuestao(q: Pick<Questao, "prioridade_faixa" | "prioridade_base">) {
+  if (q.prioridade_faixa) return q.prioridade_faixa;
+  return prioridadeLabel(q.prioridade_base);
+}
 
-  // P0 continua reservado às lacunas do edital que ainda precisam ser criadas.
-  // Para uma questão existente, a fila é decidida por importância + domínio.
-  if (base < 65) return "cobertura";
+function pesoPrioridade(q: Pick<Questao, "prioridade_faixa" | "prioridade_base">) {
+  const faixa = faixaFromQuestao(q);
+  return ({ "P1+": 100, P1: 85, P2: 65, P3: 45, P4: 10 } as Record<string, number>)[faixa] ?? 0;
+}
+
+export function filaDinamica(q: Questao, p?: ProgressoFila | null): FilaDinamica {
+  const faixa = faixaFromQuestao(q);
+  const acc = accuracyOf(p);
+  if (faixa === "P3" || faixa === "P4") return "cobertura";
+  if (faixa === "P2" && acc === null) return "cobertura";
   if (acc === null || acc < 70 || p?.status === "feita_errado" || p?.status === "duvida") return "ataque";
   if (acc < 90) return "consolidacao";
   return "manutencao";
 }
 
 export function filaSortScore(q: Questao, p?: ProgressoFila | null) {
-  const base = q.prioridade_base ?? 0;
   const acc = accuracyOf(p);
-  // Erro/dúvida recente vence a prioridade estática: neste fim de semana,
-  // corrigir fraqueza comprovada vale mais que simplesmente avançar no banco.
   const erroBoost = p?.status === "feita_errado" || p?.status === "duvida" ? 1000 : 0;
   const dominioPenalty = acc === null ? 0 : acc < 70 ? 20 : acc < 90 ? 8 : -8;
-  return erroBoost + base + dominioPenalty;
+  return erroBoost + pesoPrioridade(q) + dominioPenalty;
 }
 
 export function prioridadeLabel(p?: number | null) {
   if (p === null || p === undefined) return "—";
+  // Nova escala: 4=P1+, 3=P1, 2=P2, 1=P3, 0=P4. Mantém compatibilidade com a escala antiga 0–100.
+  if (p <= 4) return ({ 4: "P1+", 3: "P1", 2: "P2", 1: "P3", 0: "P4" } as Record<number, string>)[p] ?? "—";
   if (p >= 80) return "P1";
   if (p >= 65) return "P2";
   if (p >= 50) return "P3";
@@ -54,11 +61,8 @@ export function prioridadeLabel(p?: number | null) {
 }
 
 export function prioridadeTexto(p?: number | null) {
-  if (p === null || p === undefined) return "Sem classificação";
-  if (p >= 80) return "P1 · núcleo prioritário";
-  if (p >= 65) return "P2 · núcleo importante";
-  if (p >= 50) return "P3 · complementar";
-  return "P4 · manutenção/expansão";
+  const faixa = prioridadeLabel(p);
+  return ({ "P1+": "P1+ · núcleo indispensável", P1: "P1 · alta prioridade", P2: "P2 · complementar", P3: "P3 · baixa prioridade", P4: "P4 · fora do recorte/problema", "—": "Sem classificação" } as Record<string, string>)[faixa];
 }
 
 export function statusParaFila(status: StatusProgresso | undefined) {
