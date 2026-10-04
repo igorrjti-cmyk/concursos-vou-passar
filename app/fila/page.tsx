@@ -139,10 +139,43 @@ function FilaLista() {
   const paginaSegura = Math.min(pagina, totalPaginas - 1);
   const visiveis = lista.slice(paginaSegura * PAGE_SIZE, paginaSegura * PAGE_SIZE + PAGE_SIZE);
 
-  // A posição de retomada usa o rank estável do banco, enquanto a exibição
-  // continua respeitando a prioridade inteligente da Fila.
-  const sequenciaRank = useMemo(() => [...lista].sort((a, b) => a.rank - b.rank), [lista]);
-  const primeira = sequenciaRank[0] ?? null;
+  // "Estudar agora" usa uma sequência adaptativa simples:
+  // P1+ inéditas -> P1 inéditas -> erros/dúvidas -> P2 -> P3.
+  // P4 nunca entra no fluxo normal. Dentro da mesma faixa, alterna matérias.
+  const sequenciaInteligente = useMemo(() => {
+    const prioridadePeso: Record<string, number> = { "P1+": 0, "P1": 1, "P2": 3, "P3": 4, "P4": 99 };
+    const materiaIndice = new Map(MATERIAS.map((m, i) => [m, i]));
+    const candidatos = lista.filter(q => faixa(q) !== "P4");
+
+    const etapa = (q: Questao) => {
+      const st = progressoMap[q.id]?.status ?? "nao_iniciada";
+      const pr = faixa(q);
+      if (st === "nao_iniciada" && pr === "P1+") return 0;
+      if (st === "nao_iniciada" && pr === "P1") return 1;
+      if (st === "feita_errado" || st === "duvida") return 2;
+      if (st === "nao_iniciada" && pr === "P2") return 3;
+      if (st === "nao_iniciada" && pr === "P3") return 4;
+      return 5;
+    };
+
+    return [...candidatos].sort((a, b) => {
+      const ea = etapa(a), eb = etapa(b);
+      if (ea !== eb) return ea - eb;
+      const pa = prioridadePeso[faixa(a)] ?? 9;
+      const pb = prioridadePeso[faixa(b)] ?? 9;
+      if (pa !== pb) return pa - pb;
+      const ma = materiaIndice.get(materiaDaQuestao(a)) ?? 99;
+      const mb = materiaIndice.get(materiaDaQuestao(b)) ?? 99;
+      if (ma !== mb) return ma - mb;
+      return a.rank - b.rank;
+    });
+  }, [lista, progressoMap]);
+
+  const primeira = sequenciaInteligente[0] ?? null;
+
+  // Retomada continua baseada na posição salva da sessão para não quebrar
+  // sessões já iniciadas.
+  const sequenciaRank = useMemo(() => [...lista].filter(q => faixa(q) !== "P4").sort((a, b) => a.rank - b.rank), [lista]);
   const proximaRetomada = sessao?.ultimo_rank
     ? sequenciaRank.find(q => q.rank > sessao.ultimo_rank) ?? null
     : null;
@@ -247,6 +280,7 @@ function FilaLista() {
             </button>
           )}
         </div>
+        <p className="mt-3 text-[11px] text-blue-100/45">Ordem inteligente: P1+ inéditas → P1 inéditas → erros/dúvidas → P2 → P3. P4 fica fora do estudo normal.</p>
       </div>
       <div className="queue-hero__meta">
         <div>{lista.length} questões no filtro atual</div>
