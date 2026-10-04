@@ -38,9 +38,10 @@ export function filaDinamica(q: Questao, p?: ProgressoFila | null): FilaDinamica
 export function filaSortScore(q: Questao, p?: ProgressoFila | null) {
   const base = q.prioridade_base ?? 0;
   const acc = accuracyOf(p);
+  const bancaBonus = q.is_fafipa ? 8 : 0;
   const dominioPenalty = acc === null ? 0 : acc < 70 ? 20 : acc < 90 ? 8 : -8;
   const erroPenalty = p?.status === "feita_errado" || p?.status === "duvida" ? 12 : 0;
-  return base + dominioPenalty + erroPenalty;
+  return base + bancaBonus + dominioPenalty + erroPenalty;
 }
 
 export function prioridadeLabel(p?: number | null) {

@@ -16,6 +16,9 @@ export type Questao = {
   prioridade_faixa: string | null;
   topic: string | null;
   origin: string | null;
+  banca?: string | null;
+  is_fafipa?: boolean;
+  prioridade_fafipa?: number;
   file_source: string | null;
   stem: string;
   options: [string, string][];

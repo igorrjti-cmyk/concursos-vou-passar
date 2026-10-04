@@ -11,7 +11,7 @@ celular e notebook.
 
 - **964 questões** extraídas do seu painel HTML V5, já na ordem de prioridade
   (`rank` 1 → 965, com um número pulado por causa de uma duplicata removida),
-  em `data/questoes.json` — depois ampliado para **1.958 questões** com a
+  em `data/questoes.json` — depois ampliado para **2.175 questões** com a
   entrada de Português, Informática, Matemática Financeira e Estatística.
 - **160+ resoluções individuais** já incluídas no mesmo arquivo.
 - Schema completo do Supabase em `supabase/schema.sql`, mais as migrações de
@@ -129,7 +129,7 @@ supabase/migrations_20260927_v6v7_gamificacao_ia.sql revisão espaçada avançad
                      favoritos, metas, gamificação, conquistas, simulados, cache de IA
 supabase/seed-partes/           964+994 questões em blocos prontos para colar
 scripts/seed.mjs     importa data/questoes.json via terminal (alternativa)
-data/questoes.json   as 1.958 questões + resoluções
+data/questoes.json   as 2.175 questões (1.958 anteriores + 217 novas de Contabilidade Geral)
 ```
 
 ## Atualização — Português, Informática, Matemática Financeira e Estatística
@@ -176,7 +176,7 @@ Os arquivos ficam em `supabase/seed-partes/`, numerados na ordem certa —
    resoluções novas.
 
 Se algum arquivo der "Query is too large" no SQL Editor, me avise qual número
-que eu quebro em partes menores. `data/questoes.json` já está com as 1.958
+que eu quebro em partes menores. `data/questoes.json` já está com as 2.175
 questões e pode ser usado direto com `npm run seed` em vez do SQL manual, se
 preferir.
 
