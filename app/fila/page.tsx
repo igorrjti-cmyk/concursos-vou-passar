@@ -24,6 +24,8 @@ const MATERIAS = [
 ];
 const PRIORIDADES = ["P1+", "P1", "P2", "P3", "P4"] as const;
 function materiaDaQuestao(q: Questao) {
+  const porId = MATERIA_POR_ID[String(q.id)];
+  if (porId) return porId;
   const t = q.topic ?? "";
   if (String(q.id).startsWith("LEG-AUT-") || /^(Lei Orgânica|Lei 1\.656|Lei 7\.671|LC 40|LC 101|Decreto 2\.05|Decreto 2\.06|Decretos 2\.051|Legislação Municipal)/.test(t)) return "Legislação Municipal";
   if (t.startsWith("AFO, Direito Financeiro e Contabilidade Pública")) return "Contabilidade Pública / AFO";
