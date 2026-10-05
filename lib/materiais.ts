@@ -114,6 +114,18 @@ export const MATERIAIS: Record<string, LinkMaterial[]> = {
   "Literatura Brasileira": [{nome:"Literatura Brasileira",url:"https://drive.google.com/file/d/1RWbhbwx9-oRRfKedpGcrf9TT4pKl_OMe/view"}],
   "POR16": [{nome:"POR16",url:"https://drive.google.com/file/d/1ggE7xe7KcwO4lm7hG-k1087zNHiDOCJ7/view"}],
 
+  // Legislação Municipal — Curitiba (Edital 2.1)
+  "Lei Orgânica Curitiba": [{nome:"Lei Orgânica Curitiba",url:"https://drive.google.com/file/d/1uGMoW5OfMxrmucpBY2Kc9NLw7MyVKCSM/view"}],
+  "Lei Municipal 1.656/1958": [{nome:"Lei 1.656/1958",url:"https://drive.google.com/file/d/1khWlxgdWi1nRU9FkQjYIU-cPsC713pE8/view"}],
+  "Lei Municipal 7.671/1991": [{nome:"Lei 7.671/1991",url:"https://drive.google.com/file/d/1mCsgZ6aQQmMU5g1oCaGHYkzJVGf1C10O/view"}],
+  "LC Municipal 40/2001": [{nome:"LC 40/2001",url:"https://drive.google.com/file/d/1lQizJA15Uc5yzvPU8lSW8ga23x7we0kG/view"}],
+  "LC Municipal 101/2017": [{nome:"LC 101/2017",url:"https://drive.google.com/file/d/1ykMc2Lvm6upbG9rZCY30nR6V_vSTwl40/view"}],
+  "Decreto Municipal 2.051/2025": [
+    {nome:"Decreto 2.051/2025",url:"https://drive.google.com/file/d/1vjc9Q-SfueBOedL3CivRv3HoI1It2m09/view"},
+    {nome:"Decreto 707/2026 — alterações",url:"https://drive.google.com/file/d/1ngO3BzN5mHaycsJiBn-HO4k9Mmf-8GV2/view"},
+  ],
+  "Decreto Municipal 2.067/2025": [{nome:"Decreto 2.067/2025",url:"https://drive.google.com/file/d/1IreSogb6ghrzlTbiNGCciBKilRfvT6uZ/view"}],
+
 };
 
 export function linksDoMaterial(material: string): LinkMaterial[] {

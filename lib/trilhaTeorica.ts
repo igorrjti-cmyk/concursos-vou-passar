@@ -113,6 +113,15 @@ export const TRILHA_TEORICA: EtapaTeorica[] = [
   {id:"pt-15",ordem:114,materia:"Português",edital:"1.1.12",titulo:"Literatura Brasileira — escolas, autores e obras",material:"Literatura Brasileira",paginas:"11–59",profundidade:"A",prioridade:"P1+",cobertura:"fechado",observacao:"Priorizar Romantismo, Realismo/Naturalismo, Pré-Modernismo e Modernismo sem abandonar as demais escolas."},
   {id:"pt-16",ordem:115,materia:"Português",edital:"1.1.1–1.1.12",titulo:"Revisão geral de Português",material:"POR16",paginas:"3–72",profundidade:"C",prioridade:"P2",cobertura:"fechado",observacao:"Usar somente após a primeira passagem, como revisão/remediação adaptativa."},
 
+  // Legislação Municipal — lei seca do edital.
+  {id:"leg-01",ordem:120,materia:"Legislação Municipal",edital:"2.1.1",titulo:"Lei Orgânica do Município de Curitiba",material:"Lei Orgânica Curitiba",paginas:"integral",profundidade:"A",prioridade:"P1+",cobertura:"fechado"},
+  {id:"leg-02",ordem:121,materia:"Legislação Municipal",edital:"2.1.2",titulo:"Estatuto dos Funcionários Públicos Municipais",material:"Lei Municipal 1.656/1958",paginas:"integral",profundidade:"A",prioridade:"P1+",cobertura:"fechado"},
+  {id:"leg-03",ordem:122,materia:"Legislação Municipal",edital:"2.1.3",titulo:"Organização administrativa do Poder Executivo",material:"Lei Municipal 7.671/1991",paginas:"integral",profundidade:"A",prioridade:"P1+",cobertura:"fechado"},
+  {id:"leg-04",ordem:123,materia:"Legislação Municipal",edital:"2.1.4",titulo:"Código Tributário Municipal",material:"LC Municipal 40/2001",paginas:"integral",profundidade:"A",prioridade:"P1+",cobertura:"fechado"},
+  {id:"leg-05",ordem:124,materia:"Legislação Municipal",edital:"2.1.5",titulo:"Finanças e gestão fiscal municipal",material:"LC Municipal 101/2017",paginas:"integral",profundidade:"A",prioridade:"P1+",cobertura:"fechado"},
+  {id:"leg-06",ordem:125,materia:"Legislação Municipal",edital:"2.1.6",titulo:"Habilitação em contratações de serviços",material:"Decreto Municipal 2.051/2025",paginas:"arts. 5º–14",profundidade:"A",prioridade:"P1+",cobertura:"fechado",observacao:"O botão de material também oferece o Decreto 707/2026, que altera os arts. 7º e 13 dentro do recorte do edital."},
+  {id:"leg-07",ordem:126,materia:"Legislação Municipal",edital:"2.1.7",titulo:"Habilitação em aquisições de bens",material:"Decreto Municipal 2.067/2025",paginas:"arts. 5º–11",profundidade:"A",prioridade:"P1+",cobertura:"fechado"},
+
   {id:"norm-pendente",ordem:200,materia:"Normas 2.11 — depois",edital:"2.11.1–2.11.17",titulo:"Fechamento normativo específico",material:"Fontes oficiais a complementar",paginas:"pendente",profundidade:"C",prioridade:"—",cobertura:"pendente",observacao:"Adiado por decisão de estudo. Não conta como cobertura concluída."},
 ];
 
