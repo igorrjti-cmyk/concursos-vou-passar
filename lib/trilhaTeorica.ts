@@ -144,6 +144,18 @@ export const TRILHA_TEORICA: EtapaTeorica[] = [
   {id:"inf-19",ordem:148,materia:"Informática",edital:"1.2.15",titulo:"Power BI — BI, dados, transformação, medidas e visuais",material:"Power BI Nível I",paginas:"5–55 seletivo",profundidade:"A",prioridade:"P1+",cobertura:"fechado"},
   {id:"inf-20",ordem:149,materia:"Informática",edital:"1.2.15",titulo:"Power BI — complemento prático",material:"Power BI Ninja",paginas:"5–36 seletivo",profundidade:"B",prioridade:"P1",cobertura:"fechado"},
 
+  // Matemática Financeira — 13/13 itens do edital mapeados; questões dos PDFs ficam fora da primeira passagem.
+  {id:"mf-01",ordem:160,materia:"Matemática Financeira",edital:"2.2.1",titulo:"Razão, proporção e proporcionalidade",material:"RACM 14",paginas:"3–30",profundidade:"A",prioridade:"P1+",cobertura:"fechado"},
+  {id:"mf-02",ordem:161,materia:"Matemática Financeira",edital:"2.2.1",titulo:"Regra de três simples e composta",material:"RACM 15",paginas:"3–16",profundidade:"A",prioridade:"P1+",cobertura:"fechado"},
+  {id:"mf-03",ordem:162,materia:"Matemática Financeira",edital:"2.2.1",titulo:"Porcentagens, aumentos, descontos e variações",material:"RACM 16",paginas:"3–43",profundidade:"A",prioridade:"P1+",cobertura:"fechado",observacao:"p.44–77 em B/revisão."},
+  {id:"mf-04",ordem:163,materia:"Matemática Financeira",edital:"2.2.2–2.2.4",titulo:"Juros simples, regimes e taxas proporcionais",material:"RACM 26",paginas:"3–43",profundidade:"A",prioridade:"P1+",cobertura:"fechado",observacao:"p.44–52 em B."},
+  {id:"mf-05",ordem:164,materia:"Matemática Financeira",edital:"2.2.2–2.2.4",titulo:"Juros compostos; taxas nominal, efetiva e equivalente",material:"RACM 27",paginas:"3–34",profundidade:"A",prioridade:"P1+",cobertura:"fechado",observacao:"p.35–41 em B; p.42–52 em C."},
+  {id:"mf-06",ordem:165,materia:"Matemática Financeira",edital:"2.2.3",titulo:"Descontos",material:"RACM 28",paginas:"3–43",profundidade:"A",prioridade:"P1+",cobertura:"fechado"},
+  {id:"mf-07",ordem:166,materia:"Matemática Financeira",edital:"2.2.4, 2.2.11–2.2.12",titulo:"Taxa real/aparente, inflação e custo efetivo",material:"RACM 29",paginas:"3–17 + 24–32",profundidade:"A",prioridade:"P1+",cobertura:"fechado",observacao:"p.18–23 em B; p.33–38 em C."},
+  {id:"mf-08",ordem:167,materia:"Matemática Financeira",edital:"2.2.5–2.2.6",titulo:"Equivalência de capitais; rendas uniformes e variáveis",material:"RACM 30",paginas:"3–50",profundidade:"A",prioridade:"P1+",cobertura:"fechado",observacao:"p.51–58 em B."},
+  {id:"mf-09",ordem:168,materia:"Matemática Financeira",edital:"2.2.7–2.2.10",titulo:"Amortização; Price, SAC e SAM",material:"RACM 31",paginas:"3–64",profundidade:"A",prioridade:"P1+",cobertura:"fechado",observacao:"Sistema Americano e Sinking Fund (p.65–86) em C."},
+  {id:"mf-10",ordem:169,materia:"Matemática Financeira",edital:"2.2.11–2.2.13",titulo:"Investimentos, VPL, TIR e taxa de retorno",material:"RACM 32",paginas:"4–36",profundidade:"A",prioridade:"P1+",cobertura:"fechado",observacao:"TIRM p.37–45 em B; payback/índice de lucratividade p.46–63 em B/P1."},
+
   {id:"norm-pendente",ordem:200,materia:"Normas 2.11 — depois",edital:"2.11.1–2.11.17",titulo:"Fechamento normativo específico",material:"Fontes oficiais a complementar",paginas:"pendente",profundidade:"C",prioridade:"—",cobertura:"pendente",observacao:"Adiado por decisão de estudo. Não conta como cobertura concluída."},
 ];
 

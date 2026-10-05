@@ -148,6 +148,18 @@ export const MATERIAIS: Record<string, LinkMaterial[]> = {
   "Power BI Nível I": [{nome:"Power BI — Nível I",url:"https://drive.google.com/file/d/13xzSypjpVReGwnb0MboS0QqJASjPefML/view"}],
   "Power BI Ninja": [{nome:"Power BI Ninja 2.0",url:"https://drive.google.com/file/d/1nRYkCL7Vlv9bGs7aGOEQ23p4OIwxyNmq/view"}],
 
+  // Matemática Financeira — Curitiba 2026
+  "RACM 14": [{nome:"RACM 14",url:"https://drive.google.com/file/d/1c9SAeldchcvHmGCOQSpoFv7HJlu2PtmP/view"}],
+  "RACM 15": [{nome:"RACM 15",url:"https://drive.google.com/file/d/1Zul2eHgvdZ8MUCXlRYEO4NmcpAji4If-/view"}],
+  "RACM 16": [{nome:"RACM 16",url:"https://drive.google.com/file/d/1H8_pLp58kHn2EPjO4HLcPXiKT5afSTxC/view"}],
+  "RACM 26": [{nome:"RACM 26",url:"https://drive.google.com/file/d/1eXlAxdWzs9NOrz-0IVkjSQaj26iHn0ni/view"}],
+  "RACM 27": [{nome:"RACM 27",url:"https://drive.google.com/file/d/1YdkxvuFx3hMevajUk2Jbpr7OyUrffbwR/view"}],
+  "RACM 28": [{nome:"RACM 28",url:"https://drive.google.com/file/d/1g4BKtRVqp5qbzcWsMwseJp7AbPORYzl3/view"}],
+  "RACM 29": [{nome:"RACM 29",url:"https://drive.google.com/file/d/1udLANJhkEsOT-LKksqE5PeMeh12OpCxN/view"}],
+  "RACM 30": [{nome:"RACM 30",url:"https://drive.google.com/file/d/1pSqS8MFbJMR950PMoOHRzOYR40cViUai/view"}],
+  "RACM 31": [{nome:"RACM 31",url:"https://drive.google.com/file/d/181c5kw0E61EDBfrrJ6B5APctnrBAPBbd/view"}],
+  "RACM 32": [{nome:"RACM 32",url:"https://drive.google.com/file/d/1zMQNdlhXC3U1tA4yOeZ0MF6ujSxPlEpg/view"}],
+
 };
 
 export function linksDoMaterial(material: string): LinkMaterial[] {
