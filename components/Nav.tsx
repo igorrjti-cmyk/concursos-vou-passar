@@ -8,6 +8,7 @@ import { getSupabaseClient } from "@/lib/supabaseClient";
 const links = [
   { href: "/", label: "Início", icon: "grid" },
   { href: "/fila", label: "Plano de estudos", short: "Fila", icon: "list" },
+  { href: "/trilha", label: "Trilha teórica", short: "Trilha", icon: "book" },
   { href: "/revisao", label: "Revisão", icon: "clock" },
   { href: "/erros", label: "Erros", icon: "alert" },
   { href: "/favoritos", label: "Favoritos", icon: "star" },
@@ -21,6 +22,7 @@ function Icon({ name }: { name: string }) {
   const paths: Record<string, React.ReactNode> = {
     grid: <><rect x="3" y="3" width="6" height="6" rx="1"/><rect x="15" y="3" width="6" height="6" rx="1"/><rect x="3" y="15" width="6" height="6" rx="1"/><rect x="15" y="15" width="6" height="6" rx="1"/></>,
     list: <><path d="M8 6h12M8 12h12M8 18h12"/><path d="M3.5 6h.01M3.5 12h.01M3.5 18h.01"/></>,
+    book: <><path d="M4 5.5A2.5 2.5 0 0 1 6.5 3H11v16H6.5A2.5 2.5 0 0 0 4 21.5v-16Z"/><path d="M20 5.5A2.5 2.5 0 0 0 17.5 3H13v16h4.5a2.5 2.5 0 0 1 2.5 2.5v-16Z"/></>,
     alert: <><path d="M12 4l9 16H3L12 4Z"/><path d="M12 9v5M12 17h.01"/></>,
     clock: <><circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 2"/></>,
     chart: <><path d="M4 19V5M4 19h17"/><path d="m7 15 4-4 3 2 5-7"/></>,
@@ -103,7 +105,7 @@ export default function Nav() {
         </Link>
         <div className="study-sidebar__section">
           <p className="study-sidebar__label">Estudar</p>
-          {links.slice(0, 4).map(l => (
+          {links.slice(0, 5).map(l => (
             <Link key={l.href} href={l.href} className={`study-side-link ${active(l.href) ? "is-active" : ""}`}>
               <span className="study-side-link__icon"><Icon name={l.icon}/></span>
               <span>{l.label}</span>
@@ -113,7 +115,7 @@ export default function Nav() {
         </div>
         <div className="study-sidebar__section">
           <p className="study-sidebar__label">Organizar</p>
-          {links.slice(4, 7).map(l => (
+          {links.slice(5, 8).map(l => (
             <Link key={l.href} href={l.href} className={`study-side-link ${active(l.href) ? "is-active" : ""}`}>
               <span className="study-side-link__icon"><Icon name={l.icon}/></span><span>{l.label}</span>
             </Link>
@@ -121,7 +123,7 @@ export default function Nav() {
         </div>
         <div className="study-sidebar__section">
           <p className="study-sidebar__label">Acompanhar</p>
-          {links.slice(7).map(l => (
+          {links.slice(8).map(l => (
             <Link key={l.href} href={l.href} className={`study-side-link ${active(l.href) ? "is-active" : ""}`}>
               <span className="study-side-link__icon"><Icon name={l.icon}/></span><span>{l.label}</span>
             </Link>
