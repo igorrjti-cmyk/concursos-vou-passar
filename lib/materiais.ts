@@ -98,6 +98,22 @@ export const MATERIAIS: Record<string, LinkMaterial[]> = {
     {nome:"IPC 07",url:"https://drive.google.com/file/d/1tnvjGRlEGGIFZ5gBYAuTtDonybE3w7dI/view"},
     {nome:"IPC 08",url:"https://drive.google.com/file/d/1KMtIF6s4LAxftb0Re3FR8GoRbB6ALwxq/view"},
   ],
+
+  "POR14": [{nome:"POR14",url:"https://drive.google.com/file/d/11_1JutbAoiEy5vkinKoaaRp4Imn2rbOR/view"}],
+  "POR12": [{nome:"POR12",url:"https://drive.google.com/file/d/1njoSLKhVP-0CpP_R1v1_IGJZtz-zR-dr/view"}],
+  "POR13": [{nome:"POR13",url:"https://drive.google.com/file/d/1kb43Mpyw_5pabraWcDcvzyUnMJvQTy7U/view"}],
+  "POR01": [{nome:"POR01",url:"https://drive.google.com/file/d/1tS3k1Yf9yNjLt8qcgas9D5yW6-MrqB1k/view"}],
+  "POR02": [{nome:"POR02",url:"https://drive.google.com/file/d/1thnLDe66wL3F2ZR4i4UCXauQvbNmmv6v/view"}],
+  "POR03": [{nome:"POR03",url:"https://drive.google.com/file/d/1q0YmDTmDQ1-qUKiibVoIN2iaqi299t5I/view"}],
+  "POR04": [{nome:"POR04",url:"https://drive.google.com/file/d/1s9RHEPTdbqC5uYG_HbQqtvHhDcbKH2Ez/view"}],
+  "POR07": [{nome:"POR07",url:"https://drive.google.com/file/d/1VUR567T9Xs7ekvwKW5Wflrhrx2BlLnec/view"}],
+  "POR09": [{nome:"POR09",url:"https://drive.google.com/file/d/1eOVg3lQnKPb4HzcsrzZ9CSlbcqQEKqp0/view"}],
+  "POR10": [{nome:"POR10",url:"https://drive.google.com/file/d/1HJlBeMQ0BFAXOjsvOR08FFqr_BDqNQcn/view"}],
+  "POR00": [{nome:"POR00",url:"https://drive.google.com/file/d/1JVlKnW3Kho-C3JJE8UrZOytcK_kurGvq/view"}],
+  "POR15": [{nome:"POR15",url:"https://drive.google.com/file/d/1i04C6WwuFoNKPQloJ0wDXQsZohTSwX95/view"}],
+  "Literatura Brasileira": [{nome:"Literatura Brasileira",url:"https://drive.google.com/file/d/1RWbhbwx9-oRRfKedpGcrf9TT4pKl_OMe/view"}],
+  "POR16": [{nome:"POR16",url:"https://drive.google.com/file/d/1ggE7xe7KcwO4lm7hG-k1087zNHiDOCJ7/view"}],
+
 };
 
 export function linksDoMaterial(material: string): LinkMaterial[] {

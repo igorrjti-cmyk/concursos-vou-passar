@@ -94,7 +94,26 @@ export const TRILHA_TEORICA: EtapaTeorica[] = [
   {id:"siope",ordem:78,materia:"Contabilidade Pública / AFO",edital:"2.9.13",titulo:"SIOPE — núcleo conceitual",material:"Manual SIOPE",paginas:"parte conceitual inicial",profundidade:"A",prioridade:"P1",cobertura:"fechado"},
   {id:"siops",ordem:79,materia:"Contabilidade Pública / AFO",edital:"2.9.14",titulo:"SIOPS — núcleo conceitual",material:"Cartilha SIOPS",paginas:"seletivo",profundidade:"A",prioridade:"P1",cobertura:"fechado"},
 
-  {id:"norm-pendente",ordem:90,materia:"Normas 2.11 — depois",edital:"2.11.1–2.11.17",titulo:"Fechamento normativo específico",material:"Fontes oficiais a complementar",paginas:"pendente",profundidade:"C",prioridade:"—",cobertura:"pendente",observacao:"Adiado por decisão de estudo. Não conta como cobertura concluída."},
+
+  // Português — trilha Curitiba 2026. POR05/06/08/11 ficam fora da primeira passagem e entram como remediação.
+  {id:"pt-01",ordem:100,materia:"Português",edital:"1.1.1",titulo:"Interpretação e compreensão",material:"POR14",paginas:"51–73",profundidade:"A",prioridade:"P1+",cobertura:"fechado"},
+  {id:"pt-02",ordem:101,materia:"Português",edital:"1.1.4",titulo:"Coesão, coerência e reescrita",material:"POR12",paginas:"3–23",profundidade:"A",prioridade:"P1+",cobertura:"fechado"},
+  {id:"pt-03",ordem:102,materia:"Português",edital:"1.1.7",titulo:"Semântica",material:"POR13",paginas:"3–29",profundidade:"A",prioridade:"P1+",cobertura:"fechado"},
+  {id:"pt-04",ordem:103,materia:"Português",edital:"1.1.6",titulo:"Classes de palavras I",material:"POR01",paginas:"3–57",profundidade:"A",prioridade:"P1+",cobertura:"fechado"},
+  {id:"pt-05",ordem:104,materia:"Português",edital:"1.1.6",titulo:"Preposição e conjunção",material:"POR02",paginas:"3–41",profundidade:"A",prioridade:"P1+",cobertura:"fechado"},
+  {id:"pt-06",ordem:105,materia:"Português",edital:"1.1.6",titulo:"Pronomes",material:"POR03",paginas:"3–27",profundidade:"A",prioridade:"P1+",cobertura:"fechado",observacao:"Colocação pronominal fica fora da primeira passagem."},
+  {id:"pt-07",ordem:106,materia:"Português",edital:"1.1.6",titulo:"Verbos",material:"POR04",paginas:"3–42 + 43–68 seletivo",profundidade:"B",prioridade:"P1",cobertura:"fechado",observacao:"Tempos/modos e formas nominais primeiro; transitividade/classificações de modo seletivo."},
+  {id:"pt-08",ordem:107,materia:"Português",edital:"1.1.8",titulo:"Funções sintáticas",material:"POR07",paginas:"3–40",profundidade:"A",prioridade:"P1+",cobertura:"fechado"},
+  {id:"pt-09",ordem:108,materia:"Português",edital:"1.1.10",titulo:"Pontuação",material:"POR09",paginas:"3–49",profundidade:"A",prioridade:"P1+",cobertura:"fechado"},
+  {id:"pt-10",ordem:109,materia:"Português",edital:"1.1.9",titulo:"Concordância verbal e nominal",material:"POR10",paginas:"3–55",profundidade:"A",prioridade:"P1+",cobertura:"fechado"},
+  {id:"pt-11",ordem:110,materia:"Português",edital:"1.1.5, 1.1.11",titulo:"Ortografia, acentuação e porquês",material:"POR00",paginas:"4–29 + 42–65 seletivo",profundidade:"B",prioridade:"P1",cobertura:"fechado"},
+  {id:"pt-12",ordem:111,materia:"Português",edital:"1.1.2",titulo:"Variação linguística",material:"POR15",paginas:"3–26",profundidade:"B",prioridade:"P1",cobertura:"fechado"},
+  {id:"pt-13",ordem:112,materia:"Português",edital:"1.1.3",titulo:"Tipologia, gêneros e funções da linguagem",material:"POR14",paginas:"3–50",profundidade:"B",prioridade:"P1",cobertura:"fechado",observacao:"Segunda entrada no POR14; interpretação p.51–73 vem primeiro."},
+  {id:"pt-14",ordem:113,materia:"Português",edital:"1.1.12",titulo:"Figuras de linguagem",material:"POR13",paginas:"30–53",profundidade:"B",prioridade:"P1",cobertura:"fechado",observacao:"Segunda entrada no POR13; semântica p.3–29 vem primeiro."},
+  {id:"pt-15",ordem:114,materia:"Português",edital:"1.1.12",titulo:"Literatura Brasileira — escolas, autores e obras",material:"Literatura Brasileira",paginas:"11–59",profundidade:"A",prioridade:"P1+",cobertura:"fechado",observacao:"Priorizar Romantismo, Realismo/Naturalismo, Pré-Modernismo e Modernismo sem abandonar as demais escolas."},
+  {id:"pt-16",ordem:115,materia:"Português",edital:"1.1.1–1.1.12",titulo:"Revisão geral de Português",material:"POR16",paginas:"3–72",profundidade:"C",prioridade:"P2",cobertura:"fechado",observacao:"Usar somente após a primeira passagem, como revisão/remediação adaptativa."},
+
+  {id:"norm-pendente",ordem:200,materia:"Normas 2.11 — depois",edital:"2.11.1–2.11.17",titulo:"Fechamento normativo específico",material:"Fontes oficiais a complementar",paginas:"pendente",profundidade:"C",prioridade:"—",cobertura:"pendente",observacao:"Adiado por decisão de estudo. Não conta como cobertura concluída."},
 ];
 
 export const MATERIAS_TRILHA = Array.from(new Set(TRILHA_TEORICA.map(e=>e.materia)));
