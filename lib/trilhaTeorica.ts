@@ -156,6 +156,15 @@ export const TRILHA_TEORICA: EtapaTeorica[] = [
   {id:"mf-09",ordem:168,materia:"Matemática Financeira",edital:"2.2.7–2.2.10",titulo:"Amortização; Price, SAC e SAM",material:"RACM 31",paginas:"3–64",profundidade:"A",prioridade:"P1+",cobertura:"fechado",observacao:"Sistema Americano e Sinking Fund (p.65–86) em C."},
   {id:"mf-10",ordem:169,materia:"Matemática Financeira",edital:"2.2.11–2.2.13",titulo:"Investimentos, VPL, TIR e taxa de retorno",material:"RACM 32",paginas:"4–36",profundidade:"A",prioridade:"P1+",cobertura:"fechado",observacao:"TIRM p.37–45 em B; payback/índice de lucratividade p.46–63 em B/P1."},
 
+  // Estatística — 6/6 itens do edital mapeados. 2.3.5–2.3.6 fechados provisoriamente com apoio aplicado/estatístico; sem inventar material fiscal específico.
+  {id:"est-01",ordem:180,materia:"Estatística",edital:"2.3.1–2.3.2",titulo:"Conceitos fundamentais; organização, apresentação e interpretação",material:"Manual de Estatística — Fazenda",paginas:"5–38",profundidade:"A",prioridade:"P1+",cobertura:"fechado"},
+  {id:"est-02",ordem:181,materia:"Estatística",edital:"2.3.3",titulo:"Medidas de tendência central",material:"RACM 13",paginas:"3–52 seletivo",profundidade:"A",prioridade:"P1+",cobertura:"fechado",observacao:"Somatório p.6–15 tem peso menor; foco em médias e dados agrupados."},
+  {id:"est-03",ordem:182,materia:"Estatística",edital:"2.3.3",titulo:"Mediana, moda e separatrizes",material:"Manual de Estatística — Fazenda",paginas:"45–50",profundidade:"A",prioridade:"P1+",cobertura:"fechado"},
+  {id:"est-04",ordem:183,materia:"Estatística",edital:"2.3.4",titulo:"Amplitude, variância, desvio-padrão e coeficiente de variação",material:"Dispersão.pdf",paginas:"1–13 integral",profundidade:"A",prioridade:"P1+",cobertura:"fechado"},
+  {id:"est-05",ordem:184,materia:"Estatística",edital:"2.3.5",titulo:"Análise e interpretação em contexto público/arrecadatório",material:"Estatística aplicada à arrecadação.pdf",paginas:"11–32 seletivo",profundidade:"B",prioridade:"P1",cobertura:"fechado",observacao:"Fechamento provisório: material aplicado, mas não é apostila fiscal específica."},
+  {id:"est-06",ordem:185,materia:"Estatística",edital:"2.3.5–2.3.6",titulo:"Correlação, regressão e estimação",material:"Manual de Estatística — Fazenda",paginas:"77–82",profundidade:"B",prioridade:"P1",cobertura:"fechado",observacao:"Apoio técnico para análise e estimativa."},
+  {id:"est-07",ordem:186,materia:"Estatística",edital:"2.3.6",titulo:"Métodos estatísticos de estimação — remediação",material:"Métodos Estatísticos I",paginas:"seletivo",profundidade:"C",prioridade:"P2",cobertura:"fechado",observacao:"O PDF nomeado 'Estimativa de perdas de arrecadação' é um livro geral de Métodos Estatísticos I; usar apenas sob demanda."},
+
   {id:"norm-pendente",ordem:200,materia:"Normas 2.11 — depois",edital:"2.11.1–2.11.17",titulo:"Fechamento normativo específico",material:"Fontes oficiais a complementar",paginas:"pendente",profundidade:"C",prioridade:"—",cobertura:"pendente",observacao:"Adiado por decisão de estudo. Não conta como cobertura concluída."},
 ];
 

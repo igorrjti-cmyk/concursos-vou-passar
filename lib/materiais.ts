@@ -160,6 +160,13 @@ export const MATERIAIS: Record<string, LinkMaterial[]> = {
   "RACM 31": [{nome:"RACM 31",url:"https://drive.google.com/file/d/181c5kw0E61EDBfrrJ6B5APctnrBAPBbd/view"}],
   "RACM 32": [{nome:"RACM 32",url:"https://drive.google.com/file/d/1zMQNdlhXC3U1tA4yOeZ0MF6ujSxPlEpg/view"}],
 
+  // Estatística — arquivos analisados nesta conversa; URLs do Drive ainda não confirmadas.
+  "Manual de Estatística — Fazenda": [],
+  "RACM 13": [],
+  "Dispersão.pdf": [],
+  "Estatística aplicada à arrecadação.pdf": [],
+  "Métodos Estatísticos I": [],
+
 };
 
 export function linksDoMaterial(material: string): LinkMaterial[] {
