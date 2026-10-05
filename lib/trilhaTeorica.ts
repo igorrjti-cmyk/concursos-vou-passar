@@ -122,6 +122,28 @@ export const TRILHA_TEORICA: EtapaTeorica[] = [
   {id:"leg-06",ordem:125,materia:"Legislação Municipal",edital:"2.1.6",titulo:"Habilitação em contratações de serviços",material:"Decreto Municipal 2.051/2025",paginas:"arts. 5º–14",profundidade:"A",prioridade:"P1+",cobertura:"fechado",observacao:"O botão de material também oferece o Decreto 707/2026, que altera os arts. 7º e 13 dentro do recorte do edital."},
   {id:"leg-07",ordem:126,materia:"Legislação Municipal",edital:"2.1.7",titulo:"Habilitação em aquisições de bens",material:"Decreto Municipal 2.067/2025",paginas:"arts. 5º–11",profundidade:"A",prioridade:"P1+",cobertura:"fechado"},
 
+  // Informática — 15/15 itens do edital cobertos. INF00/01/02 e INF12 ficam fora da primeira passagem.
+  {id:"inf-01",ordem:130,materia:"Informática",edital:"1.2.1, 1.2.3",titulo:"Software — conceitos e classificações",material:"INF 16",paginas:"3–21",profundidade:"A",prioridade:"P1+",cobertura:"fechado"},
+  {id:"inf-02",ordem:131,materia:"Informática",edital:"1.2.2",titulo:"Hardware — conceitos, entrada/saída, CPU e memória",material:"INF 15",paginas:"3–6 + 14–43 + 68–118",profundidade:"A",prioridade:"P1+",cobertura:"fechado"},
+  {id:"inf-03",ordem:132,materia:"Informática",edital:"1.2.7",titulo:"Windows 10 — base operacional",material:"INF 13",paginas:"3–103 seletivo",profundidade:"A",prioridade:"P1+",cobertura:"fechado"},
+  {id:"inf-04",ordem:133,materia:"Informática",edital:"1.2.4, 1.2.5, 1.2.7",titulo:"Windows 11 — diferenças, arquivos e atalhos",material:"INF 13.1",paginas:"3–20 + 54–107 seletivo",profundidade:"A",prioridade:"P1+",cobertura:"fechado"},
+  {id:"inf-05",ordem:134,materia:"Informática",edital:"1.2.7",titulo:"Linux/Ubuntu — conceitos, arquivos, permissões e comandos",material:"INF 14",paginas:"10–81 seletivo",profundidade:"B",prioridade:"P1",cobertura:"fechado"},
+  {id:"inf-06",ordem:135,materia:"Informática",edital:"1.2.6",titulo:"Segurança — princípios, autenticação e criptografia",material:"INF 07",paginas:"3–57",profundidade:"A",prioridade:"P1+",cobertura:"fechado"},
+  {id:"inf-07",ordem:136,materia:"Informática",edital:"1.2.6",titulo:"Malware, ataques e golpes",material:"INF 08",paginas:"3–79",profundidade:"A",prioridade:"P1+",cobertura:"fechado"},
+  {id:"inf-08",ordem:137,materia:"Informática",edital:"1.2.6",titulo:"Antimalware, firewall e mecanismos",material:"INF 09",paginas:"3–16 + 81–100 + 189–209",profundidade:"A",prioridade:"P1+",cobertura:"fechado"},
+  {id:"inf-09",ordem:138,materia:"Informática",edital:"1.2.6",titulo:"Backup",material:"INF 10",paginas:"3–19",profundidade:"B",prioridade:"P1",cobertura:"fechado"},
+  {id:"inf-10",ordem:139,materia:"Informática",edital:"1.2.10",titulo:"Navegadores de Internet",material:"INF 06",paginas:"4–72 seletivo",profundidade:"A",prioridade:"P1+",cobertura:"fechado"},
+  {id:"inf-11",ordem:140,materia:"Informática",edital:"1.2.13",titulo:"Busca e pesquisa na Web",material:"INF 04",paginas:"3–34",profundidade:"A",prioridade:"P1+",cobertura:"fechado"},
+  {id:"inf-12",ordem:141,materia:"Informática",edital:"1.2.11",titulo:"Nuvem e Google Drive",material:"INF 03",paginas:"3–35 seletivo",profundidade:"B",prioridade:"P1",cobertura:"fechado"},
+  {id:"inf-13",ordem:142,materia:"Informática",edital:"1.2.12",titulo:"E-mail e Outlook",material:"INF 05",paginas:"3–71 seletivo",profundidade:"A",prioridade:"P1+",cobertura:"fechado",observacao:"Gmail/Zimbra: consolidar conceitos de webmail pelas questões do Study OS."},
+  {id:"inf-14",ordem:143,materia:"Informática",edital:"1.2.8",titulo:"Word 2016",material:"Word 2016",paginas:"2–30 integral",profundidade:"A",prioridade:"P1+",cobertura:"fechado"},
+  {id:"inf-15",ordem:144,materia:"Informática",edital:"1.2.9",titulo:"Excel 2016",material:"INF 11",paginas:"3–198 seletivo; resumo 199–214",profundidade:"A",prioridade:"P1+",cobertura:"fechado",observacao:"Prioridade máxima em fórmulas, funções, referências e atalhos; não ler linearmente."},
+  {id:"inf-16",ordem:145,materia:"Informática",edital:"1.2.14",titulo:"IA generativa — conceitos, prompts, alucinação, vieses e segurança",material:"IA Generativa",paginas:"5–29",profundidade:"A",prioridade:"P1+",cobertura:"fechado"},
+  {id:"inf-17",ordem:146,materia:"Informática",edital:"1.2.14",titulo:"IA — conceitos e bons prompts",material:"Apostila IA",paginas:"3–5 + 29–33",profundidade:"B",prioridade:"P1",cobertura:"fechado"},
+  {id:"inf-18",ordem:147,materia:"Informática",edital:"1.2.14",titulo:"IA — revisão rápida",material:"Infográfico IA",paginas:"1–2 integral",profundidade:"C",prioridade:"P2",cobertura:"fechado"},
+  {id:"inf-19",ordem:148,materia:"Informática",edital:"1.2.15",titulo:"Power BI — BI, dados, transformação, medidas e visuais",material:"Power BI Nível I",paginas:"5–55 seletivo",profundidade:"A",prioridade:"P1+",cobertura:"fechado"},
+  {id:"inf-20",ordem:149,materia:"Informática",edital:"1.2.15",titulo:"Power BI — complemento prático",material:"Power BI Ninja",paginas:"5–36 seletivo",profundidade:"B",prioridade:"P1",cobertura:"fechado"},
+
   {id:"norm-pendente",ordem:200,materia:"Normas 2.11 — depois",edital:"2.11.1–2.11.17",titulo:"Fechamento normativo específico",material:"Fontes oficiais a complementar",paginas:"pendente",profundidade:"C",prioridade:"—",cobertura:"pendente",observacao:"Adiado por decisão de estudo. Não conta como cobertura concluída."},
 ];
 

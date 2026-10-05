@@ -126,6 +126,28 @@ export const MATERIAIS: Record<string, LinkMaterial[]> = {
   ],
   "Decreto Municipal 2.067/2025": [{nome:"Decreto 2.067/2025",url:"https://drive.google.com/file/d/1IreSogb6ghrzlTbiNGCciBKilRfvT6uZ/view"}],
 
+  // Informática — Curitiba 2026
+  "INF 03": [{nome:"INF 03 — Nuvem",url:"https://drive.google.com/file/d/1wwq3m3n6no60J79UR8HBUrVqyfpFGMpq/view"}],
+  "INF 04": [{nome:"INF 04 — Busca Web",url:"https://drive.google.com/file/d/1TpyEFktIyW6w67ALghtxJHzFnMpt8Sat/view"}],
+  "INF 05": [{nome:"INF 05 — E-mail/Outlook",url:"https://drive.google.com/file/d/1DEUFlKCZWjr8HbVgqLN92e7sYgGRAAPp/view"}],
+  "INF 06": [{nome:"INF 06 — Navegadores",url:"https://drive.google.com/file/d/1HLTDPDgrufjQ7ddhlk1QDc7jWfySJbV6/view"}],
+  "INF 07": [{nome:"INF 07 — Segurança",url:"https://drive.google.com/file/d/1y0gcNe4xMLk1qK29KEE9BYRVHs9yW43G/view"}],
+  "INF 08": [{nome:"INF 08 — Malware",url:"https://drive.google.com/file/d/1NfEE-Bdqwl1WpBz6qliTSuGlx-dwBEvt/view"}],
+  "INF 09": [{nome:"INF 09 — Firewall/antimalware",url:"https://drive.google.com/file/d/1mXrIAW-gIGxDDUaUYhjFiDuZlrJlmSWW/view"}],
+  "INF 10": [{nome:"INF 10 — Backup",url:"https://drive.google.com/file/d/1_MWzMrhtzEmGkHTizKAzmYekHKeV1jJG/view"}],
+  "INF 11": [{nome:"INF 11 — Excel 2016",url:"https://drive.google.com/file/d/1ZTiRa91eBclV-ZEmdkcg4OldwPFzlYEn/view"}],
+  "INF 13": [{nome:"INF 13 — Windows 10",url:"https://drive.google.com/file/d/1rI9maTQBYbwk2hxoiaUIZgmyd_AY_lH8/view"}],
+  "INF 13.1": [{nome:"INF 13.1 — Windows 11",url:"https://drive.google.com/file/d/1EvYHpBKJ3e902CQzulWINuDHwWTOAely/view"}],
+  "INF 14": [{nome:"INF 14 — Linux",url:"https://drive.google.com/file/d/1Jr7SsaiILPNzpfQPgzeGtQ9nvcIEooEP/view"}],
+  "INF 15": [{nome:"INF 15 — Hardware",url:"https://drive.google.com/file/d/1vBR5yuaZetfqDnzKEV4aBZ_XCPkwNCXG/view"}],
+  "INF 16": [{nome:"INF 16 — Software",url:"https://drive.google.com/file/d/1TPtGP4Utsa7Jr0bg2bIpzuHAcYNgN3Jz/view"}],
+  "Word 2016": [{nome:"Word 2016",url:"https://drive.google.com/file/d/17aZVn_5Yk1qzZ5XaAAg7hf0MgfmPuylG/view"}],
+  "IA Generativa": [{nome:"IA Generativa no Serviço Público",url:"https://drive.google.com/file/d/19D6iRmKDWRktdBucVaV7EYBm20c2TCEu/view"}],
+  "Apostila IA": [{nome:"Apostila Inteligência Artificial",url:"https://drive.google.com/file/d/1KmYgroEsCkfiFh4Jx8SpciZu-igFmQCg/view"}],
+  "Infográfico IA": [{nome:"Infográfico IA",url:"https://drive.google.com/file/d/1eACwUrZ3PueJwbXnNRBbC0yUEhVG8ZWh/view"}],
+  "Power BI Nível I": [{nome:"Power BI — Nível I",url:"https://drive.google.com/file/d/13xzSypjpVReGwnb0MboS0QqJASjPefML/view"}],
+  "Power BI Ninja": [{nome:"Power BI Ninja 2.0",url:"https://drive.google.com/file/d/1nRYkCL7Vlv9bGs7aGOEQ23p4OIwxyNmq/view"}],
+
 };
 
 export function linksDoMaterial(material: string): LinkMaterial[] {
