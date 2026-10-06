@@ -7,8 +7,9 @@ import AuthGate from "@/components/AuthGate";
 import Nav from "@/components/Nav";
 import { getSupabaseClient } from "@/lib/supabaseClient";
 import type { Progresso, Questao, ExplicacaoIA } from "@/lib/types";
-import { filaDinamica, FILA_LABEL, prioridadeLabel, filaSortScore } from "@/lib/prioridade";
+import { filaDinamica, FILA_LABEL, prioridadeLabel } from "@/lib/prioridade";
 import { chaveFila, filaQuery, filtrosDaUrl, type FilaFiltros } from "@/lib/filaSessao";
+import { fetchAllPages } from "@/lib/paginar";
 
 const REVISOES = [
   { label: "1 dia", dias: 1 },
@@ -46,7 +47,7 @@ const NOME_CONQUISTA: Record<string, string> = {
 function QuestaoDetalhe({ id }: { id: string }) {
   const searchParams = useSearchParams();
   const filtrosContexto: FilaFiltros = filtrosDaUrl(searchParams);
-  const temContexto = ["materia", "fila", "status", "busca"].some((key) => searchParams.has(key));
+  const temContexto = ["materia", "fila", "status", "busca", "prioridade", "modo"].some((key) => searchParams.has(key));
   const [questao, setQuestao] = useState<Questao | null>(null);
   const [progresso, setProgresso] = useState<Progresso | null>(null);
   const [selecionada, setSelecionada] = useState<string | null>(null);
@@ -107,34 +108,82 @@ function QuestaoDetalhe({ id }: { id: string }) {
       }
 
       if (q) {
-        const { data: allQuestions } = await supabase
-          .from("questoes")
-          .select("*")
-          .order("rank", { ascending: true });
-        const { data: allProgress } = userId
-          ? await supabase.from("progresso").select("*").eq("user_id", userId)
-          : { data: [] as Progresso[] };
-        const progressMap = Object.fromEntries((allProgress ?? []).map((p: Progresso) => [p.questao_id, p]));
+        // Carrega o banco inteiro. A consulta simples do PostgREST pode parar no limite
+        // configurado (normalmente 1.000 linhas), deixando parte das 3.093 questões
+        // invisível para o cálculo da próxima questão.
+        const allQuestions = await fetchAllPages<Questao>(async (from, to) =>
+          await supabase
+            .from("questoes")
+            .select("*", { count: "exact" })
+            .order("rank", { ascending: true })
+            .range(from, to)
+        );
+        const allProgress = userId
+          ? await fetchAllPages<Progresso>(async (from, to) =>
+              await supabase
+                .from("progresso")
+                .select("*", { count: "exact" })
+                .eq("user_id", userId)
+                .range(from, to)
+            )
+          : [];
+        const progressMap = Object.fromEntries(allProgress.map((p: Progresso) => [p.questao_id, p]));
+
+        let candidatos = allQuestions.filter((x: Questao) => x.id !== q.id);
 
         if (temContexto) {
-          let candidatos = (allQuestions ?? []).filter((x: Questao) => {
+          candidatos = candidatos.filter((x: Questao) => {
             if (filtrosContexto.materia !== "todas" && !(x.topic ?? "").startsWith(`${filtrosContexto.materia} - `)) return false;
             if (filtrosContexto.busca) {
               const termo = filtrosContexto.busca.toLowerCase();
               if (!`${x.topic ?? ""} ${x.stem ?? ""} ${x.rank}`.toLowerCase().includes(termo)) return false;
             }
-            if (filtrosContexto.status !== "todas" && (progressMap[x.id]?.status ?? "nao_iniciada") !== filtrosContexto.status) return false;
+            const status = progressMap[x.id]?.status ?? "nao_iniciada";
+            if (filtrosContexto.status !== "todas" && status !== filtrosContexto.status) return false;
             if (filtrosContexto.fila !== "todas" && filaDinamica(x, progressMap[x.id]) !== filtrosContexto.fila) return false;
+            const faixa = x.prioridade_faixa || prioridadeLabel(x.prioridade_base);
+            if (filtrosContexto.prioridade !== "todas" && faixa !== filtrosContexto.prioridade) return false;
             return true;
           });
-          candidatos = candidatos.filter((x) => x.id !== q.id && x.rank > q.rank);
-          candidatos.sort((a, b) => a.rank - b.rank);
-          setProxima(candidatos[0] ?? null);
-        } else {
-          const candidatos = (allQuestions ?? []).filter((x: Questao) => x.id !== q.id);
-          candidatos.sort((a: Questao, b: Questao) => filaSortScore(b, progressMap[b.id]) - filaSortScore(a, progressMap[a.id]) || a.rank - b.rank);
-          setProxima(candidatos[0] ?? null);
         }
+
+        // Mesma política do "Estudar agora": novas P1+ -> novas P1 ->
+        // revisões vencidas de erro/dúvida -> novas P2 -> novas P3. P4 não entra.
+        // Uma questão errada agora NÃO recebe boost para reaparecer imediatamente;
+        // ela volta quando proxima_revisao vencer.
+        const hoje = new Date().toISOString().slice(0, 10);
+        const etapa = (x: Questao) => {
+          const p = progressMap[x.id];
+          const status = p?.status ?? "nao_iniciada";
+          const faixa = x.prioridade_faixa || prioridadeLabel(x.prioridade_base);
+          if (faixa === "P4") return 99;
+          if (status === "nao_iniciada" && faixa === "P1+") return 0;
+          if (status === "nao_iniciada" && faixa === "P1") return 1;
+          if ((status === "feita_errado" || status === "duvida") && p?.proxima_revisao && p.proxima_revisao <= hoje) return 2;
+          if (status === "nao_iniciada" && faixa === "P2") return 3;
+          if (status === "nao_iniciada" && faixa === "P3") return 4;
+          return 98;
+        };
+
+        const elegiveis = candidatos.filter((x) => etapa(x) < 98);
+        elegiveis.sort((a, b) => etapa(a) - etapa(b) || a.rank - b.rank);
+
+        // Fallback defensivo: se algum filtro deixar a fila adaptativa vazia, ainda
+        // tenta uma questão inédita P1+/P1/P2/P3 dentro do mesmo conjunto filtrado.
+        const fallback = candidatos
+          .filter((x) => {
+            const status = progressMap[x.id]?.status ?? "nao_iniciada";
+            const faixa = x.prioridade_faixa || prioridadeLabel(x.prioridade_base);
+            return status === "nao_iniciada" && faixa !== "P4";
+          })
+          .sort((a, b) => {
+            const peso: Record<string, number> = { "P1+": 0, P1: 1, P2: 2, P3: 3, P4: 99 };
+            const fa = a.prioridade_faixa || prioridadeLabel(a.prioridade_base);
+            const fb = b.prioridade_faixa || prioridadeLabel(b.prioridade_base);
+            return (peso[fa] ?? 9) - (peso[fb] ?? 9) || a.rank - b.rank;
+          });
+
+        setProxima(elegiveis[0] ?? fallback[0] ?? null);
       }
     })();
   }, [id]);
