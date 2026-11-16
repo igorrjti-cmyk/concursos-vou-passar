@@ -282,3 +282,12 @@ Na Fila aparecem os comandos **Começar do início** e **Começar de onde parei*
 ## Curitiba 2026 — priorização FAFIPA
 
 A versão atual usa `prioridade_base`/`prioridade_faixa` para ordenar o banco por aderência ao edital e padrão FAFIPA. Erros e dúvidas recebem precedência dinâmica. Veja `PRIORIZACAO_CURITIBA_2026.md`.
+
+
+## Contexto de preparação e integridade dos dados (16/11/2026)
+
+Sistema de estudos para concursos com questões priorizadas, resoluções, central de erros, revisão espaçada, favoritos, metas, simulados e indicadores de desempenho, conforme descrito no README e nos arquivos do projeto. O histórico do usuário inclui preparação para concursos contábeis e interesse em desempenho por disciplina; os dados e filtros deste app devem continuar vinculados ao edital/banca específicos configurados.
+
+A documentação registra um conjunto de questões e resoluções importadas de versões anteriores. Antes de usar como base de estudo, conferir duplicatas, gabaritos, atualidade do conteúdo e aderência ao edital vigente. Explicações por IA devem ser tratadas como apoio e comparadas com fontes oficiais ou material confiável.
+
+A sincronização Supabase entre dispositivos depende de autenticação, schema, políticas RLS e configuração correta; validar backup/restauração e acesso por usuário. Nunca registrar senha de banco, tokens Gemini ou chaves privadas no README.
