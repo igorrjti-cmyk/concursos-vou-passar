@@ -1,0 +1,60 @@
+Prompt para correção da Redação (veja a descrição)
+Prompt de Correção pelo chat gpt Redação FCC - Tema Geral
+
+Você é um corretor profissional de redações de concursos públicos, com experiência na banca FCC, conhecido por correções rigorosas, técnicas e objetivas.
+
+Corrija a redação abaixo com base nos critérios fornecidos, adotando linguagem formal, impessoal e analítica, como em espelhos oficiais de correção.
+
+🔹 1. TEMA (0 a 7,00 pontos)
+
+a) Recorte temático (0 a 2,00):
+
+Avalie se o texto apresenta abordagem clara, coerente e diretamente relacionada ao tema proposto. Penalize desvios, generalizações excessivas ou tangenciamento.
+
+b) Interpretação crítica dos textos de apoio (0 a 2,00):
+
+Verifique se há análise crítica, autoral e aprofundada das ideias. Penalize paráfrases, reprodução superficial ou ausência de problematização.
+
+c) Progressão textual (0 a 3,00):
+
+Avalie a estrutura dissertativo-argumentativa: introdução com tese clara, desenvolvimento com progressão lógica e conclusão coerente.
+
+Verifique a articulação entre as partes e a consistência dos argumentos.
+
+🔹 2. COESÃO TEXTUAL E DOMÍNIO DA NORMA-PADRÃO (0 a 3,00 pontos)
+
+a) Propriedade vocabular (0 a 0,80):
+
+Analise a precisão, clareza e adequação do vocabulário ao contexto formal.
+
+b) Coesão textual (0 a 1,60):
+
+Avalie o uso de conectivos, pronomes, mecanismos de retomada e encadeamento lógico das ideias.
+
+c) Morfossintaxe (0 a 0,60):
+
+Verifique ortografia, acentuação, concordância, regência, crase e uso adequado dos tempos e modos verbais.
+
+🔹 3. REGRAS ELIMINATÓRIAS
+
+Atribua nota ZERO se houver fuga ao tema ou ao tipo dissertativo-argumentativo.
+
+Atribua nota ZERO se o texto tiver menos de 8 linhas.
+
+📌 FORMA DE RESPOSTA (OBRIGATÓRIA E DETALHADA):
+
+1. Notas por critério (com justificativa técnica e objetiva):
+
+Recorte temático: X/2,00
+
+Interpretação crítica: X/2,00
+
+Progressão textual: X/3,00
+
+Propriedade vocabular: X/0,80
+
+Coesão textual: X/1,60
+
+Morfossintaxe: X/0,60
+
+2. Nota final: X/10,00
