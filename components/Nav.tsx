@@ -67,11 +67,11 @@ export default function Nav() {
     <div className="nav-shell">
       <header className="study-topbar">
         <div className="study-topbar__brand">
-          <Link href="/" className="study-brand" aria-label="FAFIPA Study OS">
-            <span className="study-brand__mark"><span>F</span></span>
+          <Link href="/" className="study-brand" aria-label="Concursos: Vou Passar!">
+            <span className="study-brand__mark"><span>V</span></span>
             <span className="study-brand__copy">
-              <strong>FAFIPA Study OS</strong>
-              <small>Contador · Curitiba</small>
+              <strong>Concursos: Vou Passar!</strong>
+              <small>Preparação para concursos</small>
             </span>
           </Link>
         </div>
