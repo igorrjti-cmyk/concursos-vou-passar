@@ -1,11 +1,21 @@
-# FAFIPA Study OS — Contador Curitiba 2026
+# Concursos: Vou Passar! — preparação para concursos públicos
 
-Fila priorizada de questões (FAFIPA) com resolução individual, central de
+Plataforma de preparação para concursos públicos, atualmente configurada para o TRT-4 — Técnico Judiciário, Área Administrativa (FCC). Mantém os recursos de questões, resolução individual, central de
 erros, revisão espaçada automática, favoritos, metas diárias, gamificação
 (XP/nível/streak/medalhas), simulados com cronômetro, busca global,
 dashboard de desempenho e um explicador de questões com IA (Gemini) —
 rodando em Next.js + Supabase + Vercel, com progresso sincronizado entre PC,
 celular e notebook.
+
+## Concurso principal configurado — TRT-4
+
+- Cargo: Técnico Judiciário — Área Administrativa (opção 19).
+- Banca: Fundação Carlos Chagas (FCC).
+- Prova: 31/01/2027, período da manhã, Porto Alegre/RS.
+- Provas objetivas: 30 questões de Conhecimentos Gerais e 30 de Conhecimentos Específicos; há também redação.
+- Disciplinas: Língua Portuguesa; Matemática e Raciocínio Lógico; Noções de Legislação; Noções de Direitos Humanos; Noções de Informática; Direito Constitucional; Direito Administrativo; Administração Pública; Direito do Trabalho; Direito Processual do Trabalho.
+
+**Atenção à integridade dos dados:** o banco de questões existente foi construído para concursos contábeis/FAFIPA e não deve ser apresentado como banco de questões TRT-4. O histórico antigo será preservado; a migração de questões, filtros e prioridades para o novo edital deve ocorrer em etapa própria, com conferência de gabaritos e aderência ao Anexo II do edital.
 
 ## O que já vem pronto
 
