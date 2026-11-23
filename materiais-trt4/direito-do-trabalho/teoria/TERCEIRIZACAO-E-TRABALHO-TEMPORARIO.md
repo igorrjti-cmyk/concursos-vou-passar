@@ -243,3 +243,28 @@ Os reparos emergenciais representam demanda complementar decorrente de fator imp
 
 **Ponto de prova:** reparos emergenciais, picos sazonais e demandas complementares podem justificar trabalho temporário, desde que presentes os requisitos legais.
 
+
+
+### Questão 251 — FCC, TRT-9, 2013 — cláusula de reserva e trabalho temporário
+
+**Enunciado:** Em relação ao trabalho temporário, é correto afirmar:
+
+- A) Empresa de trabalho temporário é pessoa física ou jurídica, urbana ou rural, que coloca trabalhadores à disposição de outras empresas.
+- B) É nula de pleno direito cláusula de reserva que proíba contratação do trabalhador pela tomadora ao fim do período.
+- C) Contrato entre empresa temporária e tomadora não pode exceder seis meses, salvo autorização ministerial.
+- D) Contrato individual pode ser verbal, mas não tácito.
+- E) Jornada normal do temporário não pode exceder seis horas diárias, com adicional de 20%.
+
+**Gabarito: B.**
+
+**Fundamentos:** Lei 6.019/1974, arts. 4º, 9º, 10 e 11, parágrafo único; Decreto 10.854/2021, arts. 43, 61 e 65.
+
+**Análise das alternativas:**
+- A está errada: a empresa de trabalho temporário deve ser pessoa jurídica devidamente registrada.
+- B está correta: o art. 11, parágrafo único, declara nula a cláusula que proíbe a contratação do trabalhador pela tomadora após o período temporário.
+- C está errada: o limite é de 180 dias, prorrogável por até 90 dias, se mantidas as condições legais.
+- D está errada: o contrato individual de trabalho temporário deve ser escrito.
+- E está errada: a jornada normal pode ser de até oito horas diárias, observadas as regras legais de horas extras; o adicional de trabalho noturno possui disciplina própria.
+
+**Ponto de prova:** a nulidade da cláusula de reserva aparece repetidamente nas questões da FCC. É um dispositivo para memorizar.
+
