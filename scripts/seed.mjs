@@ -31,6 +31,7 @@ async function main() {
 
   const linhas = questoes.map((q) => ({
     id: q.id,
+    concurso: q.concurso ?? "LEGADO",
     rank: q.rank,
     prioridade_base: q.prioridade_base ?? null,
     prioridade_faixa: q.prioridade_faixa ?? null,
