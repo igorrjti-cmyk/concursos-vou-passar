@@ -759,3 +759,27 @@ De acordo com a CLT, em razão das prorrogações contratuais e dos respectivos 
 
 **Distinção essencial:** o trabalhador intermitente é empregado, mas não trabalha continuamente. A inatividade faz parte da própria estrutura desse contrato.
 
+
+
+### Questão 225 — FCC, TRT-7, 2024 — convocação fora do prazo e silêncio do empregado
+
+**Enunciado:** Empregada intermitente recebeu convocação em uma quarta-feira para trabalhar na sexta-feira, por aplicativo, e permaneceu em silêncio. Conforme a CLT, a convocação foi considerada:
+
+- A) Recusada pelo silêncio, mas o prazo legal é de dois dias úteis.
+- B) Aceita, embora realizada com cinco dias corridos de antecedência.
+- C) Recusada pelo silêncio, sendo o prazo mínimo de três dias úteis.
+- D) Aceita, embora realizada com prazo inferior ao legal de três dias corridos.
+- E) Recusada pelo silêncio e realizada com prazo inferior ao mínimo legal de três dias corridos.
+
+**Gabarito: E.**
+
+**Fundamento:** art. 452-A, §§ 1º e 2º, da CLT.
+
+**Análise:** há dois problemas na convocação:
+1. De quarta-feira para sexta-feira não se respeitam os três dias corridos de antecedência exigidos pelo § 1º.
+2. O silêncio da empregada, no prazo de um dia útil para responder, significa recusa (§ 2º).
+
+O uso de aplicativo pode ser meio eficaz de convocação, mas não dispensa o cumprimento dos prazos legais.
+
+**Pegadinha:** analisar separadamente a antecedência da convocação e a resposta do empregado. Mesmo que o meio utilizado seja válido, o prazo pode estar errado.
+
