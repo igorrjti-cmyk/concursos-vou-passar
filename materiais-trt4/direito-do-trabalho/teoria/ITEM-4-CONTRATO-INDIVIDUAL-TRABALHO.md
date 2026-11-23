@@ -657,3 +657,28 @@ De acordo com a CLT, em razão das prorrogações contratuais e dos respectivos 
 
 **Fechamento do bloco:** as questões 201 a 220 do caderno trabalham principalmente contrato a termo, experiência, limites, prorrogação e ruptura antecipada. A sequência seguinte avança para trabalho intermitente, ainda dentro do Item 4.
 
+
+
+### Questão 221 — FCC, ALERR, 2026 — trabalho intermitente: inatividade e FGTS
+
+**Enunciado:** O trabalho intermitente é aquele em que há alternância entre períodos de prestação de serviços e de inatividade. Acerca dessa modalidade contratual:
+
+- A) O STF, em controle concentrado, julgou o contrato intermitente parcialmente inconstitucional, obrigando o pagamento do valor-hora equivalente ou superior ao salário mínimo ou àquele devido aos demais empregados do estabelecimento que exerçam a mesma função.
+- B) O período em que o trabalhador intermitente não estiver prestando serviços diretamente ao empregador não se considera tempo de serviço e, portanto, não obriga os recolhimentos fundiários.
+- C) Ficará descaracterizada a subordinação em caso de sucessivas recusas do empregado para a prestação de serviços.
+- D) O contrato de trabalho intermitente está desprovido de solenidade e, nos períodos de inatividade, o trabalhador não poderá prestar serviços a outros contratantes.
+- E) Aceita a oferta, caso o empregado injustificadamente desista, deverá indenizar o empregador pelo valor integral do período acordado.
+
+**Gabarito: B.**
+
+**Fundamentos:** art. 452-A, §§ 1º, 3º, 4º, 5º e 8º, da CLT.
+
+**Análise das alternativas:**
+- A está errada: apresenta incorretamente a situação constitucional do contrato intermitente. A exigência de valor-hora mínimo decorre da própria CLT, não de declaração de inconstitucionalidade parcial.
+- B está correta: a inatividade não é tempo à disposição do empregador (§ 5º); o FGTS é recolhido com base nos valores pagos no período de prestação de serviços (§ 8º).
+- C está errada: a recusa da convocação não descaracteriza a subordinação (§ 3º).
+- D está errada: o contrato deve ser escrito (§ 1º), e o trabalhador pode prestar serviços a outros contratantes durante a inatividade (§ 5º).
+- E está errada: o descumprimento injustificado após o aceite sujeita a parte responsável à multa de 50% da remuneração que seria devida, e não ao pagamento integral (§ 4º).
+
+**Ponto de prova:** no trabalho intermitente, a recusa é permitida, a inatividade não é tempo à disposição e o trabalhador pode atuar para outros contratantes.
+
