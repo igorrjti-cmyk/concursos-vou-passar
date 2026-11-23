@@ -783,3 +783,28 @@ O uso de aplicativo pode ser meio eficaz de convocação, mas não dispensa o cu
 
 **Pegadinha:** analisar separadamente a antecedência da convocação e a resposta do empregado. Mesmo que o meio utilizado seja válido, o prazo pode estar errado.
 
+
+
+### Questão 226 — FCC, TRT-7, 2024 — multa por descumprimento no trabalho intermitente
+
+**Enunciado:** Empregada intermitente aceita convocação para três dias, quatro horas por dia, a R$ 50,00 por hora, mas deixa de comparecer sem justo motivo. Conforme a CLT, o empregador:
+
+- A) Poderá aplicar multa de R$ 400,00, referente a dois dias, compensável em 30 dias.
+- B) Poderá aplicar multa de R$ 200,00, referente a um dia, sem compensação.
+- C) Não poderá aplicar multa, apenas exigir compensação em 60 dias.
+- D) Poderá exigir multa de R$ 300,00, equivalente a 50% da remuneração ajustada, pagável em 30 dias, permitida compensação no mesmo prazo.
+- E) Não poderá aplicar multa, apenas permitir compensação em 15 dias.
+
+**Gabarito: D.**
+
+**Fundamento:** art. 452-A, § 4º, da CLT.
+
+**Cálculo:**
+- 3 dias × 4 horas = 12 horas.
+- 12 horas × R$ 50,00 = R$ 600,00 de remuneração ajustada.
+- 50% de R$ 600,00 = **R$ 300,00 de multa**.
+
+O descumprimento injustificado após o aceite gera multa de 50% da remuneração que seria devida, no prazo de 30 dias, permitida a compensação.
+
+**Pegadinha:** a multa não corresponde à remuneração integral. Primeiro calcule o valor total da convocação; depois aplique 50%.
+
