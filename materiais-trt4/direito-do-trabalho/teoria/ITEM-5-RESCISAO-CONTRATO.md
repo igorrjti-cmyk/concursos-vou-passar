@@ -191,3 +191,65 @@ D) O empregado pede férias.
 ### 10. Observação de estudo
 
 As questões autorais D a G servem para fixação e não devem ser classificadas como questões FCC ou provas reais. Na importação de questões externas, registrar a banca, o órgão, o cargo, o ano e a origem efetiva.
+
+## Material autoral — rescisão indireta (art. 483 da CLT)
+
+### Conceito
+A rescisão indireta é a ruptura contratual por falta grave do empregador, frequentemente chamada de “justa causa patronal”. O empregado pode considerar rescindido o contrato e pleitear as indenizações cabíveis quando configurada uma das hipóteses do art. 483 da CLT.
+
+### Hipóteses legais do art. 483
+- **Alínea a:** exigência de serviços superiores às forças do empregado, proibidos por lei, contrários aos bons costumes ou alheios ao contrato.
+- **Alínea b:** tratamento com rigor excessivo pelo empregador ou superiores hierárquicos.
+- **Alínea c:** exposição a perigo manifesto de mal considerável.
+- **Alínea d:** descumprimento das obrigações do contrato pelo empregador.
+- **Alínea e:** ato lesivo à honra e à boa fama praticado pelo empregador ou prepostos contra o empregado ou pessoas de sua família.
+- **Alínea f:** ofensa física praticada pelo empregador ou prepostos, salvo legítima defesa própria ou de terceiro.
+- **Alínea g:** redução do trabalho por peça ou tarefa que afete sensivelmente a importância dos salários.
+
+**Destaque de prova:** a alínea “d” abrange descumprimentos contratuais relevantes, como a ausência ou irregularidade dos depósitos do FGTS. O TST, no Tema 70 dos recursos repetitivos, firmou tese de que a falta ou irregularidade dos depósitos configura descumprimento contratual suficiente para a rescisão indireta, sendo desnecessário o requisito da imediatidade.
+
+### Parágrafos do art. 483
+- **§ 1º:** o empregado pode suspender a prestação dos serviços ou rescindir o contrato quando tiver de desempenhar obrigações legais incompatíveis com a continuação do serviço.
+- **§ 2º:** na morte do empregador constituído em empresa individual, é facultado ao empregado rescindir o contrato.
+- **§ 3º:** especificamente nas hipóteses das alíneas **d e g**, o empregado pode pleitear a rescisão e as indenizações permanecendo ou não no serviço até a decisão final do processo.
+
+**Pegadinha FCC:** não estender a faculdade expressa do § 3º a todas as alíneas; o dispositivo menciona apenas “d” e “g”.
+
+### Efeitos rescisórios
+Reconhecida a rescisão indireta, em regra são devidas as parcelas equivalentes à dispensa sem justa causa: saldo salarial, aviso-prévio (inclusive proporcional, se cabível), 13º proporcional, férias vencidas e proporcionais acrescidas de 1/3, FGTS e indenização de 40%, além do seguro-desemprego se preenchidos os requisitos legais. O art. 487, § 4º, da CLT prevê expressamente o aviso-prévio na despedida indireta.
+
+### Comparação essencial
+- **Justa causa (art. 482):** falta grave do empregado; reduz o conjunto de verbas rescisórias.
+- **Rescisão indireta (art. 483):** falta grave do empregador; produz, em regra, verbas equivalentes à dispensa sem justa causa.
+- **Pedido de demissão:** iniciativa do empregado sem falta patronal reconhecida; não gera multa de 40% do FGTS nem seguro-desemprego.
+
+### Questões autorais — não são questões oficiais da FCC
+
+**H.** O empregador deixa de realizar depósitos do FGTS durante o contrato. Segundo a tese firmada pelo TST, a ausência ou irregularidade dos depósitos:
+- A) Nunca autoriza rescisão indireta.
+- B) Exige comunicação em até 30 dias, sob pena de perdão.
+- C) Pode configurar falta grave patronal suficiente à rescisão indireta, sendo desnecessária a imediatidade.
+- D) Gera apenas o direito de cobrar os depósitos, sem repercussão rescisória.
+
+**Gabarito: C.** Tema 70 do TST: ausência ou irregularidade dos depósitos de FGTS configura descumprimento contratual suficiente, sem exigência de imediatidade.
+
+**I.** Nas hipóteses das alíneas “d” e “g” do art. 483, o empregado:
+- A) Deve permanecer trabalhando até a decisão final.
+- B) Pode pleitear a rescisão e as indenizações permanecendo ou não no serviço até a decisão final.
+- C) Depende de autorização sindical para ajuizar a ação.
+- D) Perde o direito ao aviso-prévio.
+
+**Gabarito: B.** É a literalidade do § 3º do art. 483.
+
+**J.** A redução do trabalho por peça ou tarefa, afetando sensivelmente a importância dos salários, está prevista:
+- A) No art. 482, “e”.
+- B) No art. 483, “g”.
+- C) No art. 484-A.
+- D) No art. 487.
+
+**Gabarito: B.** A hipótese está expressamente prevista na alínea “g” do art. 483.
+
+### Referências normativas e jurisprudenciais
+- CLT, arts. 483 e 487, § 4º.
+- TST, Tema 70 dos recursos repetitivos: ausência ou irregularidade dos depósitos do FGTS como falta grave patronal, dispensada a imediatidade.
+
