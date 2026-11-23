@@ -153,6 +153,89 @@ Foram analisadas as questões 221–235 do caderno e cadastradas **15 questões 
 
 **Ajuste de prioridade:** páginas 152–158 são essenciais para o item 4. As páginas 159–168 são exercícios de aplicação e revisão.
 
+### 10.1. Regra geral da alteração contratual — art. 468 da CLT
+
+A regra tem dois requisitos cumulativos:
+
+1. **Mútuo consentimento:** empregado e empregador devem concordar com a alteração.
+2. **Ausência de prejuízo:** a mudança não pode causar prejuízo direto ou indireto ao empregado.
+
+A concordância do empregado, isoladamente, não valida uma alteração prejudicial. Se houver prejuízo, a cláusula é nula, ainda que o empregado tenha assinado documento concordando com a mudança. A regra deve ser lida em conjunto com o art. 9º da CLT, que invalida atos destinados a desvirtuar, impedir ou fraudar a aplicação da legislação trabalhista.
+
+**Alteração bilateral lícita:** mudança acordada pelas partes, sem prejuízo ao trabalhador e sem violação de norma legal ou coletiva.
+
+**Alteração bilateral ilícita:** mudança aceita pelo empregado, mas que reduz direitos ou provoca prejuízo direto ou indireto.
+
+**Alteração unilateral:** em regra, não é admitida quando modifica condição contratual em prejuízo do empregado. O empregador conserva, porém, espaço para organizar a prestação de serviços dentro dos limites do contrato, da lei e das normas coletivas.
+
+### 10.2. Jus variandi — alcance e limites
+
+O jus variandi é o poder de organização do empregador, decorrente do poder diretivo. Permite ajustar aspectos operacionais da prestação sem transformar o contrato em outro ou impor prejuízo ilícito.
+
+Exemplos de exercício regular, conforme as circunstâncias:
+- reorganizar procedimentos e métodos de trabalho;
+- distribuir tarefas compatíveis com a condição pessoal e a qualificação do empregado;
+- alterar rotinas operacionais sem redução salarial ou prejuízo contratual;
+- determinar o retorno do empregado ao cargo efetivo após o término do exercício de função de confiança, nos termos do art. 468, § 1º.
+
+O art. 456, parágrafo único, da CLT estabelece que, na falta de prova ou de cláusula expressa, presume-se que o empregado se obrigou a todo serviço compatível com sua condição pessoal. Isso não autoriza rebaixamento funcional, alteração lesiva ou atribuição de tarefas incompatíveis com a condição do trabalhador.
+
+**Limites que a FCC costuma explorar:**
+- redução salarial individual: não é permitida; a redução salarial depende de negociação coletiva, conforme art. 7º, VI, da Constituição;
+- alteração de função: não pode representar rebaixamento ou prejuízo ilícito;
+- alteração de jornada ou horário: deve respeitar a lei, o contrato e a inexistência de prejuízo juridicamente relevante;
+- mudança de local: se exigir mudança de domicílio, aplicam-se as regras específicas de transferência do art. 469;
+- concordância do empregado: não convalida renúncia a direito indisponível nem alteração lesiva.
+
+### 10.3. Reversão da função de confiança — art. 468, §§ 1º e 2º
+
+O empregador pode determinar que o empregado deixe a função de confiança e retorne ao cargo efetivo anteriormente ocupado. A CLT expressamente afasta a caracterização dessa reversão como alteração unilateral ilícita.
+
+A consequência remuneratória é importante: a reversão, com ou sem justo motivo, não assegura a manutenção da gratificação de função, que não se incorpora independentemente do tempo de exercício, conforme o § 2º.
+
+**Atualização jurisprudencial indispensável:** o item I da Súmula 372 do TST, que tratava da incorporação da gratificação após dez anos, foi cancelado pela Resolução TST nº 225/2025, por perda de eficácia a partir de 11/11/2017, em razão da Lei 13.467/2017. O item II permanece: se o empregado continua no exercício da função comissionada, o empregador não pode reduzir o valor da gratificação.
+
+**Não confunda:**
+- empregado revertido ao cargo efetivo: a gratificação pode deixar de ser paga, conforme art. 468, § 2º;
+- empregado mantido na função comissionada: não pode sofrer redução da gratificação (Súmula 372, II, do TST).
+
+### 10.4. Transferência — arts. 469 e 470 da CLT
+
+Para fins do art. 469, não basta mudar o endereço do local de trabalho: é necessário que a transferência implique, necessariamente, mudança de domicílio. Deslocamentos dentro da mesma localidade ou sem mudança de domicílio não configuram, por si sós, transferência legal para esse dispositivo.
+
+**Regra:** o empregador não pode transferir o empregado, sem sua anuência, para localidade diversa da que resultar do contrato, quando houver mudança de domicílio.
+
+**Hipóteses legais específicas:**
+- empregado que exerce cargo de confiança, desde que a transferência decorra de real necessidade de serviço;
+- contrato que contenha condição implícita ou explícita de transferência, também com real necessidade de serviço;
+- extinção do estabelecimento em que o empregado trabalha;
+- transferência por necessidade de serviço, observadas as condições do § 3º e o pagamento do adicional legal quando temporária.
+
+**Adicional de transferência:** na transferência provisória por necessidade de serviço, o empregador deve pagar adicional nunca inferior a 25% dos salários que o empregado percebia na localidade de origem, enquanto durar a situação (§ 3º). O adicional não é devido apenas porque houve mudança de cidade: o caráter provisório é essencial.
+
+A OJ 113 da SDI-1 do TST esclarece que o exercício de cargo de confiança ou a existência de previsão contratual de transferência não exclui o adicional, se a transferência for provisória.
+
+**Despesas:** todas as despesas resultantes da transferência correm por conta do empregador (art. 470). Não confundir despesas de mudança com o adicional de transferência: são obrigações distintas.
+
+**Atualização de 2025:** a Lei 15.175/2025 acrescentou o art. 469-A, que prevê regra específica para empregados da Administração Pública acompanharem cônjuge ou companheiro servidor público, militar ou empregado público deslocado no interesse da Administração, observados os requisitos legais. É uma regra especial, não uma autorização geral de transferência para todos os empregados.
+
+### 10.5. Quadro de revisão — alteração contratual
+
+| Situação | Regra |
+|---|---|
+| Alteração bilateral | Consentimento mútuo + ausência de prejuízo |
+| Alteração prejudicial, mesmo assinada | Nula (arts. 9º e 468) |
+| Tarefas compatíveis | Podem integrar o jus variandi, observados contrato e condição pessoal |
+| Reversão de função de confiança | Permitida; gratificação não se incorpora pelo tempo (art. 468, §§ 1º e 2º) |
+| Empregado mantido na função comissionada | Gratificação não pode ser reduzida (Súmula 372, II, TST) |
+| Transferência com mudança de domicílio | Regras do art. 469 |
+| Transferência provisória por necessidade de serviço | Adicional mínimo de 25% enquanto durar a situação |
+| Despesas da transferência | Pagas pelo empregador (art. 470) |
+
+**Ordem de resolução de questão:** primeiro verifique se houve mudança contratual; depois pergunte se houve consentimento; em seguida, identifique eventual prejuízo; por fim, confira se existe exceção legal específica, especialmente reversão de função de confiança ou transferência.
+
+---
+
 ## 11. Resolução comentada — questões oficiais FCC sobre contrato por prazo determinado
 
 As questões abaixo pertencem ao caderno FCC para Técnico — Área Administrativa — TRT-4, Parte 2. São questões oficiais já cadastradas no Supabase; esta seção registra a análise didática, sem duplicar os registros do banco.
