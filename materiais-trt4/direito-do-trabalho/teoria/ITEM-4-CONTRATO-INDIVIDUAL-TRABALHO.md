@@ -530,3 +530,28 @@ De acordo com a CLT, em razão das prorrogações contratuais e dos respectivos 
 
 **Ponto de atenção:** não confundir idade mínima geral para trabalhar, regras especiais do aprendiz e requisitos do contrato de experiência.
 
+
+
+### Questão 216 — FCC, TRT-6, 2012 — prazo de experiência e efeitos da sucessão empresarial
+
+**Enunciado:** Nos termos da CLT, o contrato:
+
+- A) Individual de trabalho não pode ser acordado verbalmente.
+- B) De experiência não poderá exceder o prazo de 90 dias.
+- C) Individual será obrigatoriamente alterado em caso de mudança na propriedade ou estrutura jurídica da empresa.
+- D) Por prazo determinado poderá ser estipulado por mais de dois anos com mútuo consentimento.
+- E) Por prazo determinado poderá ser prorrogado mais de uma vez dentro do prazo máximo, sem conversão.
+
+**Gabarito: B.**
+
+**Fundamentos:** arts. 10, 29, 443, 445, parágrafo único, 448 e 451 da CLT.
+
+**Análise das alternativas:**
+- A está errada: o contrato individual de trabalho pode ser verbal ou escrito, tácito ou expresso (art. 443).
+- B está correta: o contrato de experiência não pode exceder 90 dias (art. 445, parágrafo único).
+- C está errada: a mudança na propriedade ou na estrutura jurídica da empresa não altera, por si só, os contratos de trabalho nem prejudica os direitos adquiridos (arts. 10 e 448).
+- D está errada: o limite geral do contrato por prazo determinado é de dois anos; o mútuo consentimento não autoriza ultrapassá-lo (art. 445).
+- E está errada: mais de uma prorrogação converte o contrato em prazo indeterminado (art. 451).
+
+**Ponto de integração:** a questão combina contrato individual, prazo de experiência, prorrogação e sucessão empresarial. Revisar os arts. 10 e 448 junto ao estudo de alteração contratual e continuidade do vínculo.
+
