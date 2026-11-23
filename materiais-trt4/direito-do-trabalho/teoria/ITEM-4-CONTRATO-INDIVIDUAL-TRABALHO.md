@@ -994,3 +994,25 @@ Está correto APENAS em:
 
 **Ponto de prova:** a FCC combina várias regras em uma única questão. Domine cada parágrafo do art. 452-A, não apenas o conceito geral.
 
+
+
+### Questão 234 — FCC, TRT-5, 2022 — igualdade do valor-hora no trabalho intermitente
+
+**Enunciado:** Empregado intermitente será contratado para a mesma função de empregado celetista que recebe R$ 10,00 por hora. O valor da hora do intermitente:
+
+- A) Deverá ser igual ao do outro empregado apenas se trabalhar pelo menos 180 horas.
+- B) Será idêntico ao do empregado da mesma função, independentemente do número de horas trabalhadas no mês.
+- C) Poderá ser 80% do valor do empregado se trabalhar mais de 180 horas.
+- D) Poderá ser livremente pactuado, respeitado mínimo de três quartos.
+- E) Poderá ser 70% do valor do empregado se trabalhar mais de 180 horas.
+
+**Gabarito: B.**
+
+**Fundamento:** art. 452-A, caput, da CLT.
+
+O empregado intermitente deve receber valor-hora não inferior ao pago aos demais empregados do estabelecimento que exerçam a mesma função, sejam eles intermitentes ou não.
+
+Se o empregado comparável recebe R$ 10,00 por hora, o valor-hora do intermitente não pode ser inferior a R$ 10,00.
+
+**Pegadinha:** a igualdade é do valor da hora, não do salário mensal. O total recebido no mês pode variar conforme a quantidade de horas efetivamente trabalhadas.
+
