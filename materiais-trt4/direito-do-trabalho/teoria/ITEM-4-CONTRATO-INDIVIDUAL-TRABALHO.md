@@ -223,3 +223,28 @@ As questões abaixo pertencem ao caderno FCC para Técnico — Área Administrat
 - E está errada: a liberdade de estipulação do art. 444 é limitada pelas disposições de proteção ao trabalho, contratos coletivos aplicáveis e decisões das autoridades competentes.
 
 **Distinção para prova:** art. 443, § 1º = conceito; art. 445 = duração; art. 451 = quantidade de prorrogações.
+
+
+### Questão 204 — FCC, TRT-12, 2013 — conceito, experiência e duração do contrato a termo
+
+**Enunciado:** O contrato individual de trabalho possui conceituação, classificação e características previstas na CLT. É INCORRETO afirmar que:
+
+- A) O contrato individual de trabalho poderá ser acordado tácita ou expressamente, verbalmente ou por escrito e por prazo determinado ou indeterminado.
+- B) Para fins de contratação, o empregador não exigirá do candidato a emprego comprovação de experiência prévia por tempo superior a seis meses no mesmo tipo de atividade.
+- C) Considera-se por prazo determinado o contrato cuja vigência dependa de termo prefixado, execução de serviços especificados ou acontecimento suscetível de previsão aproximada.
+- D) O contrato de experiência não poderá exceder noventa dias.
+- E) O contrato por prazo determinado não poderá ser estipulado por mais de um ano, podendo ser prorrogado no máximo duas vezes, dentro do limite de um ano, sob pena de vigorar por prazo indeterminado.
+
+**Gabarito: E.**
+
+**Fundamentos:** arts. 442, 442-A, 443, § 1º, 445 e 451 da CLT.
+
+**Análise das alternativas:**
+- A está correta: reproduz as formas de contratação previstas no art. 443, caput, em conjunto com o conceito do art. 442.
+- B está correta: o art. 442-A impede exigir experiência prévia superior a seis meses no mesmo tipo de atividade. Atenção: esse prazo de experiência profissional anterior não é o prazo do contrato de experiência.
+- C está correta: corresponde ao conceito legal do art. 443, § 1º.
+- D está correta: o contrato de experiência tem duração máxima de 90 dias, conforme art. 445, parágrafo único.
+- E está incorreta por dois motivos: o limite geral do contrato por prazo determinado é de até dois anos, e não um ano (art. 445); além disso, só é permitida uma prorrogação, e não duas (art. 451). Ultrapassar uma prorrogação converte o contrato em prazo indeterminado, ainda que a duração total não tenha atingido dois anos.
+
+**Pegadinha FCC:** separar três regras que aparecem misturadas na alternativa: art. 442-A (experiência prévia do candidato), art. 445 (duração máxima do contrato a termo) e art. 451 (quantidade de prorrogações). Não confundir os seis meses de experiência prévia com os 90 dias do contrato de experiência.
+
