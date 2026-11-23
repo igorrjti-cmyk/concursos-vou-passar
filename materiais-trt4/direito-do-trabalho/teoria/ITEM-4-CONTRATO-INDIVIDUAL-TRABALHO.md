@@ -356,3 +356,28 @@ Está correto o que se afirma APENAS em:
 
 **Pegadinha FCC:** atenção a expressões absolutas como “somente” e “em qualquer situação”. A assertiva I ignora a possibilidade de contrato tácito ou verbal; a V ignora as exceções do art. 452.
 
+
+
+### Questão 209 — FCC, TRT-11, 2012 — duração, prorrogação e indenização
+
+**Enunciado:** Em relação à duração do contrato individual de trabalho, é correto afirmar que o contrato por prazo determinado:
+
+- A) Será lícito, seja qual for a sua finalidade.
+- B) Quando for prorrogado mais de uma vez passará a vigorar sem determinação de prazo.
+- C) Não prevê o pagamento de indenização caso seja rescindido sem justa causa de forma antecipada.
+- D) Poderá ser estipulado por prazo superior a dois anos, desde que seu objeto dependa da realização de determinados acontecimentos.
+- E) Sob a forma de contrato de experiência não poderá ultrapassar noventa dias, podendo ser estipulado por três períodos de trinta dias cada um.
+
+**Gabarito: B.**
+
+**Fundamentos:** arts. 443, § 2º, 445, 451, 479 e 481 da CLT.
+
+**Análise das alternativas:**
+- A está errada: o contrato a termo depende de enquadramento nas hipóteses legais do art. 443, § 2º.
+- B está correta: o art. 451 determina que o contrato prorrogado mais de uma vez passa a vigorar sem determinação de prazo.
+- C está errada: o art. 479 prevê, em regra, indenização ao empregado quando o empregador rompe antecipadamente e sem justa causa o contrato a termo. Se houver cláusula assecuratória exercida, aplica-se o regime do art. 481.
+- D está errada: o limite geral é de dois anos (art. 445). A previsão aproximada de um acontecimento pode justificar o contrato a termo, mas não afasta o limite máximo.
+- E está errada: embora o limite do contrato de experiência seja de 90 dias, a alternativa admite três períodos sucessivos, contrariando a regra de apenas uma prorrogação do art. 451. É possível, por exemplo, contrato inicial de 30 dias e uma única prorrogação por mais 60 dias, respeitado o total de 90.
+
+**Pegadinha:** duração máxima e quantidade de prorrogações são requisitos distintos. A FCC utiliza o limite correto de 90 dias para tentar fazer parecer correta a previsão de três períodos.
+
