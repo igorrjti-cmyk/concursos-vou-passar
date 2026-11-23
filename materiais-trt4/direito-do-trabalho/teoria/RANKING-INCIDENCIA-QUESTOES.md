@@ -8,7 +8,7 @@
 
 | Ordem | Assunto cadastrado no caderno | Questões | PDF do caderno — páginas | Enquadramento no edital |
 |---:|---|---:|---|---|
-| 1 | Férias | 96 | Parte 5, pp. 18–38 | Item 7 — períodos de descanso (estudar; confirmar extensão do termo no edital) |
+| 1 | Férias | 96 | Parte 5, pp. 19–38 | Item 7 — períodos de descanso (estudar; confirmar extensão do termo no edital) |
 | 2 | Direitos sociais e dos trabalhadores (arts. 6º e 7º da CF) | 88 | Parte 1, pp. 1–20 | Item 2; o bloco inclui também art. 6º e assuntos conexos |
 | 3 | Relação de trabalho/emprego: requisitos, características e sujeitos | 66 | Parte 1, pp. 28–42 | Item 3 |
 | 4 | Suspensão e interrupção do contrato | 63 | Parte 2, pp. 12–25 | Item 4 |
@@ -68,6 +68,6 @@ A soma abaixo agrupa as categorias do caderno que se relacionam com cada item. N
 
 ## Controle de qualidade
 
-- A extração dos cinco cadernos identificou 1.000 IDs de questões; os 96 itens de férias, por exemplo, estão concentrados na Parte 5, páginas 18–38.
+- A extração dos cinco cadernos identificou 1.000 IDs de questões; os 96 itens de férias, por exemplo, estão concentrados na Parte 5, páginas 19–38; a página 18 pertence ao bloco de DSR.
 - Contagem temática não significa que todas as questões já estejam cadastradas no banco Supabase. O banco TRT4 deve ser atualizado somente após validar individualmente enunciado, alternativas, gabarito, banca, ano e origem.
 - A teoria deve ser lida no PDF único e nos materiais complementares, anotando a paginação desse PDF específico. Não transferir números de página entre edições diferentes.
