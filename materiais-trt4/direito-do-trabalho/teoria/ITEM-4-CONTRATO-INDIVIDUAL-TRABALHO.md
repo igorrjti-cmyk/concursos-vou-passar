@@ -505,3 +505,28 @@ De acordo com a CLT, em razão das prorrogações contratuais e dos respectivos 
 
 **Pegadinha:** não basta estar dentro dos 90 dias. A quantidade de prorrogações também precisa respeitar a lei.
 
+
+
+### Questão 215 — TRT-1, 2012 — requisitos e duração do contrato de experiência
+
+**Enunciado:** O contrato de experiência:
+
+- A) Pode ser firmado por aprendiz de 14 a 24 anos, sem anotação na CTPS, se ajustado por até três meses.
+- B) Pode ser firmado por empregado entre 16 e 18 anos, por 90 dias, com uma prorrogação de mais 90 dias.
+- C) Deve ser firmado por empregado maior de 18 anos e pode ser anotado na CTPS, desde que ajustado por até três meses.
+- D) Deve ser firmado por empregado maior de 18 anos e anotado na CTPS por até 90 dias, com uma prorrogação de mais 45 dias.
+- E) Deve ser firmado por agente capaz e anotado na CTPS, sem ultrapassar 90 dias, com direito a uma única prorrogação.
+
+**Gabarito: E.**
+
+**Fundamentos:** arts. 3º, 29, 403, 428, 443, § 2º, alínea “c”, 445, parágrafo único, e 451 da CLT.
+
+**Análise das alternativas:**
+- A está errada: contrato de aprendizagem é modalidade especial, distinta do contrato de experiência; o vínculo deve ser anotado.
+- B está errada: 90 + 90 dias ultrapassaria o limite de 90 dias.
+- C está errada: não é necessário que o empregado tenha mais de 18 anos; a partir dos 16 anos é permitido o trabalho em geral, observadas as restrições legais, e a anotação é obrigatória.
+- D está errada: 90 + 45 dias ultrapassaria o limite máximo.
+- E está correta: o contrato de experiência deve respeitar os requisitos de capacidade e registro do vínculo, não pode exceder 90 dias e admite uma única prorrogação.
+
+**Ponto de atenção:** não confundir idade mínima geral para trabalhar, regras especiais do aprendiz e requisitos do contrato de experiência.
+
