@@ -217,3 +217,29 @@ As demais estão corretas:
 
 **Macete:** a empresa de trabalho temporário não pode impedir que a tomadora contrate diretamente o trabalhador depois do período temporário.
 
+
+
+### Questão 249 — FCC, TRT-20, 2016 — acréscimo extraordinário de serviços
+
+**Enunciado:** Empresa contrata empresa de trabalho temporário para atender acréscimo extraordinário de serviços em razão de reparos emergenciais em hidrelétrica. A situação caracteriza:
+
+- A) Trabalho avulso.
+- B) Terceirização ilícita de atividade-fim.
+- C) Trabalho autônomo civil.
+- D) Contrato de trabalho temporário.
+- E) Contrato de experiência.
+
+**Gabarito: D.**
+
+**Fundamento:** art. 2º, caput e § 2º, da Lei 6.019/1974.
+
+Os reparos emergenciais representam demanda complementar decorrente de fator imprevisível, justificando a contratação temporária.
+
+- A está errada: não se trata de trabalho avulso.
+- B está errada: o trabalho temporário pode abranger atividades-meio e atividades-fim.
+- C está errada: a contratação ocorre por empresa de trabalho temporário, dentro de uma relação jurídica específica.
+- D está correta: há acréscimo extraordinário de serviços, hipótese legal de trabalho temporário.
+- E está errada: contrato de experiência é outra modalidade de contrato por prazo determinado, regulada pela CLT.
+
+**Ponto de prova:** reparos emergenciais, picos sazonais e demandas complementares podem justificar trabalho temporário, desde que presentes os requisitos legais.
+
