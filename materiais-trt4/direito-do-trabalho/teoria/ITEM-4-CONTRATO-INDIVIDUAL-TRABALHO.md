@@ -1111,3 +1111,30 @@ A demanda complementar pode decorrer:
 
 **Pegadinha:** diferenciar responsabilidade subsidiária de solidária e não confundir a proibição de substituir grevistas com a contratação temporária para outras necessidades legalmente autorizadas.
 
+
+
+### Questão 239 — FCC, TRT-23, 2022 — substituição transitória de pessoal
+
+**Enunciado:** Cícero foi contratado para prestar serviços visando suprir necessidade de substituição de mão de obra. A situação se enquadra no contrato:
+
+- A) Autônomo.
+- B) Temporário.
+- C) Intermitente.
+- D) Eventual.
+- E) Avulso.
+
+**Gabarito: B — Temporário.**
+
+**Fundamento:** art. 2º da Lei 6.019/1974.
+
+Uma das hipóteses expressas de trabalho temporário é a necessidade de substituição transitória de pessoal permanente da empresa tomadora.
+
+Exemplos: substituição de empregado em licença, afastamento previdenciário ou férias, quando houver necessidade transitória.
+
+**Distinção para prova:**
+- Temporário: substitui pessoal permanente ou atende demanda complementar.
+- Intermitente: empregado subordinado, mas com alternância entre trabalho e inatividade.
+- Autônomo: trabalha sem subordinação jurídica.
+- Eventual: presta serviços sem habitualidade ligada à necessidade permanente do tomador.
+- Avulso: presta serviços com intermediação obrigatória do sindicato ou órgão gestor, conforme o regime aplicável.
+
