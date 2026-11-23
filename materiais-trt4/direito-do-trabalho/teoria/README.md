@@ -21,3 +21,5 @@ Sugestão de nome: `assunto-fonte-ano.pdf`.
 - [Item 9 — prescrição e decadência](ITEM-9-PRESCRICAO-DECADENCIA.md)
 
 - [Item 11 — proteção ao trabalho do menor](ITEM-11-PROTECAO-TRABALHO-MENOR.md)
+
+- [Item 12 — Direito coletivo: ACT e CCT](ITEM-12-DIREITO-COLETIVO-ACT-CCT.md)
