@@ -56,3 +56,28 @@ O limite total pode chegar a 270 dias.
 
 **Pegadinha:** os 90 dias são adicionais aos 180 dias, e não substituem o prazo inicial.
 
+
+
+### Questão 243 — VUNESP, EBSERH, 2020 — trabalho temporário após a reforma de 2017
+
+**Enunciado:** Considerando as alterações legislativas de 2017 sobre trabalho temporário, assinale a alternativa correta:
+
+- A) O contrato temporário, em relação ao mesmo empregador, não poderá exceder 180 dias, consecutivos ou não.
+- B) Aplica-se ao trabalhador temporário contratado pela tomadora o contrato de experiência da CLT.
+- C) A empresa contratada tem responsabilidade subsidiária em relação a seus funcionários.
+- D) A contratada responde em quaisquer circunstâncias por toda segurança, higiene e salubridade.
+- E) É possível contratar temporários para substituir trabalhadores em greve sem exceção legal.
+
+**Gabarito: A.**
+
+**Fundamentos:** arts. 2º, § 1º, 5º-A, § 3º, e 10, §§ 1º, 2º, 4º e 7º, da Lei 6.019/1974.
+
+**Análise das alternativas:**
+- A está correta: o art. 10, § 1º, estabelece o limite de 180 dias, consecutivos ou não, em relação ao mesmo empregador.
+- B está errada: o § 4º do art. 10 afasta o contrato de experiência da CLT para o trabalhador temporário contratado pela tomadora.
+- C está errada: a responsabilidade subsidiária pelas obrigações trabalhistas do período é, em regra, da empresa tomadora.
+- D está errada: a responsabilidade pela segurança, higiene e salubridade deve ser analisada conforme o local da prestação e as obrigações legais específicas.
+- E está errada: a substituição de trabalhadores em greve é proibida, salvo nos casos previstos em lei (art. 2º, § 1º).
+
+**Ponto de prova:** a reforma de 2017 ampliou o prazo máximo e disciplinou a prorrogação, mas manteve limites e hipóteses específicas para a contratação temporária.
+
