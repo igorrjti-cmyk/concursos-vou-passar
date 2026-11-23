@@ -381,3 +381,28 @@ Está correto o que se afirma APENAS em:
 
 **Pegadinha:** duração máxima e quantidade de prorrogações são requisitos distintos. A FCC utiliza o limite correto de 90 dias para tentar fazer parecer correta a previsão de três períodos.
 
+
+
+### Questão 210 — FCC, TRT-2, 2004 — limite máximo e prorrogação
+
+**Enunciado:** O contrato de trabalho por prazo determinado NÃO poderá ser estipulado por mais de:
+
+- A) Sessenta dias, podendo ser prorrogado tacitamente por períodos sucessivos até dezoito meses.
+- B) Seis meses, prorrogável uma única vez por igual período.
+- C) Doze meses, mas, se prorrogado expressamente uma vez, passará a vigorar por prazo indeterminado.
+- D) Vinte e quatro meses, prorrogável uma vez por igual período, vedada sua conversão em prazo indeterminado.
+- E) Dois anos, mas, sendo prorrogado mais de uma vez, passará a vigorar sem determinação de prazo.
+
+**Gabarito: E.**
+
+**Fundamentos:** arts. 445 e 451 da CLT.
+
+**Análise das alternativas:**
+- A está errada: não existe essa regra geral de 60 dias nem autorização para prorrogações sucessivas.
+- B está errada: seis meses não é o limite geral do contrato por prazo determinado.
+- C está errada: o limite geral não é de 12 meses e uma única prorrogação, por si só, não converte o contrato em indeterminado.
+- D está errada: 24 meses correspondem ao limite geral, mas a alternativa permite prorrogar por igual período, ultrapassando o limite, e afirma incorretamente que a conversão seria vedada.
+- E está correta: o contrato não pode ultrapassar dois anos (art. 445); se for prorrogado mais de uma vez, passa a vigorar sem determinação de prazo (art. 451).
+
+**Pegadinha:** a alternativa D apresenta o limite correto em meses, mas acrescenta uma prorrogação adicional que ultrapassaria o máximo legal. Separar sempre duração total e quantidade de prorrogações.
+
