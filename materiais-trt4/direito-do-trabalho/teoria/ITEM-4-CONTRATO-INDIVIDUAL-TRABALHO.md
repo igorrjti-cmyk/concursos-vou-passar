@@ -1138,3 +1138,28 @@ Exemplos: substituição de empregado em licença, afastamento previdenciário o
 - Eventual: presta serviços sem habitualidade ligada à necessidade permanente do tomador.
 - Avulso: presta serviços com intermediação obrigatória do sindicato ou órgão gestor, conforme o regime aplicável.
 
+
+
+### Questão 240 — FCC, TRT-14, 2022 — prazo e hipótese de demanda sazonal no trabalho temporário
+
+**Enunciado:** Em razão do aumento das vendas no período de festividades de final de ano, a empresa pretende contratar trabalhadores temporários. Conforme a lei, a empresa:
+
+- A) Não pode contratar, pois demanda complementar deve ser imprevisível.
+- B) Não pode contratar para atividade-fim.
+- C) Será solidariamente responsável por todas as obrigações trabalhistas.
+- D) Pode contratar pelo prazo máximo de 180 dias, consecutivos ou não, em relação ao mesmo empregador.
+- E) Deve utilizar contrato de experiência.
+
+**Gabarito: D.**
+
+**Fundamentos:** arts. 2º, § 2º, 9º, § 3º, e 10, §§ 1º, 2º e 4º, da Lei 6.019/1974.
+
+**Análise das alternativas:**
+- A está errada: a demanda complementar pode decorrer de fatores previsíveis, desde que tenha natureza intermitente, periódica ou sazonal. O aumento de vendas no fim do ano é exemplo típico.
+- B está errada: o contrato temporário pode abranger atividades-meio e atividades-fim.
+- C está errada: a regra geral é de responsabilidade subsidiária da tomadora.
+- D está correta: o prazo máximo é de 180 dias, consecutivos ou não, podendo ser prorrogado por até mais 90 dias se mantidas as condições que justificaram a contratação.
+- E está errada: a Lei 6.019/1974 afasta a aplicação do contrato de experiência da CLT ao trabalhador temporário contratado pela tomadora.
+
+**Pegadinha:** demanda sazonal previsível também pode justificar trabalho temporário. Não confundir “previsível” com “permanente”.
+
