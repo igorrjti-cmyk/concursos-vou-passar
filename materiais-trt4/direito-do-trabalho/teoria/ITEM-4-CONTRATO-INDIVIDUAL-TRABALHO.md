@@ -580,3 +580,29 @@ De acordo com a CLT, em razão das prorrogações contratuais e dos respectivos 
 
 **Pegadinha:** a existência de prazo final não impede a aplicação das hipóteses de justa causa. O contrato de experiência também está submetido às regras disciplinares da CLT.
 
+
+
+### Questão 218 — FCC, TRT-16, 2009 — prorrogação por período diferente do inicial
+
+**Enunciado:** A empresa contratou Mirtes por contrato de experiência de 30 dias. Após o término, prorrogou-o por mais 60 dias. Nesse caso, a prorrogação é:
+
+- A) Válida, mas depende de anuência dos sindicatos ou suprimento judicial.
+- B) Inválida, pois o contrato de experiência não pode ser prorrogado.
+- C) Inválida, pois o prazo máximo é de 60 dias.
+- D) Válida, pois a empresa observou as determinações legais.
+- E) Inválida, pois só pode ser prorrogado por mais 30 dias.
+
+**Gabarito: D.**
+
+**Fundamentos:** arts. 445, parágrafo único, e 451 da CLT.
+
+**Análise:** contrato inicial de 30 dias + uma prorrogação de 60 dias = 90 dias. A prorrogação respeita tanto o limite máximo de duração quanto a quantidade máxima de prorrogações.
+
+- A está errada: não é necessária autorização sindical ou judicial para essa prorrogação regular.
+- B está errada: a CLT permite uma prorrogação.
+- C está errada: o limite do contrato de experiência é de 90 dias.
+- D está correta: os requisitos legais foram observados.
+- E está errada: a prorrogação não precisa ter a mesma duração do período inicial; pode ser de 60 dias, desde que respeitado o limite total.
+
+**Aprendizado:** a prorrogação pode ter duração diferente da contratação inicial. O que importa é não ultrapassar 90 dias no total e não realizar mais de uma prorrogação.
+
