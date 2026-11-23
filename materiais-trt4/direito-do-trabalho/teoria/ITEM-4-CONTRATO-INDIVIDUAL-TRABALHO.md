@@ -485,3 +485,23 @@ De acordo com a CLT, em razão das prorrogações contratuais e dos respectivos 
 
 **Resumo para memorização:** contrato de experiência é contrato por prazo determinado, tem limite de 90 dias e admite uma única prorrogação.
 
+
+
+### Questão 214 — FCC, TRT-19, 2014 — limite de prorrogação do contrato de experiência
+
+**Enunciado:** Contrato de experiência celebrado por 29 dias, que foi prorrogado por mais 29 dias:
+
+- A) Pode ser prorrogado por até mais 32 dias, para completar 90 dias.
+- B) Pode ser prorrogado por mais 31 dias, para completar três meses.
+- C) É nulo, pois a lei não permite a prorrogação.
+- D) Não pode mais ser prorrogado.
+- E) Pode ser prorrogado, desde que não ultrapasse dois anos.
+
+**Gabarito: D.**
+
+**Fundamentos:** arts. 445, parágrafo único, e 451 da CLT.
+
+**Análise:** o contrato já foi prorrogado uma vez: 29 + 29 = 58 dias. Embora ainda faltem 32 dias para atingir o limite de 90, não cabe uma segunda prorrogação, pois o art. 451 limita a uma única prorrogação. A alternativa A confunde o limite total de duração com o número de prorrogações; B também propõe uma segunda prorrogação; C erra porque a primeira prorrogação é permitida; E confunde o limite geral de dois anos com o limite específico de 90 dias do contrato de experiência.
+
+**Pegadinha:** não basta estar dentro dos 90 dias. A quantidade de prorrogações também precisa respeitar a lei.
+
