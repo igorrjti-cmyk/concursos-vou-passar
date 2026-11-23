@@ -106,3 +106,28 @@ O limite total pode chegar a 270 dias.
 
 **Pegadinha:** não confundir trabalho temporário com terceirização comum. A legislação permite expressamente o trabalho temporário em atividades-meio e atividades-fim.
 
+
+
+### Questão 245 — FCC, TCE-RS, 2018 — substituição de trabalhadores em greve
+
+**Enunciado:** Em relação ao trabalho temporário, conforme a Lei 6.019/1974 e alterações, é correto afirmar:
+
+- A) É proibida a contratação para substituição de trabalhadores em greve, salvo os casos previstos em lei.
+- B) A contratante pode alterar livremente as atividades contratadas com anuência do trabalhador.
+- C) A contratante é solidariamente responsável por todas as obrigações trabalhistas e não responde por contribuições previdenciárias.
+- D) Só pode versar sobre atividades-meio.
+- E) O prazo máximo é de três meses, prorrogável por um mês.
+
+**Gabarito: A.**
+
+**Fundamentos:** arts. 2º, § 1º, 9º, § 3º, e 10, §§ 1º, 2º e 7º, da Lei 6.019/1974.
+
+**Análise das alternativas:**
+- A está correta: a contratação temporária para substituir grevistas é proibida, ressalvadas as hipóteses legais.
+- B está errada: a contratação deve respeitar a finalidade e as condições que justificaram o trabalho temporário.
+- C está errada: a responsabilidade da tomadora é, em regra, subsidiária pelas obrigações trabalhistas do período, observada a disciplina das contribuições previdenciárias.
+- D está errada: o contrato pode abranger atividades-meio e atividades-fim.
+- E está errada: o prazo máximo é de 180 dias, prorrogável por até 90 dias.
+
+**Memorização:** trabalho temporário não pode ser utilizado livremente para substituir grevistas.
+
