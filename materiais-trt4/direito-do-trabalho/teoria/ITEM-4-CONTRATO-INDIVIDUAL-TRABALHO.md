@@ -156,6 +156,48 @@ As duas situações mantêm o contrato de trabalho, mas interrompem temporariame
 | Licença sem remuneração | Suspensão | Em regra |
 | Qualificação profissional do art. 476-A | Suspensão | Instrumento coletivo + concordância formal |
 
+### 6.5. Casos práticos para não confundir suspensão e interrupção
+
+**Caso 1 — empregado fica doente por 10 dias.**  
+O empregador paga os primeiros 15 dias de afastamento por doença. Classificação: interrupção.
+
+**Caso 2 — empregado continua afastado por doença comum a partir do 16º dia e recebe benefício previdenciário.**  
+Em regra, o contrato fica suspenso. Não há salário pago pelo empregador durante o período de benefício, sem prejuízo das obrigações legais específicas.
+
+**Caso 3 — acidente do trabalho com afastamento superior a 15 dias.**  
+A partir do 16º dia, há suspensão contratual, mas permanece a obrigação de depósito do FGTS durante a licença acidentária (Lei 8.036/1990, art. 15, § 5º). É uma exceção que costuma aparecer em prova.
+
+**Caso 4 — empregado falta para comparecer a juízo.**  
+A ausência é justificada pelo art. 473, VIII, da CLT, pelo tempo necessário. Classificação: interrupção.
+
+**Caso 5 — empregado participa de greve.**  
+A regra do art. 7º da Lei 7.783/1989 é a suspensão do contrato. Entretanto, o pagamento dos dias parados pode ser ajustado por negociação coletiva ou definido judicialmente.
+
+**Caso 6 — empregador aplica suspensão disciplinar de 31 dias consecutivos.**  
+A penalidade ultrapassa o limite do art. 474 da CLT. A consequência legal é considerar rescindido injustamente o contrato pelo empregador. A questão 190 do banco cobra precisamente esse limite: 30 dias, não 7 ou 15.
+
+**Caso 7 — empregado é convocado para serviço militar obrigatório.**  
+O afastamento é suspensão com efeitos especiais. O contrato não pode ser rescindido por esse motivo; o empregado deve observar o procedimento de retorno do art. 472 da CLT. O FGTS é obrigatório durante o afastamento (Lei 8.036/1990, art. 15, § 5º).
+
+**Caso 8 — empregado sai de licença sem remuneração por interesse pessoal.**  
+Em regra, suspensão: não há trabalho nem salário pago pelo empregador, e o período não conta como tempo de serviço, salvo regra especial mais favorável.
+
+### 6.6. Estratégia de resolução FCC
+
+Ao ler a situação, faça quatro perguntas nesta ordem:
+
+1. O empregado deixou de trabalhar? Se não, não é caso clássico de suspensão/interrupção.
+2. O empregador continua obrigado a pagar a remuneração? Se sim, a hipótese tende a ser interrupção.
+3. Existe benefício previdenciário ou outra causa legal de suspensão? Se sim, classifique como suspensão, mas procure exceções.
+4. A lei preserva algum efeito específico durante a suspensão? Verifique FGTS, tempo de serviço, férias e garantia provisória.
+
+**Erros recorrentes:**
+- afirmar que toda suspensão elimina qualquer depósito de FGTS;
+- afirmar que todo dia de greve será descontado;
+- confundir os primeiros 15 dias de doença com o período previdenciário posterior;
+- aplicar o limite de 30 dias do art. 474 a afastamentos que não sejam suspensão disciplinar;
+- tratar todas as faltas justificadas como hipóteses idênticas, sem observar os incisos e limites do art. 473.
+
 ## 7. Atualização legislativa e cautelas para a prova
 
 1. **Art. 473 em 2026:** considerar a redação vigente em 23/11/2026, inclusive a ampliação para 20 dias na hipótese específica ligada à síndrome congênita do Zika (Lei 15.156/2025) e o dever de informação sobre exames preventivos de HPV e câncer (Lei 15.377/2026).
