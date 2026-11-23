@@ -709,3 +709,28 @@ De acordo com a CLT, em razão das prorrogações contratuais e dos respectivos 
 
 **Macete:** três dias corridos para convocar; um dia útil para responder.
 
+
+
+### Questão 223 — PGE-TO, 2025 — forma escrita e inatividade no trabalho intermitente
+
+**Enunciado:** Acerca da modalidade contratual de trabalho intermitente, é correto afirmar:
+
+- A) O contrato deve ser celebrado por escrito e, nos períodos de inatividade, o trabalhador poderá prestar serviços a outros contratantes.
+- B) Aceita a oferta, se o empregador desistir injustificadamente, deverá pagar o valor integral do período acordado.
+- C) O STF julgou o contrato intermitente inconstitucional.
+- D) Sucessivas recusas desfazem o contrato e afastam a subordinação.
+- E) O período de inatividade gera pagamento de FGTS mesmo sem ser tempo de serviço.
+
+**Gabarito: A.**
+
+**Fundamentos:** art. 452-A, §§ 1º, 3º, 4º, 5º e 8º, da CLT; julgamento das ADIs 5.826, 5.829 e 6.154 pelo STF.
+
+**Análise das alternativas:**
+- A está correta: o contrato deve ser escrito (§ 1º), e o trabalhador pode prestar serviços a outros contratantes durante a inatividade (§ 5º).
+- B está errada: a penalidade legal pelo descumprimento injustificado após o aceite é de 50% da remuneração que seria devida (§ 4º), não o valor integral.
+- C está errada: o STF declarou constitucionais os dispositivos que instituíram o trabalho intermitente, no julgamento das ADIs 5.826, 5.829 e 6.154, concluído em dezembro de 2024.
+- D está errada: a recusa não descaracteriza a subordinação (§ 3º).
+- E está errada: o FGTS é recolhido sobre os valores pagos durante os períodos de prestação de serviços (§ 8º), não sobre a inatividade.
+
+**Atualização jurisprudencial:** para a prova, registre que o STF reconheceu a constitucionalidade do regime legal do trabalho intermitente nas ADIs 5.826, 5.829 e 6.154.
+
