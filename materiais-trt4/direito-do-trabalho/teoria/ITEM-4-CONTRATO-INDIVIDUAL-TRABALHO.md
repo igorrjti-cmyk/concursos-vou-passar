@@ -1163,3 +1163,28 @@ Exemplos: substituição de empregado em licença, afastamento previdenciário o
 
 **Pegadinha:** demanda sazonal previsível também pode justificar trabalho temporário. Não confundir “previsível” com “permanente”.
 
+
+
+### Questão 254 — FCC, TRT-20, 2006 — prorrogação do contrato por prazo determinado
+
+**Enunciado:** De acordo com a CLT, em relação ao contrato individual de trabalho por prazo determinado, é correto afirmar:
+
+- A) Novo contrato a termo com o mesmo empregado é permitido, em regra, após três meses.
+- B) Contrato por prazo determinado prorrogado, tácita ou expressamente, mais de uma vez passa a vigorar sem determinação de prazo.
+- C) Contrato de experiência pode durar no máximo 60 dias.
+- D) Contrato para atividade empresarial transitória pode durar três anos.
+- E) O empregador deve dar aviso-prévio 20 dias antes do término.
+
+**Gabarito: B.**
+
+**Fundamentos:** arts. 445, 451 e 452 da CLT.
+
+**Análise das alternativas:**
+- A está errada: o art. 452 prevê, como regra, intervalo de seis meses para novo contrato a termo com o mesmo empregado, ressalvadas as exceções legais.
+- B está correta: reproduz o art. 451.
+- C está errada: o contrato de experiência pode durar até 90 dias.
+- D está errada: o limite geral do contrato por prazo determinado é de dois anos.
+- E está errada: não existe obrigação geral de aviso-prévio de 20 dias para o término normal do contrato a termo.
+
+**Ponto de prova:** distinguir duração máxima, quantidade de prorrogações e intervalo entre contratos sucessivos.
+
