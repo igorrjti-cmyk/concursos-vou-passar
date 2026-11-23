@@ -734,3 +734,141 @@ Foi realizada nova consulta direta à tabela `public.questoes`, no escopo `concu
 - CLT, arts. 165, 482, 500, 510-D, § 3º, 543, § 3º, e 853.
 - TST, Súmulas 244, 339 e 369.
 - TST, Tema 55 dos recursos repetitivos, sobre validade do pedido de demissão da empregada gestante com assistência sindical ou da autoridade competente.
+
+
+## Material autoral — procedimentos rescisórios, prazo e multas dos arts. 467 e 477
+
+### 1. Prazo legal único — art. 477, § 6º, da CLT
+
+Com a Reforma Trabalhista (Lei 13.467/2017), foi unificado o prazo para as providências rescisórias: o empregador deve entregar os documentos que comprovem a comunicação da extinção contratual aos órgãos competentes e pagar os valores constantes do instrumento de rescisão ou recibo de quitação **em até 10 dias contados do término do contrato**.
+
+- A regra atual não diferencia aviso-prévio trabalhado, indenizado ou dispensa de seu cumprimento para estabelecer prazos de pagamento distintos.
+- A contagem é em dias corridos, pois a CLT não qualifica o prazo como dias úteis.
+- A obrigação envolve tanto o pagamento quanto a entrega dos documentos rescisórios.
+- A antiga sistemática de um dia útil após o término do contrato ou até o décimo dia, conforme a modalidade de aviso, não é a regra vigente.
+
+**Pegadinha FCC:** não confundir os 10 dias do art. 477, § 6º, com o prazo de 2 dias para anotação da CTPS em regras antigas, nem com prazos processuais. Para a rescisão, memorize: 10 dias a partir do término do contrato.
+
+### 2. Multa do art. 477, § 8º
+
+O descumprimento do prazo do § 6º sujeita o empregador à multa em favor do empregado em valor equivalente ao seu salário, salvo quando, comprovadamente, o trabalhador der causa à mora.
+
+Pontos de prova:
+- É multa pelo atraso no cumprimento das obrigações rescisórias do § 6º.
+- O valor legal corresponde ao salário do empregado.
+- O destinatário da multa é o empregado.
+- A exceção expressa é a mora causada pelo trabalhador, desde que comprovada.
+- Não confundir com a multa do art. 467, que tem pressuposto e momento próprios.
+
+### 3. Multa do art. 467 — parcelas incontroversas
+
+Em caso de rescisão contratual, existindo controvérsia sobre o montante das verbas rescisórias, o empregador deve pagar ao trabalhador, na data do comparecimento à Justiça do Trabalho, a parte incontroversa dessas verbas, sob pena de pagá-la acrescida de 50%.
+
+- Pressuposto: existência de parcelas rescisórias incontroversas.
+- Momento: comparecimento à Justiça do Trabalho, tradicionalmente cobrado como primeira audiência.
+- Consequência: acréscimo de 50% sobre a parte incontroversa não paga.
+- A multa não incide sobre parcelas efetivamente controvertidas apenas porque foram pedidas na ação.
+
+**Exemplo:** se R$ 3.000,00 de verbas rescisórias são reconhecidos como devidos e não são pagos na audiência, o acréscimo legal pode ser de R$ 1.500,00 sobre essa parte incontroversa.
+
+### 4. Comparação que a FCC pode cobrar
+
+| Ponto | Art. 467 | Art. 477, § 8º |
+|---|---|---|
+| Fato gerador | Não pagamento da parte incontroversa na audiência | Descumprimento do prazo rescisório do § 6º |
+| Base | Parte incontroversa das verbas rescisórias | Valor equivalente ao salário do empregado |
+| Percentual/valor | Acréscimo de 50% | Uma remuneração salarial equivalente |
+| Momento | Comparecimento à Justiça do Trabalho | Atraso além dos 10 dias |
+| Exceção destacada | Não há incidência sobre parcelas controvertidas | Mora comprovadamente causada pelo trabalhador |
+
+### 5. Instrumento de rescisão, recibo e quitação — art. 477, §§ 2º e 4º
+
+O instrumento de rescisão ou recibo de quitação deve discriminar a natureza de cada parcela paga e indicar seu valor. A quitação é válida em relação às parcelas nele especificadas.
+
+Consequências:
+- Não basta uma declaração genérica para presumir quitação irrestrita de todo e qualquer direito do contrato.
+- A discriminação das parcelas e dos valores permite identificar o que foi efetivamente pago.
+- O recibo não impede discussão judicial de diferenças ou de parcelas não quitadas, observados os limites legais e jurisprudenciais.
+
+### 6. Homologação sindical após a Reforma Trabalhista
+
+A Reforma Trabalhista revogou a exigência geral de homologação sindical prevista no antigo § 1º do art. 477 da CLT, que alcançava contratos com mais de um ano de duração.
+
+Assim:
+- Não existe, na regra geral atual da CLT, obrigação de homologar toda rescisão no sindicato apenas porque o empregado trabalhou por mais de um ano.
+- Norma coletiva pode estabelecer procedimentos ou garantias adicionais, respeitados os limites legais.
+- A ausência de homologação sindical, por si só, não invalida a rescisão sob a regra geral vigente.
+- Não confundir homologação sindical com assistência obrigatória em hipóteses específicas, como pedido de demissão de empregado estável (art. 500 da CLT).
+
+### 7. Pegadinhas de revisão
+
+1. **Prazo:** 10 dias contados do término do contrato, e não da assinatura do TRCT ou da homologação.
+2. **Dias:** a lei não diz dias úteis; a contagem é contínua.
+3. **Duas obrigações:** pagamento e entrega dos documentos rescisórios dentro do prazo.
+4. **Art. 467:** 50% sobre parcelas incontroversas não pagas no comparecimento à Justiça do Trabalho.
+5. **Art. 477:** multa equivalente ao salário, ressalvada a mora comprovadamente causada pelo empregado.
+6. **Homologação:** não há exigência geral de homologação sindical após a Reforma.
+7. **Quitação:** o recibo discrimina parcelas e valores; quitação não é automaticamente geral e irrestrita.
+8. **Pedido de demissão de estável:** continua sujeito à assistência prevista no art. 500 da CLT; isso não restaura a antiga homologação geral.
+
+### 8. Questões autorais — não extraídas de provas oficiais
+
+**AB.** Após a extinção do contrato de trabalho, o empregador dispõe, como regra geral, de qual prazo para pagar as verbas rescisórias e entregar os documentos que comprovem a comunicação da extinção contratual aos órgãos competentes?
+
+- A) 48 horas, contadas da comunicação da dispensa.
+- B) 5 dias úteis, contados da assinatura do aviso-prévio.
+- C) 10 dias contados do término do contrato.
+- D) 30 dias, contados da homologação sindical.
+
+**Gabarito: C.** Art. 477, § 6º, da CLT.
+
+**AC.** O empregador deixa de pagar as verbas rescisórias no prazo legal, sem que o empregado tenha dado causa à mora. Nos termos do art. 477, § 8º, da CLT, a consequência é:
+
+- A) Multa de 50% sobre todas as verbas rescisórias.
+- B) Multa em favor do empregado equivalente ao seu salário.
+- C) Multa fixa de um salário mínimo, destinada ao sindicato.
+- D) Apenas juros, sem multa legal.
+
+**Gabarito: B.** Art. 477, § 8º, da CLT.
+
+**AD.** Em reclamação trabalhista, o empregador reconhece parte das verbas rescisórias, mas não a paga no comparecimento à Justiça do Trabalho. Conforme o art. 467 da CLT, poderá incidir:
+
+- A) Multa de 10% sobre o total pedido.
+- B) Acréscimo de 50% sobre a parte incontroversa não paga.
+- C) Multa equivalente a um salário do empregado, independentemente do atraso.
+- D) Acréscimo de 50% sobre todas as parcelas, inclusive as controvertidas.
+
+**Gabarito: B.** Art. 467 da CLT.
+
+**AE.** Após a Reforma Trabalhista, a homologação sindical da rescisão é obrigatória, como regra geral, sempre que o contrato tiver duração superior a um ano?
+
+- A) Sim, porque o art. 477, § 1º, permanece em vigor.
+- B) Sim, mas somente para empregados mensalistas.
+- C) Não. A exigência geral foi revogada, sem prejuízo de regras específicas ou normativas aplicáveis.
+- D) Não, porque toda assistência sindical foi proibida.
+
+**Gabarito: C.** A Lei 13.467/2017 revogou o antigo § 1º do art. 477 da CLT. Não confundir com hipóteses específicas de assistência, como o art. 500 da CLT.
+
+**AF.** O recibo de quitação rescisória deve:
+
+- A) Declarar quitadas todas as obrigações do contrato, mesmo sem discriminação.
+- B) Discriminar a natureza e o valor de cada parcela paga, sendo a quitação válida em relação às parcelas especificadas.
+- C) Ser homologado pelo sindicato em todos os casos.
+- D) Indicar apenas o valor líquido total, sem detalhamento.
+
+**Gabarito: B.** Art. 477, § 2º, da CLT.
+
+### 9. Consulta ao banco de questões — resultado desta etapa
+
+Foi realizada consulta direta à tabela `public.questoes` do projeto **Concursos: Vou Passar!**, no escopo `concurso='TRT4'`, buscando referências expressas aos arts. 467 e 477, prazo de pagamento rescisório, homologação e quitação.
+
+- A consulta específica não retornou questões com esses enunciados ou tópicos.
+- A busca mais ampla por palavras como rescisão, multa e prazo trouxe questões de outros assuntos (por exemplo, contrato por prazo determinado e trabalho temporário), que não foram classificadas artificialmente como questões de procedimento rescisório.
+- **Nenhuma questão oficial foi inserida nesta etapa.** As questões AB–AF são autorais e ficam identificadas como tais.
+
+### 10. Referências normativas
+
+- CLT, art. 467.
+- CLT, art. 477, §§ 2º, 4º, 6º e 8º.
+- Lei 13.467/2017 (Reforma Trabalhista), especialmente a alteração do art. 477 da CLT.
+- CLT, art. 500, para a hipótese específica de pedido de demissão de empregado estável.
