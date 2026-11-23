@@ -6,12 +6,13 @@ on:
       pasta:
         description: "Pasta dentro de materiais-trt4 (ex.: direito-do-trabalho)"
         required: true
-        default: "direito-do-trabalho"
+        default: "direito-administrativo"
         type: string
   push:
     paths:
       - ".github/workflows/extrair-pdfs.yml"
       - "materiais-trt4/direito-do-trabalho/**"
+      - "materiais-trt4/direito-administrativo/**"
 
 permissions:
   contents: read
@@ -36,7 +37,7 @@ jobs:
 
       - name: Extrair texto página por página
         env:
-          PASTA_MATERIA: ${{ inputs.pasta || 'direito-do-trabalho' }}
+          PASTA_MATERIA: ${{ inputs.pasta || 'direito-administrativo' }}
         run: python scripts/extrair_pdfs.py
 
       - name: Disponibilizar textos extraídos
