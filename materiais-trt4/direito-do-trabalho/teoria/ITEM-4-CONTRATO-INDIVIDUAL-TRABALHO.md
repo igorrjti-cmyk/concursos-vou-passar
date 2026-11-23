@@ -1032,3 +1032,28 @@ O trabalhador intermitente possui direito a férias. A particularidade é a form
 
 **Pegadinha:** não confundir o pagamento proporcional ao final de cada período trabalhado com o período anual de descanso sem convocação.
 
+
+
+### Questão 236 — FCC, TRT-21, 2023 — empresa de trabalho temporário
+
+**Enunciado:** Em relação à empresa de trabalho temporário, a legislação estabelece:
+
+- A) Contrato máximo de 120 dias, prorrogável por 60.
+- B) Comissão de 10% paga pelo trabalhador.
+- C) Possibilidade irrestrita de contratação de estrangeiros com visto provisório.
+- D) É vedado à empresa de trabalho temporário contratar trabalhador temporário para si, ressalvadas as hipóteses legais.
+- E) Capital social mínimo de R$ 120.000,00.
+
+**Gabarito: D.**
+
+**Fundamentos:** Lei 6.019/1974, arts. 10, §§ 1º e 2º, e 18; Decreto 10.854/2021, arts. 45, 52 e 53.
+
+**Análise das alternativas:**
+- A está errada: o contrato temporário pode durar até 180 dias e ser prorrogado por até mais 90 dias, quando mantidas as condições que justificaram a contratação.
+- B está errada: a empresa não pode cobrar qualquer valor do trabalhador, inclusive a título de mediação de mão de obra.
+- C está errada: a alternativa apresenta uma autorização irrestrita que não corresponde às restrições legais aplicáveis.
+- D está correta: o art. 52 do Decreto 10.854/2021 veda à empresa de trabalho temporário ter ou utilizar trabalhador temporário em seus próprios serviços, ressalvadas as hipóteses dos incisos I e II.
+- E está errada: o capital social mínimo exigido é de R$ 100.000,00 (art. 45 do Decreto 10.854/2021).
+
+**Atenção:** trabalho temporário não é a mesma coisa que contrato por prazo determinado da CLT. O primeiro tem disciplina específica na Lei 6.019/1974 e no Decreto 10.854/2021.
+
