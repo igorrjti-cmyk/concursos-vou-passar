@@ -69,6 +69,23 @@ A suspensão disciplinar por mais de 30 dias consecutivos importa rescisão inju
 - Exemplo localizado na amostra: questão FCC 2014, Q162, Parte 1, p. 36, aborda suspensão contratual superior a 30 dias e o art. 474 da CLT (gabarito indicado no material: alternativa A).
 - Ao resolver, classificar cada alternativa pelos requisitos do vínculo, distinguindo subordinação jurídica de mera coordenação ou fiscalização contratual.
 
+### Mapeamento adicional — Parte 1, pp. 40–42
+
+Foram transcritas e cadastradas no banco as questões 184–193, que complementam a faixa de relação de trabalho/emprego:
+
+- **Q184 — TRT-1/2013:** distinção entre contrato de emprego e empreitada.
+- **Q185 — INSS/2012:** sujeitos do contrato, empregado e empregador.
+- **Q186 — TRT-20/2012:** parentesco e reconhecimento do vínculo; requisitos dos arts. 2º e 3º da CLT.
+- **Q187 — SERGAS/2010:** conceito de empregado, empregador e entidades sem fins lucrativos.
+- **Q188 — TRT-3/2009:** subordinação como distinção entre empregado e autônomo.
+- **Q189 — TRT-16/2009:** dependência econômica não é requisito específico; possibilidade de múltiplos vínculos.
+- **Q190 — OAB-SP/2005:** limite de 30 dias para suspensão disciplinar (art. 474 da CLT).
+- **Q191 — TRT-8/2004:** direção da prestação pessoal e assunção dos riscos pelo empregador.
+- **Q192 — TRT-2/2004:** conceito de empregado e responsabilidade solidária no grupo econômico.
+- **Q193 — TRT-23/2004:** pessoalidade e possibilidade de substituição por terceiro.
+
+As provas de outros TRTs foram mantidas como material válido para o banco do TRT-4. A questão 190, embora antiga e de origem OAB, foi mantida por cobrar diretamente o limite legal do art. 474.
+
 ## Súmulas e jurisprudência para revisão
 
 - Súmula 51 do TST: regulamento empresarial e alterações de vantagens.
