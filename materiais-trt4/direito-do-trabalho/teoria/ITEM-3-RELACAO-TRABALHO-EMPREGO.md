@@ -86,6 +86,24 @@ Foram transcritas e cadastradas no banco as questões 184–193, que complementa
 
 As provas de outros TRTs foram mantidas como material válido para o banco do TRT-4. A questão 190, embora antiga e de origem OAB, foi mantida por cobrar diretamente o limite legal do art. 474.
 
+### Mapeamento complementar — Parte 2, pp. 8–12: trabalho temporário
+
+O caderno apresenta questões 236–253 sobre a Lei 6.019/1974. Foram cadastradas as 18 questões no banco, incluindo provas de TRT-9, TRT-14, TRT-16, TRT-18, TRT-20, TRT-21, TRT-23 e TRT-24, além de outras bancas. A questão 254, sobre prorrogação do contrato a termo, foi vinculada ao item 4.
+
+**Pontos cobrados com maior frequência:**
+
+- Hipóteses de trabalho temporário: substituição transitória de pessoal permanente e demanda complementar de serviços.
+- Demanda complementar: fatores imprevisíveis ou, se previsíveis, natureza intermitente, periódica ou sazonal.
+- Prazo: até 180 dias, consecutivos ou não, com prorrogação por até 90 dias quando mantidas as condições justificadoras.
+- Atividades: o contrato temporário pode abranger atividade-meio e atividade-fim da tomadora.
+- Relação triangular: vínculo empregatício com a empresa de trabalho temporário; a tomadora dirige a prestação durante a colocação à disposição.
+- Direitos e remuneração: observar a Lei 6.019/1974, inclusive remuneração equivalente à dos empregados da mesma categoria da tomadora, calculada à base horária.
+- Segurança e saúde: a tomadora deve garantir condições de segurança, higiene e salubridade quando o trabalho ocorrer em suas dependências ou local previamente convencionado.
+- Vedação: não se admite contratação temporária para substituição de grevistas, salvo hipóteses legais.
+- Cláusula de reserva: é nula a cláusula que proíba a contratação do trabalhador pela tomadora ao final.
+
+**Cautela temporal:** algumas questões antigas reproduzem redações anteriores à Lei 13.429/2017 e à Lei 13.467/2017. Elas foram mantidas para treino histórico, mas os prazos antigos (como 3 ou 6 meses e 120 dias) não devem ser memorizados como regra vigente. Para a prova, prevalece a redação atual da Lei 6.019/1974.
+
 ## Súmulas e jurisprudência para revisão
 
 - Súmula 51 do TST: regulamento empresarial e alterações de vantagens.
