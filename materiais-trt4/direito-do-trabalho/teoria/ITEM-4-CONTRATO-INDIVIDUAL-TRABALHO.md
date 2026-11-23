@@ -107,3 +107,28 @@ Na Parte 2, páginas impressas 1–3, foram localizadas 13 questões (números 2
 1. Fechar a análise página a página das alterações contratuais (152–168), incluindo transferência, reversão de função e supressão de vantagens.
 2. Revisar as hipóteses de suspensão/interrupção à luz da CLT vigente em 2026, sobretudo art. 473.
 3. Mapear questões específicas de alteração contratual e suspensão/interrupção nas demais partes do caderno; as 13 cadastradas nesta etapa cobrem apenas contrato a termo/experiência.
+
+
+## 10. Detalhamento das páginas 152–168 — alteração contratual
+
+| Página | O que estudar / observação |
+|---|---|
+| 152–153 | Regra do art. 468: mútuo consentimento + ausência de prejuízo direto ou indireto. Jus variandi ordinário. Uniforme (art. 456-A) e alteração da data de pagamento, respeitado o 5º dia útil (OJ 159/TST). |
+| 153–154 | Reversão da função de confiança: pode ocorrer sem anuência; o § 2º do art. 468 afasta incorporação da gratificação pelo tempo de exercício. O material informa cancelamento do item I da Súmula 372 em 2025; não usar a antiga regra dos 10 anos como vigente. Rebaixamento é diferente de reversão. |
+| 154 | Readaptação e aproveitamento; redução de jornada sem redução salarial como regra; exceções legais/negociadas. Transferência do noturno para o diurno pode retirar o adicional noturno (Súmula 265/TST). |
+| 155 | Regulamento empresarial: Súmula 51/TST, alteração prejudicial não alcança contratos antigos. Substituição não eventual, inclusive férias: Súmula 159/TST. Supressão de horas extras habituais por pelo menos 1 ano: indenização conforme Súmula 291/TST. |
+| 156–158 | Transferência: exige mudança de domicílio. Regra: anuência; exceções para cargo de confiança ou cláusula explícita/implícita, sempre com real necessidade de serviço. Súmula 43/TST presume abusiva a transferência sem prova da necessidade. |
+| 157–158 | Transferência provisória: adicional de no mínimo 25%; despesas da transferência são do empregador. Cargo de confiança e cláusula de transferência não eliminam o adicional se a transferência for provisória (OJ 113/TST). Transferência definitiva não gera o adicional. |
+| 159–168 | Questões de treino do PDF sobre reversão, regulamento empresarial, transferência, art. 468 e jus variandi. Use-as para fixar as distinções; não confundir os exercícios do material teórico com as questões FCC do caderno TEC. |
+
+### Pontos de maior risco de erro
+
+1. **Mútuo consentimento não basta:** se houver prejuízo ao empregado, a alteração é nula.
+2. **Reversão não é rebaixamento:** o empregador pode retirar a função de confiança e devolver o empregado ao cargo efetivo; a gratificação não se incorpora apenas pelo decurso do tempo, conforme a redação atual do art. 468, § 2º.
+3. **Transferência não é mera mudança de local de trabalho:** para os efeitos do art. 469, exige mudança necessária de domicílio.
+4. **Cláusula de transferência não autoriza arbitrariedade:** continua necessária a real necessidade de serviço.
+5. **Adicional de transferência:** depende de transferência provisória; percentual mínimo de 25%.
+6. **Regulamento empresarial:** a alteração que suprime vantagem alcança, em regra, apenas empregados admitidos após a mudança (Súmula 51, I, TST).
+7. **Horas extras habituais:** a supressão total ou parcial após pelo menos um ano pode gerar indenização, conforme Súmula 291/TST.
+
+**Ajuste de prioridade:** páginas 152–158 são essenciais para o item 4. As páginas 159–168 são exercícios de aplicação e revisão.
