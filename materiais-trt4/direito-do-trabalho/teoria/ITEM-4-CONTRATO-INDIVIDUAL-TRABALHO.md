@@ -961,3 +961,36 @@ Está correto APENAS o que se afirma em:
 
 **Pegadinha:** não confundir o período de inatividade com férias. A inatividade pode ocorrer entre convocações; o direito específico de férias segue a regra dos 12 meses.
 
+
+
+### Questão 233 — FCC, TRT-23, 2022 — assertivas sobre o trabalho intermitente
+
+**Enunciado:** Considere as assertivas:
+
+I. O contrato intermitente pode ser tácito.  
+II. Apenas aeronautas são excluídos da possibilidade de contrato intermitente.  
+III. O silêncio após um dia útil é recusa e descaracteriza a subordinação.  
+IV. A convocação exige cinco dias corridos.  
+V. O descumprimento injustificado após aceite gera multa de 50% da remuneração em 30 dias.
+
+Está correto APENAS em:
+
+- A) I, III e V.
+- B) II e V.
+- C) III e IV.
+- D) I, II e IV.
+- E) III e V.
+
+**Gabarito: B — II e V.**
+
+**Fundamentos:** arts. 443, § 3º, e 452-A, §§ 1º a 4º, da CLT.
+
+**Análise das assertivas:**
+- I é falsa: o contrato intermitente exige forma escrita (art. 452-A).
+- II é verdadeira: a definição legal exclui expressamente os aeronautas, que possuem legislação própria (art. 443, § 3º).
+- III é falsa: o silêncio após um dia útil significa recusa, mas a recusa não descaracteriza a subordinação (§§ 2º e 3º).
+- IV é falsa: a antecedência mínima é de três dias corridos, não cinco (§ 1º).
+- V é verdadeira: a multa é de 50% da remuneração que seria devida, com pagamento em até 30 dias e possibilidade de compensação (§ 4º).
+
+**Ponto de prova:** a FCC combina várias regras em uma única questão. Domine cada parágrafo do art. 452-A, não apenas o conceito geral.
+
