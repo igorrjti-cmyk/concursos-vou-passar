@@ -295,3 +295,68 @@ O art. 484 da CLT prevê redução pela metade da indenização que seria devida
 - Lei 8.036/1990, art. 18, § 2º, quanto à indenização do FGTS na culpa recíproca.
 - Súmula 14 do TST.
 
+## Material autoral — força maior e fato do príncipe (arts. 501 a 503 e 486 da CLT)
+
+### 1. Força maior — art. 501
+A CLT considera força maior todo acontecimento inevitável em relação à vontade do empregador, para cuja realização ele não tenha concorrido direta ou indiretamente.
+- A **imprevidência do empregador exclui a razão de força maior** (§ 1º).
+- Se o acontecimento não afetar substancialmente, nem for suscetível de afetar substancialmente, a situação econômica e financeira da empresa, não se aplicam as restrições do capítulo da força maior (§ 2º).
+- Dificuldade financeira comum, queda de vendas ou má gestão, por si sós, não caracterizam força maior. O risco normal da atividade econômica não é transferido ao empregado.
+
+### 2. Efeitos rescisórios — art. 502
+Se a força maior determinar a extinção da empresa ou de um estabelecimento em que o empregado trabalhe, a CLT prevê:
+- Empregado estável: indenização nos termos dos arts. 477 e 478.
+- Empregado sem estabilidade: metade da indenização que seria devida na rescisão sem justa causa.
+- Contrato por prazo determinado: indenização do art. 479 reduzida igualmente à metade.
+
+No regime do FGTS, a Lei 8.036/1990, art. 18, § 2º, prevê indenização de 20% quando a despedida decorrer de força maior reconhecida pela Justiça do Trabalho, observados os requisitos legais.
+
+### 3. Redução salarial — art. 503 e Constituição
+O art. 503 da CLT contém previsão de redução geral dos salários, em caso de força maior ou prejuízos devidamente comprovados, limitada a 25%, proporcional aos salários e respeitado o salário mínimo, com restabelecimento após cessarem os efeitos da situação.
+**Leitura constitucional indispensável:** o art. 7º, VI, da Constituição assegura a irredutibilidade salarial, salvo o disposto em convenção ou acordo coletivo. Portanto, o art. 503 não deve ser tratado como autorização geral para redução salarial unilateral pelo empregador. A questão deve ser resolvida em conformidade com a Constituição e com a exigência de negociação coletiva.
+
+### 4. Fato do príncipe — art. 486
+O *factum principis* ocorre quando a paralisação temporária ou definitiva do trabalho é motivada por ato de autoridade municipal, estadual ou federal, ou pela promulgação de lei ou resolução que impossibilite a continuação da atividade. O art. 486 atribui a indenização ao governo responsável, se configurada a hipótese legal.
+- É necessário nexo causal entre o ato estatal e a impossibilidade de continuidade do trabalho.
+- Mero prejuízo econômico provocado por política pública, alteração regulatória ou queda de demanda não basta automaticamente.
+- O art. 486 prevê procedimento para chamar ao processo a pessoa jurídica de direito público apontada como responsável, para que alegue o que entender devido.
+
+### 5. Comparação essencial
+| Instituto | Dispositivo | Elemento central |
+|---|---|---|
+| Força maior | Art. 501 | Acontecimento inevitável, sem contribuição direta ou indireta do empregador; imprevidência exclui |
+| Efeitos rescisórios da força maior | Art. 502 | Extinção da empresa/estabelecimento por força maior; indenização reduzida nos termos legais |
+| Redução salarial | Art. 503 | Texto da CLT deve ser lido conforme art. 7º, VI, da Constituição |
+| Fato do príncipe | Art. 486 | Ato de autoridade ou lei/resolução que efetivamente impossibilita a continuidade da atividade |
+
+### 6. Questões autorais — não extraídas de provas oficiais
+
+**L.** Conforme o art. 501 da CLT, a imprevidência do empregador:
+- A) Não interfere na caracterização da força maior.
+- B) Exclui a razão de força maior.
+- C) Gera automaticamente culpa recíproca.
+- D) Transfere ao empregado o risco da atividade econômica.
+
+**Gabarito: B.** É a previsão expressa do § 1º do art. 501.
+
+**M.** Uma empresa encerra suas atividades em razão de acontecimento inevitável, para o qual o empregador não concorreu direta ou indiretamente, e que afeta substancialmente sua situação econômica. A hipótese pode caracterizar:
+- A) Fato do príncipe, necessariamente.
+- B) Força maior, nos termos do art. 501 da CLT.
+- C) Justa causa do empregado.
+- D) Pedido de demissão coletivo.
+
+**Gabarito: B.** A descrição corresponde aos elementos do art. 501, desde que demonstrados no caso concreto.
+
+**N.** A paralisação temporária ou definitiva do trabalho decorre diretamente de ato de autoridade pública que impossibilita a continuidade da atividade. O instituto previsto na CLT é:
+- A) Culpa recíproca.
+- B) Força maior do art. 501.
+- C) Fato do príncipe do art. 486.
+- D) Rescisão indireta do art. 483.
+
+**Gabarito: C.** O art. 486 disciplina a paralisação motivada por ato de autoridade ou por lei/resolução que impossibilite a continuidade da atividade.
+
+### Referências normativas
+- Constituição Federal, art. 7º, VI.
+- CLT, arts. 486 e 501 a 503.
+- Lei 8.036/1990, art. 18, § 2º.
+
