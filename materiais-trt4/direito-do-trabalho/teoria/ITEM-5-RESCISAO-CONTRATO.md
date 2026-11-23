@@ -653,3 +653,84 @@ Foi feita consulta direta à tabela `public.questoes` do projeto **Concursos: Vo
 - Entre os registros identificados estão FCC — TRT11/2017 (licença à gestante, questão 76, Parte 1, p. 17), FCC — TRT12/2023 (acidente do trabalho, questão 35, Parte 1, p. 9) e FCC — TRF3/2024 (acidente do trabalho, questão 25, Parte 1, p. 6).
 - Esses enunciados tratam de direitos constitucionais/licença ou seguro e responsabilidade por acidente, não necessariamente da garantia provisória de emprego. Por isso, não foram classificados artificialmente como questões de estabilidade.
 - **Nenhuma questão oficial foi inserida nesta etapa.** As questões S–W acima são autorais e permanecem identificadas como tais. A busca específica por estabilidade provisória deverá continuar nas demais fontes e páginas do caderno, preservando a origem real de cada questão.
+
+
+## Material autoral — dispensa arbitrária, reintegração e término da estabilidade
+
+### 1. Dispensa arbitrária e dispensa sem justa causa
+- **Dispensa sem justa causa:** iniciativa do empregador sem imputação de falta grave ao empregado.
+- **Dispensa arbitrária:** para o art. 165 da CLT, é a que não se funda em motivo disciplinar, técnico, econômico ou financeiro. Esse conceito aparece na proteção dos representantes eleitos da CIPA.
+- A Constituição, no art. 7º, I, prevê proteção contra despedida arbitrária ou sem justa causa, nos termos de lei complementar. Para as garantias provisórias, aplicar também os dispositivos específicos do ADCT e da CLT.
+
+### 2. Reintegração e indenização substitutiva
+Quando a dispensa viola garantia provisória:
+- **Se o período de garantia ainda está em curso:** a reintegração é, em regra, a tutela adequada, com recomposição dos direitos do período de afastamento.
+- **Se o período já terminou:** a reintegração deixa de ser útil; pode ser devida indenização substitutiva correspondente aos salários e demais direitos do período estabilitário, observados os limites do pedido e a jurisprudência aplicável.
+- O término do período de estabilidade durante o processo não elimina automaticamente o direito à indenização do período protegido.
+
+**Gestante:** Súmula 244, II, do TST: a garantia autoriza reintegração se esta ocorrer durante o período de estabilidade; do contrário, a garantia restringe-se aos salários e demais direitos correspondentes ao período estabilitário.
+
+### 3. Pedido de demissão do empregado estável — art. 500 da CLT
+O pedido de demissão do empregado estável só será válido quando feito com assistência do respectivo sindicato e, na falta deste, perante autoridade competente, na forma do art. 500 da CLT.
+- Não presumir renúncia à garantia por silêncio, assinatura de documento genérico ou simples recebimento de verbas.
+- Para a empregada gestante detentora de estabilidade, o TST fixou, em julgamento repetitivo (Tema 55), que o pedido de demissão somente é válido com assistência do sindicato profissional ou da autoridade local competente, conforme art. 500 da CLT.
+- Em prova, diferenciar pedido de demissão formalmente válido de dispensa promovida pelo empregador.
+
+### 4. Justa causa durante a estabilidade
+A garantia provisória não transforma o empregado em imune à aplicação de justa causa. Se houver falta grave enquadrada no art. 482 da CLT e comprovada de forma suficiente, a ruptura pode ser válida.
+- A falta deve ser efetivamente demonstrada.
+- Devem ser observados gravidade, proporcionalidade, imediatidade, nexo e ausência de dupla punição.
+- Para dirigente sindical, a apuração da falta grave exige atenção ao inquérito judicial previsto nos arts. 543, § 3º, e 853 da CLT.
+- Para os demais estáveis, verificar a regra legal específica e a necessidade de procedimento judicial ou administrativo; não generalizar o inquérito do dirigente sindical a todos os casos.
+
+### 5. Extinção do estabelecimento ou da atividade
+- **CIPA:** a Súmula 339, II, do TST estabelece que a estabilidade não constitui vantagem pessoal, mas garantia para as atividades dos representantes dos empregados. Extinto o estabelecimento, não subsiste a garantia, pois deixa de existir a atividade para a qual a CIPA foi constituída.
+- **Dirigente sindical:** a Súmula 369, IV, do TST dispõe que, havendo extinção da atividade empresarial no âmbito da base territorial do sindicato, não subsiste a estabilidade.
+- **Outras garantias:** não aplicar automaticamente essas conclusões. Examinar a lei e a jurisprudência específicas da garantia em questão e as circunstâncias concretas.
+
+### 6. Questões autorais — não extraídas de provas oficiais
+
+**X.** Empregada gestante é dispensada sem justa causa durante o período de garantia. A ação é ajuizada quando já se encerrou o período estabilitário. Conforme a Súmula 244 do TST:
+- A) A empregada perde necessariamente qualquer direito.
+- B) A garantia pode restringir-se aos salários e demais direitos correspondentes ao período de estabilidade.
+- C) A reintegração é obrigatória mesmo depois de encerrado o período.
+- D) A estabilidade termina na data da dispensa.
+
+**Gabarito: B.** Súmula 244, II, do TST.
+
+**Y.** Sobre o pedido de demissão de empregado estável, assinale a alternativa correta:
+- A) É sempre válido, mesmo sem qualquer assistência.
+- B) É inválido em qualquer circunstância.
+- C) Deve observar a assistência prevista no art. 500 da CLT.
+- D) Depende exclusivamente de autorização do empregador.
+
+**Gabarito: C.** Art. 500 da CLT. Para gestante estável, observar também a tese repetitiva do TST (Tema 55).
+
+**Z.** A extinção do estabelecimento em que trabalha o representante eleito da CIPA:
+- A) Mantém necessariamente a estabilidade até um ano após o mandato.
+- B) Não interfere na garantia em nenhuma hipótese.
+- C) Afasta a estabilidade, conforme Súmula 339, II, do TST.
+- D) Converte automaticamente a garantia em estabilidade decenal.
+
+**Gabarito: C.** A garantia está vinculada à existência da atividade da CIPA no estabelecimento.
+
+**AA.** A estabilidade provisória impede a dispensa por justa causa?
+- A) Sim, em qualquer hipótese.
+- B) Não. A justa causa pode ser aplicada se houver falta grave comprovada e observados os requisitos legais.
+- C) Sim, salvo autorização do sindicato em todos os casos.
+- D) Não, pois a estabilidade não produz efeito jurídico.
+
+**Gabarito: B.** A estabilidade protege contra dispensa arbitrária ou sem justa causa, não contra justa causa validamente caracterizada.
+
+### 7. Questões reais localizadas no banco — nova consulta
+Foi realizada nova consulta direta à tabela `public.questoes`, no escopo `concurso='TRT4'`, usando termos específicos como estabilidade provisória, indenização substitutiva, reintegração, gestante, CIPA e dirigente sindical.
+- Foi localizado o registro rank 7754, FCC — CSJT 2017, questão 77, Parte 1, p. 17, sobre discriminação e presunção de despedida discriminatória por doença grave/estigmatizante, com consequências de reintegração ou indenização.
+- O enunciado localizado trata de despedida discriminatória, não de uma das estabilidades típicas estudadas neste bloco. É questão pertinente ao tema mais amplo de proteção contra dispensa discriminatória, mas não deve ser cadastrada como questão específica de estabilidade gestante, acidentária, sindical ou CIPA.
+- A busca não encontrou, nesta consulta por termos, questão oficial específica suficiente para inclusão neste subtema. Nenhuma questão oficial foi inserida nesta etapa.
+
+### 8. Referências normativas e jurisprudenciais
+- Constituição Federal, arts. 7º, I, e 8º, VIII.
+- ADCT, art. 10, II, “a” e “b”.
+- CLT, arts. 165, 482, 500, 510-D, § 3º, 543, § 3º, e 853.
+- TST, Súmulas 244, 339 e 369.
+- TST, Tema 55 dos recursos repetitivos, sobre validade do pedido de demissão da empregada gestante com assistência sindical ou da autoridade competente.
