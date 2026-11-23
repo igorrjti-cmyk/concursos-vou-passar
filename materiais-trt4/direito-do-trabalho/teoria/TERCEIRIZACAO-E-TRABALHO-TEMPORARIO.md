@@ -293,3 +293,32 @@ Os reparos emergenciais representam demanda complementar decorrente de fator imp
 
 **Ponto de prova:** não confundir o adicional noturno de 20% com a regra de equivalência remuneratória do trabalhador temporário.
 
+
+
+### Questão 253 — FCC, TRT-16, 2009 — direitos e ruptura do trabalho temporário
+
+**Enunciado:** Sobre trabalho temporário, considere:
+
+I. O contrato entre empresas não poderia exceder 120 dias.  
+II. O temporário tem direito a adicional noturno, horas extras e aviso-prévio.  
+III. Pode ser dispensado por justa causa e pedir rescisão indireta.  
+IV. Estrangeiro com visto provisório ou definitivo pode ser contratado.
+
+Está correto APENAS em:
+
+- A) II e III.
+- B) III e IV.
+- C) III.
+- D) I e II.
+- E) II.
+
+**Gabarito: C — III.**
+
+**Análise das assertivas:**
+- I é falsa: a afirmação não corresponde ao regime legal aplicável à época da questão.
+- II é falsa: embora o trabalhador temporário tenha direito a adicional noturno e horas extras, a assertiva inclui aviso-prévio como se fosse direito geral da modalidade, o que torna o conjunto incorreto.
+- III é verdadeira: o contrato temporário está sujeito às hipóteses legais de justa causa e de rescisão indireta.
+- IV é falsa: a legislação restringe a contratação de estrangeiro portador de visto provisório.
+
+**Atualização importante:** esta é uma questão antiga. Não memorize os prazos históricos como se fossem atuais. Hoje, o trabalho temporário admite até 180 dias, prorrogáveis por mais 90, observadas as condições legais.
+
