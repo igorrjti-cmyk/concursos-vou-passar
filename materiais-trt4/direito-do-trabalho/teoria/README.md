@@ -24,3 +24,4 @@ Sugestão de nome: `assunto-fonte-ano.pdf`.
 
 - [Item 12 — Direito coletivo: ACT e CCT](ITEM-12-DIREITO-COLETIVO-ACT-CCT.md)
 - [Item 13 — Súmulas e OJs do TST](ITEM-13-SUMULAS-OJS-TST.md)
+- [Item 14 — Súmulas Vinculantes do STF](ITEM-14-SUMULAS-VINCULANTES-STF.md)
