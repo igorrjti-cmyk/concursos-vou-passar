@@ -555,3 +555,28 @@ De acordo com a CLT, em razão das prorrogações contratuais e dos respectivos 
 
 **Ponto de integração:** a questão combina contrato individual, prazo de experiência, prorrogação e sucessão empresarial. Revisar os arts. 10 e 448 junto ao estudo de alteração contratual e continuidade do vínculo.
 
+
+
+### Questão 217 — TRT-18, 2012 — contrato de experiência e justa causa
+
+**Enunciado:** Quanto ao contrato de experiência, é correto afirmar:
+
+- A) O empregado pode rescindir a qualquer momento sem obrigação de indenizar, pois há termo final prefixado.
+- B) Não cabe cláusula assecuratória do direito de rescisão, típica apenas do contrato por prazo indeterminado.
+- C) O trabalhador que, durante o expediente, desrespeitar regras preestabelecidas sobre acesso à internet e uso de correio eletrônico poderá ter o contrato rompido por justo motivo.
+- D) O empregador poderá romper antecipadamente mediante pagamento integral da indenização fundiária, multa e lucros cessantes de 50%.
+- E) As partes podem fixar livremente o valor devido em caso de rescisão antecipada.
+
+**Gabarito: C.**
+
+**Fundamentos:** arts. 482, 479, 480 e 481 da CLT.
+
+**Análise das alternativas:**
+- A está errada: a ruptura antecipada pelo empregado pode gerar responsabilidade por prejuízos causados ao empregador, nos termos do art. 480, observados os limites legais.
+- B está errada: o art. 481 permite cláusula assecuratória de rescisão antecipada recíproca também nos contratos a termo.
+- C está correta: o uso indevido de internet e correio eletrônico pode configurar falta grave, conforme as circunstâncias, a gravidade da conduta e as provas. Não significa que qualquer descumprimento gere automaticamente justa causa.
+- D está errada: mistura institutos e parcelas indenizatórias. A ruptura antecipada deve ser analisada conforme os arts. 479 e 481 e as regras aplicáveis ao FGTS.
+- E está errada: as partes não podem afastar livremente os limites legais de proteção ao trabalhador.
+
+**Pegadinha:** a existência de prazo final não impede a aplicação das hipóteses de justa causa. O contrato de experiência também está submetido às regras disciplinares da CLT.
+
