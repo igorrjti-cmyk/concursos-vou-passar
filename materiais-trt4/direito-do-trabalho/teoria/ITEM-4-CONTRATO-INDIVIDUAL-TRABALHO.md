@@ -1016,3 +1016,19 @@ Se o empregado comparável recebe R$ 10,00 por hora, o valor-hora do intermitent
 
 **Pegadinha:** a igualdade é do valor da hora, não do salário mensal. O total recebido no mês pode variar conforme a quantidade de horas efetivamente trabalhadas.
 
+
+
+### Questão 235 — Instituto AOCP, FUNPRESP-JUD, 2021 — férias no trabalho intermitente
+
+**Enunciado:** O colaborador com regime de contrato intermitente possui direito a férias.
+
+**Gabarito: CERTO.**
+
+**Fundamento:** art. 452-A, §§ 6º e 9º, da CLT.
+
+O trabalhador intermitente possui direito a férias. A particularidade é a forma de pagamento e de fruição:
+- Ao final de cada período de prestação de serviços, recebe férias proporcionais acrescidas de um terço (§ 6º).
+- A cada 12 meses, adquire o direito a um mês no qual não poderá ser convocado pelo mesmo empregador, destinado ao gozo das férias (§ 9º).
+
+**Pegadinha:** não confundir o pagamento proporcional ao final de cada período trabalhado com o período anual de descanso sem convocação.
+
