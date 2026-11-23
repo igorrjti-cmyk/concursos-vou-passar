@@ -911,3 +911,28 @@ Está correto APENAS o que se afirma em:
 
 **Pegadinha:** a banca altera um detalhe numérico ou uma palavra. Memorize: três dias corridos para convocar, um dia útil para responder e multa de 50% com compensação permitida.
 
+
+
+### Questão 231 — FCC, TRT-9, 2022 — forma e conteúdo do contrato intermitente e temas correlatos
+
+**Enunciado:** Quanto ao contrato de trabalho, é correto afirmar que:
+
+- A) Contrato a termo prorrogado mais de uma vez somente se converte em indeterminado se a alteração for escrita.
+- B) O contrato intermitente deve ser celebrado por escrito e conter especificamente o valor da hora, respeitado o salário mínimo horário e o valor pago aos demais empregados da mesma função.
+- C) É ilícita a inclusão de logomarcas da própria empresa no uniforme.
+- D) Na sucessão, o sucessor não responde pelas obrigações contraídas antes da sucessão.
+- E) Invenções decorrentes de contribuição pessoal e equipamentos do empregador são sempre propriedade exclusiva do empregado.
+
+**Gabarito: B.**
+
+**Fundamentos:** arts. 10, 448, 451, 452-A e 456-A da CLT; Lei 9.279/1996 quanto à propriedade industrial.
+
+**Análise das alternativas:**
+- A está errada: o art. 451 não condiciona a conversão à forma escrita da prorrogação; mais de uma prorrogação converte o contrato a termo em indeterminado.
+- B está correta: o art. 452-A exige contrato escrito e indicação específica do valor da hora, respeitando o piso legal e a igualdade remuneratória.
+- C está errada: o art. 456-A permite ao empregador definir o padrão de vestimenta e incluir logomarcas da própria empresa e de empresas parceiras.
+- D está errada: a sucessão empresarial não afasta a responsabilidade pelas obrigações trabalhistas (arts. 10 e 448).
+- E está errada: a titularidade das invenções depende das circunstâncias e das regras específicas da legislação de propriedade industrial; não existe propriedade exclusiva automática do empregado.
+
+**Ponto de integração:** embora a questão esteja no bloco de trabalho intermitente, também revisa sucessão empresarial, uniforme e propriedade intelectual no contrato de trabalho.
+
