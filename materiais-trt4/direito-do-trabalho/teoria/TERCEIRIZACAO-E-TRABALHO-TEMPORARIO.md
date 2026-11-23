@@ -268,3 +268,28 @@ Os reparos emergenciais representam demanda complementar decorrente de fator imp
 
 **Ponto de prova:** a nulidade da cláusula de reserva aparece repetidamente nas questões da FCC. É um dispositivo para memorizar.
 
+
+
+### Questão 252 — FCC, TRT-20, 2012 — fiscalização e documentação do trabalho temporário
+
+**Enunciado:** Segundo a Lei 6.019/1974, é correto afirmar:
+
+- A) Empresa de trabalho temporário pode ser pessoa física ou jurídica, urbana ou rural.
+- B) É válida cláusula de reserva proibindo contratação pela tomadora.
+- C) Contrato entre empresa temporária e trabalhador pode ser tácito.
+- D) Remuneração deve ser 20% superior à dos empregados da tomadora.
+- E) A fiscalização pode exigir contratos entre empresa temporária, tomadora e trabalhador, além da comprovação de recolhimentos previdenciários.
+
+**Gabarito: E.**
+
+**Fundamentos:** Lei 6.019/1974, arts. 9º, 11, 12 e 18; Decreto 10.854/2021, arts. 49, 50 e 54.
+
+**Análise das alternativas:**
+- A está errada: a empresa de trabalho temporário deve ser pessoa jurídica devidamente registrada.
+- B está errada: a cláusula de reserva é nula.
+- C está errada: o contrato individual do trabalhador temporário deve ser escrito.
+- D está errada: a remuneração deve ser equivalente à dos empregados da mesma categoria da tomadora, calculada por hora. O adicional de 20% está relacionado ao trabalho noturno, não a uma vantagem geral de remuneração.
+- E está correta: a fiscalização pode exigir os contratos e documentos que comprovem o cumprimento das obrigações trabalhistas e previdenciárias.
+
+**Ponto de prova:** não confundir o adicional noturno de 20% com a regra de equivalência remuneratória do trabalhador temporário.
+
