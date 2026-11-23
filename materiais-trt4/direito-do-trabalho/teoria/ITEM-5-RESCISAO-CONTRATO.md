@@ -872,3 +872,169 @@ Foi realizada consulta direta à tabela `public.questoes` do projeto **Concursos
 - CLT, art. 477, §§ 2º, 4º, 6º e 8º.
 - Lei 13.467/2017 (Reforma Trabalhista), especialmente a alteração do art. 477 da CLT.
 - CLT, art. 500, para a hipótese específica de pedido de demissão de empregado estável.
+
+
+## Material autoral — ruptura antecipada do contrato por prazo determinado (arts. 479 a 481)
+
+### 1. Conceito e hipóteses legais do contrato a termo
+
+O contrato por prazo determinado é aquele cuja vigência depende de termo prefixado, da execução de serviços especificados ou da realização de acontecimento suscetível de previsão aproximada (art. 443, § 1º, CLT).
+
+Pelo art. 443, § 2º, da CLT, a contratação a termo é admitida, em regra, quando:
+- a natureza ou transitoriedade do serviço justificar a predeterminação;
+- a atividade empresarial for transitória;
+- for contrato de experiência.
+
+O contrato por prazo determinado não pode exceder dois anos (art. 445, caput), observadas as regras de prorrogação. O contrato de experiência não pode exceder 90 dias (art. 445, parágrafo único).
+
+### 2. Ruptura antecipada pelo empregador — art. 479
+
+Se o empregador, sem justa causa, despedir o empregado antes do termo final, em contrato a termo **sem cláusula assecuratória exercida**, deverá pagar indenização correspondente à metade da remuneração a que o empregado teria direito até o término contratual.
+
+**Exemplo:** faltam 60 dias para o fim do contrato e a remuneração mensal é de R$ 3.000,00. A remuneração projetada para o período restante é R$ 6.000,00; a indenização do art. 479 será de R$ 3.000,00.
+
+A indenização do art. 479 não se confunde com aviso-prévio. Na hipótese típica do art. 479, o contrato tem termo final previamente conhecido e não foi exercida cláusula do art. 481.
+
+### 3. Ruptura antecipada pelo empregado — art. 480
+
+Se o empregado se desligar antes do termo, sem justa causa, poderá ser obrigado a indenizar o empregador pelos prejuízos que o rompimento lhe causar.
+
+Pontos fundamentais:
+- Não existe indenização automática apenas porque o empregado pediu para sair antes do fim.
+- É necessário demonstrar prejuízo efetivo causado pelo desligamento antecipado.
+- O valor não pode exceder a indenização que seria devida ao empregado em condições idênticas, conforme art. 480, § 1º, combinado com o art. 479.
+
+**Pegadinha FCC:** o art. 480 não autoriza cobrar automaticamente metade dos salários restantes. A lei exige prejuízos resultantes do desligamento e estabelece teto.
+
+### 4. Cláusula assecuratória — art. 481
+
+O contrato a termo pode conter cláusula que assegure a ambas as partes o direito recíproco de rescindir antecipadamente o contrato.
+
+Se a cláusula for efetivamente exercida, aplicam-se os princípios que regem a rescisão dos contratos por prazo indeterminado.
+
+Consequências:
+- Se o empregador exerce a cláusula, a ruptura segue o regime da dispensa sem justa causa, com aviso-prévio e demais efeitos próprios, conforme o caso.
+- Se o empregado exerce a cláusula, aplicam-se as regras pertinentes ao pedido de demissão, inclusive quanto ao aviso-prévio.
+- A indenização especial dos arts. 479 e 480 não é a regra para a ruptura feita mediante exercício da cláusula assecuratória.
+
+**Atenção:** a mera existência da cláusula não basta; o art. 481 pressupõe que o direito recíproco de rescisão antecipada seja exercido.
+
+### 5. Súmula 163 do TST — contrato de experiência
+
+A Súmula 163 do TST dispõe: cabe aviso-prévio nas rescisões antecipadas dos contratos de experiência, na forma do art. 481 da CLT.
+
+A remissão ao art. 481 é decisiva: a súmula não transforma todo contrato de experiência em contrato com aviso-prévio na ruptura antecipada. É necessário observar a cláusula assecuratória e seu exercício.
+
+- Sem cláusula assecuratória exercida: aplica-se, conforme quem rompe e as circunstâncias, o regime dos arts. 479 ou 480.
+- Com cláusula assecuratória exercida: aplicam-se as regras do contrato por prazo indeterminado, inclusive aviso-prévio.
+
+### 6. Término normal x ruptura antecipada
+
+| Situação | Regra principal |
+|---|---|
+| Chegada normal do termo final | Pagamento das parcelas proporcionais e adquiridas; em regra, sem aviso-prévio e sem indenização de 40% do FGTS |
+| Empregador rompe antecipadamente, sem justa causa, sem cláusula exercida | Indenização do art. 479 |
+| Empregado rompe antecipadamente, sem justa causa, sem cláusula exercida | Possível indenização do art. 480, se provar prejuízo, observado o teto |
+| Uma das partes exerce a cláusula assecuratória | Aplicam-se os princípios da rescisão dos contratos por prazo indeterminado |
+
+No término normal, em regra, são devidos saldo salarial, 13º proporcional e férias proporcionais acrescidas de 1/3, além de férias vencidas, se houver. A movimentação do FGTS depende das regras legais da modalidade contratual. Não confundir término normal com dispensa antecipada sem justa causa.
+
+### 7. Prorrogação — arts. 445 e 451
+
+O contrato a termo pode ser prorrogado uma única vez, expressa ou tacitamente, respeitados os limites legais. Se prorrogado mais de uma vez, passa a vigorar sem determinação de prazo (art. 451).
+
+No contrato de experiência:
+- Pode haver uma prorrogação.
+- O período total não pode superar 90 dias.
+- Duas prorrogações, ainda que o total não ultrapasse 90 dias, violam a regra de prorrogação única.
+- Uma única prorrogação que leve o total além de 90 dias também viola o limite máximo.
+
+Exemplos:
+- 45 + 45 dias: uma prorrogação e total de 90 dias — válida em princípio.
+- 30 + 30 + 30 dias: duas prorrogações — descaracteriza o prazo determinado.
+- 60 + 60 dias: uma prorrogação, mas total de 120 dias — ultrapassa o limite legal.
+
+### 8. Questões oficiais já cadastradas no banco
+
+A consulta ao banco `public.questoes` do projeto **Concursos: Vou Passar!** confirmou que já existem 13 questões sobre contrato por prazo determinado e contrato de experiência, ranks 7693–7705, questões 201–213 do caderno Parte 2, pp. 1–3. Não foi necessário reinserir esses registros.
+
+A seleção confirma a regra definida para o banco: questões de outros TRTs também são válidas e devem ser aproveitadas quando alinhadas ao edital, mantendo a origem real.
+
+**Questões prioritárias para revisar:**
+
+| Rank / questão | Origem | Tema e resposta |
+|---|---|---|
+| 7693 / q201 | FCC — TRT19, Administrativa, 2014 | Mais de uma prorrogação: passa a prazo indeterminado — E |
+| 7694 / q202 | FCC — TRT19, Judiciária, 2014 | Duas prorrogações, mesmo sem superar dois anos: prazo indeterminado — E |
+| 7697 / q205 | FCC — TRT9, Administrativa, 2013 | Limite geral de dois anos e experiência de 90 dias — D |
+| 7700 / q208 | FCC — TST, Judiciária, 2012 | Regra do prazo indeterminado, experiência até 90 dias e prorrogação única — E |
+| 7701 / q209 | FCC — TRT11, Judiciária, 2012 | Mais de uma prorrogação converte em prazo indeterminado — B |
+| 7703 / q211 | FCC — TRT2, Área Administrativa, 2025 | Casos de prorrogação do contrato de experiência — D |
+| 7704 / q212 | FCC — TRT22, Área Administrativa, 2022 | Segunda prorrogação do contrato de experiência é inválida — C |
+| 7705 / q213 | FCC — TRT3, Judiciária, 2015 | Uma prorrogação, respeitado o total de 90 dias — D |
+
+As demais questões q203, q204, q206, q207 e q210 também permanecem no banco, com suas origens e metadados preservados.
+
+**Limite da busca:** a consulta não localizou, entre os registros examinados, questão cujo enunciado trate diretamente da indenização dos arts. 479 e 480 ou da cláusula do art. 481. As 13 questões cadastradas cobrem principalmente duração, hipóteses de validade e prorrogação. Não classificar essas questões como se cobrassem diretamente a indenização de ruptura antecipada.
+
+### 9. Questões autorais — não são questões oficiais
+
+**AG.** O empregador rompe sem justa causa contrato por prazo determinado antes do termo final, sem exercício de cláusula assecuratória. Nos termos do art. 479 da CLT, deverá pagar:
+
+A) A remuneração integral de todo o período restante.  
+B) Metade da remuneração a que o empregado teria direito até o termo.  
+C) Aviso-prévio proporcional de 30 a 90 dias, necessariamente.  
+D) Apenas saldo salarial, sem indenização.
+
+**Gabarito: B.** Art. 479 da CLT.
+
+**AH.** Empregado contratado por prazo determinado pede desligamento antes do termo, sem justa causa. O empregador pretende cobrar indenização. De acordo com o art. 480 da CLT:
+
+A) A indenização é automática e equivale sempre à metade dos salários restantes.  
+B) A indenização depende de prejuízo causado pelo desligamento e não pode superar o limite legal.  
+C) O empregado deve pagar todos os salários até o fim do contrato.  
+D) A indenização é sempre igual a um salário mensal.
+
+**Gabarito: B.** Art. 480, caput e § 1º.
+
+**AI.** Contrato por prazo determinado contém cláusula assecuratória do direito recíproco de rescisão antecipada. Uma das partes exerce a faculdade prevista. Nesse caso:
+
+A) Aplica-se necessariamente a indenização do art. 479.  
+B) Aplica-se necessariamente a indenização do art. 480.  
+C) Aplicam-se os princípios que regem a rescisão dos contratos por prazo indeterminado.  
+D) O contrato não pode ser encerrado antes do termo.
+
+**Gabarito: C.** Art. 481 da CLT.
+
+**AJ.** A Súmula 163 do TST, ao tratar da rescisão antecipada do contrato de experiência, estabelece que:
+
+A) Todo contrato de experiência gera aviso-prévio, independentemente de cláusula contratual.  
+B) Cabe aviso-prévio na forma do art. 481 da CLT.  
+C) O aviso-prévio é sempre substituído pela indenização do art. 479.  
+D) O contrato de experiência não pode ser encerrado antecipadamente.
+
+**Gabarito: B.** A súmula remete ao art. 481 da CLT.
+
+**AK.** Contrato de experiência de 30 dias é prorrogado por mais 30 dias e, depois, novamente por mais 30 dias. Embora o total seja de 90 dias, a consequência é:
+
+A) Validade, porque o total não ultrapassou 90 dias.  
+B) Conversão em contrato por prazo indeterminado, porque houve mais de uma prorrogação.  
+C) Nulidade absoluta sem efeitos trabalhistas.  
+D) Validade, desde que a última prorrogação seja escrita.
+
+**Gabarito: B.** Art. 451 da CLT: a prorrogação só pode ocorrer uma vez.
+
+**AL.** Contrato de experiência de 60 dias é prorrogado uma única vez por mais 60 dias. A consequência é:
+
+A) Validade, porque houve apenas uma prorrogação.  
+B) Validade, porque o limite geral é de dois anos.  
+C) Descaracterização do prazo determinado, pois o total ultrapassou 90 dias.  
+D) Conversão em contrato intermitente.
+
+**Gabarito: C.** Art. 445, parágrafo único, da CLT.
+
+### 10. Referências normativas e jurisprudenciais
+
+- CLT, arts. 443, §§ 1º e 2º; 445; 451; 479; 480; 481.
+- TST, Súmula 163 — aviso-prévio no contrato de experiência na forma do art. 481.
+- Caderno de questões, Parte 2, pp. 1–3, questões 201–213.
