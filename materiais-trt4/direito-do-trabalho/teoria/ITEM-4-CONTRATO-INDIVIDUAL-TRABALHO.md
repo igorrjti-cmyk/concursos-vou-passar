@@ -1536,3 +1536,115 @@ A Lei 15.371/2026 também prevê acréscimo de 1/3 do período nos casos de nasc
 5. Lembre-se de que o § 3º do art. 473 é dever de informação do empregador, e não ampliação do número de dias do inciso XII.
 
 **Fontes oficiais para atualização:** CLT consolidada na Câmara dos Deputados; Leis 15.156/2025, 15.377/2026 e 15.371/2026, com destaque para a vigência em 1º/1/2027 da última.
+
+
+## 10. Transferência de empregados — arts. 469, 469-A e 470 da CLT
+
+### 10.1. Conceito e regra geral (art. 469, caput)
+
+É vedado ao empregador transferir o empregado, sem sua anuência, para localidade diversa daquela resultante do contrato, quando a mudança exigir necessariamente alteração de domicílio.
+
+**Não é transferência para os fins do art. 469** a mudança do local de trabalho que não exigir mudança de domicílio. Assim, a mera alteração de unidade, endereço ou posto de trabalho não gera automaticamente o regime jurídico de transferência nem o adicional de 25%.
+
+Para resolver a questão, identifique:
+1. Houve mudança para outra localidade?
+2. A mudança exigiu efetivamente alteração de domicílio?
+3. Existe hipótese legal que autorize a transferência sem anuência?
+4. Se há adicional, a transferência é provisória?
+
+### 10.2. Hipóteses legais de transferência sem anuência
+
+**I — Empregado em cargo de confiança (art. 469, § 1º).** O empregado que exerce cargo de confiança não está abrangido pela proibição geral, desde que a transferência decorra de real necessidade de serviço.
+
+**II — Contrato com condição implícita ou explícita de transferência (art. 469, § 1º).** A cláusula contratual, expressa ou implícita, não é autorização ilimitada. Também é indispensável a real necessidade de serviço. A FCC pode apresentar uma cláusula contratual e afirmar que ela, sozinha, permite transferir o empregado a qualquer tempo: a afirmação está errada.
+
+**III — Extinção do estabelecimento (art. 469, § 2º).** É lícita a transferência quando ocorre a extinção do estabelecimento em que o empregado trabalha. Não confundir extinção do estabelecimento com simples conveniência empresarial ou mudança de endereço sem encerramento da unidade.
+
+**IV — Necessidade de serviço (art. 469, § 3º).** Em caso de necessidade de serviço, o empregador pode transferir o empregado para localidade diversa, observadas as restrições legais e o pagamento do adicional de transferência quando presentes os requisitos para sua incidência.
+
+### 10.3. Adicional de transferência — mínimo de 25%
+
+O art. 469, § 3º, estabelece pagamento suplementar nunca inferior a **25% dos salários que o empregado percebia na localidade de origem**, enquanto durar a situação que justificou a transferência.
+
+Pontos fundamentais:
+- O percentual legal é mínimo: 25%.
+- A base legal é o salário que o empregado percebia na localidade de origem.
+- O adicional é devido enquanto durar a situação de transferência provisória.
+- O adicional legal não é devido apenas porque o empregado exerce cargo de confiança ou porque o contrato prevê transferência; é indispensável o caráter provisório.
+- Se a transferência for definitiva, não há adicional legal de transferência segundo a OJ 113 da SDI-1 do TST, sem prejuízo de eventual vantagem prevista em norma contratual ou regulamento empresarial com fundamento próprio.
+
+**Provisoriedade:** não há um número fixo de meses na CLT que, isoladamente, defina a transferência como provisória. A jurisprudência considera a duração e a sucessividade das transferências, avaliadas em conjunto com a duração do contrato e as circunstâncias concretas. O TST afetou o Tema Repetitivo 93 para definir critérios de aferição da provisoriedade; no documento oficial consultado, o tema constava como afetado, sem tese firmada. Portanto, não apresente como tese vinculante um critério temporal rígido.
+
+### 10.4. Despesas da transferência — art. 470
+
+As despesas resultantes da transferência correm por conta do empregador.
+
+Não confundir:
+- **Adicional de transferência:** parcela suplementar de, no mínimo, 25%, vinculada à transferência provisória nas condições do art. 469, § 3º.
+- **Despesas de transferência:** custos decorrentes da mudança, que são suportados pelo empregador por força do art. 470.
+
+O custeio das despesas não substitui o adicional, e o pagamento do adicional não autoriza transferir ao empregado os custos da mudança.
+
+### 10.5. Regra especial do art. 469-A — administração pública
+
+A Lei 15.175/2025 acrescentou o art. 469-A à CLT. Ele assegura aos empregados da administração pública o direito à transferência para acompanhar cônjuge ou companheiro servidor público, militar ou empregado público que tenha sido deslocado no interesse da administração pública.
+
+Requisitos e limites:
+- A transferência é requerida pelo empregado e ocorre independentemente do interesse da administração pública.
+- Deve existir filial ou representação na localidade pretendida.
+- A transferência deve ser horizontal, dentro do mesmo quadro de pessoal.
+- O § 1º afasta a aplicação do art. 470 nessa hipótese.
+
+**Pegadinha:** não confundir o art. 469-A com um direito geral de todo empregado da iniciativa privada de acompanhar cônjuge transferido. O dispositivo trata especificamente dos empregados da administração pública e das condições nele previstas.
+
+### 10.6. Quadro comparativo para a FCC
+
+| Situação | Pode transferir sem anuência? | Adicional legal de 25%? |
+|---|---|---|
+| Mudança de local sem alteração de domicílio | Não é transferência para o art. 469 | Não decorre do art. 469 |
+| Cargo de confiança + real necessidade de serviço | Sim | Se a transferência for provisória |
+| Cláusula contratual + real necessidade de serviço | Sim | Se a transferência for provisória |
+| Cláusula contratual sem real necessidade | Não basta a cláusula | Não legitima a transferência |
+| Extinção do estabelecimento | Sim | Não é automático; verificar os requisitos do § 3º |
+| Necessidade de serviço com transferência provisória | Sim, nos termos do § 3º | Sim, mínimo de 25% |
+| Transferência definitiva | Nas hipóteses legais aplicáveis | Não é devido o adicional legal segundo a OJ 113 |
+| Acompanhamento de cônjuge deslocado no interesse público, art. 469-A | A pedido, preenchidos os requisitos próprios | Art. 469-A, § 1º, afasta o art. 470; não confundir com adicional do § 3º |
+
+### 10.7. Questões autorais — padrão FCC
+
+**Questão 1.** Para caracterizar transferência nos termos do art. 469 da CLT, é necessário que a mudança de localidade acarrete necessariamente alteração do domicílio do empregado.  
+**Gabarito: CERTO.** A mudança que não exige alteração de domicílio não é considerada transferência para os efeitos do artigo.
+
+**Questão 2.** A existência de cláusula contratual expressa de transferência autoriza o empregador a transferir o empregado a qualquer tempo, independentemente da necessidade do serviço.  
+**Gabarito: ERRADO.** O art. 469, § 1º, exige real necessidade de serviço também quando a transferência é condição implícita ou explícita do contrato.
+
+**Questão 3.** O empregado que exerce cargo de confiança pode ser transferido sem anuência, desde que a transferência decorra de real necessidade de serviço.  
+**Gabarito: CERTO.** É a hipótese do art. 469, § 1º.
+
+**Questão 4.** A extinção do estabelecimento em que o empregado trabalha torna lícita a transferência, conforme previsão expressa da CLT.  
+**Gabarito: CERTO.** Fundamento: art. 469, § 2º.
+
+**Questão 5.** O adicional de transferência previsto no art. 469, § 3º, é de, no mínimo, 25% e é devido inclusive quando a transferência é definitiva.  
+**Gabarito: ERRADO.** O percentual mínimo é 25%, mas a jurisprudência consolidada do TST exige provisoriedade para o adicional legal.
+
+**Questão 6.** O empregado em cargo de confiança nunca tem direito ao adicional de transferência.  
+**Gabarito: ERRADO.** A OJ 113 da SDI-1 do TST estabelece que cargo de confiança ou previsão contratual não excluem o adicional quando a transferência é provisória.
+
+**Questão 7.** As despesas resultantes da transferência devem ser suportadas pelo empregado, pois o adicional de 25% já compensa a mudança.  
+**Gabarito: ERRADO.** O art. 470 atribui as despesas ao empregador. O adicional do art. 469, § 3º, é parcela distinta.
+
+**Questão 8.** O art. 469-A da CLT permite que todo empregado privado exija transferência para acompanhar cônjuge deslocado por interesse de seu empregador.  
+**Gabarito: ERRADO.** O dispositivo trata dos empregados da administração pública e exige os requisitos legais, inclusive existência de filial ou representação e transferência horizontal no mesmo quadro de pessoal.
+
+### 10.8. Roteiro de revisão
+
+1. Transferência do art. 469 exige mudança de domicílio.
+2. Cargo de confiança não dispensa a real necessidade de serviço.
+3. Cláusula contratual, sozinha, não basta: também se exige real necessidade.
+4. Extinção do estabelecimento é hipótese legal autônoma.
+5. Adicional legal: mínimo de 25%, apenas na transferência provisória.
+6. Despesas da transferência: sempre a cargo do empregador, nos termos do art. 470, ressalvada a regra especial do art. 469-A, § 1º.
+7. Art. 469-A: regra especial para empregados da administração pública que acompanham cônjuge ou companheiro deslocado no interesse público.
+8. Tema 93 do TST: acompanhar a situação do julgamento; não inventar critério temporal fixo enquanto não houver tese firmada.
+
+**Fontes normativas e jurisprudenciais:** CLT consolidada, arts. 469, 469-A e 470; Lei 6.203/1975; Lei 15.175/2025; OJ 113 da SDI-1 do TST; Tema Repetitivo 93 do TST.
