@@ -830,3 +830,28 @@ A multa deve ser paga no prazo de 30 dias, sendo permitida a compensação nesse
 
 **Ponto de atenção:** a penalidade é aplicável à parte que descumprir injustificadamente o acordo depois do aceite. A regra vale tanto para o empregado quanto para o empregador.
 
+
+
+### Questão 228 — FCC, TRT-12, 2023 — valor-hora, convocação e pagamento no contrato intermitente
+
+**Enunciado:** Sobre contratos de trabalho intermitente celebrados por escrito, é correto afirmar que:
+
+- A) O valor da hora não pode ser inferior ao salário mínimo horário nem ao valor pago aos demais empregados da mesma função, em contrato intermitente ou não.
+- B) A convocação deve ocorrer com cinco dias de antecedência.
+- C) O silêncio por dois dias úteis equivale à recusa.
+- D) Férias e décimo terceiro proporcionais são pagos mensalmente.
+- E) A multa de 50% por descumprimento é paga imediatamente.
+
+**Gabarito: A.**
+
+**Fundamento:** art. 452-A, caput e §§ 1º, 2º, 4º e 6º, da CLT.
+
+**Análise das alternativas:**
+- A está correta: o valor da hora não pode ser inferior ao salário mínimo horário nem ao valor pago aos demais empregados do estabelecimento que exerçam a mesma função, intermitentes ou não.
+- B está errada: a antecedência mínima é de três dias corridos.
+- C está errada: o prazo de resposta é de um dia útil; o silêncio equivale à recusa.
+- D está errada: as parcelas proporcionais são pagas ao final de cada período de prestação de serviços, não necessariamente uma vez por mês.
+- E está errada: a multa de 50% deve ser paga em até 30 dias, permitida compensação.
+
+**Ponto de prova:** valor-hora, convocação, resposta e pagamento são quatro blocos diferentes do art. 452-A. A FCC costuma misturar os prazos de cada um.
+
