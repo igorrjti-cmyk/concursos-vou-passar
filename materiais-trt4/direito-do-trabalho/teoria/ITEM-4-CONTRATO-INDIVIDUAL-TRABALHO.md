@@ -98,11 +98,11 @@ As duas situações mantêm o contrato de trabalho, mas interrompem temporariame
 | XII | Exames preventivos de câncer, devidamente comprovados | Até 3 dias a cada 12 meses |
 
 **Atualizações dos parágrafos do art. 473:**
-- § 1º: o prazo do inciso III é contado da data do nascimento.
+- § 1º: até 31/12/2026, a contagem é feita da data do nascimento. A partir de 1º/1/2027, a Lei 15.371/2026 ajusta a regra para contar da data do nascimento, da adoção ou da obtenção da guarda para fins de adoção.
 - § 2º: em nascimento ou adoção de criança com deficiência permanente decorrente de síndrome congênita associada ao vírus Zika, o prazo do inciso III é ampliado para 20 dias (Lei 15.156/2025).
 - § 3º: o empregador deve informar o empregado sobre a possibilidade de ausência para exames preventivos de HPV e câncer, nos termos do inciso XII (Lei 15.377/2026).
 
-**Atenção à mudança futura:** a Lei 15.371/2026 entra em vigor em **1º/1/2027**. A partir dessa data, o inciso III do art. 473 passa a abranger o período de usufruto da licença-paternidade ou da licença-maternidade custeadas pela Previdência Social. A própria lei prevê licença-paternidade de 10 dias a partir de 2027, 15 dias a partir de 2028 e 20 dias a partir de 2029, observada a condição fiscal prevista na lei. Para uma prova realizada em 2027, conferir a data de aplicação da nova redação e não repetir automaticamente os cinco dias da redação anterior.
+**Atenção à mudança futura:** a Lei 15.371/2026 entra em vigor em **1º/1/2027**. A partir dessa data, o inciso III do art. 473 passa a abranger o período de usufruto da licença-paternidade ou da licença-maternidade custeadas pela Previdência Social. A própria lei prevê licença-paternidade de 10 dias a partir de 2027 e 15 dias a partir de 2028. O prazo de 20 dias a partir de 2029 depende do cumprimento da meta fiscal definida no art. 11, §§ 1º e 2º. A lei também acrescenta 1/3 ao período nos casos de nascimento ou adoção de criança ou adolescente com deficiência (art. 12). Para uma prova realizada em 2027, conferir a data de aplicação da nova redação e não repetir automaticamente os cinco dias da redação anterior.
 
 **2. Primeiros 15 dias de afastamento por doença ou acidente comum.** O empregador paga o salário dos primeiros 15 dias. Em regra, é interrupção. A partir do 16º dia, se concedido benefício previdenciário, o contrato fica suspenso.
 
@@ -1437,3 +1437,102 @@ III. Em greve de atividade essencial, havendo possibilidade de lesão ao interes
 
 **Relação com o Item 4:** a licença-maternidade é hipótese de afastamento remunerado, classificada como interrupção contratual para fins trabalhistas.
 
+
+
+## 9. Art. 473 — aprofundamento inciso por inciso e pegadinhas FCC
+
+### 9.1. Como interpretar o caput
+
+O caput autoriza o empregado a deixar de comparecer ao serviço **sem prejuízo do salário** nas hipóteses expressamente previstas. É uma interrupção contratual: não há prestação de serviços, mas a ausência é justificada e não pode gerar desconto salarial pelo período legalmente protegido.
+
+A lista é legal e específica. Não se deve ampliar automaticamente uma hipótese por analogia, nem transformar os limites quantitativos em uma autorização genérica de faltas.
+
+### 9.2. Incisos I a V — prazos que exigem memorização
+
+**I — Falecimento (até 2 dias consecutivos).** Abrange cônjuge, ascendente, descendente, irmão ou pessoa que, declarada na CTPS, viva sob dependência econômica do empregado. A FCC pode trocar os parentescos ou retirar a exigência relativa à pessoa dependente. Memorize a lista legal e a expressão “até 2 dias consecutivos”.
+
+**II — Casamento (até 3 dias consecutivos).** É a chamada licença-gala. A CLT estabelece três dias consecutivos; não confundir com três dias úteis nem com o prazo de falecimento.
+
+**III — Nascimento, adoção ou guarda.** Até 31/12/2026, a redação anterior prevê cinco dias consecutivos. A partir de 1º/1/2027, por força da Lei 15.371/2026, o inciso passa a abranger o período de usufruto da licença-paternidade ou da licença-maternidade custeadas pela Previdência Social. O § 1º também passa a mencionar nascimento, adoção e obtenção de guarda para fins de adoção.
+
+A licença-paternidade prevista na Lei 15.371/2026 será de:
+- 10 dias a partir de 1º/1/2027;
+- 15 dias a partir de 1º/1/2028;
+- 20 dias a partir de 1º/1/2029, condicionados ao cumprimento da meta fiscal prevista nos §§ 1º e 2º do art. 11 da própria lei.
+
+A Lei 15.371/2026 também prevê acréscimo de 1/3 do período nos casos de nascimento ou adoção de criança ou adolescente com deficiência (art. 12). Não confundir esse acréscimo geral com a regra específica do § 2º do art. 473, que prevê 20 dias na hipótese de nascimento ou adoção de criança com deficiência permanente decorrente de síndrome congênita associada à infecção pelo vírus Zika (Lei 15.156/2025). Em questão que envolva as duas normas, identifique separadamente os respectivos fundamentos e evite presumir cumulação sem base expressa.
+
+**IV — Doação voluntária de sangue.** Um dia a cada 12 meses de trabalho, desde que a doação seja voluntária e devidamente comprovada. Não é um dia por doação, nem um dia por mês.
+
+**V — Alistamento eleitoral.** Até dois dias, consecutivos ou não. A expressão “ou não” diferencia este inciso dos incisos I e II, que exigem dias consecutivos.
+
+### 9.3. Incisos VI a IX — tempo necessário e situações específicas
+
+**VI — Serviço Militar.** Ausência pelo tempo necessário para cumprir as exigências do Serviço Militar. Não há um número fixo de dias no inciso.
+
+**VII — Vestibular.** A ausência é justificada nos dias em que o empregado estiver comprovadamente realizando provas de exame vestibular para ingresso em estabelecimento de ensino superior. Não confundir com qualquer prova, curso ou concurso público.
+
+**VIII — Comparecimento a juízo.** Pelo tempo necessário. O inciso não fixa limite de um ou dois dias: a ausência deve corresponder ao período necessário ao comparecimento judicial.
+
+**IX — Representação sindical internacional.** Pelo tempo necessário quando o empregado for representante de entidade sindical e participar de reunião oficial de organismo internacional do qual o Brasil seja membro. A FCC pode retirar a exigência de reunião oficial ou de organismo internacional do qual o Brasil participe para tornar a alternativa incorreta.
+
+### 9.4. Incisos X a XII — família, saúde e prevenção
+
+**X — Acompanhamento durante a gravidez.** Até seis consultas médicas ou exames complementares durante o período de gravidez da esposa ou companheira. O limite é de seis consultas/exames, não seis dias inteiros livres sem relação com o atendimento.
+
+**XI — Acompanhamento de filho.** Um dia por ano para acompanhar filho de até seis anos em consulta médica. Observe os três elementos: filho, idade máxima de seis anos e limite de um dia por ano.
+
+**XII — Exames preventivos de câncer.** Até três dias, em cada período de 12 meses de trabalho, para realização de exames preventivos de câncer, desde que devidamente comprovada. A Lei 15.377/2026 acrescentou o § 3º, impondo ao empregador o dever de informar o empregado sobre a possibilidade de ausência para exames preventivos de HPV e câncer. O dever de informação do empregador não cria dias adicionais: o limite continua sendo o do inciso XII.
+
+### 9.5. Tabela de comparação — onde a FCC pode trocar os números
+
+| Hipótese | Prazo | Palavra que merece atenção |
+|---|---:|---|
+| Falecimento | Até 2 dias | Consecutivos |
+| Casamento | Até 3 dias | Consecutivos |
+| Nascimento/adoção/guarda até 2026 | 5 dias | Consecutivos |
+| Doação de sangue | 1 dia | A cada 12 meses de trabalho |
+| Alistamento eleitoral | Até 2 dias | Consecutivos ou não |
+| Serviço Militar | Tempo necessário | Sem número fixo |
+| Vestibular | Dias das provas | Ingresso em ensino superior |
+| Comparecimento a juízo | Tempo necessário | Comparecimento necessário |
+| Reunião sindical internacional | Tempo necessário | Reunião oficial e organismo de que o Brasil seja membro |
+| Acompanhamento da gestante | Até 6 consultas/exames | Esposa ou companheira |
+| Consulta médica de filho | 1 dia por ano | Filho de até 6 anos |
+| Exames preventivos | Até 3 dias | A cada 12 meses de trabalho e comprovação |
+
+### 9.6. Questões autorais de fixação — padrão FCC
+
+**Questão 1.** Empregado faltou ao serviço por dois dias para acompanhar a esposa em consultas médicas durante a gravidez. A CLT assegura ausência de até seis consultas ou exames complementares.  
+**Gabarito: CERTO.** Fundamento: art. 473, X. A lei limita a seis consultas/exames, não a seis dias livres sem vinculação ao atendimento.
+
+**Questão 2.** A doação voluntária de sangue autoriza uma falta justificada por mês, desde que comprovada.  
+**Gabarito: ERRADO.** O inciso IV prevê um dia a cada 12 meses de trabalho.
+
+**Questão 3.** O alistamento eleitoral permite até dois dias consecutivos de ausência, sendo vedada a fruição em dias separados.  
+**Gabarito: ERRADO.** O inciso V admite dois dias consecutivos ou não.
+
+**Questão 4.** O empregado pode faltar pelo tempo necessário ao comparecimento a juízo.  
+**Gabarito: CERTO.** Fundamento: art. 473, VIII. Não há limite fixo de dias no inciso.
+
+**Questão 5.** O empregado tem direito a um dia por ano para acompanhar filho de até seis anos em consulta médica.  
+**Gabarito: CERTO.** Fundamento: art. 473, XI.
+
+**Questão 6.** A partir de 2027, a licença-paternidade continua necessariamente limitada a cinco dias, porque a Lei 15.371/2026 não alterou o art. 473.  
+**Gabarito: ERRADO.** A lei altera o inciso III do art. 473 e prevê 10 dias a partir de 2027 e 15 dias a partir de 2028. O prazo de 20 dias previsto para 2029 depende da condição fiscal legal.
+
+**Questão 7.** A Lei 15.377/2026 ampliou para seis dias a ausência para exames preventivos de câncer.  
+**Gabarito: ERRADO.** O inciso XII continua prevendo até três dias a cada 12 meses de trabalho. A lei acrescentou o dever patronal de informar o empregado.
+
+**Questão 8.** A ausência para provas de qualquer concurso público está expressamente prevista no inciso VII do art. 473.  
+**Gabarito: ERRADO.** O inciso VII trata de provas de exame vestibular para ingresso em estabelecimento de ensino superior.
+
+### 9.7. Roteiro de revisão de véspera
+
+1. Decore os números: 2 (falecimento), 3 (casamento), 5 (nascimento até 2026), 1 a cada 12 meses (sangue), 2 (alistamento), 6 (acompanhamento da gestante), 1 por ano (filho até 6 anos), 3 a cada 12 meses (exames preventivos).
+2. Separe as hipóteses com prazo aberto: Serviço Militar, comparecimento a juízo e reunião sindical internacional — todas pelo tempo necessário.
+3. Não confunda vestibular com concurso público.
+4. Na prova de 2027, aplique a nova redação do inciso III e confira a data do fato gerador.
+5. Lembre-se de que o § 3º do art. 473 é dever de informação do empregador, e não ampliação do número de dias do inciso XII.
+
+**Fontes oficiais para atualização:** CLT consolidada na Câmara dos Deputados; Leis 15.156/2025, 15.377/2026 e 15.371/2026, com destaque para a vigência em 1º/1/2027 da última.
