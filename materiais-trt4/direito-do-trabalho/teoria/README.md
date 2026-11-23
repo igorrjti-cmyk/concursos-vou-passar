@@ -17,3 +17,5 @@ Sugestão de nome: `assunto-fonte-ano.pdf`.
 - [Guia de análise do edital do TRT-4](GUIA-ANALISE-EDITAL-TRT4.md)
 
 - [Item 1 — princípios e fontes do Direito do Trabalho](ITEM-1-PRINCIPIOS-E-FONTES.md)
+
+- [Item 9 — prescrição e decadência](ITEM-9-PRESCRICAO-DECADENCIA.md)
