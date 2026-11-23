@@ -1,0 +1,44 @@
+name: Extrair texto dos PDFs
+
+on:
+  workflow_dispatch:
+    inputs:
+      pasta:
+        description: "Pasta dentro de materiais-trt4 (ex.: direito-do-trabalho)"
+        required: true
+        default: "direito-do-trabalho"
+        type: string
+
+permissions:
+  contents: read
+
+jobs:
+  extrair:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - name: Baixar repositório
+        uses: actions/checkout@v4
+
+      - name: Instalar ferramentas de PDF e OCR
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y poppler-utils tesseract-ocr tesseract-ocr-por
+
+      - name: Preparar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Extrair texto página por página
+        env:
+          PASTA_MATERIA: ${{ inputs.pasta }}
+        run: python scripts/extrair_pdfs.py
+
+      - name: Disponibilizar textos extraídos
+        uses: actions/upload-artifact@v4
+        with:
+          name: textos-pdf-${{ inputs.pasta }}
+          path: saida-pdf/
+          if-no-files-found: error
+          retention-days: 14
