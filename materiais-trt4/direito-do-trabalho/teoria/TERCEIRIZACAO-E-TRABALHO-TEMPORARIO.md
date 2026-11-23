@@ -81,3 +81,28 @@ O limite total pode chegar a 270 dias.
 
 **Ponto de prova:** a reforma de 2017 ampliou o prazo máximo e disciplinou a prorrogação, mas manteve limites e hipóteses específicas para a contratação temporária.
 
+
+
+### Questão 244 — FCC, SANASA, 2019 — atividade-meio e atividade-fim no trabalho temporário
+
+**Enunciado:** Sobre o trabalho temporário, é correto afirmar que:
+
+- A) Pode versar sobre desenvolvimento de atividades-meio e atividades-fim na empresa tomadora.
+- B) Aplica-se ao trabalhador temporário contrato de experiência firmado com a tomadora.
+- C) Demanda previsível deve ter natureza contínua, periódica ou sazonal.
+- D) Sempre se forma vínculo de emprego com a tomadora conforme o ramo de atividade.
+- E) O prazo de 180 dias não pode ser prorrogado.
+
+**Gabarito: A.**
+
+**Fundamentos:** arts. 2º, § 2º, 9º, § 3º, e 10, §§ 1º, 2º e 4º, da Lei 6.019/1974.
+
+**Análise das alternativas:**
+- A está correta: o contrato temporário pode abranger atividades-meio e atividades-fim da tomadora.
+- B está errada: não se aplica o contrato de experiência da CLT ao trabalhador temporário contratado pela tomadora (art. 10, § 4º).
+- C está errada: a demanda previsível deve ter natureza intermitente, periódica ou sazonal, não contínua.
+- D está errada: em regra, não existe vínculo entre a tomadora e os trabalhadores contratados pela empresa de trabalho temporário (art. 10, caput), sem prejuízo da análise de eventual fraude.
+- E está errada: o prazo de 180 dias pode ser prorrogado por até mais 90 dias, quando mantidas as condições justificadoras.
+
+**Pegadinha:** não confundir trabalho temporário com terceirização comum. A legislação permite expressamente o trabalho temporário em atividades-meio e atividades-fim.
+
