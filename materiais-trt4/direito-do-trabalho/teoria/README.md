@@ -15,3 +15,5 @@ Sugestão de nome: `assunto-fonte-ano.pdf`.
 - [Item 3 — relação de trabalho e emprego](ITEM-3-RELACAO-TRABALHO-EMPREGO.md)
 - [Item 4 — contrato individual de trabalho](ITEM-4-CONTRATO-INDIVIDUAL-TRABALHO.md)
 - [Guia de análise do edital do TRT-4](GUIA-ANALISE-EDITAL-TRT4.md)
+
+- [Item 1 — princípios e fontes do Direito do Trabalho](ITEM-1-PRINCIPIOS-E-FONTES.md)
