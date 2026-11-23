@@ -1086,3 +1086,28 @@ A demanda complementar pode decorrer:
 
 **Distinção para memorizar:** demanda complementar não significa qualquer aumento de serviço. A lei exige fator imprevisível ou, se previsível, natureza intermitente, periódica ou sazonal.
 
+
+
+### Questão 238 — FCC, TRT-9, 2022 — trabalho temporário e substituição em greve
+
+**Enunciado:** Quanto ao trabalho temporário, é correto afirmar:
+
+- A) É proibida a contratação de trabalho temporário para substituição de trabalhadores em greve, salvo nos casos previstos em lei.
+- B) O contrato não pode exceder 90 dias.
+- C) A tomadora é solidariamente responsável pelas contribuições previdenciárias em qualquer situação.
+- D) A tomadora só pode contratar o trabalhador ao fim do contrato se não houver cláusula de reserva.
+- E) A empresa de trabalho temporário pode descontar até 30% do salário como taxa de intermediação.
+
+**Gabarito: A.**
+
+**Fundamentos:** arts. 2º, § 1º, 10, §§ 1º, 2º e 7º, 11, parágrafo único, e 18 da Lei 6.019/1974.
+
+**Análise das alternativas:**
+- A está correta: é proibida a contratação de trabalho temporário para substituir trabalhadores em greve, salvo nos casos previstos em lei.
+- B está errada: o limite é de 180 dias, prorrogável por até 90 dias, se mantidas as condições que justificaram a contratação.
+- C está errada: a regra geral é de responsabilidade subsidiária da tomadora pelas obrigações trabalhistas do período, observada a disciplina específica das contribuições previdenciárias.
+- D está errada: a cláusula que proíbe a contratação direta posterior do trabalhador pela tomadora é nula (art. 11, parágrafo único).
+- E está errada: a empresa de trabalho temporário não pode cobrar qualquer valor do trabalhador, inclusive taxa de intermediação (art. 18).
+
+**Pegadinha:** diferenciar responsabilidade subsidiária de solidária e não confundir a proibição de substituir grevistas com a contratação temporária para outras necessidades legalmente autorizadas.
+
