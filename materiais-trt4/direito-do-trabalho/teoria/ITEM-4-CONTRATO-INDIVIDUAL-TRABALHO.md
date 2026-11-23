@@ -631,3 +631,29 @@ De acordo com a CLT, em razão das prorrogações contratuais e dos respectivos 
 
 **Dica de prova:** ao identificar a definição de contrato de experiência, procure a combinação prazo determinado + máximo de 90 dias + uma única prorrogação.
 
+
+
+### Questão 220 — FCC, TRT-21, 2003 — segunda prorrogação do contrato de experiência
+
+**Enunciado:** O contrato de experiência que é prorrogado mais de uma vez:
+
+- A) Fica automaticamente extinto.
+- B) Passa a vigorar sem prazo determinado.
+- C) Não sofre nenhum tipo de alteração.
+- D) Exige anuência formal e por escrito do empregado.
+- E) Pode ultrapassar o prazo de 90 dias.
+
+**Gabarito: B.**
+
+**Fundamentos:** arts. 445, parágrafo único, e 451 da CLT.
+
+**Análise:** o art. 451 estabelece que o contrato por prazo determinado prorrogado mais de uma vez passa a vigorar sem determinação de prazo. Como o contrato de experiência é modalidade de contrato a termo, também se submete a essa regra.
+
+- A está errada: a consequência não é extinção automática.
+- B está correta: ocorre a conversão para prazo indeterminado.
+- C está errada: há alteração da natureza do contrato.
+- D está errada: a questão não se resolve por exigência adicional de anuência formal; o limite legal é de uma prorrogação.
+- E está errada: o contrato de experiência continua sujeito ao limite total de 90 dias.
+
+**Fechamento do bloco:** as questões 201 a 220 do caderno trabalham principalmente contrato a termo, experiência, limites, prorrogação e ruptura antecipada. A sequência seguinte avança para trabalho intermitente, ainda dentro do Item 4.
+
