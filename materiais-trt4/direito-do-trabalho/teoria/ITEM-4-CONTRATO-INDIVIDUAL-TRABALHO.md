@@ -273,3 +273,28 @@ As questões abaixo pertencem ao caderno FCC para Técnico — Área Administrat
 
 **Pegadinha FCC:** a alternativa E troca seis meses por um ano. Não confundir esse intervalo com o limite máximo de duração do contrato (dois anos), nem com o número de prorrogações (uma).
 
+
+
+### Questão 206 — FCC, TRT-18, 2013 — serviço transitório e contratação a termo
+
+**Enunciado:** A empresa Beta Transportes pretende contratar um empregado para exercer as funções de auditor contábil, por prazo determinado, apenas para a realização de auditoria em sua contabilidade, visto que pretende encerrar suas atividades. Nessa situação:
+
+- A) Não será possível realizar contrato por prazo determinado, pois essa modalidade não está prevista na CLT.
+- B) Será possível apenas na modalidade de trabalho temporário, por intermédio de empresa interposta, pelo prazo máximo de 120 dias.
+- C) Poderá ser firmado contrato por prazo determinado em razão de serviço cuja natureza ou transitoriedade justifique a predeterminação do prazo.
+- D) A lei prevê apenas a modalidade de determinação de prazo em contrato de experiência de prazo máximo de 1 ano.
+- E) É possível a contratação por prazo determinado por no máximo 90 dias, com prazo inicial de 30 dias e mais duas prorrogações pelo mesmo prazo.
+
+**Gabarito: C.**
+
+**Fundamento:** art. 443, § 2º, alínea “a”, da CLT. É válido o contrato por prazo determinado quando o serviço, por sua natureza ou transitoriedade, justificar a predeterminação do prazo.
+
+**Análise das alternativas:**
+- A está errada: a CLT prevê expressamente o contrato por prazo determinado.
+- B está errada: o trabalho temporário é modalidade distinta, regida por legislação própria; não é a única forma de contratação para serviço transitório.
+- C está correta: a auditoria é serviço específico e transitório, ligado ao encerramento das atividades empresariais, o que justifica a predeterminação do prazo.
+- D está errada: contrato de experiência é apenas uma das hipóteses legais; seu limite é de 90 dias, não um ano.
+- E está errada: confunde o contrato de experiência com as demais hipóteses de contrato a termo e contraria a regra de apenas uma prorrogação (art. 451).
+
+**Ponto de prova:** identificar a hipótese legal a partir do caso concreto. O serviço transitório pode justificar o prazo determinado, sem que seja necessário enquadrar a contratação como trabalho temporário por empresa interposta.
+
