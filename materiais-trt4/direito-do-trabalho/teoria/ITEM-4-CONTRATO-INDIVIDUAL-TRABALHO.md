@@ -67,34 +67,103 @@ CLT, art. 468: alteração das condições do contrato somente é lícita por m�
 
 ## 6. Suspensão x interrupção
 
-| Critério | Suspensão | Interrupção |
+As duas situações mantêm o contrato de trabalho, mas interrompem temporariamente a prestação normal de serviços. A diferença central está nos efeitos sobre salário e tempo de serviço.
+
+| Critério | Interrupção | Suspensão |
 |---|---|---|
-| Trabalho | Não há prestação | Não há prestação |
-| Salário pelo empregador | Em regra, não | Em regra, sim |
-| Tempo de serviço | Em regra, não conta | Em regra, conta |
-| Exemplo típico | Afastamento previdenciário após os primeiros 15 dias; suspensão disciplinar | Férias, DSR, feriados e faltas justificadas |
+| Prestação de serviços | Não há trabalho | Não há trabalho |
+| Pagamento | Em regra, remuneração mantida | Em regra, empregador não paga salário |
+| Tempo de serviço | Em regra, contado | Em regra, não contado, ressalvadas hipóteses legais |
+| Exemplo clássico | Férias, DSR, faltas justificadas, primeiros 15 dias de doença | Benefício previdenciário após os primeiros 15 dias, greve, licença sem remuneração |
 
-A tabela é uma regra de estudo, não substitui a análise de cada hipótese legal. Existem situações com particularidades quanto a FGTS, contagem de tempo e pagamento.
+**Regra de prova:** na interrupção, o empregado não trabalha, mas o período é remunerado e conta como tempo de serviço. Na suspensão, cessam temporariamente as principais obrigações de prestar trabalho e pagar salário pelo empregador. Não transforme essa regra geral em absoluta: FGTS, tempo de serviço e outros efeitos podem ter disciplina própria.
 
-### Suspensão — exemplos relevantes no material
-- Doença ou acidente: a partir do 16º dia de afastamento, em regra, há benefício previdenciário e suspensão contratual; os primeiros 15 dias são pagos pelo empregador.
-- Suspensão disciplinar: não pode exceder 30 dias consecutivos (art. 474); excesso importa rescisão injusta.
-- Qualificação profissional (art. 476-A): suspensão de 2 a 5 meses, mediante previsão em instrumento coletivo e aquiescência formal do empregado, observados os requisitos legais.
-- Serviço militar obrigatório e exercício de encargo público: observar art. 472.
-- Greve e mandato sindical: classificar conforme a disciplina legal, instrumento coletivo e eventual manutenção de remuneração.
-- Aposentadoria por incapacidade permanente: suspensão do contrato enquanto subsistir a situação, observadas as regras previdenciárias.
+### 6.1. Interrupção — hipóteses importantes
 
-### Interrupção — exemplos relevantes no material
-- Férias, feriados e descanso semanal remunerado.
-- Faltas justificadas do art. 473 da CLT.
-- Primeiros 15 dias de afastamento por doença ou acidente, a cargo do empregador.
-- Comparecimento necessário à Justiça do Trabalho (Súmula 155 do TST).
-- Convocação eleitoral, júri e outras hipóteses legais específicas.
-- O aviso-prévio trabalhado com redução de jornada do art. 488 não deve ser confundido com suspensão.
+**1. Faltas justificadas do art. 473 da CLT.** O empregado pode deixar de comparecer sem prejuízo do salário nas hipóteses legais. A lista vigente em 23/11/2026 é:
 
-## 7. Atualização legislativa e cautelas
+| Inciso | Hipótese | Duração |
+|---|---|---|
+| I | Falecimento de cônjuge, ascendente, descendente, irmão ou dependente econômico declarado na CTPS | Até 2 dias consecutivos |
+| II | Casamento | Até 3 dias consecutivos |
+| III | Nascimento, adoção ou guarda compartilhada | 5 dias consecutivos, na redação vigente até 31/12/2026 |
+| IV | Doação voluntária de sangue comprovada | 1 dia a cada 12 meses de trabalho |
+| V | Alistamento eleitoral | Até 2 dias, consecutivos ou não |
+| VI | Cumprimento de exigências do Serviço Militar | Pelo tempo necessário |
+| VII | Provas de vestibular para ingresso em estabelecimento de ensino superior | Nos dias das provas |
+| VIII | Comparecimento necessário a juízo | Pelo tempo necessário |
+| IX | Representante sindical em reunião oficial de organismo internacional do qual o Brasil seja membro | Pelo tempo necessário |
+| X | Acompanhamento da esposa/companheira em consultas ou exames durante a gravidez | Até 6 consultas/exames |
+| XI | Acompanhamento de filho de até 6 anos em consulta médica | 1 dia por ano |
+| XII | Exames preventivos de câncer, devidamente comprovados | Até 3 dias a cada 12 meses |
 
-O PDF reproduz alterações recentes nos arts. 473 e seguintes, inclusive referências a leis de 2025 e 2026. Antes da prova, conferir a redação vigente da CLT e o edital. Não estudar quadro antigo de faltas justificadas sem confrontá-lo com a versão legal mais recente. O material traz, por exemplo, alteração do prazo ligado ao nascimento/adoção e nova previsão sobre exames preventivos; esses pontos devem ser revisados diretamente na legislação consolidada.
+**Atualizações dos parágrafos do art. 473:**
+- § 1º: o prazo do inciso III é contado da data do nascimento.
+- § 2º: em nascimento ou adoção de criança com deficiência permanente decorrente de síndrome congênita associada ao vírus Zika, o prazo do inciso III é ampliado para 20 dias (Lei 15.156/2025).
+- § 3º: o empregador deve informar o empregado sobre a possibilidade de ausência para exames preventivos de HPV e câncer, nos termos do inciso XII (Lei 15.377/2026).
+
+**Atenção à mudança futura:** a Lei 15.371/2026 entra em vigor em **1º/1/2027**. A partir dessa data, o inciso III do art. 473 passa a abranger o período de usufruto da licença-paternidade ou da licença-maternidade custeadas pela Previdência Social. A própria lei prevê licença-paternidade de 10 dias a partir de 2027, 15 dias a partir de 2028 e 20 dias a partir de 2029, observada a condição fiscal prevista na lei. Para uma prova realizada em 2027, conferir a data de aplicação da nova redação e não repetir automaticamente os cinco dias da redação anterior.
+
+**2. Primeiros 15 dias de afastamento por doença ou acidente comum.** O empregador paga o salário dos primeiros 15 dias. Em regra, é interrupção. A partir do 16º dia, se concedido benefício previdenciário, o contrato fica suspenso.
+
+**3. Férias, repouso semanal remunerado e feriados.** Não há prestação de trabalho, mas há pagamento e contagem do período conforme as regras próprias.
+
+**4. Licença-maternidade e licença-paternidade.** São períodos de afastamento remunerado, tratados como interrupção para fins trabalhistas, observada a disciplina previdenciária de custeio.
+
+### 6.2. Suspensão — hipóteses importantes
+
+**1. Doença ou acidente após os primeiros 15 dias.** Em regra, a partir do 16º dia, o empregado passa a receber benefício previdenciário e o contrato fica suspenso. No acidente do trabalho, há particularidades relevantes: o empregador deve continuar depositando FGTS durante o afastamento acidentário, conforme art. 15, § 5º, da Lei 8.036/1990; o período também tem disciplina especial de contagem de tempo de serviço.
+
+**2. Serviço militar obrigatório e encargo público (art. 472).** O afastamento não pode ser usado pelo empregador como motivo para alterar ou rescindir o contrato. Para retornar ao cargo, o empregado deve notificar o empregador, por telegrama ou carta registrada, dentro de 30 dias contados da baixa ou do término do encargo. Em contrato por prazo determinado, as partes podem acordar que o período de afastamento não seja computado no prazo final.
+
+**3. Greve.** A participação em greve suspende o contrato, como regra (art. 7º da Lei 7.783/1989). As obrigações durante a paralisação serão definidas por acordo, convenção coletiva, laudo arbitral ou decisão da Justiça do Trabalho. Portanto, não se deve afirmar que todo dia de greve será necessariamente descontado: a solução depende da disciplina aplicável ao movimento.
+
+**4. Suspensão disciplinar (art. 474).** Não pode exceder 30 dias consecutivos. Suspensão superior a 30 dias importa rescisão injusta do contrato pelo empregador.
+
+**5. Qualificação profissional — lay-off (art. 476-A).**
+- Suspensão de 2 a 5 meses para curso ou programa de qualificação oferecido pelo empregador.
+- Exige previsão em convenção ou acordo coletivo e aquiescência formal do empregado.
+- O sindicato deve ser notificado com antecedência mínima de 15 dias.
+- Não pode ocorrer mais de uma vez em 16 meses.
+- O empregador pode pagar ajuda compensatória mensal sem natureza salarial e deve manter os benefícios voluntariamente concedidos.
+- Se o curso não for ministrado ou o empregado continuar trabalhando, a suspensão fica descaracterizada: o empregador deve pagar imediatamente salários e encargos do período.
+- Se houver dispensa durante a suspensão ou nos três meses seguintes ao retorno, incide multa prevista no instrumento coletivo, de no mínimo 100% da última remuneração mensal anterior à suspensão, além das verbas rescisórias.
+
+**6. Aposentadoria por incapacidade permanente.** O art. 475 da CLT prevê a suspensão do contrato enquanto subsistir a situação previdenciária, observadas as regras atuais do benefício e a possibilidade de recuperação da capacidade laboral.
+
+**7. Licença sem remuneração e afastamento para exercício de mandato sindical.** Em regra, quando não há pagamento salarial pelo empregador, há suspensão, ressalvadas as condições específicas do mandato, do instrumento coletivo e da situação concreta.
+
+### 6.3. Efeitos especiais que a FCC pode cobrar
+
+- **Retorno ao trabalho (art. 471):** o empregado afastado tem asseguradas, quando retorna, todas as vantagens atribuídas à categoria durante sua ausência.
+- **FGTS durante a suspensão:** não se presume depósito em todo afastamento. A Lei 8.036/1990, art. 15, § 5º, torna obrigatório o depósito durante serviço militar obrigatório e licença por acidente do trabalho. Nos primeiros 15 dias de doença, há depósito porque o empregador paga a remuneração.
+- **Férias e benefício previdenciário:** o art. 133, IV, da CLT prevê perda do direito às férias do período aquisitivo se o empregado tiver recebido benefício por acidente do trabalho ou auxílio-doença por mais de seis meses, ainda que descontínuos, durante esse período.
+- **Suspensão disciplinar:** a regra dos 30 dias do art. 474 refere-se à penalidade disciplinar, não a toda e qualquer suspensão contratual.
+- **Greve:** a suspensão é a regra legal, mas o pagamento dos dias parados pode ser negociado ou definido judicialmente.
+
+### 6.4. Quadro rápido de memorização
+
+| Situação | Classificação predominante | Observação |
+|---|---|---|
+| Férias | Interrupção | Remuneração e tempo de serviço |
+| DSR e feriados | Interrupção | Pagamento conforme a lei |
+| Falta justificada do art. 473 | Interrupção | Sem prejuízo salarial |
+| Doença — primeiros 15 dias | Interrupção | Pagamento pelo empregador |
+| Doença comum — a partir do 16º dia com benefício | Suspensão | Em regra, sem salário pelo empregador |
+| Acidente do trabalho — após 15 dias | Suspensão com efeitos especiais | FGTS obrigatório e contagem de tempo nos termos legais |
+| Serviço militar obrigatório | Suspensão com efeitos especiais | FGTS obrigatório; observar art. 472 |
+| Greve | Suspensão | Pagamento depende de acordo ou decisão |
+| Licença sem remuneração | Suspensão | Em regra |
+| Qualificação profissional do art. 476-A | Suspensão | Instrumento coletivo + concordância formal |
+
+## 7. Atualização legislativa e cautelas para a prova
+
+1. **Art. 473 em 2026:** considerar a redação vigente em 23/11/2026, inclusive a ampliação para 20 dias na hipótese específica ligada à síndrome congênita do Zika (Lei 15.156/2025) e o dever de informação sobre exames preventivos de HPV e câncer (Lei 15.377/2026).
+2. **Art. 473 a partir de 1º/1/2027:** a Lei 15.371/2026 altera o inciso III para abranger o período de licença-paternidade ou maternidade custeada pela Previdência Social. A licença-paternidade passa a 10 dias em 2027, 15 dias em 2028 e 20 dias em 2029, sujeita à condição fiscal prevista na própria lei.
+3. **Greve:** estudar o art. 7º da Lei 7.783/1989; não tratar pagamento dos dias parados como consequência automática.
+4. **FGTS:** lembrar a exceção expressa do art. 15, § 5º, da Lei 8.036/1990 para serviço militar obrigatório e licença por acidente do trabalho.
+5. **Qualificação profissional:** revisar todos os requisitos do art. 476-A; a simples vontade unilateral do empregador não basta.
+6. **Fontes normativas prioritárias:** CLT consolidada (arts. 131, 133, 471 a 476-A), Lei 8.036/1990 (art. 15, § 5º), Lei 7.783/1989 (art. 7º), Lei 15.156/2025, Lei 15.377/2026 e Lei 15.371/2026.
 
 ## 8. Questões FCC localizadas no caderno
 
