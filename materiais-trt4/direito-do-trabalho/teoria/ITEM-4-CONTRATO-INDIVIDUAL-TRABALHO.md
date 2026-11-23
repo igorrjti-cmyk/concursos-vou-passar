@@ -808,3 +808,25 @@ O descumprimento injustificado após o aceite gera multa de 50% da remuneração
 
 **Pegadinha:** a multa não corresponde à remuneração integral. Primeiro calcule o valor total da convocação; depois aplique 50%.
 
+
+
+### Questão 227 — FCC, TRT-18, 2023 — cálculo da multa no trabalho intermitente
+
+**Enunciado:** Empregada intermitente aceita convocação para quatro dias, pela qual receberia R$ 500,00, mas não comparece sem justo motivo. A empresa poderá cobrar multa de:
+
+- A) R$ 50,00, em 30 dias, vedada compensação.
+- B) R$ 100,00, em 15 dias, permitida compensação.
+- C) R$ 200,00, em 30 dias, vedada compensação.
+- D) R$ 150,00, em 20 dias, permitida compensação.
+- E) R$ 250,00, em 30 dias, permitida compensação.
+
+**Gabarito: E.**
+
+**Fundamento:** art. 452-A, § 4º, da CLT.
+
+**Cálculo:** R$ 500,00 × 50% = **R$ 250,00**.
+
+A multa deve ser paga no prazo de 30 dias, sendo permitida a compensação nesse mesmo período.
+
+**Ponto de atenção:** a penalidade é aplicável à parte que descumprir injustificadamente o acordo depois do aceite. A regra vale tanto para o empregado quanto para o empregador.
+
