@@ -682,3 +682,30 @@ De acordo com a CLT, em razão das prorrogações contratuais e dos respectivos 
 
 **Ponto de prova:** no trabalho intermitente, a recusa é permitida, a inatividade não é tempo à disposição e o trabalhador pode atuar para outros contratantes.
 
+
+
+### Questão 222 — FCC, TRT-2, 2025 — convocação e resposta no trabalho intermitente
+
+**Enunciado:** De acordo com as regras legais que disciplinam o trabalho intermitente:
+
+- A) A convocação deve ser respondida em um dia útil, de forma escrita e justificada, sob pena de rescisão.
+- B) Recebida a convocação, o empregado terá três dias úteis para responder, presumindo-se, no silêncio, a recusa.
+- C) A possibilidade de recusa da oferta descaracteriza a subordinação.
+- D) O empregador convocará por meio eficaz, informando a jornada, com pelo menos três dias corridos de antecedência; o empregado terá um dia útil para responder, presumindo-se, no silêncio, a recusa.
+- E) O período de inatividade é tempo à disposição, devendo o empregado priorizar esse contrato.
+
+**Gabarito: D.**
+
+**Fundamento:** art. 452-A, §§ 1º e 2º, da CLT.
+
+**Regra legal:** o empregador convoca por meio eficaz, informa a jornada e observa antecedência mínima de três dias corridos. O empregado tem um dia útil para responder. O silêncio presume recusa.
+
+**Análise das alternativas:**
+- A está errada: a lei não exige resposta escrita e justificada nem prevê rescisão pelo silêncio; o silêncio presume recusa.
+- B está errada: o prazo de resposta é de um dia útil, não três dias úteis.
+- C está errada: a recusa não descaracteriza a subordinação (§ 3º).
+- D está correta: reproduz os prazos legais.
+- E está errada: a inatividade não é tempo à disposição e o empregado pode prestar serviços a outros contratantes (§ 5º).
+
+**Macete:** três dias corridos para convocar; um dia útil para responder.
+
