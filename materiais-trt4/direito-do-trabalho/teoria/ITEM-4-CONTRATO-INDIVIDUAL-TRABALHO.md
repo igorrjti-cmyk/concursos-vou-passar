@@ -936,3 +936,28 @@ Está correto APENAS o que se afirma em:
 
 **Ponto de integração:** embora a questão esteja no bloco de trabalho intermitente, também revisa sucessão empresarial, uniforme e propriedade intelectual no contrato de trabalho.
 
+
+
+### Questão 232 — FCC, TRT-9, 2022 — inatividade e trabalho para terceiros
+
+**Enunciado:** No contrato de trabalho intermitente, os períodos de inatividade:
+
+- A) Não são considerados tempo à disposição do empregador, podendo o empregado prestar serviços a outros contratantes.
+- B) São tempo à disposição, gerando indenização de 20% da remuneração.
+- C) Permitem convocação com antecedência mínima de 48 horas.
+- D) Impedem recusa da convocação, sob pena de perda da subordinação.
+- E) Geram férias apenas após oito meses de prestação no período aquisitivo.
+
+**Gabarito: A.**
+
+**Fundamento:** art. 452-A, §§ 3º, 5º, 6º e 9º, da CLT.
+
+**Análise das alternativas:**
+- A está correta: a inatividade não é tempo à disposição, e o empregado pode trabalhar para outros contratantes.
+- B está errada: não há pagamento de remuneração pela simples inatividade.
+- C está errada: a convocação exige antecedência mínima de três dias corridos.
+- D está errada: a recusa não descaracteriza a subordinação.
+- E está errada: a cada 12 meses, o empregado adquire direito a um mês no qual não poderá ser convocado pelo mesmo empregador, período destinado ao gozo das férias.
+
+**Pegadinha:** não confundir o período de inatividade com férias. A inatividade pode ocorrer entre convocações; o direito específico de férias segue a regra dos 12 meses.
+
