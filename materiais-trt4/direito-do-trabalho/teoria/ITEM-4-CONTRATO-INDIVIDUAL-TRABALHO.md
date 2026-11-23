@@ -855,3 +855,28 @@ A multa deve ser paga no prazo de 30 dias, sendo permitida a compensação nesse
 
 **Ponto de prova:** valor-hora, convocação, resposta e pagamento são quatro blocos diferentes do art. 452-A. A FCC costuma misturar os prazos de cada um.
 
+
+
+### Questão 229 — FUNDATEC, IPE Saúde, 2022 — períodos de prestação no trabalho intermitente
+
+**Enunciado:** Sobre o contrato de trabalho intermitente, assinale a alternativa correta:
+
+- A) Não implica subordinação.
+- B) A prestação é contínua, apesar da alternância de períodos.
+- C) Os períodos de prestação podem ser determinados em horas, dias ou meses.
+- D) Depende do tipo de atividade do empregado e do empregador.
+- E) Não pode ser adotado para empregado doméstico.
+
+**Gabarito: C.**
+
+**Fundamento:** art. 443, § 3º, da CLT.
+
+**Análise das alternativas:**
+- A está errada: o trabalho intermitente é subordinado e constitui vínculo de emprego.
+- B está errada: a característica central é a descontinuidade da prestação.
+- C está correta: a CLT prevê alternância entre períodos de trabalho e inatividade, que podem ser determinados em horas, dias ou meses.
+- D está errada: a lei admite o regime independentemente da atividade, ressalvada a categoria dos aeronautas.
+- E está errada: a alternativa apresenta uma exclusão genérica que não consta da regra do art. 443, § 3º; eventual aplicação ao trabalho doméstico exige considerar também a disciplina especial da LC 150/2015.
+
+**Memorização:** trabalho intermitente = vínculo subordinado + prestação descontínua + alternância entre trabalho e inatividade.
+
