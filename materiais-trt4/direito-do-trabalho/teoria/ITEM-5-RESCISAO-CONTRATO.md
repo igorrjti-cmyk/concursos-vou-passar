@@ -360,3 +360,90 @@ O *factum principis* ocorre quando a paralisação temporária ou definitiva do 
 - CLT, arts. 486 e 501 a 503.
 - Lei 8.036/1990, art. 18, § 2º.
 
+## Material autoral — aviso-prévio: modalidades, proporcionalidade e jurisprudência
+
+### 1. Conceito e modalidades
+O aviso-prévio é a comunicação antecipada da intenção de encerrar contrato por prazo indeterminado, evitando ruptura inesperada.
+- **Trabalhado:** o contrato continua durante o período comunicado, com prestação de serviços.
+- **Indenizado pelo empregador:** o empregador dispensa o trabalho e paga o período correspondente; a projeção integra o tempo de serviço.
+- **Não concedido pelo empregado que pede demissão:** em regra, o empregador pode descontar os salários correspondentes ao prazo não cumprido, conforme art. 487, § 2º, da CLT, salvo dispensa do cumprimento.
+
+O aviso-prévio é devido também na despedida indireta (art. 487, § 4º, CLT).
+
+### 2. Prazo proporcional — Lei 12.506/2011
+- 30 dias para quem tem até um ano de serviço na mesma empresa.
+- Acréscimo de 3 dias por ano de serviço, até 60 dias adicionais.
+- Limite máximo total: 90 dias.
+
+Exemplos: 1 ano = 30 dias; 2 anos = 33; 3 anos = 36; 5 anos = 42; 10 anos = 57; 15 anos = 72; 20 anos = 90 dias.
+
+**Proporcionalidade como direito do empregado:** a jurisprudência do TST entende que o acréscimo proporcional é direito do trabalhador dispensado imotivadamente. O empregador não pode exigir trabalho por período superior a 30 dias em razão da proporcionalidade; o período adicional é indenizado. No pedido de demissão, não se exige do empregado aviso superior a 30 dias.
+
+### 3. Redução da jornada — art. 488 da CLT
+Quando a rescisão é promovida pelo empregador e o aviso é trabalhado, o empregado pode optar por:
+- redução de 2 horas diárias durante o aviso, sem prejuízo do salário; ou
+- ausência ao serviço por 7 dias corridos, sem prejuízo salarial, na hipótese do inciso II do art. 487.
+
+As alternativas não são cumulativas: cabe ao empregado escolher uma delas. A redução não se aplica ao pedido de demissão, pois o art. 488 se refere à rescisão promovida pelo empregador.
+
+**Súmula 230 do TST:** é ilegal substituir o período de redução da jornada no aviso-prévio pelo pagamento das horas correspondentes.
+
+### 4. Retratação — art. 489
+Dado o aviso, a rescisão torna-se efetiva após o término do prazo. A parte que notificou pode reconsiderar o ato antes do fim do aviso, mas a outra parte pode aceitar ou não.
+- Se a reconsideração for aceita, o contrato continua como se o aviso não tivesse sido dado.
+- Se, terminado o prazo, a prestação de serviços continuar, o contrato também permanece em vigor.
+
+### 5. Integração ao tempo de serviço e efeitos
+- A falta de aviso pelo empregador gera direito aos salários correspondentes, com integração do período ao tempo de serviço (art. 487, § 1º).
+- Horas extras habituais integram o aviso indenizado (art. 487, § 5º).
+- Reajustamento salarial coletivo ocorrido durante o aviso beneficia o empregado, mesmo que o aviso tenha sido indenizado (art. 487, § 6º).
+- Incide FGTS sobre o aviso-prévio, inclusive indenizado, conforme Súmula 305 do TST.
+- O aviso projetado pode repercutir no cálculo de parcelas proporcionais, conforme as datas e os requisitos legais.
+
+### 6. Súmulas e entendimentos relevantes do TST
+- **Súmula 230:** não se pode substituir a redução legal da jornada pelo pagamento das horas correspondentes.
+- **Súmula 276:** o direito ao aviso-prévio é irrenunciável pelo empregado. O pedido de dispensa de cumprimento não exonera o empregador do pagamento, salvo comprovação de que o trabalhador obteve novo emprego. O entendimento foi reafirmado no IRR 227, publicado em 2025.
+- **Súmula 305:** incide FGTS sobre o aviso-prévio, inclusive indenizado.
+- **Proporcionalidade:** a Lei 12.506/2011 confere a proporcionalidade ao empregado; o empregador não pode exigir cumprimento trabalhado superior a 30 dias em razão dos acréscimos proporcionais.
+
+### 7. Questões autorais — não extraídas de provas oficiais
+
+**O.** Na dispensa sem justa causa, durante o aviso-prévio trabalhado, o empregado tem direito:
+- A) À redução de duas horas diárias ou à ausência por sete dias corridos, sem prejuízo salarial.
+- B) À redução de quatro horas diárias, obrigatoriamente.
+- C) À redução de duas horas, inclusive quando pede demissão.
+- D) À substituição obrigatória da redução por pagamento de horas extras.
+
+**Gabarito: A.** Art. 488 da CLT. As alternativas são facultadas ao empregado quando a rescisão é promovida pelo empregador.
+
+**P.** O empregado pede demissão e não cumpre o aviso-prévio, sem obter dispensa do empregador. Conforme o art. 487, § 2º, da CLT:
+- A) O empregador deve pagar o aviso em dobro.
+- B) O empregador pode descontar os salários correspondentes ao prazo do aviso não cumprido.
+- C) O empregado recebe seguro-desemprego.
+- D) O contrato transforma-se em prazo determinado.
+
+**Gabarito: B.** A falta de aviso pelo empregado dá ao empregador o direito de descontar os salários correspondentes ao prazo respectivo.
+
+**Q.** O empregador comunica o aviso-prévio e, antes do término do prazo, reconsidera a decisão. De acordo com o art. 489 da CLT:
+- A) A reconsideração sempre obriga o empregado a permanecer no emprego.
+- B) A reconsideração depende da aceitação da outra parte.
+- C) O contrato termina imediatamente.
+- D) A reconsideração é proibida.
+
+**Gabarito: B.** A outra parte pode aceitar ou não a reconsideração.
+
+**R.** Segundo a Súmula 276 do TST, o direito ao aviso-prévio:
+- A) Pode ser renunciado livremente pelo empregado.
+- B) É irrenunciável, ressalvada a hipótese de comprovação de novo emprego para afastar o pagamento quando dispensado do cumprimento.
+- C) Existe apenas para contratos por prazo determinado.
+- D) Não é devido na dispensa sem justa causa.
+
+**Gabarito: B.** A Súmula 276 protege o direito ao aviso-prévio, ressalvada a comprovação de novo emprego.
+
+### Referências normativas e jurisprudenciais
+- Constituição Federal, art. 7º, XXI.
+- CLT, arts. 487 a 491.
+- Lei 12.506/2011.
+- TST, Súmulas 230, 276 e 305.
+- TST, IRR 227, reafirmação da tese sobre irrenunciabilidade do aviso-prévio, salvo novo emprego.
+
