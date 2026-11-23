@@ -1359,3 +1359,24 @@ A suspensão disciplinar não pode ultrapassar 30 dias consecutivos. Se o empreg
 
 **Pegadinha:** não confundir o limite da suspensão disciplinar com outras modalidades de suspensão contratual, como afastamento previdenciário ou qualificação profissional.
 
+
+
+### Questão 78 — FCC, TST, 2017 — negociação coletiva e greve
+
+**Enunciado:** Empresa propõe alteração de acordo coletivo para compensação de horas, redução de jornada e salário. As negociações não chegam a um acordo e ocorre paralisação por prazo indeterminado. Analise:
+
+I. É possível negociar compensação de horas e jornada, mas não redução salarial.  
+II. O sindicato pode rejeitar a proposta apresentada, e os empregados podem exercer o direito de greve, sujeitando-se às consequências legais em caso de abuso.  
+III. Em greve de atividade essencial, havendo possibilidade de lesão ao interesse público, o MPT pode ajuizar dissídio coletivo, cabendo à Justiça do Trabalho decidir.
+
+**Gabarito: B — II e III.**
+
+**Fundamentos:** Constituição Federal, arts. 7º, VI e XIII, 9º e 114, § 3º; Lei 7.783/1989, art. 7º.
+
+**Análise das assertivas:**
+- I é falsa: a Constituição admite redução salarial mediante convenção ou acordo coletivo (art. 7º, VI). A compensação de horários e a jornada também podem ser negociadas coletivamente.
+- II é verdadeira: o sindicato pode rejeitar a proposta, e a greve é direito constitucional dos trabalhadores (art. 9º), sujeitando os responsáveis às consequências legais em caso de abuso.
+- III é verdadeira: em greve de atividade essencial, com possibilidade de lesão ao interesse público, o MPT pode ajuizar dissídio coletivo, cabendo à Justiça do Trabalho decidir (art. 114, § 3º).
+
+**Ligação com suspensão contratual:** a greve suspende o contrato como regra (art. 7º da Lei 7.783/1989), mas as consequências financeiras dos dias parados podem ser definidas por negociação coletiva ou decisão judicial.
+
