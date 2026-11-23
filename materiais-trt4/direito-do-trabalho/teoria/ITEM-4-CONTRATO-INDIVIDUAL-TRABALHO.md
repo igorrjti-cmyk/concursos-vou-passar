@@ -199,3 +199,27 @@ As questões abaixo pertencem ao caderno FCC para Técnico — Área Administrat
 - Art. 451: apenas uma prorrogação; mais de uma converte em prazo indeterminado.
 - Art. 452: novo contrato a termo dentro de seis meses, em regra, é considerado por prazo indeterminado, ressalvadas as exceções legais.
 
+
+
+### Questão 203 — FCC, TRT-5, 2013 — conceito de contrato por prazo determinado
+
+**Enunciado:** Sobre o contrato individual de trabalho, assinale a afirmação correta.
+
+- A) O contrato cuja vigência dependa de termo prefixado, da execução de serviços especificados ou da realização de acontecimento suscetível de previsão aproximada será considerado por prazo determinado.
+- B) O contrato de experiência poderá durar até 120 dias.
+- C) O contrato por prazo determinado para atividade empresarial transitória não poderá ultrapassar seis meses.
+- D) O contrato de experiência prorrogado, ainda que dentro do limite legal, converte-se em indeterminado.
+- E) As partes podem estipular livremente as condições contratuais sem qualquer limitação.
+
+**Gabarito: A.**
+
+**Fundamento:** art. 443, § 1º, da CLT. A alternativa reproduz o conceito legal de contrato por prazo determinado: vigência dependente de termo prefixado, execução de serviços especificados ou acontecimento suscetível de previsão aproximada.
+
+**Análise das alternativas:**
+- A está correta e corresponde ao conceito legal.
+- B está errada: o contrato de experiência não pode exceder 90 dias (art. 445, parágrafo único).
+- C está errada: não há limite geral de seis meses para essa hipótese; aplica-se, em regra, o limite geral de dois anos do art. 445, observados os requisitos legais.
+- D está errada: admite-se uma prorrogação, desde que respeitado o limite máximo; a conversão ocorre quando há mais de uma prorrogação (art. 451).
+- E está errada: a liberdade de estipulação do art. 444 é limitada pelas disposições de proteção ao trabalho, contratos coletivos aplicáveis e decisões das autoridades competentes.
+
+**Distinção para prova:** art. 443, § 1º = conceito; art. 445 = duração; art. 451 = quantidade de prorrogações.
