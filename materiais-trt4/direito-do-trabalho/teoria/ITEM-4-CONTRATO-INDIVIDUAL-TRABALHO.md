@@ -606,3 +606,28 @@ De acordo com a CLT, em razão das prorrogações contratuais e dos respectivos 
 
 **Aprendizado:** a prorrogação pode ter duração diferente da contratação inicial. O que importa é não ultrapassar 90 dias no total e não realizar mais de uma prorrogação.
 
+
+
+### Questão 219 — FCC, TRT-23, 2004 — conceito e limites do contrato de experiência
+
+**Enunciado:** Contrato de experiência é:
+
+- A) Modalidade de contrato por prazo indeterminado, celebrado por ocasião do primeiro emprego.
+- B) Modalidade de contrato por prazo determinado, com prazo máximo de 90 dias, não podendo ser prorrogado mais de uma vez.
+- C) Modalidade de contrato por prazo determinado, com prazo máximo de 30 dias, prorrogável por igual período.
+- D) Modalidade de contrato por prazo determinado, com prazo máximo de 30 dias, sem possibilidade de prorrogação.
+- E) Ajuste prévio por até 60 dias, dispensado registro na CTPS.
+
+**Gabarito: B.**
+
+**Fundamentos:** arts. 443, § 2º, alínea “c”, 445, parágrafo único, e 451 da CLT.
+
+**Análise:** o contrato de experiência é modalidade de contrato por prazo determinado, tem duração máxima de 90 dias e admite uma única prorrogação. A alternativa B reúne corretamente as três características.
+
+- A está errada: não é contrato por prazo indeterminado nem se limita ao primeiro emprego.
+- C está errada: o limite não é 30 dias.
+- D está errada: a prorrogação é permitida uma vez.
+- E está errada: o limite não é 60 dias e o vínculo deve ser registrado.
+
+**Dica de prova:** ao identificar a definição de contrato de experiência, procure a combinação prazo determinado + máximo de 90 dias + uma única prorrogação.
+
