@@ -1380,3 +1380,18 @@ III. Em greve de atividade essencial, havendo possibilidade de lesão ao interes
 
 **Ligação com suspensão contratual:** a greve suspende o contrato como regra (art. 7º da Lei 7.783/1989), mas as consequências financeiras dos dias parados podem ser definidas por negociação coletiva ou decisão judicial.
 
+
+
+### Questão 76 — FCC, TRT-11, 2017 — licença à gestante e turnos ininterruptos
+
+**Enunciado:** Trabalhador rural atua em turnos ininterruptos de revezamento. Sua esposa acaba de dar à luz. Segundo a Constituição, ele tem direito a jornada de seis horas, salvo negociação coletiva, e a esposa tem direito à licença à gestante de 120 dias, sem prejuízo do emprego e do salário.
+
+**Gabarito: A.**
+
+**Fundamentos:** Constituição Federal, art. 7º, XIV e XVIII.
+
+- Art. 7º, XIV: jornada de seis horas nos turnos ininterruptos de revezamento, salvo negociação coletiva.
+- Art. 7º, XVIII: licença à gestante de 120 dias, sem prejuízo do emprego e do salário.
+
+**Relação com o Item 4:** a licença-maternidade é hipótese de afastamento remunerado, classificada como interrupção contratual para fins trabalhistas.
+
