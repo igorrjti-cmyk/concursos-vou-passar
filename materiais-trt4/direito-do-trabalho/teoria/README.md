@@ -11,5 +11,6 @@ Sugestão de nome: `assunto-fonte-ano.pdf`.
 - [Item 10 — insalubridade e periculosidade](ITEM-10-INSALUBRIDADE-PERICULOSIDADE.md)
 - [Item 5 — rescisão do contrato de trabalho](ITEM-5-RESCISAO-CONTRATO.md)
 - [Item 8 — salário e remuneração](ITEM-8-SALARIO-REMUNERACAO.md)
+- [Item 3 — relação de trabalho e emprego](ITEM-3-RELACAO-TRABALHO-EMPREGO.md)
 - [Item 4 — contrato individual de trabalho](ITEM-4-CONTRATO-INDIVIDUAL-TRABALHO.md)
 - [Guia de análise do edital do TRT-4](GUIA-ANALISE-EDITAL-TRT4.md)
