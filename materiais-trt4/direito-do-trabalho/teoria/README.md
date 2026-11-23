@@ -19,3 +19,5 @@ Sugestão de nome: `assunto-fonte-ano.pdf`.
 - [Item 1 — princípios e fontes do Direito do Trabalho](ITEM-1-PRINCIPIOS-E-FONTES.md)
 
 - [Item 9 — prescrição e decadência](ITEM-9-PRESCRICAO-DECADENCIA.md)
+
+- [Item 11 — proteção ao trabalho do menor](ITEM-11-PROTECAO-TRABALHO-MENOR.md)
