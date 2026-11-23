@@ -60,3 +60,62 @@ Total relacionado: 151 questões nas três categorias. A contagem segue a classi
 ## Próximo passo
 
 Depois deste bloco, seguir para o item 8 (salário e remuneração: 86 questões agrupadas) e depois item 3 (relação de trabalho/emprego: 66 questões). Itens já analisados — 2, 3 e 4 — serão revisitados conforme a frequência do ranking, não descartados.
+
+
+## Material autoral — modalidades de extinção e verbas rescisórias
+
+### 1. Modalidades básicas
+
+- **Dispensa sem justa causa:** iniciativa do empregador, sem falta grave do empregado. Em regra, são devidos saldo salarial, aviso-prévio, 13º proporcional, férias vencidas e proporcionais acrescidas de 1/3, indenização de 40% do FGTS e, se preenchidos os requisitos legais, saque do FGTS e seguro-desemprego.
+- **Pedido de demissão:** iniciativa do empregado. São devidos saldo salarial, 13º proporcional e férias vencidas e proporcionais acrescidas de 1/3. Não há multa rescisória de 40% nem seguro-desemprego em razão dessa modalidade. O aviso-prévio pode ser descontado se não cumprido e não dispensado pelo empregador, observada a legislação.
+- **Dispensa por justa causa:** iniciativa do empregador em razão de falta grave enquadrada no art. 482 da CLT. Em regra, são devidos saldo salarial e férias vencidas acrescidas de 1/3; não são devidos aviso-prévio, 13º proporcional, férias proporcionais, multa rescisória do FGTS ou seguro-desemprego. Atenção à jurisprudência aplicável e às parcelas já adquiridas.
+- **Extinção por acordo (art. 484-A):** exige acordo entre empregado e empregador. As demais verbas trabalhistas são pagas integralmente; o aviso-prévio, se indenizado, e a indenização sobre o FGTS são pagos pela metade. A indenização do FGTS corresponde a 20%, e o saque fica limitado a 80% do saldo, sem direito ao seguro-desemprego.
+
+### 2. Quadro comparativo essencial
+
+| Parcela | Sem justa causa | Pedido de demissão | Acordo (484-A) | Justa causa |
+|---|---|---|---|---|
+| Saldo de salário | Sim | Sim | Sim | Sim |
+| Aviso-prévio | Devido | Pode ser devido pelo empregado | Metade, se indenizado | Não |
+| 13º proporcional | Sim | Sim | Sim | Em regra, não |
+| Férias vencidas + 1/3 | Sim | Sim | Sim | Sim |
+| Férias proporcionais + 1/3 | Sim | Sim | Sim | Em regra, não |
+| Indenização do FGTS | 40% | Não | 20% | Não |
+| Seguro-desemprego | Se preencher requisitos | Não | Não | Não |
+
+### 3. Aviso-prévio proporcional — cuidado com a contagem
+
+A Lei 12.506/2011 prevê 30 dias para quem tem até um ano de serviço na mesma empresa, acrescidos de 3 dias por ano de serviço, até o máximo de 60 dias adicionais, totalizando 90 dias. Para questões de cálculo, observar a interpretação jurisprudencial sobre o marco de aquisição dos dias adicionais e a data de admissão; não extrapolar a tabela simplificada sem conferir o enunciado.
+
+### 4. Questões autorais — não são questões extraídas de provas
+
+**Questão A.** Na extinção do contrato por acordo entre empregado e empregador, conforme o art. 484-A da CLT:
+
+A) Todas as verbas rescisórias são reduzidas pela metade.  
+B) A indenização sobre o FGTS é de 20%, e o aviso-prévio indenizado é pago pela metade.  
+C) O empregado tem direito ao seguro-desemprego.  
+D) O empregado pode sacar 100% do FGTS.
+
+**Gabarito: B.** As demais verbas são pagas integralmente; o saque do FGTS é limitado a 80% e não há seguro-desemprego.
+
+**Questão B.** No pedido de demissão, é correto afirmar que o empregado:
+
+A) Recebe a indenização de 40% do FGTS.  
+B) Tem direito ao seguro-desemprego.  
+C) Tem direito ao 13º proporcional e às férias proporcionais acrescidas de 1/3.  
+D) Pode sacar o FGTS exclusivamente em razão do pedido de demissão.
+
+**Gabarito: C.**
+
+**Questão C.** A dispensa sem justa causa caracteriza-se por:
+
+A) Extinção por iniciativa do empregado.  
+B) Extinção por falta grave do empregador.  
+C) Extinção por iniciativa do empregador, sem imputação de falta grave ao empregado.  
+D) Extinção necessariamente consensual.
+
+**Gabarito: C.**
+
+### 5. Separação entre material autoral e banco de questões
+
+As questões A, B e C são autorais, elaboradas para revisão e fixação. Não devem ser identificadas como questões FCC, nem como questões reais de concursos. A inclusão no banco de questões deverá usar origem/categoria própria de questão autoral, mantendo separadas as questões reais importadas dos PDFs e de provas de outros TRTs.
