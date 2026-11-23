@@ -253,3 +253,45 @@ Reconhecida a rescisão indireta, em regra são devidas as parcelas equivalentes
 - CLT, arts. 483 e 487, § 4º.
 - TST, Tema 70 dos recursos repetitivos: ausência ou irregularidade dos depósitos do FGTS como falta grave patronal, dispensada a imediatidade.
 
+## Material autoral — culpa recíproca (art. 484 da CLT)
+
+### Conceito
+A culpa recíproca ocorre quando empregado e empregador praticam faltas que, reconhecidas judicialmente como graves e causalmente relacionadas à ruptura, contribuem para o término do contrato. Não basta que ambos tenham cometido qualquer irregularidade: é necessário que as condutas tenham relevância jurídica para a extinção contratual.
+
+### Efeitos nas verbas rescisórias
+O art. 484 da CLT prevê redução pela metade da indenização que seria devida em caso de culpa exclusiva do empregador. A Súmula 14 do TST especifica que, reconhecida a culpa recíproca, o empregado recebe 50% do aviso-prévio, do 13º salário e das férias proporcionais.
+
+| Parcela | Tratamento na culpa recíproca |
+|---|---|
+| Saldo de salário | Integral |
+| Aviso-prévio | 50% |
+| 13º proporcional | 50% |
+| Férias vencidas + 1/3 | Integral |
+| Férias proporcionais + 1/3 | 50%, conforme Súmula 14 do TST |
+| Indenização do FGTS | 20% (metade da indenização de 40%) |
+| Saque do FGTS | Permitido na hipótese legal de culpa recíproca, observadas as regras aplicáveis |
+| Seguro-desemprego | Não devido |
+
+**Atenção:** a redução não atinge indistintamente todas as parcelas. Saldo salarial e férias já adquiridas/vencidas permanecem integrais; a Súmula 14 trata expressamente do aviso-prévio, 13º e férias proporcionais.
+
+### Comparação para prova
+- **Dispensa sem justa causa:** falta grave do empregado não reconhecida; indenização do FGTS de 40%.
+- **Justa causa do empregado:** falta grave do empregado; verbas rescisórias limitadas.
+- **Culpa recíproca:** faltas graves de ambas as partes reconhecidas; parcelas indicadas na Súmula 14 reduzidas pela metade e indenização do FGTS de 20%.
+- **Rescisão indireta:** falta grave do empregador; em regra, efeitos equivalentes à dispensa sem justa causa.
+
+### Questão autoral — não extraída de prova oficial
+
+**K.** Empregado e empregador praticam faltas graves que contribuem para a ruptura do contrato, e a Justiça do Trabalho reconhece a culpa recíproca. Conforme a Súmula 14 do TST, o empregado tem direito a 50%:
+- A) Do saldo salarial, das férias vencidas e do FGTS depositado.
+- B) Do aviso-prévio, do 13º salário e das férias proporcionais.
+- C) De todas as parcelas rescisórias, sem exceção.
+- D) Apenas da indenização do FGTS.
+
+**Gabarito: B.** A Súmula 14 do TST estabelece o pagamento pela metade do aviso-prévio, do 13º salário e das férias proporcionais na culpa recíproca.
+
+### Referências normativas e jurisprudenciais
+- CLT, art. 484.
+- Lei 8.036/1990, art. 18, § 2º, quanto à indenização do FGTS na culpa recíproca.
+- Súmula 14 do TST.
+
