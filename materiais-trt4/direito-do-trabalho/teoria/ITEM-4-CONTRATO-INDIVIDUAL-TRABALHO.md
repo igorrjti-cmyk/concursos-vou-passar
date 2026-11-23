@@ -1340,3 +1340,22 @@ Exemplos: substituição de empregado em licença, afastamento previdenciário o
 
 **Ponto de prova:** distinguir duração máxima, quantidade de prorrogações e intervalo entre contratos sucessivos.
 
+
+
+### Questão 190 — FCC, OAB-SP, 2005 — limite da suspensão disciplinar
+
+**Enunciado:** A suspensão disciplinar do empregado, por falta praticada na execução das obrigações decorrentes do contrato de trabalho:
+
+- A) Não tem limite máximo fixado em lei, devendo adequar-se à gravidade da falta.
+- B) Não pode superar sete dias consecutivos.
+- C) Não pode superar quinze dias consecutivos.
+- D) Não pode superar trinta dias consecutivos, sob pena de considerar-se o empregado dispensado sem justa causa.
+
+**Gabarito: D.**
+
+**Fundamento:** art. 474 da CLT.
+
+A suspensão disciplinar não pode ultrapassar 30 dias consecutivos. Se o empregador aplicar suspensão superior a esse limite, a lei considera a situação como rescisão injusta do contrato.
+
+**Pegadinha:** não confundir o limite da suspensão disciplinar com outras modalidades de suspensão contratual, como afastamento previdenciário ou qualificação profissional.
+
