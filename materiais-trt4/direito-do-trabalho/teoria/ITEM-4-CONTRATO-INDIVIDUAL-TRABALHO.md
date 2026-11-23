@@ -435,3 +435,28 @@ De acordo com a CLT, em razão das prorrogações contratuais e dos respectivos 
 
 **Regra de revisão:** o contrato de experiência deve respeitar simultaneamente dois limites: duração total de até 90 dias e apenas uma prorrogação. Cumprir um deles não corrige a violação do outro.
 
+
+
+### Questão 212 — FCC, TRT-22, 2022 — prorrogação do contrato de experiência
+
+**Enunciado:** Marivaldo celebrou contrato de experiência com duração de 30 dias. Ao término, foi prorrogado por mais 30 dias. Ao final desse segundo período, novamente o contrato foi prorrogado por mais 60 dias. As prorrogações realizadas são:
+
+- A) Inválidas porque o contrato de experiência não admite prorrogação.
+- B) Inválidas porque a prorrogação somente pode ocorrer por período igual ao inicial.
+- C) Inválidas porque o contrato de experiência somente pode ser prorrogado uma única vez e desde que respeitado o limite máximo de 90 dias.
+- D) Válidas porque o contrato de experiência somente não pode ser prorrogado para empregados em cargo de confiança.
+- E) Válidas porque as prorrogações foram inferiores a 90 dias cada uma.
+
+**Gabarito: C.**
+
+**Fundamentos:** arts. 445, parágrafo único, e 451 da CLT.
+
+**Análise das alternativas:**
+- A está errada: o contrato de experiência admite uma prorrogação.
+- B está errada: a lei não exige que a prorrogação tenha exatamente a mesma duração do período inicial.
+- C está correta: houve duas prorrogações, o que viola o art. 451. Além disso, o total de 120 dias ultrapassa o limite de 90 dias do art. 445, parágrafo único.
+- D está errada: não existe essa restrição relacionada ao exercício de cargo de confiança.
+- E está errada: o limite de 90 dias considera a duração total do contrato, não cada período isoladamente.
+
+**Comparação com a questão 211:** nesta situação, os dois limites foram violados. Na questão anterior, Beatrice ultrapassou o número de prorrogações, enquanto Rita ultrapassou a duração máxima. A FCC cobra a mesma regra por diferentes situações práticas.
+
