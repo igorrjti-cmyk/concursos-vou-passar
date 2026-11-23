@@ -298,3 +298,28 @@ As questões abaixo pertencem ao caderno FCC para Técnico — Área Administrat
 
 **Ponto de prova:** identificar a hipótese legal a partir do caso concreto. O serviço transitório pode justificar o prazo determinado, sem que seja necessário enquadrar a contratação como trabalho temporário por empresa interposta.
 
+
+
+### Questão 207 — FCC, TRT-18, 2013 — regra do prazo indeterminado e ruptura antecipada
+
+**Enunciado:** Os contratos individuais de trabalho, quanto à duração, classificam-se em contratos por prazo determinado ou indeterminado. Sobre eles, é correto afirmar que:
+
+- A) O prazo indeterminado para a contratação é a regra, constituindo-se em exceção legal a contratação por prazo determinado.
+- B) O contrato por prazo determinado poderá ser firmado por mero ajuste de vontade das partes, independentemente de sua finalidade.
+- C) Os contratos por prazo determinado poderão ser firmados por, no máximo, quatro anos, sendo possíveis duas prorrogações dentro desse prazo.
+- D) O contrato de experiência não poderá ultrapassar 120 dias, podendo ser estipulado por até quatro períodos de 30 dias.
+- E) A lei não prevê o pagamento de indenização para a hipótese de rescisão sem justa causa de forma antecipada do contrato por prazo determinado.
+
+**Gabarito: A.**
+
+**Fundamentos:** princípio da continuidade da relação de emprego; arts. 443, § 2º, 445, 451, 479, 480 e 481 da CLT.
+
+**Análise das alternativas:**
+- A está correta: a contratação por prazo indeterminado é a regra; o contrato a termo é excepcional e exige enquadramento em hipótese legal.
+- B está errada: a mera vontade das partes não basta; a finalidade deve corresponder a uma hipótese do art. 443, § 2º.
+- C está errada: o limite geral é de dois anos, e não quatro (art. 445), e só se admite uma prorrogação (art. 451).
+- D está errada: o contrato de experiência não pode exceder 90 dias (art. 445, parágrafo único).
+- E está errada: o art. 479 prevê, em regra, indenização de metade da remuneração a que o empregado teria direito até o termo final quando o empregador rompe antecipadamente e sem justa causa o contrato a termo. O art. 480 disciplina a ruptura antecipada pelo empregado e a reparação dos prejuízos comprovados, limitada legalmente. Havendo cláusula assecuratória do direito recíproco de rescisão antecipada, o exercício atrai os princípios da rescisão dos contratos por prazo indeterminado (art. 481).
+
+**Ponto de prova:** não basta memorizar que o contrato a termo é exceção. Conheça também os efeitos da ruptura antecipada: arts. 479 (empregador), 480 (empregado) e 481 (cláusula assecuratória).
+
