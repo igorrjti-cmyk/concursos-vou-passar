@@ -17,10 +17,10 @@ function Brand() {
     <div className="relative hidden overflow-hidden p-10 md:flex md:flex-col md:justify-between">
       <div>
         <div className="flex h-12 w-12 items-center justify-center rounded-2xl border border-gold/25 bg-gold/[.08] font-serif text-xl font-bold text-gold">
-          F
+          V
         </div>
         <p className="mt-8 text-[10px] font-semibold uppercase tracking-[.24em] text-gold/70">
-          FAFIPA Study OS · 2026
+          Concursos: Vou Passar! · TRT-4
         </p>
         <h1 className="mt-3 max-w-md font-serif text-4xl font-semibold leading-tight text-white">
           Estude com <span className="text-gradient">clareza.</span>
@@ -28,8 +28,8 @@ function Brand() {
           Revise com propósito.
         </h1>
         <p className="mt-5 max-w-md text-sm leading-6 text-white/40">
-          Seu centro de preparação para Contador — Prefeitura de Curitiba, com fila de questões,
-          erros e revisão espaçada em um só lugar.
+          Seu centro de preparação para Técnico Judiciário — Área Administrativa do TRT-4, com plano de estudos,
+          questões, erros e revisão espaçada em um só lugar.
         </p>
       </div>
       <div className="grid grid-cols-3 gap-2">
@@ -100,7 +100,7 @@ export default function LoginForm() {
                 disabled={enviando}
                 className="mt-3 w-full rounded-2xl bg-gold px-4 py-3.5 text-sm font-bold text-[#151006] shadow-[0_14px_35px_rgba(231,187,98,.16)] transition hover:-translate-y-0.5 hover:bg-[#f0c975] disabled:opacity-50"
               >
-                {enviando ? "Entrando…" : "Entrar no Study OS →"}
+                {enviando ? "Entrando…" : "Entrar na plataforma →"}
               </button>
               {erro && (
                 <p className="rounded-xl border border-red-400/15 bg-red-400/[.06] px-3 py-2.5 text-xs text-red-300">
