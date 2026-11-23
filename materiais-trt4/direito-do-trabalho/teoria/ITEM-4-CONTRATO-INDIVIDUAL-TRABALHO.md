@@ -98,9 +98,12 @@ O PDF reproduz alterações recentes nos arts. 473 e seguintes, inclusive refer�
 
 ## 8. Questões FCC localizadas no caderno
 
-Na Parte 2, páginas impressas 1–3, foram localizadas 13 questões (números 201 a 213) sobre contrato por prazo determinado e contrato de experiência. Elas foram cadastradas separadamente no banco com concurso = TRT4, preservando o ID TEC, banca, ano, número, origem, enunciado, alternativas e gabarito.
+O mapeamento do caderno foi ampliado página a página:
 
-**Leitura do padrão:** a FCC explora especialmente (1) uma única prorrogação, (2) limites de 2 anos e 90 dias, (3) hipóteses legais de validade, (4) regra do prazo indeterminado e (5) diferença entre prorrogação válida e conversão automática.
+- **Parte 1, pp. 42–44, questões 195–200:** seis questões sobre contrato por prazo determinado, negociação coletiva (Lei 9.601/1998), prorrogação, cláusula assecuratória, intervalo de seis meses entre contratos e limite de dois anos. Foram cadastradas no banco, preservando origem e identificação da prova.
+- **Parte 2, pp. 1–5, questões 201–220:** vinte questões sobre contrato por prazo determinado e contrato de experiência. As questões 201–213 já estavam no banco; as questões 214–220 foram acrescentadas nesta etapa. A sequência inclui provas de TRT-19, TRT-5, TRT-12, TRT-9, TRT-18, TST, TRT-11, TRT-2, TRT-22, TRT-3, TRT-1, TRT-6, TRT-16, TRT-23 e TRT-21.
+
+**Padrão FCC identificado:** a banca insiste em (1) uma única prorrogação, (2) limites de 2 anos e 90 dias, (3) hipóteses legais de validade, (4) regra do prazo indeterminado, (5) intervalo de seis meses para novo contrato e (6) efeitos da cláusula assecuratória. As questões de outros TRTs foram mantidas porque são plenamente úteis ao banco de preparação para o TRT-4.
 
 ## 9. O que ainda precisa ser aprofundado na sequência
 
