@@ -460,3 +460,28 @@ De acordo com a CLT, em razão das prorrogações contratuais e dos respectivos 
 
 **Comparação com a questão 211:** nesta situação, os dois limites foram violados. Na questão anterior, Beatrice ultrapassou o número de prorrogações, enquanto Rita ultrapassou a duração máxima. A FCC cobra a mesma regra por diferentes situações práticas.
 
+
+
+### Questão 213 — FCC, TRT-3, 2015 — conceito e prorrogação do contrato de experiência
+
+**Enunciado:** No que tange ao contrato de experiência:
+
+- A) Trata-se de um período inicial do contrato por prazo indeterminado.
+- B) Não se concebe hipótese de prorrogação do seu prazo, pois o contrato se descaracterizaria.
+- C) Seu prazo máximo de duração é de 60 dias, prorrogável uma única vez.
+- D) Pode ser prorrogado uma única vez, desde que respeitado o limite máximo de duração de 90 dias.
+- E) Somente pode ser celebrado excepcionalmente para cargo de confiança.
+
+**Gabarito: D.**
+
+**Fundamentos:** arts. 443, § 2º, alínea “c”, 445, parágrafo único, e 451 da CLT.
+
+**Análise das alternativas:**
+- A está errada: o contrato de experiência é modalidade de contrato por prazo determinado, não período inicial obrigatório de um contrato indeterminado.
+- B está errada: a CLT admite uma prorrogação.
+- C está errada: o limite máximo é de 90 dias, não 60.
+- D está correta: reúne as duas exigências legais — apenas uma prorrogação e duração total de até 90 dias.
+- E está errada: o contrato de experiência não é restrito a cargos de confiança.
+
+**Resumo para memorização:** contrato de experiência é contrato por prazo determinado, tem limite de 90 dias e admite uma única prorrogação.
+
