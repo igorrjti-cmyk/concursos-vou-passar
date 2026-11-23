@@ -1057,3 +1057,32 @@ O trabalhador intermitente possui direito a férias. A particularidade é a form
 
 **Atenção:** trabalho temporário não é a mesma coisa que contrato por prazo determinado da CLT. O primeiro tem disciplina específica na Lei 6.019/1974 e no Decreto 10.854/2021.
 
+
+
+### Questão 237 — FCC, TRT-9, 2022 — demanda complementar no trabalho temporário
+
+**Enunciado:** É requisito para a validade da contratação de trabalhador temporário para atender demanda complementar que:
+
+- A) A demanda decorra de fatores imprevisíveis ou, se previsíveis, tenha natureza intermitente, periódica ou sazonal.
+- B) A empresa de trabalho temporário possua capital social mínimo de R$ 150.000,00.
+- C) O contrato não exceda 120 dias.
+- D) Haja cláusula proibindo contratação direta posterior pela tomadora.
+- E) O contrato individual seja registrado no Ministério do Trabalho.
+
+**Gabarito: A.**
+
+**Fundamento:** art. 2º, § 2º, da Lei 6.019/1974.
+
+A demanda complementar pode decorrer:
+- de fatores imprevisíveis; ou
+- de fatores previsíveis, desde que tenha natureza intermitente, periódica ou sazonal.
+
+**Análise das alternativas:**
+- A está correta: reproduz o requisito legal.
+- B está errada: o capital social mínimo é de R$ 100.000,00 (Decreto 10.854/2021, art. 45).
+- C está errada: o limite é de 180 dias, prorrogável por até 90 dias, quando mantidas as condições que justificaram a contratação (Lei 6.019/1974, art. 10, §§ 1º e 2º).
+- D está errada: é nula a cláusula que proíbe a contratação do trabalhador pela tomadora após o período de trabalho temporário (Lei 6.019/1974, art. 11, parágrafo único).
+- E está errada: a alternativa confunde o cadastramento do trabalhador com a formalização escrita do contrato individual.
+
+**Distinção para memorizar:** demanda complementar não significa qualquer aumento de serviço. A lei exige fator imprevisível ou, se previsível, natureza intermitente, periódica ou sazonal.
+
