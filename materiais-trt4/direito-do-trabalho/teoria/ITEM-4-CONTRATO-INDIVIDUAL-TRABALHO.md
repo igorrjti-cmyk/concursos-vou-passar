@@ -880,3 +880,34 @@ A multa deve ser paga no prazo de 30 dias, sendo permitida a compensação nesse
 
 **Memorização:** trabalho intermitente = vínculo subordinado + prestação descontínua + alternância entre trabalho e inatividade.
 
+
+
+### Questão 230 — FCC, PGE-AM, 2022 — assertivas sobre convocação, multa e forma do contrato intermitente
+
+**Enunciado:** Sobre o contrato de trabalho intermitente, considere:
+
+I. Convocação com pelo menos 48 horas de antecedência.  
+II. Resposta em um dia útil, sendo o silêncio considerado recusa.  
+III. Multa de 50% em 30 dias, vedada a compensação.  
+IV. Contrato escrito com valor-hora não inferior ao salário mínimo horário ou ao pago aos demais empregados da mesma função.
+
+Está correto APENAS o que se afirma em:
+
+- A) II, III e IV.
+- B) II e IV.
+- C) I e III.
+- D) I, III e IV.
+- E) I e II.
+
+**Gabarito: B — II e IV.**
+
+**Fundamento:** art. 452-A, caput e §§ 1º, 2º e 4º, da CLT.
+
+**Análise das assertivas:**
+- I é falsa: o prazo mínimo é de três dias corridos, não 48 horas (§ 1º).
+- II é verdadeira: o empregado tem um dia útil para responder; o silêncio equivale à recusa (§ 2º).
+- III é falsa: a multa é de 50% da remuneração que seria devida, em até 30 dias, mas a compensação é permitida (§ 4º).
+- IV é verdadeira: o contrato deve ser escrito e respeitar o piso-hora previsto no caput do art. 452-A.
+
+**Pegadinha:** a banca altera um detalhe numérico ou uma palavra. Memorize: três dias corridos para convocar, um dia útil para responder e multa de 50% com compensação permitida.
+
