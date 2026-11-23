@@ -156,3 +156,38 @@ O limite total pode chegar a 270 dias.
 
 **Pegadinha:** não confundir isonomia do valor-hora no trabalho temporário com igualdade automática de todas as parcelas e benefícios dos empregados da tomadora.
 
+
+
+### Questão 247 — FCC, TRT-23, 2016 — relação triangular no trabalho temporário
+
+**Enunciado:** Sobre a relação triangular do trabalho temporário, considere:
+
+I. Pode haver cláusula proibindo contratação futura pela tomadora.  
+II. O trabalho é prestado indistintamente em favor das duas empresas.  
+III. A direção da prestação pessoal fica a cargo da tomadora.  
+IV. Salários e direitos legais são de responsabilidade da empresa de trabalho temporário.  
+V. A empresa temporária abre mão da subordinação.
+
+Está correto APENAS em:
+
+- A) I e II.
+- B) I, III e V.
+- C) II e V.
+- D) III e IV.
+- E) II, III e V.
+
+**Gabarito: D — III e IV.**
+
+**Fundamentos:** Lei 6.019/1974, art. 11, parágrafo único; Decreto 10.854/2021, arts. 48 e 58.
+
+**Análise das assertivas:**
+- I é falsa: a cláusula que proíbe a contratação posterior do trabalhador pela tomadora é nula.
+- II é falsa: o trabalhador é colocado à disposição da tomadora para atender à necessidade temporária dela; não presta serviços indistintamente para ambas.
+- III é verdadeira: a tomadora exerce os poderes técnico, disciplinar e diretivo sobre o trabalhador temporário colocado à sua disposição.
+- IV é verdadeira: a empresa de trabalho temporário permanece responsável por remunerar e assistir o trabalhador quanto aos direitos legais.
+- V é falsa: a empresa de trabalho temporário não deixa de ser empregadora nem abandona suas obrigações contratuais.
+
+**Esquema de revisão:** a empresa de trabalho temporário contrata, remunera e mantém as obrigações legais; a tomadora dirige a prestação dos serviços.
+
+**Pegadinha:** a direção do trabalho fica com a tomadora, mas a empresa de trabalho temporário continua responsável pelas obrigações próprias de empregadora.
+
