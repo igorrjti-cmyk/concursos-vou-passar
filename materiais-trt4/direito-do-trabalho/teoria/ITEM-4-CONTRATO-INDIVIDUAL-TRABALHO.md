@@ -323,3 +323,36 @@ As questões abaixo pertencem ao caderno FCC para Técnico — Área Administrat
 
 **Ponto de prova:** não basta memorizar que o contrato a termo é exceção. Conheça também os efeitos da ruptura antecipada: arts. 479 (empregador), 480 (empregado) e 481 (cláusula assecuratória).
 
+
+
+### Questão 208 — FCC, TST, 2012 — assertivas sobre contrato individual e prazo
+
+**Enunciado:** Considere as assertivas seguintes sobre o contrato individual de trabalho:
+
+I. O contrato individual de trabalho somente poderá ser acordado de forma expressa e por escrito.  
+II. A lei prevê como regra a indeterminação do prazo e como exceção a prefixação de prazo para os contratos individuais de trabalho.  
+III. O contrato por prazo determinado de experiência não poderá ser feito por prazo superior a 90 dias.  
+IV. O contrato de trabalho por prazo determinado que for prorrogado mais de uma vez passará a vigorar sem determinação de prazo.  
+V. Considera-se por prazo indeterminado todo contrato que suceder, dentro de 6 meses, a outro contrato por prazo determinado, em qualquer situação.
+
+Está correto o que se afirma APENAS em:
+
+- A) I, II e III.
+- B) I, III e IV.
+- C) II, IV e V.
+- D) III, IV e V.
+- E) II, III e IV.
+
+**Gabarito: E — II, III e IV.**
+
+**Fundamentos:** arts. 442, 443, 445, 451 e 452 da CLT.
+
+**Análise das assertivas:**
+- I é falsa: o contrato pode ser tácito ou expresso, verbal ou escrito (art. 443). A forma escrita é exigida em modalidades específicas, como o contrato intermitente.
+- II é verdadeira: o prazo indeterminado é a regra; o contrato a termo é excepcional e depende de hipótese legal.
+- III é verdadeira: o contrato de experiência não pode exceder 90 dias (art. 445, parágrafo único).
+- IV é verdadeira: mais de uma prorrogação converte o contrato em prazo indeterminado (art. 451).
+- V é falsa: o art. 452 prevê, como regra, a conversão quando o novo contrato sucede o anterior dentro de seis meses, mas estabelece exceções para serviços especializados e certos acontecimentos. A expressão absoluta “em qualquer situação” torna a assertiva incorreta.
+
+**Pegadinha FCC:** atenção a expressões absolutas como “somente” e “em qualquer situação”. A assertiva I ignora a possibilidade de contrato tácito ou verbal; a V ignora as exceções do art. 452.
+
