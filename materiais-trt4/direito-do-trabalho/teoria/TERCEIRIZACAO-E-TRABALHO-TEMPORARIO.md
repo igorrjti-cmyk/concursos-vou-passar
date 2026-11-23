@@ -131,3 +131,28 @@ O limite total pode chegar a 270 dias.
 
 **Memorização:** trabalho temporário não pode ser utilizado livremente para substituir grevistas.
 
+
+
+### Questão 246 — FCC, TRT-24, 2017 — isonomia remuneratória no trabalho temporário
+
+**Enunciado:** No trabalho temporário, fica assegurada ao trabalhador:
+
+- A) Remuneração definida livremente, sem referência aos empregados da tomadora.
+- B) Remuneração equivalente à percebida pelos empregados da mesma categoria da tomadora, calculada à base horária, garantido o salário mínimo regional.
+- C) Contrato verbal com a tomadora.
+- D) Responsabilidade exclusiva da tomadora em caso de falência da empresa temporária.
+- E) Cobrança de taxa de mediação de até 2% do primeiro salário.
+
+**Gabarito: B.**
+
+**Fundamentos:** arts. 11, 12, alínea “a”, e 18 da Lei 6.019/1974; art. 10, § 7º, da mesma lei.
+
+**Análise das alternativas:**
+- A está errada: a remuneração não é livre de referência; há garantia legal de equivalência.
+- B está correta: o trabalhador temporário tem direito à remuneração equivalente à dos empregados da mesma categoria da empresa tomadora, calculada com base horária, garantido o salário mínimo regional.
+- C está errada: o contrato individual de trabalho temporário deve ser escrito (art. 11).
+- D está errada: a lei prevê responsabilidade da tomadora, inclusive solidária em hipóteses específicas de falência, mas não estabelece a responsabilidade exclusiva descrita.
+- E está errada: a empresa de trabalho temporário não pode cobrar qualquer valor do trabalhador, inclusive taxa de mediação (art. 18).
+
+**Pegadinha:** não confundir isonomia do valor-hora no trabalho temporário com igualdade automática de todas as parcelas e benefícios dos empregados da tomadora.
+
