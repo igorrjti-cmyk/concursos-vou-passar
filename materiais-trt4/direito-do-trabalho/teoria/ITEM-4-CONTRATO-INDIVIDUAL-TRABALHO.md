@@ -248,3 +248,28 @@ As questões abaixo pertencem ao caderno FCC para Técnico — Área Administrat
 
 **Pegadinha FCC:** separar três regras que aparecem misturadas na alternativa: art. 442-A (experiência prévia do candidato), art. 445 (duração máxima do contrato a termo) e art. 451 (quantidade de prorrogações). Não confundir os seis meses de experiência prévia com os 90 dias do contrato de experiência.
 
+
+
+### Questão 205 — FCC, TRT-9, 2013 — limites e sucessão de contratos a termo
+
+**Enunciado:** Com fundamento nas disposições da CLT, em relação ao contrato de trabalho por prazo determinado, o mesmo:
+
+- A) Não é admitido pelo ordenamento jurídico brasileiro.
+- B) Pode ser prorrogado, tácita ou expressamente, por no máximo três vezes.
+- C) Pode ser celebrado livremente pelas partes, para qualquer tipo de atividade empresarial.
+- D) Não poderá ser estipulado por mais de 2 anos ou, no caso de contrato de experiência, por mais de 90 dias.
+- E) Será considerado por prazo indeterminado se suceder, dentro de um ano, a outro contrato por prazo determinado.
+
+**Gabarito: D.**
+
+**Fundamentos:** arts. 443, § 2º, 445, 451 e 452 da CLT.
+
+**Análise das alternativas:**
+- A está errada: o contrato por prazo determinado é admitido, desde que enquadrado em uma das hipóteses legais.
+- B está errada: o art. 451 permite somente uma prorrogação. Mais de uma converte o contrato em prazo indeterminado.
+- C está errada: a contratação a termo não pode ser escolhida livremente para qualquer atividade; depende das hipóteses legais do art. 443, § 2º.
+- D está correta: o limite geral é de até dois anos e, para o contrato de experiência, até 90 dias (art. 445).
+- E está errada: o art. 452 prevê, como regra, intervalo de seis meses entre contratos a termo sucessivos; se celebrado novo contrato dentro desse intervalo, considera-se, em regra, que o contrato anterior foi prorrogado. A lei ressalva serviços especializados e certos acontecimentos.
+
+**Pegadinha FCC:** a alternativa E troca seis meses por um ano. Não confundir esse intervalo com o limite máximo de duração do contrato (dois anos), nem com o número de prorrogações (uma).
+
