@@ -734,3 +734,28 @@ De acordo com a CLT, em razão das prorrogações contratuais e dos respectivos 
 
 **Atualização jurisprudencial:** para a prova, registre que o STF reconheceu a constitucionalidade do regime legal do trabalho intermitente nas ADIs 5.826, 5.829 e 6.154.
 
+
+
+### Questão 224 — Prefeitura de Jaboatão, 2024 — conceito de trabalho intermitente
+
+**Enunciado:** No contrato de trabalho intermitente, é correto afirmar que:
+
+- A) A inatividade é tempo à disposição e a falta de convocação por seis meses justifica automaticamente rescisão indireta.
+- B) Não há relação de emprego, mas apenas relação de trabalho.
+- C) A prestação subordinada não é contínua, alternando períodos de trabalho e inatividade, em horas, dias ou meses, independentemente da atividade, exceto aeronautas.
+- D) O contrato deve indicar previamente os períodos e dias de prestação, além do valor da hora.
+- E) A ausência de prestação habitual sempre configura falta grave do empregador.
+
+**Gabarito: C.**
+
+**Fundamento:** art. 443, § 3º, da CLT.
+
+**Análise das alternativas:**
+- A está errada: a inatividade não é tempo à disposição do empregador; tampouco a falta de convocação por seis meses produz automaticamente a consequência indicada.
+- B está errada: o trabalho intermitente é relação de emprego, com subordinação.
+- C está correta: reproduz o conceito legal — prestação subordinada, mas não contínua, com alternância entre períodos de trabalho e inatividade. Os aeronautas estão excluídos desse regime.
+- D está errada: o contrato deve indicar o valor da hora, mas a lei não exige que todos os períodos futuros de prestação sejam previamente fixados.
+- E está errada: a ausência de prestação habitual é característica do regime intermitente, não configura automaticamente falta grave do empregador.
+
+**Distinção essencial:** o trabalhador intermitente é empregado, mas não trabalha continuamente. A inatividade faz parte da própria estrutura desse contrato.
+
