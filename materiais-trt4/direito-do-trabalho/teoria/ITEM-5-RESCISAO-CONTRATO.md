@@ -529,3 +529,127 @@ O aviso-prévio, ainda que indenizado, integra o tempo de serviço para efeitos 
 - TST, Súmulas 230, 276, 305, 348, 380 e 441.
 - TST, OJs 82 e 83 da SDI-1.
 
+
+
+## Material autoral — estabilidade provisória e garantias de emprego
+
+### 1. Conceito e distinções
+A estabilidade provisória é uma garantia temporária contra a dispensa arbitrária ou sem justa causa durante determinado período. Não impede a extinção do contrato por justa causa válida, pedido de demissão juridicamente válido ou outras hipóteses legais, observados os requisitos específicos de cada garantia.
+
+Distinguir:
+- **Estabilidade/garantia provisória:** proteção durante período definido em lei ou norma coletiva.
+- **Reintegração:** consequência possível quando a dispensa viola a garantia e o período ainda está em curso.
+- **Indenização substitutiva:** pode ser devida quando o período estabilitário já terminou ou quando a reintegração não é cabível, conforme o caso.
+
+### 2. Gestante — ADCT, art. 10, II, “b”
+A empregada gestante tem garantia desde a confirmação da gravidez até cinco meses após o parto.
+- O marco não é a comunicação ao empregador: o desconhecimento patronal da gravidez não afasta, por si só, o direito à estabilidade (Súmula 244, I, do TST).
+- A garantia alcança também a empregada admitida mediante contrato por tempo determinado (Súmula 244, III, do TST).
+- A proteção também alcança a gravidez ocorrida no curso do aviso-prévio trabalhado ou indenizado, conforme art. 391-A da CLT.
+- Em caso de morte da genitora, a garantia pode ser assegurada a quem detiver a guarda da criança, nos termos do art. 1º da Lei Complementar 146/2014, observados os requisitos legais.
+- A estabilidade não se confunde com licença-maternidade: a licença tem duração ordinária de 120 dias (CF, art. 7º, XVIII; CLT, art. 392), enquanto a garantia provisória vai até cinco meses após o parto.
+
+**Pegadinha:** a estabilidade não começa na comunicação da gravidez à empresa; e não termina automaticamente com o fim da licença-maternidade.
+
+### 3. Acidente do trabalho e doença ocupacional — Lei 8.213/1991, art. 118
+O segurado que sofreu acidente do trabalho tem garantia de manutenção do contrato por, no mínimo, 12 meses após a cessação do auxílio por incapacidade temporária acidentário (historicamente chamado auxílio-doença acidentário), independentemente da percepção de auxílio-acidente.
+- Regra geral da Súmula 378, II, do TST: afastamento superior a 15 dias e percepção do benefício acidentário.
+- Exceção importante: a estabilidade pode ser reconhecida quando, após a despedida, for constatada doença profissional que guarde relação de causalidade com a execução do contrato, conforme parte final da Súmula 378, II.
+- A garantia também pode ser aplicável aos contratos por prazo determinado (Súmula 378, III, do TST).
+- O marco inicial dos 12 meses é a cessação do benefício acidentário, não a data do acidente.
+- Não confundir estabilidade acidentária com auxílio-acidente: são institutos diferentes.
+
+**Pegadinha:** não basta qualquer acidente ou doença. É preciso verificar os requisitos legais e jurisprudenciais, inclusive nexo causal/concausal e benefício, ressalvada a hipótese jurisprudencial de doença ocupacional constatada após a dispensa.
+
+### 4. Dirigente sindical — CLT, art. 543, § 3º; CF, art. 8º, VIII
+É vedada a dispensa do empregado sindicalizado ou associado a partir do registro da candidatura a cargo de direção ou representação sindical e, se eleito, ainda que suplente, até um ano após o final do mandato, salvo falta grave devidamente apurada.
+- A garantia protege o dirigente eleito, inclusive suplente, nos limites legais.
+- A candidatura deve ser comunicada ao empregador na forma e prazo legais (CLT, art. 543, § 5º).
+- A estabilidade não é ilimitada: observar o número de dirigentes protegidos, conforme art. 522 da CLT e jurisprudência aplicável.
+- A Súmula 369 do TST reúne regras importantes: comunicação da candidatura/eleição; limite de dirigentes; suplente; categoria diferenciada; extinção da atividade empresarial na base territorial.
+- A dispensa por falta grave exige inquérito judicial para apuração de falta grave, conforme art. 543, § 3º, e art. 853 da CLT, observadas as regras aplicáveis.
+
+**Pegadinha:** o suplente também pode ter estabilidade; não confundir com simples integrante de associação sem eleição para cargo de direção/representação sindical.
+
+### 5. Membro eleito da CIPA — ADCT, art. 10, II, “a”; CLT, arts. 163 a 165
+É vedada a dispensa arbitrária ou sem justa causa do empregado eleito para cargo de direção da CIPA, desde o registro da candidatura até um ano após o final do mandato.
+- A garantia alcança titulares e suplentes eleitos (Súmula 339, I, do TST).
+- Não se estende ao representante indicado pelo empregador, pois a proteção é destinada ao representante eleito pelos empregados.
+- A extinção do estabelecimento pode afastar a garantia, pois deixa de existir a atividade para a qual a CIPA foi constituída (Súmula 339, II, do TST).
+- O art. 165 da CLT considera arbitrária a dispensa que não se fundar em motivo disciplinar, técnico, econômico ou financeiro, cabendo ao empregador comprovar o motivo.
+
+**Pegadinha:** suplente eleito tem garantia; membro indicado pelo empregador não recebe a mesma estabilidade constitucional.
+
+### 6. Representante dos empregados na empresa — CLT, arts. 510-A a 510-D
+Nas empresas com mais de 200 empregados, é assegurada a eleição de uma comissão para representá-los perante a administração, com composição variável conforme o número de empregados (art. 510-A).
+- O representante é eleito pelos empregados, em votação secreta, nos termos do art. 510-C.
+- O mandato é de um ano, permitida uma reeleição (art. 510-D).
+- O § 3º do art. 510-D veda a dispensa arbitrária ou sem justa causa do representante desde o registro da candidatura até um ano após o fim do mandato.
+- A proteção não se confunde com a estabilidade do dirigente sindical ou do membro eleito da CIPA: cada uma tem fundamento, requisitos e período próprios.
+
+### 7. Quadro comparativo para memorização
+
+| Garantia | Início | Término |
+|---|---|---|
+| Gestante | Confirmação da gravidez | 5 meses após o parto |
+| Acidentária | Após cessação do benefício acidentário, atendidos os requisitos | 12 meses após a cessação |
+| Dirigente sindical | Registro da candidatura | Se eleito, até 1 ano após o mandato |
+| CIPA — representante eleito | Registro da candidatura | Até 1 ano após o mandato |
+| Representante dos empregados (art. 510-D) | Registro da candidatura | Até 1 ano após o mandato |
+
+### 8. Questões autorais — não extraídas de provas oficiais
+
+**S.** Uma empregada é dispensada sem justa causa e, posteriormente, comprova que já estava grávida na data da dispensa. O empregador afirma que desconhecia a gravidez. De acordo com a orientação do TST:
+- A) O desconhecimento do empregador afasta a estabilidade.
+- B) A estabilidade depende de comunicação escrita antes da dispensa.
+- C) O desconhecimento do empregador não afasta, por si só, o direito à estabilidade.
+- D) A garantia termina no início da licença-maternidade.
+
+**Gabarito: C.** Súmula 244, I, do TST e art. 10, II, “b”, do ADCT.
+
+**T.** Sobre a estabilidade acidentária, assinale a alternativa correta:
+- A) O prazo de 12 meses começa necessariamente na data do acidente.
+- B) A garantia legal é de 12 meses após a cessação do auxílio por incapacidade temporária acidentário, observados os requisitos legais e jurisprudenciais.
+- C) A estabilidade nunca se aplica a contrato por prazo determinado.
+- D) Qualquer doença, mesmo sem nexo com o trabalho, gera estabilidade.
+
+**Gabarito: B.** Art. 118 da Lei 8.213/1991 e Súmula 378 do TST.
+
+**U.** A estabilidade do dirigente sindical, nos termos da Constituição e da CLT, pode alcançar:
+- A) Apenas o presidente do sindicato, nunca o suplente.
+- B) O empregado desde o registro da candidatura e, se eleito, até um ano após o término do mandato, inclusive suplente, nos limites legais.
+- C) Todo empregado sindicalizado, ainda que não seja candidato.
+- D) Somente empregados com mais de dez anos de empresa.
+
+**Gabarito: B.** CF, art. 8º, VIII; CLT, art. 543, § 3º; Súmula 369 do TST.
+
+**V.** A garantia provisória do membro da CIPA:
+- A) Alcança todo representante indicado pelo empregador.
+- B) Alcança o empregado eleito para cargo de direção, inclusive suplente, desde o registro da candidatura até um ano após o mandato.
+- C) Começa apenas depois da posse.
+- D) Termina no último dia do mandato.
+
+**Gabarito: B.** ADCT, art. 10, II, “a”, e Súmula 339, I, do TST.
+
+**W.** A proteção prevista no art. 510-D, § 3º, da CLT refere-se:
+- A) Ao representante dos empregados eleito na comissão prevista no art. 510-A.
+- B) A todo empregado que participe de reunião interna.
+- C) Apenas ao dirigente sindical.
+- D) Exclusivamente ao membro indicado pelo empregador para a CIPA.
+
+**Gabarito: A.** O dispositivo assegura proteção ao representante dos empregados desde o registro da candidatura até um ano após o fim do mandato.
+
+### 9. Referências normativas e jurisprudenciais
+- Constituição Federal, arts. 7º, XVIII e XXI, e 8º, VIII.
+- ADCT, art. 10, II, “a” e “b”.
+- CLT, arts. 163 a 165, 391-A, 510-A a 510-D, 543, § 3º e § 5º, e 853.
+- Lei 8.213/1991, art. 118.
+- Lei Complementar 146/2014.
+- TST, Súmulas 244, 339, 369 e 378.
+
+### 10. Questões reais localizadas no banco — conferência desta etapa
+Foi feita consulta direta à tabela `public.questoes` do projeto **Concursos: Vou Passar!**, no escopo `concurso='TRT4'`, procurando enunciados e tópicos com referências a estabilidade, gestante e acidente de trabalho.
+- A consulta encontrou questões sobre licença à gestante e direitos constitucionais, além de questões sobre acidente do trabalho e responsabilidade.
+- Entre os registros identificados estão FCC — TRT11/2017 (licença à gestante, questão 76, Parte 1, p. 17), FCC — TRT12/2023 (acidente do trabalho, questão 35, Parte 1, p. 9) e FCC — TRF3/2024 (acidente do trabalho, questão 25, Parte 1, p. 6).
+- Esses enunciados tratam de direitos constitucionais/licença ou seguro e responsabilidade por acidente, não necessariamente da garantia provisória de emprego. Por isso, não foram classificados artificialmente como questões de estabilidade.
+- **Nenhuma questão oficial foi inserida nesta etapa.** As questões S–W acima são autorais e permanecem identificadas como tais. A busca específica por estabilidade provisória deverá continuar nas demais fontes e páginas do caderno, preservando a origem real de cada questão.
