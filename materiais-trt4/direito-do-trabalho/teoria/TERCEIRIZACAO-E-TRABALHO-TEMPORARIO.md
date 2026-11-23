@@ -31,3 +31,28 @@ A Lei 6.019/1974, art. 4º-C, assegura aos empregados da prestadora, quando e en
 
 **Ponto de prova:** quando o serviço é executado nas dependências da tomadora, identificar as condições específicas previstas no art. 4º-C, sem ampliar o rol por analogia.
 
+
+
+### Questão 242 — FCC, TJ-SC, 2021 — prorrogação do trabalho temporário
+
+**Enunciado:** O contrato temporário, com relação ao mesmo empregador, não poderá exceder 180 dias. Comprovada a manutenção das condições que o ensejaram, poderá ser prorrogado por até:
+
+- A) 90 dias, consecutivos ou não.
+- B) Não poderá ser prorrogado.
+- C) 120 dias necessariamente consecutivos.
+- D) 180 dias consecutivos ou não.
+- E) 60 dias consecutivos.
+
+**Gabarito: A.**
+
+**Fundamento:** art. 10, §§ 1º e 2º, da Lei 6.019/1974.
+
+- Prazo inicial máximo: 180 dias.
+- Prorrogação máxima: 90 dias adicionais.
+- Condição: comprovar que permanecem as circunstâncias que justificaram a contratação.
+- Os períodos podem ser consecutivos ou não.
+
+O limite total pode chegar a 270 dias.
+
+**Pegadinha:** os 90 dias são adicionais aos 180 dias, e não substituem o prazo inicial.
+
