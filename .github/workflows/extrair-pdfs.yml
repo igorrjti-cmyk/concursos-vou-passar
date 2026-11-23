@@ -8,6 +8,10 @@ on:
         required: true
         default: "direito-do-trabalho"
         type: string
+  push:
+    paths:
+      - ".github/workflows/extrair-pdfs.yml"
+      - "materiais-trt4/direito-do-trabalho/**"
 
 permissions:
   contents: read
@@ -32,13 +36,13 @@ jobs:
 
       - name: Extrair texto página por página
         env:
-          PASTA_MATERIA: ${{ inputs.pasta }}
+          PASTA_MATERIA: ${{ inputs.pasta || 'direito-do-trabalho' }}
         run: python scripts/extrair_pdfs.py
 
       - name: Disponibilizar textos extraídos
         uses: actions/upload-artifact@v4
         with:
-          name: textos-pdf-${{ inputs.pasta }}
+          name: textos-pdf-${{ inputs.pasta || 'direito-do-trabalho' }}
           path: saida-pdf/
           if-no-files-found: error
           retention-days: 14
