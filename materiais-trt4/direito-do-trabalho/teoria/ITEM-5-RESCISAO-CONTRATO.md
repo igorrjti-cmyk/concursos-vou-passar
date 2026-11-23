@@ -119,3 +119,75 @@ D) Extinção necessariamente consensual.
 ### 5. Separação entre material autoral e banco de questões
 
 As questões A, B e C são autorais, elaboradas para revisão e fixação. Não devem ser identificadas como questões FCC, nem como questões reais de concursos. A inclusão no banco de questões deverá usar origem/categoria própria de questão autoral, mantendo separadas as questões reais importadas dos PDFs e de provas de outros TRTs.
+
+
+## Material autoral — aprofundamento das hipóteses de justa causa (art. 482)
+
+### 6. Distinções que a FCC pode explorar
+
+- **Improbidade (alínea a):** conduta desonesta, fraude, apropriação ou desvio. Um único ato suficientemente grave pode justificar a justa causa.
+- **Incontinência de conduta e mau procedimento (alínea b):** incontinência costuma envolver comportamento sexual inadequado; mau procedimento é categoria mais ampla de comportamento incompatível com as obrigações contratuais e a boa convivência profissional.
+- **Negociação habitual (alínea c):** exige habitualidade e enquadramento legal: concorrência com o empregador ou prejuízo ao serviço, sem permissão, conforme a hipótese.
+- **Condenação criminal (alínea d):** exige trânsito em julgado e inexistência de suspensão da execução da pena. A mera investigação, denúncia ou condenação recorrível não basta para essa hipótese específica.
+- **Desídia (alínea e):** negligência, desleixo ou baixa diligência no desempenho. Em situações de faltas leves reiteradas, a sequência de advertências e suspensões pode demonstrar proporcionalidade; uma falta isolada gravíssima pode ter tratamento diferente.
+- **Embriaguez (alínea f):** o texto legal menciona embriaguez habitual ou em serviço. A aplicação exige cuidado: alcoolismo pode constituir doença e demanda análise médica e jurídica, não devendo ser tratado automaticamente como simples falta disciplinar.
+- **Violação de segredo (alínea g):** divulgação não autorizada de informação sigilosa empresarial, com gravidade suficiente.
+- **Indisciplina x insubordinação (alínea h):** indisciplina é descumprir norma geral; insubordinação é desobedecer ordem pessoal, legítima e relacionada ao trabalho.
+- **Abandono (alínea i):** exige elemento objetivo (ausência prolongada) e subjetivo (intenção de não retornar). O prazo de 30 dias é referência jurisprudencial frequentemente cobrada, não prazo literal escrito no art. 482. A intenção pode ser demonstrada por outros elementos.
+- **Ofensas e agressões (alíneas j e k):** observar a pessoa atingida, o contexto e as exceções legais, inclusive legítima defesa própria ou de terceiro.
+- **Jogos de azar (alínea l):** a lei exige prática constante, e não episódio isolado.
+- **Perda de habilitação ou requisito legal (alínea m):** deve decorrer de conduta dolosa do empregado; não basta qualquer perda involuntária da habilitação.
+
+### 7. Abandono de emprego — dois elementos
+
+O abandono de emprego é composto por:
+1. **Elemento objetivo:** ausência injustificada e prolongada.
+2. **Elemento subjetivo:** intenção de abandonar o emprego (animus abandonandi).
+
+A Súmula 32 do TST estabelece presunção de abandono quando o trabalhador não retorna ao serviço no prazo de 30 dias após a cessação do benefício previdenciário nem justifica o motivo da ausência. Essa presunção não transforma o prazo em requisito absoluto para todas as situações: a intenção pode ser demonstrada por outras provas.
+
+### 8. Embriaguez e doença
+
+Embora o art. 482, alínea f, mencione embriaguez habitual ou em serviço, o alcoolismo crônico pode ser reconhecido como doença. A análise deve considerar a condição clínica, a necessidade de tratamento e a orientação jurisprudencial, evitando concluir automaticamente pela justa causa apenas com base no diagnóstico ou na dependência.
+
+### 9. Questões autorais — não extraídas de provas
+
+**Questão D.** A distinção correta entre indisciplina e insubordinação é:
+
+A) Indisciplina é descumprimento de ordem individual; insubordinação é descumprimento de norma geral.  
+B) Indisciplina é descumprimento de norma geral; insubordinação é descumprimento de ordem pessoal legítima.  
+C) Ambas se referem exclusivamente a faltas de pontualidade.  
+D) Não há distinção jurídica.
+
+**Gabarito: B.**
+
+**Questão E.** Para caracterização do abandono de emprego, em regra, é necessário:
+
+A) Apenas ausência por um dia.  
+B) Apenas comunicação verbal do empregador.  
+C) Ausência prolongada e intenção de abandonar o emprego.  
+D) Necessariamente uma condenação criminal.
+
+**Gabarito: C.**
+
+**Questão F.** A condenação criminal como hipótese de justa causa exige:
+
+A) Apenas instauração de inquérito policial.  
+B) Denúncia recebida pelo juízo.  
+C) Trânsito em julgado, sem suspensão da execução da pena.  
+D) Sentença de primeiro grau ainda recorrível.
+
+**Gabarito: C.**
+
+**Questão G.** A perda da habilitação profissional prevista no art. 482, alínea m, autoriza justa causa quando:
+
+A) Decorre de qualquer circunstância, ainda que involuntária.  
+B) Decorre de conduta dolosa do empregado e impede o exercício da atividade, conforme a hipótese legal.  
+C) O empregador simplesmente prefere outro empregado.  
+D) O empregado pede férias.
+
+**Gabarito: B.**
+
+### 10. Observação de estudo
+
+As questões autorais D a G servem para fixação e não devem ser classificadas como questões FCC ou provas reais. Na importação de questões externas, registrar a banca, o órgão, o cargo, o ano e a origem efetiva.
