@@ -447,3 +447,85 @@ Dado o aviso, a rescisão torna-se efetiva após o término do prazo. A parte qu
 - TST, Súmulas 230, 276 e 305.
 - TST, IRR 227, reafirmação da tese sobre irrenunciabilidade do aviso-prévio, salvo novo emprego.
 
+## Material autoral — aviso-prévio: modalidades, proporcionalidade e efeitos
+
+### 1. Conceito e modalidades
+O aviso-prévio é a comunicação antecipada da intenção de encerrar contrato por prazo indeterminado.
+- **Trabalhado:** há prestação de serviços durante o período.
+- **Indenizado pelo empregador:** o empregador dispensa o cumprimento e paga o período correspondente.
+- **Desconto no pedido de demissão:** se o empregado não concede/cumpre o aviso devido e o empregador não o dispensa, pode haver desconto dos salários correspondentes ao prazo, conforme art. 487, § 2º, da CLT.
+
+### 2. Proporcionalidade — Lei 12.506/2011
+O aviso é de 30 dias para quem tem até um ano de serviço na mesma empresa, acrescido de 3 dias por ano de serviço, até 60 dias adicionais, total máximo de 90 dias.
+| Anos completos de serviço | Aviso-prévio |
+|---:|---:|
+| Até 1 | 30 dias |
+| 2 | 33 dias |
+| 3 | 36 dias |
+| 5 | 42 dias |
+| 10 | 57 dias |
+| 15 | 72 dias |
+| 20 ou mais | 90 dias |
+
+A proporcionalidade constitui direito do empregado dispensado sem justa causa. A obrigação do empregado que pede demissão permanece limitada ao aviso de 30 dias, conforme entendimento jurisprudencial do TST. Não exigir do trabalhador aviso proporcional de até 90 dias. A Súmula 441 do TST assegura a proporcionalidade às rescisões ocorridas a partir da publicação da Lei 12.506/2011, em 13/10/2011.
+
+### 3. Redução da jornada — art. 488
+Na dispensa promovida pelo empregador, durante o aviso trabalhado, o empregado tem direito, sem prejuízo do salário integral, a:
+- redução de 2 horas diárias; **ou**
+- ausência por 7 dias corridos, ao final do aviso.
+
+As alternativas não são cumulativas: o empregado escolhe uma delas. A Súmula 230 do TST considera ilegal substituir a redução da jornada pelo pagamento das horas correspondentes; a redução deve ser efetivamente concedida.
+
+### 4. Retratação — art. 489
+A parte que concedeu o aviso pode reconsiderar sua decisão antes de seu término. A continuidade do contrato depende da aceitação da outra parte. Se a reconsideração for aceita, o contrato continua como se o aviso não tivesse sido dado; se não for aceita, a extinção segue seu curso ao término do prazo.
+
+### 5. Projeção e efeitos
+O aviso-prévio, ainda que indenizado, integra o tempo de serviço para efeitos legais (art. 487, § 1º, da CLT).
+- **OJ 82 da SDI-1:** a data de saída anotada na CTPS corresponde ao término do aviso, mesmo indenizado.
+- **OJ 83 da SDI-1:** a prescrição começa a fluir no término do aviso-prévio.
+- **Súmula 305:** há incidência de FGTS sobre o aviso-prévio, trabalhado ou indenizado.
+- A projeção pode repercutir no cálculo de férias e 13º salário, conforme o período projetado.
+
+### 6. Súmulas importantes
+- **Súmula 230:** não se substitui a redução da jornada pelo pagamento das horas correspondentes.
+- **Súmula 276:** o direito ao aviso-prévio é irrenunciável pelo empregado; o pedido de dispensa de cumprimento não exime o empregador de pagar o valor, salvo comprovação de novo emprego.
+- **Súmula 305:** FGTS incide sobre o aviso-prévio, trabalhado ou indenizado.
+- **Súmula 348:** é inválida a concessão de aviso-prévio na fluência da garantia de emprego, pela incompatibilidade dos institutos.
+- **Súmula 380:** aplica-se a regra do art. 132 do Código Civil; exclui-se o dia do começo e inclui-se o do vencimento.
+- **Súmula 441:** aviso-prévio proporcional assegurado nas rescisões ocorridas a partir de 13/10/2011.
+- **OJ 82:** data de saída na CTPS considera o término do aviso, ainda que indenizado.
+- **OJ 83:** prescrição começa a fluir ao final do aviso.
+
+### 7. Questões autorais — não extraídas de provas oficiais
+
+**O.** Durante o aviso-prévio trabalhado concedido pelo empregador, o empregado tem direito:
+- A) À redução de duas horas diárias ou à ausência por sete dias corridos, sem prejuízo salarial.
+- B) À redução de duas horas diárias e à ausência por sete dias corridos, cumulativamente.
+- C) Apenas ao pagamento de duas horas extras por dia.
+- D) À redução salarial proporcional ao período de ausência.
+
+**Gabarito: A.** Art. 488 da CLT; o empregado escolhe uma das alternativas.
+
+**P.** O empregador concede aviso-prévio e posteriormente reconsidera sua decisão antes do término do prazo. Nesse caso:
+- A) A reconsideração é sempre obrigatória para o empregado.
+- B) A reconsideração depende da concordância da outra parte.
+- C) O contrato é automaticamente extinto.
+- D) A reconsideração é proibida pela CLT.
+
+**Gabarito: B.** Art. 489 da CLT.
+
+**Q.** O aviso-prévio indenizado:
+- A) Não integra o tempo de serviço.
+- B) Não produz efeitos sobre a data de saída na CTPS.
+- C) Integra o tempo de serviço e projeta a data de saída.
+- D) Interrompe definitivamente a contagem da prescrição.
+
+**Gabarito: C.** Art. 487, § 1º, da CLT e OJ 82 da SDI-1 do TST.
+
+### Referências normativas e jurisprudenciais
+- Constituição Federal, art. 7º, XXI.
+- CLT, arts. 487 a 491.
+- Lei 12.506/2011.
+- TST, Súmulas 230, 276, 305, 348, 380 e 441.
+- TST, OJs 82 e 83 da SDI-1.
+
