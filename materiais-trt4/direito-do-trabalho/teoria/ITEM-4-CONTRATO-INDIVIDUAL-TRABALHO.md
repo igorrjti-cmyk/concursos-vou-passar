@@ -105,6 +105,23 @@ O mapeamento do caderno foi ampliado página a página:
 
 **Padrão FCC identificado:** a banca insiste em (1) uma única prorrogação, (2) limites de 2 anos e 90 dias, (3) hipóteses legais de validade, (4) regra do prazo indeterminado, (5) intervalo de seis meses para novo contrato e (6) efeitos da cláusula assecuratória. As questões de outros TRTs foram mantidas porque são plenamente úteis ao banco de preparação para o TRT-4.
 
+### Atualização do mapeamento — Parte 2, pp. 5–8: trabalho intermitente
+
+Foram analisadas as questões 221–235 do caderno e cadastradas **15 questões novas** no banco, com origem, banca, ano, número, enunciado, alternativas e gabarito. A amostra inclui FCC de TRT-2, TRT-5, TRT-7, TRT-9, TRT-12, TRT-18 e TRT-23, além de FCC de procuradorias e questões complementares da FUNDATEC e Instituto AOCP.
+
+**Pontos de incidência identificados:**
+
+1. **Forma escrita e valor-hora:** o contrato deve ser escrito e indicar especificamente o valor da hora, que não pode ser inferior ao salário mínimo horário nem ao pago aos demais empregados do estabelecimento que exerçam a mesma função, intermitentes ou não.
+2. **Convocação:** por meio eficaz, com informação da jornada e antecedência mínima de três dias corridos.
+3. **Resposta:** o empregado dispõe de um dia útil; o silêncio importa recusa.
+4. **Recusa:** não descaracteriza a subordinação e não é falta disciplinar.
+5. **Inatividade:** não é tempo à disposição, não gera remuneração por si só e permite prestação de serviços a outros contratantes.
+6. **Descumprimento após aceite:** sem justo motivo, multa de 50% da remuneração que seria devida, no prazo de 30 dias, permitida compensação.
+7. **Pagamento:** ao final de cada período de prestação, pagar remuneração, férias proporcionais acrescidas de 1/3, 13º proporcional, repouso semanal remunerado e adicionais legais.
+8. **Férias e aeronautas:** o empregado intermitente tem direito às parcelas de férias proporcionais; aeronautas estão excluídos do regime intermitente por legislação própria.
+
+**Cuidado com as pegadinhas:** não confundir a antecedência de três dias corridos para convocar com o prazo de um dia útil para responder; não tratar a recusa como falta; não considerar a inatividade tempo à disposição; e não confundir o pagamento proporcional das férias com a regra de um mês sem convocação após cada ciclo de 12 meses.
+
 ## 9. O que ainda precisa ser aprofundado na sequência
 
 1. Fechar a análise página a página das alterações contratuais (152–168), incluindo transferência, reversão de função e supressão de vantagens.
