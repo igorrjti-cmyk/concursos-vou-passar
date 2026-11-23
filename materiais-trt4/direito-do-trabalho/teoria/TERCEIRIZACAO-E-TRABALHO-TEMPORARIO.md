@@ -191,3 +191,29 @@ Está correto APENAS em:
 
 **Pegadinha:** a direção do trabalho fica com a tomadora, mas a empresa de trabalho temporário continua responsável pelas obrigações próprias de empregadora.
 
+
+
+### Questão 248 — FCC, TRT-14, 2016 — cláusula de reserva no trabalho temporário
+
+**Enunciado:** Quanto ao trabalho temporário, assinale a alternativa INCORRETA:
+
+- A) Há vínculo civil entre tomadora e empresa de trabalho temporário, por contrato escrito.
+- B) Há vínculo trabalhista entre trabalhador temporário e empresa fornecedora, que o assalaria e responde pelos direitos.
+- C) É lícita cláusula de reserva que proíba a contratação do trabalhador pela tomadora ao final.
+- D) A remuneração deve equivaler à dos empregados da mesma categoria da tomadora, calculada por hora.
+- E) É permitido para substituição transitória de pessoal ou demanda complementar.
+
+**Gabarito: C.**
+
+**Fundamentos:** arts. 2º, 9º, 11, parágrafo único, e 12, alínea “a”, da Lei 6.019/1974.
+
+A alternativa C é incorreta porque o art. 11, parágrafo único, estabelece que é nula de pleno direito qualquer cláusula que proíba a contratação do trabalhador pela empresa tomadora ao fim do período em que ele esteve à sua disposição.
+
+As demais estão corretas:
+- A: existe relação contratual entre as empresas, formalizada por escrito.
+- B: a empresa de trabalho temporário contrata e remunera o trabalhador.
+- D: há garantia de remuneração equivalente à dos empregados da mesma categoria da tomadora, calculada por hora.
+- E: são as hipóteses legais de contratação temporária — substituição transitória de pessoal permanente ou demanda complementar.
+
+**Macete:** a empresa de trabalho temporário não pode impedir que a tomadora contrate diretamente o trabalhador depois do período temporário.
+
