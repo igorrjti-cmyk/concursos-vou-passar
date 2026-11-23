@@ -99,9 +99,9 @@ export default function Nav() {
       </header>
 
       <aside className="study-sidebar" aria-label="Navegação principal">
-        <Link href="/" className="study-sidebar__brand" aria-label="FAFIPA Study OS">
-          <span className="study-brand__mark"><span>F</span></span>
-          <span className="study-brand__copy"><strong>FAFIPA Study OS</strong><small>Contador · Curitiba</small></span>
+        <Link href="/" className="study-sidebar__brand" aria-label="Concursos: Vou Passar!">
+          <span className="study-brand__mark"><span>V</span></span>
+          <span className="study-brand__copy"><strong>Concursos: Vou Passar!</strong><small>TRT-4 · Técnico Judiciário</small></span>
         </Link>
         <div className="study-sidebar__section">
           <p className="study-sidebar__label">Estudar</p>
