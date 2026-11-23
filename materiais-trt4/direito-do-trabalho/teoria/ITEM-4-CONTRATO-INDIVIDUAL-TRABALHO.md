@@ -152,3 +152,50 @@ Foram analisadas as questões 221–235 do caderno e cadastradas **15 questões 
 7. **Horas extras habituais:** a supressão total ou parcial após pelo menos um ano pode gerar indenização, conforme Súmula 291/TST.
 
 **Ajuste de prioridade:** páginas 152–158 são essenciais para o item 4. As páginas 159–168 são exercícios de aplicação e revisão.
+
+## 11. Resolução comentada — questões oficiais FCC sobre contrato por prazo determinado
+
+As questões abaixo pertencem ao caderno FCC para Técnico — Área Administrativa — TRT-4, Parte 2. São questões oficiais já cadastradas no Supabase; esta seção registra a análise didática, sem duplicar os registros do banco.
+
+### Questão 201 — FCC, TRT-19, 2014 — prorrogação mais de uma vez
+
+**Enunciado:** O contrato de trabalho por prazo determinado, prorrogado mais de uma vez:
+
+- A) É nulo de pleno direito.
+- B) Deve ser registrado no Ministério do Trabalho e Emprego.
+- C) Rescinde-se pelo decurso do prazo.
+- D) Torna-se anulável.
+- E) Passa a vigorar sem determinação de prazo.
+
+**Gabarito: E.**
+
+**Fundamento:** art. 451 da CLT. O contrato por prazo determinado só pode ser prorrogado uma vez. Se for prorrogado mais de uma vez, passa a vigorar sem determinação de prazo.
+
+**Análise das alternativas:** A está errada porque a consequência legal não é nulidade absoluta; B não corresponde ao art. 451; C confunde conversão com término normal; D inventa hipótese de anulabilidade; E reproduz a consequência legal.
+
+**Pegadinha:** a regra trata do número de prorrogações, não da duração total. Mesmo que o contrato não tenha ultrapassado o limite máximo de duração, a segunda prorrogação produz a conversão.
+
+### Questão 202 — FCC, TRT-19, 2014 — duas prorrogações e limite de duração
+
+**Enunciado:** Contrato por 9 meses para serviço de natureza transitória, prorrogado por mais 9 meses e, novamente, por mais 6 meses. Pergunta-se a consequência.
+
+- A) Será válido porque a duração total não ultrapassou dois anos.
+- B) Será válido porque o serviço é transitório, independentemente do número de prorrogações.
+- C) Será nulo e não produzirá efeitos jurídicos.
+- D) Será nulo, salvo se a última prorrogação decorrer de serviços especializados.
+- E) Passará a vigorar sem determinação de prazo porque foi prorrogado mais de uma vez.
+
+**Gabarito: E.**
+
+**Fundamento:** art. 451 da CLT. Houve contrato inicial de 9 meses e duas prorrogações (9 + 6 meses). A lei permite somente uma prorrogação. A segunda provoca a conversão em contrato por prazo indeterminado.
+
+**Análise das alternativas:** A confunde o limite máximo geral de duração (art. 445) com a quantidade de prorrogações (art. 451); B ignora que a hipótese de serviço transitório não afasta o art. 451; C erra ao afirmar nulidade sem efeitos; D cria exceção que não consta da lei; E aplica corretamente o art. 451.
+
+**Pegadinha central da FCC:** respeitar o limite total de dois anos não sana a segunda prorrogação. São requisitos distintos: (1) hipótese legal e duração máxima do contrato a termo; (2) apenas uma prorrogação.
+
+**Quadro de revisão:**
+- Art. 443, § 2º: hipóteses em que se admite contrato por prazo determinado.
+- Art. 445: duração máxima geral de dois anos; experiência até 90 dias.
+- Art. 451: apenas uma prorrogação; mais de uma converte em prazo indeterminado.
+- Art. 452: novo contrato a termo dentro de seis meses, em regra, é considerado por prazo indeterminado, ressalvadas as exceções legais.
+
