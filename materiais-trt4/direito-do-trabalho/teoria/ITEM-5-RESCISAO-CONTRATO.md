@@ -1038,3 +1038,179 @@ D) Conversão em contrato intermitente.
 - CLT, arts. 443, §§ 1º e 2º; 445; 451; 479; 480; 481.
 - TST, Súmula 163 — aviso-prévio no contrato de experiência na forma do art. 481.
 - Caderno de questões, Parte 2, pp. 1–3, questões 201–213.
+
+
+## Material autoral — aviso-prévio (CLT, arts. 487 a 491; Lei 12.506/2011)
+
+### 1. Conceito, cabimento e finalidade
+
+Aviso-prévio é a comunicação antecipada da intenção de encerrar, sem justa causa, contrato de trabalho por prazo indeterminado. Busca evitar ruptura abrupta: na dispensa, permite ao empregado procurar nova colocação; no pedido de demissão, permite ao empregador organizar a substituição.
+
+A regra também alcança a rescisão indireta, por força do art. 487, § 4º, da CLT. Em contrato por prazo determinado, o aviso não é regra geral no término normal; pode surgir quando exercida cláusula assecuratória do art. 481, conforme a Súmula 163 do TST para contrato de experiência.
+
+### 2. Prazo e proporcionalidade
+
+A Constituição, art. 7º, XXI, assegura aviso-prévio proporcional ao tempo de serviço, com mínimo de 30 dias. A Lei 12.506/2011 estabelece:
+- 30 dias para até 1 ano de serviço na mesma empresa;
+- acréscimo de 3 dias por ano de serviço prestado, além do primeiro ano;
+- acréscimo máximo de 60 dias, totalizando até 90 dias.
+
+Tabela de referência para dispensa sem justa causa:
+
+| Tempo de serviço completo | Aviso-prévio |
+|---:|---:|
+| Até 1 ano | 30 dias |
+| 2 anos | 33 dias |
+| 3 anos | 36 dias |
+| 4 anos | 39 dias |
+| 5 anos | 42 dias |
+| 10 anos | 57 dias |
+| 15 anos | 72 dias |
+| 20 anos ou mais | 90 dias |
+
+**Atenção à contagem:** os 3 dias adicionais são adquiridos por ano completo de serviço além do primeiro. Em questão concreta, observar a data de admissão, a data da comunicação e a orientação jurisprudencial aplicável. Não confundir o limite de 90 dias com prazo devido a todos os empregados.
+
+**Direito proporcional:** a orientação consolidada do TST reconhece a proporcionalidade da Lei 12.506/2011 como vantagem do empregado dispensado sem justa causa; não se converte em obrigação de o empregado que pede demissão cumprir aviso superior a 30 dias. No pedido de demissão, observar a regra geral e o art. 487, § 2º.
+
+### 3. Aviso trabalhado e aviso indenizado
+
+- **Trabalhado:** o empregado continua prestando serviços durante o prazo. A extinção se efetiva ao fim do período.
+- **Indenizado pelo empregador:** o empregado deixa de trabalhar e recebe o valor correspondente. O período integra o tempo de serviço para efeitos legais (art. 487, § 1º).
+- **Aviso não concedido pelo empregado:** se o empregado pede demissão e não cumpre o aviso, o empregador pode descontar os salários correspondentes ao prazo, conforme art. 487, § 2º, salvo dispensa do cumprimento pelo empregador ou outra situação juridicamente relevante.
+
+A projeção do aviso, inclusive indenizado, repercute na data de saída anotada na CTPS (OJ 82 da SDI-1/TST) e no início da contagem da prescrição bienal (OJ 83 da SDI-1/TST). O FGTS também incide sobre o período do aviso, inclusive quando indenizado, conforme Súmula 305 do TST.
+
+### 4. Redução da jornada no aviso trabalhado — art. 488
+
+Quando a rescisão é promovida pelo empregador, sem justa causa, e o aviso é trabalhado, a jornada normal do empregado deve ser reduzida, sem prejuízo do salário integral:
+- redução de **2 horas diárias** durante o prazo do aviso; ou
+- por opção do empregado, ausência ao serviço por **7 dias corridos**, sem prejuízo do salário, na hipótese legal do aviso de 30 dias.
+
+O parágrafo único do art. 488 prevê a alternativa dos 7 dias corridos. Não se trata de 7 dias úteis.
+
+**Pegadinhas FCC:**
+1. A redução é assegurada quando a iniciativa da ruptura é do empregador, e não no pedido de demissão do empregado.
+2. O empregado escolhe entre redução de 2 horas por dia e ausência por 7 dias corridos, conforme a regra legal.
+3. O salário integral é mantido.
+4. Não é lícito substituir a redução por pagamento das horas correspondentes: Súmula 230 do TST.
+5. A regra não autoriza o empregador a exigir que o empregado trabalhe normalmente e apenas pague as horas que deveriam ser reduzidas.
+
+### 5. Novo emprego e irrenunciabilidade — Súmula 276 do TST
+
+O direito ao aviso-prévio é irrenunciável pelo empregado. O pedido de dispensa do cumprimento, por si só, não libera o empregador do pagamento.
+
+**Exceção reconhecida pelo TST:** comprovado que o empregado obteve novo emprego, o empregador fica dispensado de pagar o aviso-prévio cujo cumprimento foi dispensado. A mera alegação de que deseja sair, sem prova de novo emprego, não basta.
+
+Distinguir:
+- **Empregado dispensado e liberado do cumprimento por iniciativa do empregador:** em regra, permanece devido o aviso, inclusive indenizado.
+- **Empregado pede demissão e empregador dispensa o cumprimento:** não se deve confundir a dispensa do cumprimento com renúncia automática a um crédito do empregado; analisar quem tomou a iniciativa e o contexto.
+- **Empregado obtém novo emprego durante o aviso:** a Súmula 276 permite a dispensa do pagamento quando há prova do novo vínculo e pedido de liberação.
+
+### 6. Reconsideração e continuidade — art. 489
+
+Depois de concedido o aviso, a parte que o comunicou pode reconsiderar a decisão antes do término do prazo. A outra parte é livre para aceitar ou não.
+
+- Se a reconsideração for aceita, o contrato continua como se o aviso não tivesse sido dado.
+- Se não houver aceitação, mantém-se a extinção ao final do aviso.
+- Se a prestação de serviços continuar depois de expirado o prazo, o contrato também continua em vigor, conforme parágrafo único do art. 489.
+
+**Pegadinha:** a reconsideração não é unilateralmente impositiva; depende da aceitação da outra parte.
+
+### 7. Falta grave durante o aviso — arts. 490 e 491
+
+- **Falta grave praticada pelo empregador durante o aviso dado ao empregado:** art. 490 — o empregado pode ter direito à remuneração correspondente ao prazo do aviso, sem prejuízo da indenização cabível.
+- **Falta grave praticada pelo empregado durante o aviso:** art. 491 — o empregado perde o direito ao restante do prazo, se cometer falta que justifique a rescisão por justa causa.
+
+Não confundir a falta grave durante o aviso com simples descumprimento de rotina ou atraso isolado: deve haver enquadramento legal e gravidade suficientes.
+
+### 8. Efeitos rescisórios e integração
+
+O aviso-prévio integra o tempo de serviço para todos os efeitos legais, inclusive quando indenizado (art. 487, § 1º). Consequências que podem aparecer em prova:
+- projeção da data de saída na CTPS até o término do aviso, mesmo indenizado (OJ 82);
+- início da prescrição bienal ao final do aviso (OJ 83);
+- incidência do FGTS sobre o período do aviso, inclusive indenizado (Súmula 305);
+- consideração do período projetado para os efeitos legais pertinentes, observada a jurisprudência aplicável.
+
+Não confundir projeção contratual com prestação efetiva de trabalho: no aviso indenizado, o empregado não trabalha, mas o período é computado juridicamente.
+
+### 9. Quadro de revisão — quem toma a iniciativa?
+
+| Situação | Consequência principal |
+|---|---|
+| Empregador dispensa sem justa causa | Deve conceder aviso; proporcionalidade de 30 a 90 dias ao empregado |
+| Empregador não concede aviso | Paga os salários do período; integra o tempo de serviço |
+| Empregado pede demissão e não cumpre aviso | Empregador pode descontar o prazo correspondente, observadas as circunstâncias |
+| Empregador dispensa o empregado do trabalho no aviso | Em regra, não elimina o dever de pagar o aviso devido |
+| Empregado comprova novo emprego e é liberado | Aplicação da exceção da Súmula 276 |
+| Aviso trabalhado em dispensa promovida pelo empregador | Redução de 2 horas diárias ou 7 dias corridos, sem redução salarial |
+| Reconsideração antes do fim | Depende da aceitação da outra parte |
+| Falta grave do empregado durante o aviso | Pode perder o restante do prazo (art. 491) |
+
+### 10. Questões autorais — não extraídas de provas oficiais
+
+**AM.** Empregado com 5 anos completos de serviço é dispensado sem justa causa. Conforme a Lei 12.506/2011, seu aviso-prévio proporcional será de:
+- A) 30 dias.
+- B) 36 dias.
+- C) 42 dias.
+- D) 45 dias.
+
+**Gabarito: C.** São 30 dias, acrescidos de 3 dias por cada um dos 4 anos completos além do primeiro: 42 dias.
+
+**AN.** Durante aviso-prévio trabalhado concedido pelo empregador, a redução legal da jornada:
+- A) Pode ser substituída por pagamento das horas correspondentes.
+- B) É de 2 horas diárias ou, por opção do empregado, 7 dias corridos, sem prejuízo salarial.
+- C) É de 7 dias úteis obrigatoriamente.
+- D) Só existe quando o empregado pede demissão.
+
+**Gabarito: B.** Art. 488, caput e parágrafo único; Súmula 230 do TST impede substituir a redução pelo pagamento das horas.
+
+**AO.** O empregado dispensado sem justa causa pede para não cumprir o aviso-prévio, mas não comprova novo emprego. De acordo com a Súmula 276 do TST:
+- A) O pedido de dispensa sempre elimina o dever de pagamento.
+- B) O direito é irrenunciável, e o pedido de dispensa não libera o empregador do pagamento, salvo prova de novo emprego.
+- C) O aviso é sempre descontado das férias.
+- D) O empregado perde automaticamente todas as verbas rescisórias.
+
+**Gabarito: B.** Súmula 276 do TST.
+
+**AP.** O aviso-prévio foi concedido pelo empregador e, antes do fim do prazo, este reconsidera a dispensa. O empregado não aceita a reconsideração. Nesse caso:
+- A) A reconsideração unilateral obriga o empregado a permanecer.
+- B) O contrato continua automaticamente.
+- C) A reconsideração depende da aceitação do empregado.
+- D) O aviso é convertido em suspensão contratual.
+
+**Gabarito: C.** Art. 489 da CLT.
+
+**AQ.** A data de saída a ser anotada na CTPS, quando o aviso-prévio é indenizado, corresponde:
+- A) À data da comunicação da dispensa.
+- B) Ao último dia efetivamente trabalhado, sem exceção.
+- C) Ao término do prazo do aviso-prévio.
+- D) À data do pagamento das verbas rescisórias.
+
+**Gabarito: C.** OJ 82 da SDI-1 do TST.
+
+### 11. Questão oficial já identificada no banco
+
+A consulta à tabela `public.questoes` localizou, entre os resultados diretamente relacionados ao aviso-prévio, a seguinte questão já cadastrada:
+
+- **Rank 7746 — questão 54 do caderno Parte 1, p. 12**
+- **FCC — TRT-14 — Analista Judiciário, Área Judiciária — 2022**
+- Tema: aviso-prévio proporcional e prescrição trabalhista.
+- Gabarito cadastrado: **A**.
+- Núcleo cobrado: aviso-prévio proporcional com mínimo de 30 dias (não máximo de 30), prescrição quinquenal durante o contrato e limite de dois anos após a extinção.
+
+Também foi identificada a questão de rank 7714, FCC/TRT-1/2025, sobre direitos constitucionais, cuja assertiva I erra ao afirmar que o aviso-prévio proporcional tem máximo de 30 dias; o gabarito cadastrado é D. Ela é útil como revisão constitucional, embora não seja exclusivamente sobre aviso-prévio.
+
+**Não houve inserção de questões nesta etapa:** os registros citados já estavam no banco. As questões AM–AQ são autorais e permanecem separadas das questões oficiais.
+
+### 12. Normas e jurisprudência para memorizar
+
+- Constituição Federal, art. 7º, XXI.
+- CLT, arts. 487 a 491.
+- Lei 12.506/2011.
+- TST, Súmula 230 — não pode substituir a redução de jornada pelo pagamento das horas.
+- TST, Súmula 276 — irrenunciabilidade, com exceção de novo emprego comprovado.
+- TST, OJ 82 da SDI-1 — anotação da saída no término do aviso, mesmo indenizado.
+- TST, OJ 83 da SDI-1 — prescrição começa ao final do aviso.
+- TST, Súmula 305 — FGTS sobre o aviso, inclusive indenizado.
+- TST, Súmula 163 — aviso-prévio na rescisão antecipada do contrato de experiência, na forma do art. 481 da CLT.
+
