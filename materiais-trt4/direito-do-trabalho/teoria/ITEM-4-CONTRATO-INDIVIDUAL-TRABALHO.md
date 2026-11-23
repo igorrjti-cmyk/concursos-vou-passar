@@ -406,3 +406,32 @@ Está correto o que se afirma APENAS em:
 
 **Pegadinha:** a alternativa D apresenta o limite correto em meses, mas acrescenta uma prorrogação adicional que ultrapassaria o máximo legal. Separar sempre duração total e quantidade de prorrogações.
 
+
+
+### Questão 211 — FCC, TRT-2, 2025 — contrato de experiência: duração e prorrogação
+
+**Enunciado:** Considere as seguintes situações hipotéticas:
+
+I. Beatrice celebrou contrato de experiência por 30 dias, prorrogado por 30 e, posteriormente, por mais 30 dias, totalizando 90 dias.  
+II. Rita celebrou contrato de experiência por 60 dias, prorrogado por mais 60 dias, totalizando 120 dias.  
+III. Neide celebrou contrato de experiência por 45 dias, prorrogado por mais 45 dias, totalizando 90 dias.
+
+De acordo com a CLT, em razão das prorrogações contratuais e dos respectivos prazos, passarão a vigorar por prazo indeterminado os contratos de:
+
+- A) Rita, apenas.
+- B) Beatrice, apenas.
+- C) Rita e Neide, apenas.
+- D) Beatrice e Rita, apenas.
+- E) Beatrice, Rita e Neide.
+
+**Gabarito: D — Beatrice e Rita, apenas.**
+
+**Fundamentos:** arts. 445, parágrafo único, e 451 da CLT.
+
+**Análise individual:**
+- Beatrice: 30 + 30 + 30 = 90 dias. Embora respeite o limite de duração, houve duas prorrogações. O art. 451 permite apenas uma; portanto, converte-se em contrato por prazo indeterminado.
+- Rita: 60 + 60 = 120 dias. Houve apenas uma prorrogação, mas o total ultrapassou o limite de 90 dias do contrato de experiência. Converte-se em contrato por prazo indeterminado.
+- Neide: 45 + 45 = 90 dias. Houve apenas uma prorrogação e o limite máximo foi respeitado. O contrato permanece válido como contrato de experiência.
+
+**Regra de revisão:** o contrato de experiência deve respeitar simultaneamente dois limites: duração total de até 90 dias e apenas uma prorrogação. Cumprir um deles não corrige a violação do outro.
+
