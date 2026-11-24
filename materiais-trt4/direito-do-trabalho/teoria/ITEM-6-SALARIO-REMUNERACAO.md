@@ -2146,3 +2146,31 @@ Os três registros foram confirmados no banco após a inserção, preservando as
 **4.** O empregador paga auxílio-alimentação em dinheiro e afirma que a parcela não tem natureza salarial porque o benefício é habitual. A exclusão do § 2º se aplica?
 
 **Resposta:** Não. A exclusão legal do auxílio-alimentação exige que não seja pago em dinheiro.
+
+
+### 28.22. Revisão integrada FCC — roteiro de resolução e questões selecionadas
+
+**Mapa de incidência e prioridade de revisão**
+1. Natureza das parcelas (salário x remuneração; gorjetas; comissões; gratificações; prêmios; ajuda de custo; diárias e auxílio-alimentação).
+2. Proteção salarial (descontos, adiantamentos, autorização para benefícios e contribuições).
+3. Equiparação salarial (art. 461: mesmo estabelecimento, função, produtividade, perfeição técnica, limites temporais e contemporaneidade).
+4. Adicionais (noturno urbano/rural, insalubridade, periculosidade e transferência).
+5. 13º salário e regras de pagamento.
+6. Gratificação de função e reversão (art. 468, § 2º, com análise de direito adquirido e regulamento empresarial mais favorável).
+
+**Questões oficiais já cadastradas que devem ser refeitas em revisão**
+- Q3169919 — FCC TRT-20/SE, 2024, rank 7878, gabarito D: integram remuneração, além do valor fixo, comissões e gratificações legais. Gorjetas também compõem remuneração, mas as alternativas devem ser avaliadas com atenção; ajuda de custo, auxílio-alimentação pago em dinheiro e prêmios não entram na exclusão legal.
+- Q889540 — FCC TRT-6/PE, 2018, rank 7887, gabarito E: após a Reforma, diárias de viagem e ajuda de custo são excluídas da remuneração independentemente do limite antigo de 50%; a questão evidencia a mudança legislativa.
+- Q14360 — FCC TRT-15/SP, 2009, rank 7886, gabarito A: corretas II, III e IV; gorjetas não compõem a base do RSR (Súmula 354); comissões e gratificações ajustadas integram salário; seguro de vida/acidentes e assistência odontológica não são salário-utilidade nas hipóteses legais.
+- Q1943181 — FCC TRT-4/RS, 2022, rank 7896, gabarito D: reversão da função de confiança e art. 468, § 2º, ressalvadas situações específicas de direito adquirido ou norma empresarial mais favorável.
+
+**Questão histórica não cadastrada nesta revisão:** Q2926561, FCC TRT-23/MT, 2007. O texto localizado em banco secundário apresenta assertivas cuja combinação de respostas não ficou suficientemente confirmada com o gabarito oficial do caderno correspondente. Não inserir nem atribuir alternativa até validar o caderno e o gabarito do mesmo cargo/tipo de prova.
+
+**Método de prova:** em questão anterior à Lei 13.467/2017, resolver pela redação legal vigente na data do concurso e depois registrar a regra atual em nota. Em questão posterior, não aplicar automaticamente a antiga regra de diárias acima de 50%. Nunca transportar gabarito de outro cargo, tipo de prova ou caderno sem conferir correspondência.
+
+**Checklist de encerramento do item**
+- Distinguir salário de remuneração.
+- Classificar cada parcela pela redação atual do art. 457.
+- Memorizar Súmulas 27, 60, 225, 253, 265, 340, 354, 367, 381 e 448 do TST, nos pontos pertinentes.
+- Revisar arts. 457 a 466, 468, 469 a 470, 461 e 462 da CLT.
+- Resolver novamente questões oficiais de vários TRTs, não apenas do TRT-4.
