@@ -223,3 +223,124 @@ Não inseri questões autorais no banco de questões oficiais. As quatro questõ
 5. Proteção do salário, descontos e intangibilidade.
 6. Salário mínimo, piso salarial e salário profissional.
 7. 13º salário e parcelas salariais correlatas.
+
+
+## 13. Formas de estipulação e pagamento do salário
+
+### 13.1. Formas de estipulação
+
+O salário pode ser ajustado, entre outras formas, por:
+
+- **Unidade de tempo:** considera o tempo à disposição e a periodicidade contratada (hora, dia, semana ou mês), sem depender diretamente da quantidade produzida.
+- **Unidade de obra ou produção:** considera a quantidade de peças, produtos ou serviços realizados.
+- **Tarefa:** combina tempo e produção; remunera a tarefa ajustada, conforme as condições pactuadas.
+
+A forma de cálculo não afasta a incidência dos direitos mínimos trabalhistas: salário mínimo ou piso aplicável, repousos, limites de jornada e demais garantias, conforme o caso.
+
+### 13.2. Periodicidade e prazo — art. 459 da CLT
+
+Regra geral: o pagamento do salário, qualquer que seja a modalidade de trabalho, não pode ser estipulado por período superior a **um mês**.
+
+A própria lei excepciona **comissões, percentagens e gratificações** dessa limitação de periodicidade.
+
+Quando o pagamento é mensal, deve ser realizado, no máximo, até o **quinto dia útil do mês subsequente ao vencido** (art. 459, § 1º).
+
+Exemplo: o salário referente ao trabalho prestado em abril deve estar pago até o quinto dia útil de maio.
+
+**Contagem do quinto dia útil:** para fins trabalhistas, inclui-se o sábado e excluem-se domingos e feriados, inclusive municipais, conforme a disciplina administrativa do Ministério do Trabalho. Se o pagamento ocorrer por sistema bancário, o valor deve estar efetivamente disponível ao empregado dentro do prazo. Não basta a empresa apenas ordenar o processamento se o crédito só ficar disponível depois.
+
+Atenção: a exceção legal referente a comissões, percentagens e gratificações não significa que o empregador possa deixar de prestar contas ou pagar indefinidamente. As regras específicas das comissões e percentagens estão no art. 466 da CLT e serão estudadas na próxima parte.
+
+### 13.3. Falta de estipulação ou prova do valor — art. 460
+
+Se não houver estipulação do salário ou não existir prova da importância ajustada, o empregado terá direito a receber salário igual ao daquele que, na mesma empresa, fizer serviço equivalente, ou ao que for habitualmente pago para serviço semelhante.
+
+A regra supre a ausência de definição ou prova do valor salarial; não se confunde com a equiparação salarial do art. 461, que possui requisitos próprios.
+
+### 13.4. Moeda e forma de pagamento — arts. 463 e 464
+
+- O pagamento do salário em espécie deve ser realizado em **moeda corrente do País** (art. 463).
+- O pagamento feito em desacordo com essa regra é considerado não realizado.
+- O salário deve ser pago contra recibo assinado pelo empregado.
+- Se o empregado não souber escrever, o recibo poderá ser dado por impressão digital ou, se esta não for possível, a seu rogo.
+- O comprovante de depósito em conta bancária aberta para esse fim, em nome do empregado e com seu consentimento, tem força de recibo (art. 464, parágrafo único).
+
+**Pegadinha:** o comprovante de depósito bancário pode substituir o recibo, desde que observados os requisitos legais. O empregador deve conseguir demonstrar o pagamento.
+
+### 13.5. Dia, local e horário — art. 465
+
+Como regra, o pagamento será efetuado:
+- em dia útil;
+- no local de trabalho;
+- dentro do horário do serviço ou imediatamente após o encerramento.
+
+A CLT ressalva o pagamento realizado por depósito em conta bancária, observado o art. 464.
+
+### 13.6. Atraso e correção monetária — Súmula 381 do TST
+
+A Súmula 381 do TST estabelece que o pagamento realizado até o quinto dia útil do mês subsequente não está sujeito à correção monetária. Ultrapassado esse limite, incide o índice de correção monetária do mês subsequente ao da prestação dos serviços, a partir do dia 1º.
+
+Para a prova, memorize a relação entre:
+- art. 459, § 1º, da CLT: prazo máximo;
+- Súmula 381 do TST: consequência quanto à correção monetária quando o prazo é ultrapassado.
+
+### 13.7. Questões autorais de fixação — não oficiais
+
+**9.** De acordo com o art. 459, § 1º, da CLT, o salário estipulado por mês deve ser pago, no máximo:
+
+- A) Até o último dia do próprio mês trabalhado.
+- B) Até o quinto dia útil do mês subsequente ao vencido.
+- C) Até o décimo dia corrido do mês subsequente.
+- D) Até o quinto dia útil do próprio mês.
+
+**Gabarito: B.** É o prazo expresso no art. 459, § 1º.
+
+**10.** Para fins de contagem do quinto dia útil para pagamento do salário, considera-se:
+
+- A) Apenas segunda a sexta-feira, sem exceções.
+- B) O sábado, excluídos domingos e feriados, inclusive municipais.
+- C) O domingo, mas não o sábado.
+- D) Todos os dias do calendário, inclusive feriados.
+
+**Gabarito: B.** A orientação administrativa do Ministério do Trabalho inclui o sábado na contagem e exclui domingos e feriados.
+
+**11.** A respeito da forma de pagamento do salário, conforme a CLT:
+
+- A) O pagamento em moeda estrangeira sempre quita a obrigação.
+- B) O pagamento em espécie deve ser feito em moeda corrente do País.
+- C) O empregador pode dispensar qualquer comprovante.
+- D) O depósito em conta de terceiro sempre substitui o recibo.
+
+**Gabarito: B.** Arts. 463 e 464 da CLT.
+
+**12.** O comprovante de depósito bancário terá força de recibo quando:
+
+- A) O depósito for feito em conta de qualquer pessoa indicada pela empresa.
+- B) A conta estiver em nome do empregado, aberta para esse fim e com seu consentimento, observada a lei.
+- C) O empregador apenas apresentar uma ordem de transferência ainda não efetivada.
+- D) O empregado não tiver conhecimento do depósito.
+
+**Gabarito: B.** Art. 464, parágrafo único.
+
+**13.** Na falta de estipulação do salário ou de prova da importância ajustada, o art. 460 da CLT assegura ao empregado:
+
+- A) Apenas o salário mínimo, em qualquer situação.
+- B) Salário igual ao de quem, na mesma empresa, fizer serviço equivalente, ou ao habitualmente pago por serviço semelhante.
+- C) Salário definido unilateralmente pelo empregador.
+- D) Pagamento exclusivamente por arbitramento judicial, sem parâmetro legal.
+
+**Gabarito: B.** É a regra supletiva do art. 460.
+
+### 13.8. Fontes legais e jurisprudenciais
+
+- CLT, arts. 459 a 465, texto consolidado: https://www2.camara.leg.br/legin/fed/declei/1940-1949/decreto-lei-5452-1-maio-1943-415500-normaatualizada-pe.html
+- TST, Súmula 381 — correção monetária do salário: https://www.tst.jus.br/documents/d/guest/livrointernet-12-pdf
+- Instrução Normativa MTP nº 2/2021, art. 14 — contagem do prazo, incluindo sábado e excluindo domingos e feriados: https://pesquisa.in.gov.br/imprensa/servlet/INPDFViewer?captchafield=firstAccess&data=12%2F11%2F2021&jornal=515&pagina=152
+
+## 14. Próximos tópicos do Item 6
+
+1. Comissões, percentagens, gratificações e parcelas variáveis — arts. 457, 466 e legislação correlata.
+2. Equiparação salarial — art. 461.
+3. Proteção do salário, descontos e intangibilidade.
+4. Salário mínimo, piso salarial e salário profissional.
+5. 13º salário e parcelas salariais correlatas.
