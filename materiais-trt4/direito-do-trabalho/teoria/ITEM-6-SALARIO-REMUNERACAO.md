@@ -1939,3 +1939,10 @@ Fontes de atualização: TST, IRR Tema 65 (RRAg-0011110-03.2023.5.03.0027) e ín
 
 **Resposta:** Em regra, não. O art. 193, § 2º, assegura opção pelo adicional que for devido.
 
+
+### 28.14. Questões oficiais FCC — insalubridade e periculosidade
+
+- **Q3215729 — FCC TRT-6/PE, Analista Judiciário — Oficial de Justiça Avaliador, 2025 — rank 7890 — gabarito C (I e II).** O conceito de insalubridade corresponde ao art. 189 da CLT; a neutralização pode ocorrer por medidas ambientais ou EPI eficaz (art. 191). A III erra a base da periculosidade; a IV erra ao dividir obrigatoriamente a perícia entre médico e engenheiro; a V erra porque o adicional cessa com a eliminação do risco.
+- **Q3214723 — FCC TRT-6/PE, Analista Judiciário, 2025 — rank 7891 — gabarito C.** Eliminado efetivamente o agente insalubre pela substituição do maquinário, cessa o pagamento do adicional. É salário-condição, não parcela incorporada definitivamente.
+
+As duas questões foram cadastradas em `public.questoes`; consulta posterior confirmou IDs, ranks, origem e gabaritos. Os identificadores de origem são os das bases de questões; a origem real da prova está registrada como TRT-6/PE, sem confundir com o escopo de estudo TRT-4.
