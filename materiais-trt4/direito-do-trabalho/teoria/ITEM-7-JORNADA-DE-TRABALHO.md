@@ -432,3 +432,188 @@ Enunciado: O repouso semanal remunerado, garantido constitucionalmente, é asseg
 **Fonte da questão e gabarito:** https://www.qconcursos.com/questoes-de-concursos/questoes/48cb539f-87
 
 **Registro no banco oficial:** ID 2384435, rank 7899, resposta C. Registro conferido após inserção no Supabase.
+
+
+## 22. Controle de jornada — CLT, art. 74
+
+### 22.1. Quem é obrigado a registrar entrada e saída?
+
+O art. 74, § 2º, da CLT determina o registro de entrada e saída nos estabelecimentos com **mais de 20 trabalhadores**. O registro pode ser:
+- manual;
+- mecânico;
+- eletrônico.
+
+A expressão legal é “mais de 20”: estabelecimento com exatamente 20 trabalhadores não se enquadra nessa obrigação legal específica, embora possa adotar controle voluntariamente ou por norma aplicável.
+
+O horário contratual deve constar do registro de empregados (art. 74, caput). A pré-assinalação do período de repouso é permitida; isso não autoriza pré-assinalar entrada e saída como se o empregado tivesse efetivamente marcado os horários.
+
+**Atualização histórica importante:** antes da Lei 13.874/2019, o art. 74, § 2º, estabelecia o limite de mais de 10 empregados. Para questões anteriores à mudança, usar a lei vigente na data da prova. Para a regra atual, o limite é mais de 20 trabalhadores.
+
+### 22.2. Trabalho fora do estabelecimento
+
+O art. 74, § 3º, determina que, se o trabalho for executado fora do estabelecimento, o horário conste de registro manual, mecânico ou eletrônico em poder do empregado, sem prejuízo do registro geral.
+
+**Pegadinha:** trabalhar fora da sede não significa, por si só, estar dispensado do controle de jornada. Se houver possibilidade de fixação e fiscalização de horários, a atividade externa pode continuar sujeita ao regime de duração do trabalho.
+
+### 22.3. Registro por exceção
+
+O art. 74, § 4º, permite o registro de ponto por exceção à jornada regular, mediante:
+- acordo individual escrito;
+- convenção coletiva; ou
+- acordo coletivo.
+
+Nesse modelo, registram-se as ocorrências excepcionais em relação à jornada regular, e não necessariamente todas as marcações diárias.
+
+**Não confundir:**
+- ponto por exceção: forma de consignar as marcações, autorizada pelo art. 74, § 4º;
+- REP-A: modalidade de registrador eletrônico cuja utilização depende de autorização expressa em ACT ou CCT;
+- REP-P: registrador eletrônico via programa, com requisitos técnicos próprios da Portaria MTP 671/2021.
+
+O MTE esclarece que o ponto por exceção não é um tipo de REP e pode ser usado em controle manual, mecânico ou eletrônico, desde que autorizado por acordo individual escrito ou instrumento coletivo. Já o REP-A depende de instrumento coletivo.
+
+### 22.4. Integridade das marcações
+
+O registro eletrônico deve refletir fielmente os horários efetivamente marcados. A regulamentação da Portaria MTP 671/2021 veda, entre outras práticas:
+- restrição de horários para marcação;
+- marcação automática com horários predeterminados ou contratuais;
+- exigência de autorização prévia para registrar sobrejornada;
+- mecanismos que permitam alterar os dados efetivamente registrados.
+
+O programa de tratamento pode complementar omissões ou apontar marcações indevidas, mas não pode fabricar marcações para simular trabalho ou horas extras. O empregado deve registrar a jornada real.
+
+### 22.5. Modalidades de registro eletrônico
+
+A Portaria MTP 671/2021 organiza três tipos:
+- **REP-C:** registrador eletrônico convencional;
+- **REP-A:** registrador eletrônico alternativo, condicionado à autorização por ACT/CCT;
+- **REP-P:** registrador eletrônico via programa, com requisitos técnicos próprios.
+
+Para a FCC, a cobrança mais provável é a distinção entre controle manual, mecânico e eletrônico, a obrigatoriedade para estabelecimentos com mais de 20 trabalhadores e o registro por exceção. Os detalhes técnicos dos arquivos eletrônicos são aprofundamento secundário.
+
+## 23. Ônus da prova da jornada — Súmula 338 do TST
+
+A Súmula 338 do TST trata do registro da jornada e da distribuição do ônus da prova.
+
+### 23.1. Não apresentação injustificada dos controles
+
+Quando o empregador está legalmente obrigado a manter os registros e não os apresenta injustificadamente, surge presunção **relativa** de veracidade da jornada indicada pelo empregado.
+
+Relativa significa que a presunção pode ser afastada por prova em contrário. Não é vitória automática do trabalhador.
+
+A juntada parcial dos controles pode gerar presunção quanto ao período não documentado, se não houver prova apta a afastá-la.
+
+### 23.2. Cartões com horários uniformes — “ponto britânico”
+
+A Súmula 338, III, considera inválidos como meio de prova os cartões que registram horários de entrada e saída invariáveis. Nessa hipótese, o ônus de demonstrar a jornada efetiva passa ao empregador; se não se desincumbir, prevalece a jornada indicada na petição inicial.
+
+**Atenção:** pequenas variações reais são diferentes de marcações invariáveis. A análise é do conteúdo e da credibilidade do registro.
+
+### 23.3. Assinatura do empregado
+
+A ausência de assinatura do empregado nos cartões de ponto, por si só, não os torna inválidos nem provoca automaticamente a inversão do ônus da prova. É necessário examinar se há outro vício ou prova que retire a confiabilidade dos registros.
+
+### 23.4. Cuidado com o limite numérico da Súmula 338, I
+
+A redação histórica do item I da Súmula 338 menciona empregador com mais de 10 empregados. Esse limite correspondia à redação antiga do art. 74, § 2º, da CLT.
+
+Desde a Lei 13.874/2019, a obrigação legal geral de registro de entrada e saída passou a alcançar estabelecimentos com **mais de 20 trabalhadores**. Para questões atuais, compatibilizar a súmula com a lei vigente; para questões históricas, observar a redação legal da época.
+
+## 24. Empregados excluídos do regime de duração do trabalho — CLT, art. 62
+
+O art. 62 exclui do regime geral de duração do trabalho três grupos. A exclusão depende dos requisitos legais concretos; não basta o nome do cargo ou a declaração unilateral do empregador.
+
+### 24.1. Atividade externa incompatível com fixação de horário — inciso I
+
+Requisitos:
+- atividade externa;
+- incompatibilidade real com a fixação de horário;
+- anotação dessa condição na CTPS e no registro de empregados.
+
+**Não basta trabalhar externamente.** Se o empregador consegue controlar a jornada por roteiros, horários, relatórios, aplicativos, GPS, comparecimentos obrigatórios ou outros meios concretos, pode existir controle compatível com o regime de jornada.
+
+A tecnologia pode permitir controle mesmo sem relógio de ponto físico.
+
+### 24.2. Gerentes e cargos de gestão — inciso II
+
+A exceção abrange gerentes que exercem efetivos poderes de gestão, equiparando diretores e chefes de departamento ou filial.
+
+Requisitos relevantes:
+- atribuições reais de gestão e fidúcia diferenciada;
+- autonomia compatível com o cargo, não sendo suficiente o título formal de “gerente”;
+- requisito remuneratório do parágrafo único: o salário do cargo de confiança, compreendendo a gratificação de função, se houver, não pode ser inferior ao salário efetivo acrescido de 40%.
+
+**Exemplo:** salário efetivo de R$ 5.000. Para o enquadramento remuneratório do art. 62, II, a remuneração do cargo de confiança deve alcançar pelo menos R$ 7.000 (salário efetivo + 40%).
+
+Se não houver o requisito remuneratório, o empregado continua sujeito ao regime de jornada, ainda que tenha alguma função de chefia.
+
+### 24.3. Teletrabalho por produção ou tarefa — inciso III
+
+A exclusão alcança os empregados em teletrabalho que prestam serviços por **produção ou tarefa**.
+
+Não se deve afirmar que todo teletrabalhador está excluído do controle de jornada:
+- teletrabalho por produção ou tarefa: enquadra-se no art. 62, III;
+- teletrabalho remunerado por tempo, com jornada controlável: não está automaticamente excluído e pode ter direito às regras de duração do trabalho.
+
+Os meios telemáticos e informatizados de comando, controle e supervisão podem caracterizar subordinação jurídica (CLT, art. 6º, parágrafo único). Portanto, trabalhar em casa não significa ausência necessária de controle.
+
+### 24.4. Nova hipótese constitucional — EC 141/2026, art. 8º
+
+A EC 141/2026 acrescentou hipótese específica de dispensa das regras de duração e controle da jornada para empregado que reúna cumulativamente:
+1. diploma de nível superior; e
+2. remuneração mensal igual ou superior a **duas vezes e meia o limite máximo dos benefícios do RGPS**.
+
+A dispensa não é absoluta: as regras podem voltar a ser aplicadas por liberalidade do empregador ou por previsão em ACT/CCT. Devem ser respeitados os repousos semanais constitucionais e as regras de compensação aplicáveis.
+
+A hipótese não se aplica aos empregados públicos da administração direta e indireta dos entes federativos. A Justiça do Trabalho é competente para julgar as controvérsias sobre o enquadramento.
+
+**Cuidado:** essa exceção constitucional é recente e não deve ser transportada para questões anteriores à EC 141/2026.
+
+## 25. Questões autorais de fixação — não são questões oficiais FCC
+
+**1.** Um estabelecimento possui exatamente 20 trabalhadores. O art. 74, § 2º, obriga o registro de entrada e saída?
+
+**Resposta:** Não pela regra geral do § 2º, que exige estabelecimento com mais de 20 trabalhadores. A empresa pode adotar controle voluntariamente ou estar sujeita a outra obrigação específica.
+
+**2.** Empregado trabalha externamente, mas cumpre roteiro diário, horários de visitas e registros de localização controlados pela empresa. Está automaticamente excluído pelo art. 62, I?
+
+**Resposta:** Não. É necessário que a atividade externa seja realmente incompatível com a fixação de horário. Se houver meios efetivos de controle, a exceção pode não se aplicar.
+
+**3.** Um empregado é chamado de gerente, mas não possui poderes reais de gestão e recebe apenas 20% a mais que o salário efetivo. Está enquadrado no art. 62, II?
+
+**Resposta:** Não. Faltam os requisitos materiais de gestão e o requisito remuneratório mínimo de 40%.
+
+**4.** Teletrabalhador com salário mensal por tempo e controle de login, tarefas e horários está excluído do regime de jornada apenas por trabalhar em casa?
+
+**Resposta:** Não. O art. 62, III, exclui o teletrabalho por produção ou tarefa, e não todo teletrabalho.
+
+**5.** Empresa com mais de 20 trabalhadores não apresenta os controles de jornada, embora estivesse obrigada a mantê-los. A jornada da petição inicial é automaticamente verdadeira?
+
+**Resposta:** Não automaticamente. Surge presunção relativa de veracidade, que pode ser afastada por prova em contrário, conforme Súmula 338, I, do TST.
+
+**6.** Cartões de ponto registram entrada e saída invariáveis todos os dias. Qual a consequência?
+
+**Resposta:** Os registros são inválidos como meio de prova, com inversão do ônus probatório quanto à jornada, conforme Súmula 338, III, do TST.
+
+**7.** O acordo individual escrito pode autorizar o registro de ponto por exceção?
+
+**Resposta:** Sim. O art. 74, § 4º, admite acordo individual escrito, convenção coletiva ou acordo coletivo.
+
+**8.** Acordo individual escrito é suficiente para autorizar o uso de REP-A?
+
+**Resposta:** Não. O REP-A depende de autorização expressa por ACT ou CCT. O acordo individual pode autorizar o ponto por exceção, mas não substitui o instrumento coletivo exigido para o REP-A.
+
+**9.** Empregado com diploma de nível superior recebe 2,4 vezes o teto do RGPS. Está dispensado do controle de jornada pela EC 141/2026?
+
+**Resposta:** Não. O limite constitucional é igual ou superior a 2,5 vezes o teto do RGPS, além da exigência de diploma de nível superior.
+
+**10.** Empregado com diploma de nível superior e remuneração mensal de 2,5 vezes o teto do RGPS está sempre dispensado do controle, mesmo que ACT/CCT determine o contrário?
+
+**Resposta:** Não. A própria EC 141/2026 ressalva a aplicação por liberalidade do empregador ou por previsão em ACT/CCT, além de preservar as regras constitucionais de repouso.
+
+## 26. Fontes normativas e oficiais — controle de jornada
+
+- CLT compilada, arts. 6º, 62, 74 e 75-B: https://www.planalto.gov.br/ccivil_03/decreto-lei/del5452compilado.htm
+- EC 141/2026, art. 8º: https://planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc141.htm
+- MTE — Registro Eletrônico de Ponto e Portaria 671/2021: https://www.gov.br/trabalho-e-emprego/pt-br/assuntos/inspecao-do-trabalho/fiscalizacao-do-trabalho/rep
+- MTE — Perguntas e respostas sobre Portaria 671/2021, REP-A e ponto por exceção: https://www.gov.br/trabalho-e-emprego/pt-br/assuntos/inspecao-do-trabalho/fiscalizacao-do-trabalho/Perguntas%20e%20Respostas%20REP
+- TST — Súmula 338 e jurisprudência sobre cartões de ponto invariáveis: https://www.tst.jus.br/
