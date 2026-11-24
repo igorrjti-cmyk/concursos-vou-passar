@@ -907,3 +907,144 @@ A finalidade é evitar o chamado sistema de salário vinculado ou “truck syste
 1. Salário mínimo, piso salarial e salário profissional.
 2. Décimo terceiro salário.
 3. Revisão integrada de salário e remuneração, com questões oficiais FCC e questões autorais.
+
+
+## 21. Salário mínimo, piso salarial e salário profissional
+
+### 21.1. Salário mínimo — art. 7º, IV, da Constituição
+
+O salário mínimo é fixado em lei e deve ser **nacionalmente unificado**. A Constituição determina que seja capaz de atender às necessidades vitais básicas do trabalhador e de sua família, incluindo moradia, alimentação, educação, saúde, lazer, vestuário, higiene, transporte e previdência social.
+
+Características constitucionais:
+- fixação em lei;
+- valor nacionalmente unificado;
+- reajustes periódicos destinados à preservação do poder aquisitivo;
+- vedação de vinculação para qualquer fim;
+- proteção também de quem recebe remuneração variável: garantia de salário nunca inferior ao mínimo (art. 7º, VII).
+
+A vedação de vinculação impede que o salário mínimo funcione como indexador automático de outras parcelas. A Súmula Vinculante 4 do STF dispõe que, salvo hipóteses previstas na Constituição, ele não pode ser usado como indexador da base de cálculo de vantagem de servidor público ou empregado, nem substituído por decisão judicial.
+
+**Cuidado com a literalidade:** a Constituição fala em salário mínimo nacionalmente unificado, mas também prevê o piso salarial proporcional à extensão e à complexidade do trabalho (inciso V). Não são expressões equivalentes.
+
+### 21.2. Piso salarial — art. 7º, V, da Constituição
+
+O piso salarial é o patamar mínimo remuneratório aplicável a determinada categoria, profissão ou grupo de trabalhadores, conforme a fonte normativa que o institui.
+
+Pode decorrer de:
+- lei federal específica;
+- lei estadual, dentro da autorização constitucional e legal;
+- acordo ou convenção coletiva de trabalho.
+
+A Lei Complementar 103/2000 autoriza os Estados e o Distrito Federal a instituir piso salarial, por lei de iniciativa do Poder Executivo, para empregados que **não tenham piso salarial definido em lei federal, convenção ou acordo coletivo**.
+
+Limites expressos da LC 103/2000:
+- a autorização estadual não pode ser exercida no segundo semestre do ano em que ocorrer eleição para Governador e Deputados Estaduais ou Distritais;
+- não pode ser utilizada para fixar remuneração de servidores públicos municipais;
+- o piso estadual pode ser estendido aos empregados domésticos.
+
+**Pegadinha:** o piso estadual autorizado pela LC 103/2000 não serve para substituir piso já definido em lei federal ou instrumento coletivo. A lei estadual deve respeitar os limites da delegação legislativa.
+
+### 21.3. Salário profissional e salário normativo
+
+**Salário profissional** é o patamar remuneratório mínimo estabelecido por legislação específica para determinada profissão. Sua incidência depende do enquadramento profissional e dos requisitos previstos na lei que o instituiu.
+
+**Salário normativo** é a expressão usual para o piso estabelecido em instrumento coletivo de trabalho, aplicável aos trabalhadores abrangidos pela negociação.
+
+Para resolver a questão, identifique primeiro a fonte:
+- Constituição e lei geral: salário mínimo;
+- lei estadual autorizada pela LC 103/2000 ou norma coletiva: piso salarial, conforme o caso;
+- lei específica de uma profissão: salário profissional;
+- acordo ou convenção coletiva: salário normativo/piso convencional.
+
+### 21.4. Salário mínimo ou piso proporcional à jornada reduzida — OJ 358 da SDI-1 do TST
+
+A OJ 358 do TST trata da contratação para jornada reduzida, inferior à previsão constitucional de oito horas diárias ou 44 semanais.
+
+**Regra para empregados em geral:** havendo contratação para jornada reduzida, é lícito pagar salário mínimo ou piso salarial proporcional ao tempo trabalhado.
+
+**Exceção na Administração Pública direta, autárquica e fundacional:** a OJ 358, II, estabelece que não é válida remuneração de empregado público inferior ao salário mínimo, ainda que cumpra jornada reduzida.
+
+Exemplo: em contratação privada válida para jornada correspondente à metade da jornada integral, admite-se, em princípio, salário mínimo ou piso proporcional à metade, respeitadas as demais normas aplicáveis. Não se deve transportar essa regra automaticamente para empregado público da Administração direta, autárquica ou fundacional.
+
+### 21.5. Questão oficial do banco — FCC, TRT-14, 2022
+
+**Questão rank 7747 — caderno, questão 55.** O enunciado aborda a natureza protetiva do salário mínimo e pergunta qual afirmação está de acordo com a Constituição e a legislação.
+
+A alternativa correta cadastrada é a **C**: o salário mínimo não pode ser usado como indexador de prestação instituída em lei ou estipulada em contrato, em razão da vedação constitucional de vinculação para qualquer fim.
+
+**Comentário das alternativas:**
+- **A — incorreta:** o salário mínimo constitucional é nacionalmente unificado, não variável conforme cada região.
+- **B — incorreta:** a Constituição enumera necessidades vitais básicas, mas não fixa percentuais de distribuição entre elas.
+- **C — correta:** corresponde à vedação constitucional de vinculação, interpretada pela SV 4 do STF.
+- **D — incorreta:** não existe regra geral que assegure ao aprendiz salário-hora equivalente a dois terços do salário dos demais trabalhadores; a disciplina do contrato de aprendizagem tem regras próprias.
+- **E — incorreta:** a Constituição assegura reajustes periódicos, mas não estabelece que a periodicidade possa ser livremente substituída por negociação coletiva.
+
+**Origem preservada no banco:** FCC — Analista Judiciário, TRT da 14ª Região, 2022. É questão oficial; não é questão autoral.
+
+### 21.6. Questões autorais de fixação — não oficiais
+
+**35.** De acordo com o art. 7º, IV, da Constituição Federal, o salário mínimo deve ser:
+
+- A) Fixado por convenção coletiva e variar obrigatoriamente entre os Estados.
+- B) Fixado em lei e nacionalmente unificado.
+- C) Definido por cada empregador, conforme o custo de vida local.
+- D) Estabelecido exclusivamente por sentença normativa.
+
+**Gabarito: B.** A Constituição determina fixação em lei e unificação nacional.
+
+**36.** A respeito do piso salarial estadual previsto na Lei Complementar 103/2000, assinale a alternativa correta:
+
+- A) Pode ser instituído para qualquer servidor público municipal.
+- B) Pode substituir livremente piso estabelecido em convenção coletiva.
+- C) Pode ser instituído pelos Estados e pelo Distrito Federal para empregados sem piso definido em lei federal, convenção ou acordo coletivo.
+- D) É fixado diretamente pelo Congresso Nacional para cada Estado.
+
+**Gabarito: C.** É a autorização e o limite central do art. 1º da LC 103/2000.
+
+**37.** Segundo a Súmula Vinculante 4 do STF, salvo hipóteses constitucionais, o salário mínimo:
+
+- A) Pode ser usado como indexador automático de qualquer vantagem.
+- B) Não pode ser usado como indexador da base de cálculo de vantagem de servidor público ou empregado, nem substituído por decisão judicial.
+- C) Deve ser a base obrigatória de cálculo de todos os adicionais trabalhistas.
+- D) Pode ser livremente vinculado por contrato individual.
+
+**Gabarito: B.** É o teor da SV 4.
+
+**38.** Conforme a OJ 358, I, do TST, havendo contratação de empregado para jornada reduzida, inferior à previsão constitucional:
+
+- A) É sempre proibido pagar salário proporcional.
+- B) É lícito pagar salário mínimo ou piso proporcional ao tempo trabalhado.
+- C) O salário deve ser necessariamente integral, independentemente da jornada.
+- D) O salário pode ser inferior ao mínimo sem qualquer proporcionalidade.
+
+**Gabarito: B.** A proporcionalidade é admitida na contratação para jornada reduzida.
+
+**39.** A OJ 358, II, do TST estabelece tratamento específico para empregados públicos da Administração direta, autárquica e fundacional. Nesse caso:
+
+- A) É válida remuneração inferior ao salário mínimo sempre que a jornada for reduzida.
+- B) Não é válida remuneração inferior ao salário mínimo, ainda que a jornada seja reduzida.
+- C) Aplica-se obrigatoriamente o piso estadual.
+- D) A remuneração é definida exclusivamente pelo empregador público.
+
+**Gabarito: B.** É a ressalva expressa do item II da OJ 358.
+
+**40.** O salário normativo é, em regra, aquele:
+
+- A) Fixado diretamente pela Constituição para todo trabalhador.
+- B) Estabelecido em instrumento coletivo de trabalho para os trabalhadores abrangidos.
+- C) Pago exclusivamente a servidores estatutários.
+- D) Equivalente às gorjetas recebidas pelo empregado.
+
+**Gabarito: B.** A expressão designa o piso definido na negociação coletiva.
+
+### 21.7. Fontes oficiais
+
+- Constituição Federal, art. 7º, IV a VIII: https://www4.planalto.gov.br/legislacao/legis-federal/constituicao
+- Lei Complementar 103/2000: https://www2.camara.leg.br/legin/fed/leicom/2000/leicomplementar-103-14-julho-2000-371495-publicacaooriginal-1-pl.html
+- STF, Súmula Vinculante 4: https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=26&sumula=1195
+- TST, OJ 358 da SDI-1: https://www.tst.jus.br/documents/10157/63003/Livro-Internet.pdf
+
+## 22. Próximo tópico do Item 6
+
+1. Décimo terceiro salário: aquisição, proporcionalidade, adiantamento, prazo, base de cálculo e efeitos da extinção contratual.
+2. Revisão integrada do salário e da remuneração, com questões oficiais FCC já cadastradas e questões autorais.
