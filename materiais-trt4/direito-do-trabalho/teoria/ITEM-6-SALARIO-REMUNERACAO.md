@@ -2011,3 +2011,16 @@ As duas questões foram cadastradas em `public.questoes`; consulta posterior con
 **Resposta:** Sim. O dispositivo considera compensadas as prorrogações do trabalho noturno ali referidas. É regra própria do regime 12x36, não aplicável automaticamente a todas as escalas.
 
 Fontes de atualização: CLT, art. 73 e art. 59-A; Lei 5.889/1973, art. 7º; Súmulas 60 e 265 do TST; OJs 97 e 259 da SDI-1; ficha oficial do Tema 92 do TST (afetado em 24/03/2025, sem tese firmada na consulta).
+
+### 28.16. Questões oficiais FCC — trabalho noturno
+
+Quatro questões oficiais de diferentes TRTs foram cadastradas e conferidas no banco:
+
+- **Q111471 — FCC TRT-23/MT, Técnico Judiciário, 2011 — rank 7892 — gabarito A (II apenas).** A hora urbana é de 52min30s; o adicional mínimo urbano é 20%, não 30%, e o período noturno urbano é das 22h às 5h.
+- **Q111826 — FCC TRT-23/MT, Analista Judiciário, Execução de Mandados, 2011 — rank 7893 — gabarito B (II apenas).** O adicional noturno integra a base das horas extras noturnas (OJ 97); o adicional de periculosidade integra a base do adicional noturno (OJ 259); e o adicional também é devido na prorrogação da jornada noturna (Súmula 60, II).
+- **Q889587 — FCC TRT-6/PE, Analista Judiciário, 2018 — rank 7894 — gabarito E (II e III).** A questão diferencia empregado urbano (adicional mínimo de 20%) e rural da pecuária (20h às 4h, 25%, hora de 60 minutos); também cobra a perda do adicional pela transferência ao período diurno (Súmula 265).
+- **Q3085121 — FCC TRT-21/RN, Técnico Judiciário, 2023 — rank 7895 — gabarito A.** Para trabalhador rural da lavoura, o período noturno é das 21h às 5h; a hora tem 60 minutos e o adicional é de 25%, sem redução ficta urbana.
+
+Os quatro registros foram confirmados em consulta posterior ao banco. As origens preservam os TRTs reais das provas; `concurso='TRT4'` identifica apenas o escopo deste projeto de preparação.
+
+**Padrão FCC identificado:** a banca gosta de comparar trabalhador urbano e rural, trocar o percentual (20% x 25%), inverter a hora reduzida (52min30s x 60min), e cobrar reflexos do adicional noturno nas horas extras e na prorrogação.
