@@ -1506,3 +1506,131 @@ Análise:
 - Lei 14.611/2023 — igualdade salarial e critérios remuneratórios: https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/lei/l14611.htm
 - TST, Súmula 6 — equiparação salarial, com revisão/cancelamentos decorrentes da Reforma Trabalhista e Resolução 225/2025: https://www.tst.jus.br/documents/d/guest/livrointernet-12-pdf
 
+
+
+## 27. Proteção salarial — descontos, autorizações e armazéns (art. 462)
+
+### 27.1. Regra e exceções
+
+O art. 462 da CLT proíbe descontos salariais, salvo:
+- adiantamentos;
+- dispositivos de lei;
+- contrato ou instrumento coletivo;
+- dano causado pelo empregado, nos termos do § 1º.
+
+A regra é a intangibilidade salarial. A mera autorização do empregado não transforma qualquer desconto em lícito: é preciso verificar a hipótese legal, a finalidade, a forma de autorização e eventual vício de vontade.
+
+### 27.2. Dano causado pelo empregado — § 1º
+
+Há duas situações:
+- **Dolo:** o desconto pode ser realizado quando o empregado age intencionalmente para causar o dano; a lei não exige acordo prévio para essa hipótese.
+- **Culpa:** se o dano decorre de negligência, imprudência ou imperícia, o desconto depende de possibilidade previamente acordada.
+
+Em qualquer caso, devem ser demonstrados o dano e o nexo causal entre a conduta do empregado e o prejuízo. Não se pode transferir ao trabalhador o risco ordinário do negócio.
+
+**Pegadinha:** dizer que todo dano culposo pode ser descontado sem acordo prévio é errado. Também é errado afirmar que o dolo só permite desconto se houver autorização contratual.
+
+### 27.3. Descontos autorizados para benefícios — Súmula 342 do TST
+
+A autorização prévia e escrita do empregado pode legitimar descontos destinados a:
+- assistência odontológica;
+- assistência médico-hospitalar;
+- seguro;
+- previdência privada;
+- entidade cooperativa;
+- entidade cultural ou recreativo-associativa.
+
+Os benefícios podem alcançar o empregado e seus dependentes. A autorização não pode ser obtida por coação ou outro vício de consentimento.
+
+A OJ 160 da SDI-1 do TST complementa: o fato de a autorização ter sido concedida no momento da admissão, por si só, não caracteriza vício de vontade. É necessária prova concreta de coação ou defeito no consentimento.
+
+### 27.4. Cheques sem fundos — OJ 251 da SDI-1
+
+É lícito o desconto salarial do empregado frentista pelo valor de cheque sem fundos quando ele não observa as recomendações previstas em instrumento coletivo.
+
+Atenção à diferença:
+- cheque devolvido, por si só, não basta para autorizar desconto automático;
+- a hipótese jurisprudencial exige descumprimento das recomendações pactuadas coletivamente.
+
+### 27.5. Contribuições sindicais — não confundir as espécies
+
+- **Contribuição sindical:** depende de autorização prévia e expressa, nos termos dos arts. 578 e 579 da CLT.
+- **Contribuição associativa:** decorre da filiação e da autorização pertinente.
+- **Contribuição assistencial:** pode alcançar todos os integrantes da categoria, inclusive não sindicalizados, desde que instituída por acordo ou convenção coletiva e assegurado o direito de oposição, conforme STF Tema 935. Observar os limites fixados pelo STF, inclusive quanto à vedação de cobrança retroativa referente ao período em que prevalecia entendimento contrário e à garantia de oposição livre, sem interferência de terceiros.
+- **Contribuição confederativa:** somente pode ser exigida dos filiados ao sindicato, conforme Súmula Vinculante 40 do STF.
+
+**Pegadinha FCC:** contribuição confederativa não pode ser descontada de todos os empregados da categoria apenas porque a cláusula está em convenção coletiva.
+
+### 27.6. Armazéns, truck system e livre disposição do salário — §§ 2º a 4º
+
+A CLT proíbe:
+- obrigar o empregado a adquirir produtos ou serviços em armazém da empresa;
+- coagir ou induzir o trabalhador a utilizar serviços do empregador;
+- limitar a liberdade de disposição do salário.
+
+Se não for possível o acesso a estabelecimentos comerciais externos em razão da distância, o empregador pode manter armazém, mas deve assegurar produtos a preços razoáveis, sem intuito de lucro e em benefício dos empregados.
+
+O § 4º protege o livre acesso do empregado a outros estabelecimentos comerciais, ressalvada a hipótese legal de impossibilidade de acesso por distância.
+
+**Macete:** o armazém patronal é exceção de proteção, não instrumento para aprisionar o consumo do trabalhador.
+
+### 27.7. Questão oficial — FCC TRT-23/MT 2016, Q614931
+
+**Gabarito: E.** Questão cadastrada no banco oficial como ID `614931`, rank `7880`.
+
+Análise das alternativas:
+- **A — errada:** o dano culposo exige que a possibilidade de desconto tenha sido previamente acordada.
+- **B — errada:** a autorização imposta na contratação não legitima o desconto se houver vício de consentimento.
+- **C — errada:** a OJ 251 da SDI-1 admite desconto de cheque sem fundos do frentista quando descumpridas as recomendações previstas em instrumento coletivo.
+- **D — errada:** a contribuição confederativa só pode ser exigida dos filiados (SV 40).
+- **E — correta:** corresponde à proteção legal do acesso a outros estabelecimentos e à disciplina do armazém empresarial (art. 462, §§ 2º a 4º).
+
+### 27.8. Questão oficial — FCC TRT-1/RJ 2013, Q292940
+
+**Gabarito: D.** Questão cadastrada no banco oficial como ID `292940`, rank `7881`.
+
+A alternativa correta reproduz a Súmula 342 do TST: autorização prévia e escrita para descontos relativos a assistência médica/odontológica, seguro, previdência privada e entidades cooperativas, culturais ou recreativas, em benefício do trabalhador e dependentes, salvo coação ou vício de consentimento.
+
+As demais alternativas erram por generalizar a autorização, ignorar as exceções legais, reduzir indevidamente a hipótese de dano a dolo ou permitir taxa de manutenção de armazém patronal.
+
+### 27.9. Treino autoral — questões 61 a 64
+
+**61.** Um empregado causa dano ao equipamento por negligência. O contrato de trabalho não contém previsão sobre desconto por danos. O empregador:
+- A) pode descontar, pois todo dano permite desconto.
+- B) pode descontar, desde que prove o prejuízo, ainda que não exista acordo prévio.
+- C) não pode descontar com fundamento no art. 462, § 1º, pois, em caso de culpa, exige-se possibilidade previamente acordada.
+- D) pode descontar até 30% do salário, independentemente de previsão.
+
+**Gabarito: C.** O dano culposo exige previsão prévia da possibilidade de desconto.
+
+**62.** No momento da admissão, o empregado assina autorização para desconto de plano de assistência odontológica. Posteriormente, comprova que a assinatura foi obtida mediante coação. O desconto:
+- A) é sempre válido porque foi escrito.
+- B) é válido porque ocorreu na admissão.
+- C) pode ser invalidado por vício de consentimento.
+- D) é válido se o empregador provar que o plano foi utilizado.
+
+**Gabarito: C.** A Súmula 342 ressalva coação e outros vícios de consentimento. A mera assinatura na admissão não prova, sozinha, o vício.
+
+**63.** A contribuição confederativa prevista em convenção coletiva pode ser descontada:
+- A) de todos os empregados da categoria.
+- B) apenas dos empregados filiados ao sindicato.
+- C) apenas dos empregados não sindicalizados.
+- D) de todos os empregados, desde que haja direito de oposição.
+
+**Gabarito: B.** Súmula Vinculante 40 do STF.
+
+**64.** Empresa mantém armazém para venda de produtos aos empregados e cobra taxa de manutenção, além do valor das mercadorias. A cobrança:
+- A) é válida por se tratar de benefício.
+- B) é válida se autorizada pelo sindicato.
+- C) é vedada, pois a CLT não permite taxa de manutenção do armazém e protege a liberdade de disposição do salário.
+- D) é válida se descontada em parcelas.
+
+**Gabarito: C.** Art. 462, §§ 2º a 4º, da CLT.
+
+### 27.10. Fontes para revisão
+
+- CLT, art. 462: https://www.planalto.gov.br/ccivil_03/decreto-lei/del5452.htm
+- TST, Súmula 342 e OJs 160 e 251 da SDI-1: https://www.tst.jus.br/jurisprudencia
+- STF, Súmula Vinculante 40: https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp
+- STF, Tema 935 — contribuição assistencial: https://portal.stf.jus.br/jurisprudenciaRepercussao/tema.asp?num=935
+
