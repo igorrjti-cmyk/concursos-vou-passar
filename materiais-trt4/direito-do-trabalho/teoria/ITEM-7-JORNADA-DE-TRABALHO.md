@@ -407,3 +407,28 @@ Para a prova futura, estudar:
 - MTE — Portaria 2.041/2026 e explicação oficial: https://www.gov.br/trabalho-e-emprego/pt-br/noticias-e-conteudo/2026/novembro/governo-federal-publica-portaria-com-regras-complementares-para-aplicacao-da-escala-5x2
 - MTE — Portaria 1.316/2026 sobre feriados no comércio: https://www.gov.br/trabalho-e-emprego/pt-br/noticias-e-conteudo/2026/julho/portaria-regulamenta-o-trabalho-no-comercio-durante-os-feriados
 - TST — Súmula 146 e OJ 410: https://www.tst.jus.br/
+
+
+## 21. Questão oficial FCC — repouso semanal remunerado
+
+**FCC — TRT-12/SC — Analista Judiciário, Área Judiciária — 2023 — Qconcursos Q2384435 — questão 23.**
+
+Enunciado: O repouso semanal remunerado, garantido constitucionalmente, é assegurado aos empregados urbanos, rurais e domésticos, preferencialmente aos domingos, sendo que:
+
+- **A)** sua duração pode ser reduzida mediante previsão em convenção coletiva ou acordo coletivo de trabalho.
+- **B)** as faltas injustificadas do empregado ao serviço durante a semana implicam na perda do direito ao gozo do mesmo.
+- **C)** a majoração do seu valor em decorrência da integração das horas extras habituais deve repercutir no cálculo efetuado pelo empregador das demais parcelas que têm como base de cálculo o salário, não caracterizando bis in idem.
+- **D)** os empregados quinzenalistas devem ter seu repouso semanal remunerado calculado e pago, considerando-se o valor de um dia de trabalho, com indicação, em rubrica separada, no recibo de pagamento mensal.
+- **E)** para os empregados que cumprem jornada de trabalho de 12 x 36, a remuneração mensal pactuada não abrange o pagamento devido pelo repouso semanal remunerado, que deve ser calculado e pago considerando-se o valor de um dia de trabalho, com indicação, em rubrica separada, no recibo de pagamento mensal.
+
+**Gabarito: C.** A majoração do DSR decorrente da integração das horas extras habituais repercute no cálculo das demais parcelas salariais, sem bis in idem, para as horas extras trabalhadas a partir de 20/03/2023, conforme a nova redação da OJ 394 da SDI-1 do TST.
+
+**Análise das incorretas:**
+- A: o repouso semanal remunerado não pode ser reduzido ou suprimido por negociação coletiva (CLT, art. 611-B, IX).
+- B: a falta injustificada pode retirar a remuneração do repouso, conforme Lei 605/1949, art. 6º, mas não elimina o direito ao descanso físico.
+- D: a alternativa não reproduz corretamente a forma legal de cálculo e pagamento do repouso.
+- E: no regime 12x36, o art. 59-A, parágrafo único, da CLT inclui os repousos semanais remunerados e feriados na remuneração mensal pactuada.
+
+**Fonte da questão e gabarito:** https://www.qconcursos.com/questoes-de-concursos/questoes/48cb539f-87
+
+**Registro no banco oficial:** ID 2384435, rank 7899, resposta C. Registro conferido após inserção no Supabase.
