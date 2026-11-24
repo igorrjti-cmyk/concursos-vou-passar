@@ -144,3 +144,118 @@ Na sequência, aprofundar e cruzar com questões oficiais de vários TRTs:
 ## 10. Nota de atualização legislativa indispensável
 
 A EC 141/2026 é posterior a grande parte das provas e materiais preparatórios. Em questões históricas, aplicar o texto constitucional vigente à época do certame. Para questões atuais e para a prova futura, observar o cronograma da Emenda e suas regras transitórias, sem apagar a importância de conhecer a antiga referência de 8 horas diárias e 44 horas semanais para interpretar questões anteriores à mudança.
+
+
+## 11. Intervalo intrajornada — CLT, art. 71
+
+É a pausa concedida dentro da própria jornada para repouso e alimentação. Em regra, não integra a duração do trabalho (art. 71, § 2º).
+
+### 11.1. Duração mínima legal
+
+| Duração do trabalho contínuo | Intervalo mínimo |
+|---|---:|
+| Até 4 horas | Não há intervalo obrigatório pelo art. 71 |
+| Mais de 4 até 6 horas | 15 minutos |
+| Mais de 6 horas | 1 hora |
+
+Para jornadas superiores a 6 horas, o intervalo ordinário não pode exceder 2 horas, salvo acordo escrito ou contrato coletivo em contrário (art. 71, caput).
+
+**Atenção:** se a jornada contratual é de 6 horas, mas o trabalho efetivamente prestado ultrapassa habitualmente esse limite, a jurisprudência tradicional do TST reconhece o intervalo mínimo de 1 hora. Para fatos posteriores à Reforma, deve-se considerar a redação atual do art. 71, § 4º, quanto ao efeito da supressão.
+
+### 11.2. Redução por negociação coletiva
+
+O art. 611-A, III, da CLT admite prevalência do acordo ou convenção coletiva sobre a lei quanto ao intervalo intrajornada, respeitado o mínimo de 30 minutos para jornadas superiores a 6 horas.
+
+Não confundir:
+- redução coletiva: pode chegar a 30 minutos, observados os requisitos legais;
+- redução unilateral pelo empregador: não é autorizada por essa regra;
+- intervalo inferior a 30 minutos: não é validado pelo art. 611-A, III.
+
+### 11.3. Supressão total ou parcial — regra atual
+
+Para fatos ocorridos a partir de 11/11/2017, o art. 71, § 4º, determina:
+- pagamento apenas do período efetivamente suprimido;
+- acréscimo de 50% sobre o valor da hora normal;
+- natureza indenizatória;
+- sem reflexos salariais decorrentes dessa parcela indenizatória.
+
+**Exemplo:** jornada superior a 6 horas com intervalo obrigatório de 1 hora; empregado usufrui apenas 35 minutos. Período suprimido: 25 minutos. Em regra, paga-se a indenização correspondente a 25 minutos, acrescida de 50%.
+
+A parcela do § 4º não se confunde com horas extras decorrentes do trabalho efetivamente prestado além da jornada. Se o empregado trabalhou durante a pausa e também extrapolou a jornada, podem existir consequências distintas: pagamento do trabalho extraordinário efetivo e indenização pelo intervalo suprimido, sem confundir os fatos geradores.
+
+### 11.4. Direito intertemporal: antes e depois da Reforma
+
+- Até 10/11/2017: a antiga redação do art. 71, § 4º, e a Súmula 437, I e III, do TST orientavam o pagamento do intervalo mínimo integral, mesmo quando a supressão fosse parcial, com natureza salarial e reflexos.
+- A partir de 11/11/2017: aplica-se a redação atual do § 4º, com pagamento apenas do período suprimido e natureza indenizatória.
+
+A lei nova aplica-se aos fatos ocorridos sob sua vigência. Em contratos que atravessaram a Reforma, separar os períodos antes e depois de 11/11/2017. A jurisprudência do TST aplica a regra nova aos fatos posteriores à vigência da Lei 13.467/2017.
+
+**Súmula 437 do TST:** muito importante para questões históricas. Não usar seus itens I e III como se ainda reproduzissem a regra legal vigente para fatos posteriores a 11/11/2017.
+
+## 12. Intervalo interjornada — CLT, art. 66
+
+É o descanso entre o término de uma jornada e o início da seguinte.
+
+A regra geral exige **11 horas consecutivas** de descanso entre duas jornadas.
+
+Exemplo:
+- saída às 22h;
+- retorno regular, em regra, não antes das 9h do dia seguinte.
+
+Se o empregado retorna às 7h, usufrui apenas 9 horas de descanso; há supressão de 2 horas do intervalo interjornada.
+
+### 12.1. Consequência da supressão
+
+A OJ 355 da SDI-1 do TST estabelece que a inobservância do intervalo mínimo de 11 horas acarreta o pagamento das horas subtraídas do intervalo, acrescidas do respectivo adicional, por aplicação analógica do art. 71, § 4º, da CLT.
+
+**Cuidado de prova:** a OJ 355 foi construída sob a redação anterior do art. 71, § 4º. A aplicação dos efeitos da Reforma Trabalhista e a natureza jurídica da parcela exigem atenção ao período dos fatos e à jurisprudência atual. Não transportar automaticamente para o intervalo interjornada a redação literal do art. 71, § 4º, sem examinar o fundamento jurisprudencial.
+
+### 12.2. Interjornada não se confunde com repouso semanal
+
+- Interjornada: 11 horas consecutivas entre jornadas (art. 66).
+- Repouso semanal: período de descanso semanal, regido pelo art. 67 da CLT e pela Lei 605/1949, além da nova disciplina constitucional introduzida pela EC 141/2026.
+
+Os descansos podem se somar quando o repouso semanal sucede o intervalo entre jornadas. Na organização ordinária tradicional, a referência clássica é de 11 horas interjornada + 24 horas de repouso semanal = 35 horas consecutivas. A EC 141/2026 passou a prever dois dias de repouso semanal remunerado, com vigência da alteração do art. 7º, XV, em 16/12/2026; estudar a regra constitucional e as normas transitórias específicas sem confundir esse novo repouso semanal com o intervalo interjornada diário.
+
+### 12.3. Tema repetitivo 102 do TST
+
+O Tema 102 do TST foi afetado para discutir situação específica de trabalhadores submetidos a regime de revezamento de 8 horas no setor de petróleo, diante de intervalo de 35 horas previsto em legislação especial e negociação coletiva. A afetação não significa tese firmada. Não generalizar a controvérsia especial para todos os empregados.
+
+## 13. Questões autorais de fixação — não são questões oficiais FCC
+
+**1.** Empregado trabalha 5 horas contínuas. Qual o intervalo mínimo legal do art. 71?
+**Resposta:** 15 minutos.
+
+**2.** Empregado trabalha 7 horas contínuas. Qual o intervalo mínimo legal ordinário?
+**Resposta:** 1 hora, ressalvada redução válida por negociação coletiva até o mínimo de 30 minutos, nos termos do art. 611-A, III.
+
+**3.** Em jornada superior a 6 horas, o empregado deveria usufruir 1 hora, mas usufruiu 40 minutos. Para fato ocorrido em 2024, quanto é devido pelo art. 71, § 4º?
+**Resposta:** 20 minutos, correspondentes ao período suprimido, com acréscimo de 50% e natureza indenizatória.
+
+**4.** A mesma supressão parcial ocorreu em 2016. Qual era a regra jurisprudencial predominante?
+**Resposta:** Pagamento do intervalo mínimo integral, e não apenas dos minutos suprimidos, com natureza salarial e reflexos, conforme antiga redação do art. 71, § 4º, e Súmula 437, I e III, do TST.
+
+**5.** O empregado encerra a jornada às 20h e retorna às 6h do dia seguinte. Houve respeito ao art. 66?
+**Resposta:** Não. Houve apenas 10 horas de descanso; foram suprimidas 1 hora das 11 horas mínimas. A OJ 355 orienta o pagamento do período subtraído com adicional.
+
+**6.** O intervalo intrajornada e o interjornada têm a mesma finalidade e duração?
+**Resposta:** Não. O intrajornada ocorre dentro da jornada e atende repouso/alimentação (art. 71); o interjornada ocorre entre jornadas e exige 11 horas consecutivas (art. 66).
+
+## 14. Pegadinhas FCC — quadro de revisão
+
+| Tema | Regra para memorizar |
+|---|---|
+| Jornada acima de 4 até 6h | Intervalo de 15 minutos |
+| Jornada acima de 6h | Intervalo mínimo de 1 hora |
+| Negociação coletiva | Pode reduzir o intervalo acima de 6h até 30 minutos |
+| Supressão após 11/11/2017 | Só período suprimido + 50%, natureza indenizatória |
+| Supressão antes de 11/11/2017 | Regra antiga: período integral, natureza salarial, conforme Súmula 437 |
+| Entre jornadas | 11 horas consecutivas |
+| Supressão interjornada | OJ 355: horas subtraídas + adicional |
+| Repouso semanal | Não confundir com as 11 horas do art. 66 |
+
+**Fontes oficiais e jurisprudenciais**
+- CLT compilada, arts. 66, 67, 71 e 611-A: https://www.planalto.gov.br/ccivil_03/decreto-lei/del5452compilado.htm
+- TST — OJ 355 e jurisprudência sobre intervalo interjornada: https://www.tst.jus.br/
+- TST — Tema 102 (afetado): https://www.tst.jus.br/documents/d/guest/irr102
+- Acórdão do TST que explicita a distinção temporal da Lei 13.467/2017 e a regra atual do art. 71, § 4º: https://jurisprudencia-backend.tst.jus.br/rest/documentos/146aa057c93a9b7b7a142c9042632820
