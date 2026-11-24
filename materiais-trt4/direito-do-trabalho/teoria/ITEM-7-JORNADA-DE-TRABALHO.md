@@ -617,3 +617,28 @@ A hipótese não se aplica aos empregados públicos da administração direta e 
 - MTE — Registro Eletrônico de Ponto e Portaria 671/2021: https://www.gov.br/trabalho-e-emprego/pt-br/assuntos/inspecao-do-trabalho/fiscalizacao-do-trabalho/rep
 - MTE — Perguntas e respostas sobre Portaria 671/2021, REP-A e ponto por exceção: https://www.gov.br/trabalho-e-emprego/pt-br/assuntos/inspecao-do-trabalho/fiscalizacao-do-trabalho/Perguntas%20e%20Respostas%20REP
 - TST — Súmula 338 e jurisprudência sobre cartões de ponto invariáveis: https://www.tst.jus.br/
+
+
+## 27. Atualizações jurisprudenciais importantes sobre controle de jornada
+
+### 27.1. Contagem dos empregados — total da empresa, não por filial isolada
+
+Embora o art. 74, § 2º, da CLT utilize a expressão “estabelecimentos com mais de 20 trabalhadores”, a jurisprudência pacificada do TST interpreta o termo para considerar a **totalidade dos empregados da empresa**, e não o número de cada filial ou unidade isoladamente.
+
+O TST reafirmou essa interpretação em julgamento de 05/10/2026, no Ag-RR XXXXX-91.2022.5.09.0662, com referência a precedentes da SBDI-1 e das Turmas, inclusive após a Lei 13.874/2019.
+
+Consequência prática: empresa com 35 empregados distribuídos em três filiais pequenas não pode afirmar que está dispensada do controle obrigatório porque cada filial, separadamente, tem menos de 20 empregados.
+
+### 27.2. Ponto por exceção — direito atual e questões históricas
+
+A Lei 13.874/2019 incluiu o art. 74, § 4º, autorizando expressamente o registro de ponto por exceção mediante acordo individual escrito, ACT ou CCT.
+
+Antes dessa alteração, a jurisprudência do TST considerava inválido o sistema que dispensava o registro normal de entrada e saída, inclusive quando previsto em instrumento coletivo. Assim:
+- contrato/fato anterior à vigência da Lei 13.874/2019: aplicar a disciplina histórica e a jurisprudência correspondente;
+- fatos sob a lei atual: o ponto por exceção é admitido se houver uma das autorizações expressamente previstas no art. 74, § 4º.
+
+**Não confundir a regra atual com a jurisprudência antiga:** questões anteriores a 2019 podem ter gabarito incompatível com a legislação vigente hoje, sem que isso torne a questão original errada.
+
+Fontes complementares:
+- TST, Ag-RR XXXXX-91.2022.5.09.0662, julgamento em 05/10/2026: https://www.jusbrasil.com.br/jurisprudencia/tst/7590269833
+- CLT, art. 74, §§ 2º e 4º: https://www.planalto.gov.br/ccivil_03/decreto-lei/del5452compilado.htm
