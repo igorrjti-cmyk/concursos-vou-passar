@@ -2095,3 +2095,18 @@ Os quatro registros foram confirmados em consulta posterior ao banco. As origens
 - **Q394179 — FCC TRT-7/CE, Analista Judiciário, Área Judiciária, 2009 — rank 7898 — gabarito C (I, II e III).** Adicional de transferência mínimo de 25%; cargo de confiança ou cláusula de transferência não afastam o adicional se provisória; parcela de natureza salarial. A assertiva que estendia o adicional à transferência definitiva é falsa.
 
 Os três registros foram confirmados no banco após a inserção, preservando as origens reais das provas. O campo `concurso='TRT4'` identifica o projeto de preparação, não a origem de todas as questões.
+
+
+### 28.20. Atualização jurisprudencial e ressalva intertemporal — gratificação de função
+
+**Correção importante da síntese anterior:** não é seguro afirmar, de forma absoluta, que somente quem completou dez anos de função até 10/11/2017 pode ter proteção contra a supressão da gratificação.
+
+1. **Regra legal geral:** o art. 468, § 2º, da CLT, introduzido pela Lei 13.467/2017, dispõe que a reversão ao cargo efetivo não assegura a manutenção da gratificação, independentemente do tempo de exercício.
+2. **Direito adquirido sob a jurisprudência anterior:** para a aplicação da antiga Súmula 372, I, do TST, a referência clássica é o decênio completado antes da Reforma, em 11/11/2017.
+3. **Fonte autônoma mais favorável:** há situações em que regulamento empresarial anterior, incorporado ao contrato e mais benéfico, pode assegurar a estabilidade financeira mesmo quando o decênio se completa depois da Reforma. O Informativo TST nº 310, de 23/02 a 20/03/2026, registra julgamento nessa linha: inaplicabilidade do art. 468, § 2º, diante de norma interna mais favorável incorporada ao contrato.
+4. **Como resolver questão FCC:** se o enunciado apresentar apenas a lei, aplique o art. 468, § 2º. Se trouxer regulamento interno, norma empresarial, condição contratual ou direito adquirido anterior, examine expressamente essa fonte e não responda de modo automático.
+5. **Cuidado:** a notícia do Informativo TST é resumo não oficial de julgamento, não uma tese vinculante geral que revogue o § 2º. O resultado depende do conteúdo da norma interna e dos fatos do caso.
+
+**Revisão da questão autoral 2:** a resposta correta não deve ser categórica. Cinco anos, isoladamente, não geram incorporação pela antiga Súmula 372. Porém, a existência de regulamento interno ou condição contratual mais favorável exige análise própria.
+
+**Fontes:** CLT, art. 468, §§ 1º e 2º; Lei 13.467/2017; Informativo TST nº 310 (23/02 a 20/03/2026), item sobre gratificação de função e regulamento interno.
