@@ -1292,3 +1292,97 @@ A questão reconhece que o descumprimento de regras empresariais sobre acesso à
 - TST, Súmula 73 — justa causa durante o aviso-prévio.
 - TST, Súmula 212 — ônus da prova do término do contrato, quando negados a prestação de serviço e o despedimento.
 - TST, Súmula 32 — presunção de abandono após cessação do benefício previdenciário nas condições nela previstas.
+
+
+## Material autoral — procedimentos rescisórios, prazos e hipóteses especiais
+
+### 18. Prazo para pagamento e entrega dos documentos — art. 477, § 6º
+
+Na extinção do contrato, o empregador deve entregar os documentos que comprovem a comunicação da extinção aos órgãos competentes e pagar as verbas rescisórias no prazo de **10 dias contados do término do contrato**.
+
+Pontos para prova:
+- O prazo é de 10 dias corridos (a lei fala em dias, sem qualificá-los como úteis).
+- A regra atual não diferencia aviso trabalhado e indenizado para criar prazos distintos de pagamento.
+- O atraso pode gerar a multa do art. 477, § 8º, equivalente ao salário do empregado, salvo quando comprovadamente o trabalhador der causa à mora.
+- O pagamento deve discriminar a natureza e o valor de cada parcela; a quitação vale quanto às parcelas especificadas (art. 477, § 2º).
+- A assistência sindical/homologação sindical deixou de ser requisito geral para validade da rescisão após a Reforma Trabalhista. Norma coletiva pode prever procedimentos próprios, respeitados os limites legais.
+
+**Pegadinha:** não memorizar o antigo prazo de pagamento de um dia útil ou até o décimo dia conforme a modalidade do aviso. A regra vigente é o prazo único de 10 dias.
+
+### 19. Multa do art. 467 — verbas incontroversas
+
+Quando houver controvérsia sobre o montante das verbas rescisórias, o empregador deve pagar, na data do comparecimento à Justiça do Trabalho, a parte incontroversa. Se não o fizer, essa parte será acrescida de **50%**.
+
+Distinção:
+- **Art. 467:** acréscimo de 50% sobre verbas rescisórias incontroversas não pagas na primeira oportunidade legal.
+- **Art. 477, § 8º:** multa pelo atraso no pagamento/documentação rescisória, em regra equivalente ao salário do empregado.
+
+Não confundir as duas multas: têm fatos geradores diferentes e podem, conforme o caso, coexistir.
+
+### 20. Dispensa coletiva — intervenção sindical prévia
+
+No Tema 638 da repercussão geral, o STF fixou que a intervenção sindical prévia é exigência procedimental imprescindível para a dispensa em massa. Isso **não significa** que o sindicato tenha poder de autorização prévia nem que seja obrigatória a celebração de acordo ou convenção coletiva para cada dispensa coletiva.
+
+Para a prova, guarde a distinção:
+- dispensa individual: não se exige, como regra geral, negociação sindical prévia;
+- dispensa em massa: exige intervenção sindical prévia, nos termos da tese do STF;
+- intervenção sindical não equivale a autorização sindical.
+
+### 21. Força maior e fato do príncipe — arts. 486 e 501 a 504
+
+**Força maior (art. 501):** acontecimento inevitável, em relação à vontade do empregador, para cuja realização este não concorreu direta ou indiretamente. A imprevidência do empregador exclui a força maior.
+
+**Fato do príncipe (art. 486):** paralisação temporária ou definitiva do trabalho motivada por ato de autoridade pública ou por lei/resolução que impossibilite a continuação da atividade. A CLT prevê que a indenização ficará a cargo do governo responsável, observados os requisitos legais e a interpretação jurisprudencial.
+
+**Atenção:** dificuldades econômicas ordinárias, queda de faturamento ou risco empresarial normal não constituem automaticamente força maior. O risco da atividade econômica é do empregador (art. 2º da CLT).
+
+### 22. Fechamento de empresa e morte do empregador
+
+- **Morte do empregador pessoa física/empresa individual:** a continuidade do vínculo depende da natureza da atividade e da possibilidade de prosseguimento; o art. 485 trata da cessação da atividade em razão da morte do empregador.
+- **Extinção do estabelecimento:** pode repercutir na ruptura contratual e nas garantias provisórias, conforme o regime jurídico aplicável; não presumir automaticamente justa causa ou pedido de demissão.
+- **Fechamento por decisão empresarial:** em regra, o risco econômico não é transferido ao empregado; as verbas rescisórias seguem a modalidade de extinção aplicável.
+
+### 23. Questões autorais de fixação — não são questões oficiais
+
+**AV.** Segundo o art. 477, § 6º, da CLT, o prazo geral para pagamento das verbas rescisórias e entrega dos documentos é de:
+- A) 48 horas.
+- B) 5 dias úteis.
+- C) 10 dias contados do término do contrato.
+- D) 30 dias após a homologação sindical.
+
+**Gabarito: C.** A redação atual prevê prazo único de 10 dias contados do término do contrato.
+
+**AW.** O empregador deixa de pagar, na primeira audiência, parcelas rescisórias incontroversas. Aplica-se, em tese:
+- A) A multa do art. 467, de 50% sobre a parte incontroversa.
+- B) A multa do art. 477, sempre de 50%.
+- C) A multa de 40% do FGTS.
+- D) A suspensão automática do processo.
+
+**Gabarito: A.** O art. 467 trata das parcelas incontroversas não pagas na oportunidade legal.
+
+**AX.** No Tema 638, o STF decidiu que a dispensa em massa:
+- A) Depende de autorização sindical prévia.
+- B) Exige intervenção sindical prévia, sem que isso se confunda com autorização sindical ou obrigatoriedade de acordo coletivo.
+- C) É sempre proibida.
+- D) Exige homologação individual pelo sindicato.
+
+**Gabarito: B.** Essa é a distinção central da tese de repercussão geral.
+
+### 24. Checklist de revisão do Item 5
+
+1. Identificar quem toma a iniciativa e se existe falta grave.
+2. Diferenciar justa causa (art. 482) de rescisão indireta (art. 483).
+3. Memorizar a regra específica do art. 483, § 3º: permanência ou não no serviço nas alíneas d e g.
+4. Comparar as verbas rescisórias das modalidades de ruptura.
+5. Saber o efeito do acordo do art. 484-A: metade do aviso indenizado e da indenização do FGTS; demais parcelas integrais; sem seguro-desemprego.
+6. Separar culpa recíproca (art. 484 e Súmula 14) de distrato consensual.
+7. Distinguir arts. 479, 480 e 481 nos contratos a termo.
+8. Memorizar aviso-prévio e projeção (arts. 487 a 491).
+9. Memorizar o prazo único de 10 dias do art. 477, § 6º.
+10. Diferenciar multas dos arts. 467 e 477, § 8º.
+11. Conhecer a intervenção sindical prévia na dispensa em massa (Tema 638 do STF).
+
+### Fontes oficiais para atualização
+- CLT, arts. 467, 477, 482 a 486 e 501 a 504: https://www.planalto.gov.br/ccivil_03/decreto-lei/del5452compilado.htm
+- STF, Tema 638 (RE 999.435): https://portal.stf.jus.br/jurisprudenciaRepercussao/tema.asp?num=638
+- TST, IRR 70 — FGTS e rescisão indireta: tese sobre ausência ou irregularidade dos depósitos e desnecessidade de imediatidade.
