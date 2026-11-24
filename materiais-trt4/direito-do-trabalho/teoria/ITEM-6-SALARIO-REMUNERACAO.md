@@ -1634,3 +1634,121 @@ As demais alternativas erram por generalizar a autorização, ignorar as exceç�
 - STF, Súmula Vinculante 40: https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp
 - STF, Tema 935 — contribuição assistencial: https://portal.stf.jus.br/jurisprudenciaRepercussao/tema.asp?num=935
 
+
+
+## 28. Fechamento do Item 6 — salário mínimo, piso, salário-família e 13º salário
+
+### 28.1. Salário mínimo, piso e salário profissional
+
+A Constituição diferencia:
+- **Salário mínimo:** fixado em lei, nacionalmente unificado, com reajustes periódicos para preservar o poder aquisitivo; é vedada sua vinculação para qualquer fim (CF, art. 7º, IV).
+- **Piso salarial:** proporcional à extensão e à complexidade do trabalho (CF, art. 7º, V).
+- **Salário profissional:** piso previsto em lei específica para determinada profissão.
+- **Salário normativo:** valor fixado em acordo ou convenção coletiva para a categoria abrangida.
+
+A vedação de vinculação do salário mínimo não impede as hipóteses constitucionais e legais específicas. A Súmula Vinculante 4 do STF também impede o uso do salário mínimo como indexador de base de cálculo de vantagem de servidor ou empregado, ressalvadas as hipóteses em que a própria Constituição ou lei estabeleça critério específico.
+
+**Remuneração variável:** a Constituição assegura salário nunca inferior ao mínimo a quem recebe remuneração variável (art. 7º, VII). O risco de oscilação da produção ou das comissões não pode eliminar a garantia mínima.
+
+**Aprendiz:** tem direito ao salário mínimo-hora, salvo condição mais favorável (CLT, art. 428, § 2º). Não existe regra geral de pagamento de dois terços do salário-hora do empregado comum.
+
+**Piso estadual:** a Lei Complementar 103/2000 autoriza os Estados e o Distrito Federal a instituir piso salarial para empregados que não tenham piso definido em lei federal, convenção ou acordo coletivo. A autorização não permite fixar remuneração de servidores públicos municipais nem substituir piso profissional federal.
+
+### 28.2. Salário-família
+
+O salário-família é benefício previdenciário pago em razão de filho ou equiparado:
+- até 14 anos de idade; ou
+- inválido de qualquer idade.
+
+É devido ao empregado, inclusive doméstico, e ao trabalhador avulso, desde que a remuneração esteja dentro do limite legal. Não exige carência.
+
+Pontos de prova:
+1. Não é exclusivo do trabalhador urbano: o trabalhador rural também pode ter direito.
+2. Ambos os pais podem receber, desde que cada um preencha os requisitos.
+3. O valor é uma cota por dependente elegível.
+4. A remuneração mensal considera o total dos salários de contribuição, inclusive quando o segurado exerce atividades simultâneas.
+5. Nos meses de admissão e demissão, a cota é proporcional aos dias trabalhados.
+6. O 13º salário não entra na remuneração considerada para definir o direito à cota.
+7. O empregado requer o benefício ao empregador; o avulso, ao sindicato ou órgão gestor de mão de obra. Em situações de recebimento de benefício previdenciário, o requerimento é feito ao INSS.
+
+**Valores de referência de 2026:** cota de R$ 67,54 por dependente, para remuneração mensal não superior a R$ 1.980,38. Os valores mudam por portaria anual; para concurso, priorize os requisitos e a estrutura legal, salvo se o edital cobrar números atualizados.
+
+### 28.3. 13º salário — consolidação
+
+O 13º salário é devido à razão de 1/12 da remuneração de dezembro por mês de serviço no ano. Fração igual ou superior a 15 dias conta como mês integral.
+
+- Primeira parcela: entre fevereiro e novembro, correspondente à metade do salário recebido no mês anterior.
+- Segunda parcela: até 20 de dezembro, com compensação do adiantamento.
+- Férias: o empregado pode requerer, em janeiro, o adiantamento da primeira parcela por ocasião das férias.
+- Variáveis: observam-se as médias legais e o ajuste posterior, quando necessário.
+- Rescisão sem justa causa e demais hipóteses legais: pagamento proporcional, observada a projeção do aviso-prévio quando aplicável.
+- Justa causa: a regra tradicional aplicada pelo TST é não pagar o 13º proporcional, conforme art. 3º da Lei 4.090/1962. **Atenção ao Tema 96 do TST:** a controvérsia foi afetada a julgamento repetitivo e, na última consulta ao índice oficial disponível, ainda constava sem tese firmada. Não confundir afetação com tese vinculante já julgada.
+
+### 28.4. Questões oficiais já existentes no banco
+
+A consulta ao banco oficial identificou estas questões FCC pertinentes, sem necessidade de duplicar cadastros:
+
+- **Rank 7747 — FCC TRT-14/2022, questão 55:** salário mínimo e vedação de vinculação. Gabarito C.
+- **Rank 7738 — FCC TRT-12/2023, questão 34:** turnos ininterruptos e salário-família de trabalhadora rural de baixa renda. Gabarito C.
+- **Rank 7706 — FCC MPE-SE/2026, questão 1:** direitos constitucionais comuns a empregados e servidores, incluindo salário-família. Gabarito D.
+
+A questão do TRT-12 é especialmente útil para fixar que o salário-família não é restrito ao trabalhador urbano. A questão do TRT-14 reforça a proibição de vincular o salário mínimo a outras prestações.
+
+### 28.5. Treino autoral — questões 65 a 68
+
+**65.** Trabalhador que recebe exclusivamente por comissão não alcança, em determinado mês, valor equivalente ao salário mínimo. Conforme a Constituição:
+- A) não há garantia mínima, pois a remuneração é variável.
+- B) é assegurado salário nunca inferior ao mínimo.
+- C) o empregador pode compensar o déficit no mês seguinte, sem limite.
+- D) a garantia só existe para empregados mensalistas.
+
+**Gabarito: B.** CF, art. 7º, VII.
+
+**66.** Sobre salário-família, assinale a alternativa correta:
+- A) é devido somente ao trabalhador urbano.
+- B) é devido por filho até 18 anos, independentemente de invalidez.
+- C) pode ser devido ao empregado doméstico e ao trabalhador avulso, observados os requisitos legais.
+- D) exige carência de 12 contribuições.
+
+**Gabarito: C.** O benefício alcança empregado, inclusive doméstico, e trabalhador avulso; não exige carência.
+
+**67.** Para fins de 13º salário, um empregado trabalhou 14 dias em determinado mês e 16 dias no mês seguinte. Considerando apenas esses meses:
+- A) ambos contam como 1/12.
+- B) nenhum conta como 1/12.
+- C) o primeiro não conta e o segundo conta como 1/12.
+- D) o primeiro conta e o segundo não conta.
+
+**Gabarito: C.** Fração igual ou superior a 15 dias conta como mês integral.
+
+**68.** A respeito do pagamento do 13º salário, é correto afirmar:
+- A) a segunda parcela pode ser paga até 31 de dezembro.
+- B) a primeira parcela deve ser paga obrigatoriamente em janeiro.
+- C) a segunda parcela deve ser paga até 20 de dezembro, compensado o adiantamento.
+- D) o empregado não pode requerer antecipação por ocasião das férias.
+
+**Gabarito: C.** Lei 4.749/1965, arts. 1º e 2º; o pedido de adiantamento por ocasião das férias deve ser feito em janeiro.
+
+### 28.6. Fontes oficiais
+
+- Constituição Federal, art. 7º: https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm
+- CLT, arts. 76 a 83 e 428: https://www.planalto.gov.br/ccivil_03/decreto-lei/del5452.htm
+- Lei 4.090/1962: https://www.planalto.gov.br/ccivil_03/leis/l4090.htm
+- Lei 4.749/1965: https://www.planalto.gov.br/ccivil_03/leis/l4749.htm
+- INSS — salário-família e valores vigentes: https://www.gov.br/inss/pt-br/direitos-e-deveres/salario-familia
+- TST — Tema 96, IRR: https://www.tst.jus.br/indice-tematico-precedentes-qualificados-tst
+
+### 28.7. Checklist de fechamento do Item 6
+
+Antes de considerar o assunto consolidado, revise:
+- [ ] salário x remuneração e gorjetas;
+- [ ] parcelas salariais e não salariais;
+- [ ] salário-utilidade;
+- [ ] formas e prazo de pagamento;
+- [ ] comissões e gratificações;
+- [ ] equiparação salarial;
+- [ ] proteção salarial e descontos;
+- [ ] salário mínimo, piso e salário profissional;
+- [ ] salário-família;
+- [ ] 13º salário.
+
+O núcleo teórico do Item 6 está sistematizado neste arquivo. A etapa seguinte é uma bateria de questões oficiais FCC, com revisão de cada alternativa e identificação de eventuais lacunas antes de encerrar definitivamente a matéria.
