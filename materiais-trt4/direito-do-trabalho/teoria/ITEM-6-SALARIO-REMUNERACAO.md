@@ -2024,3 +2024,66 @@ Quatro questões oficiais de diferentes TRTs foram cadastradas e conferidas no b
 Os quatro registros foram confirmados em consulta posterior ao banco. As origens preservam os TRTs reais das provas; `concurso='TRT4'` identifica apenas o escopo deste projeto de preparação.
 
 **Padrão FCC identificado:** a banca gosta de comparar trabalhador urbano e rural, trocar o percentual (20% x 25%), inverter a hora reduzida (52min30s x 60min), e cobrar reflexos do adicional noturno nas horas extras e na prorrogação.
+
+### 28.17. Gratificação de função e reversão ao cargo efetivo
+
+**Regra atual — CLT, art. 468, §§ 1º e 2º**
+- A reversão do empregado ao cargo efetivo anteriormente ocupado, deixando a função de confiança, não é considerada alteração unilateral ilícita, ainda que não haja justo motivo (§ 1º).
+- A reversão não assegura a manutenção da gratificação de função, que não se incorpora, independentemente do tempo de exercício da função (§ 2º).
+- A gratificação é parcela salarial enquanto paga pelo exercício da função; retirada a condição funcional, em regra cessa o pagamento.
+- Não confundir reversão (retorno ao cargo efetivo) com redução arbitrária do valor da gratificação enquanto o empregado continua exercendo a mesma função.
+
+**Direito intertemporal — situação anterior à Reforma**
+- A antiga Súmula 372, I, do TST reconhecia, sob a legislação anterior, a estabilidade financeira do empregado que recebia gratificação de função por dez anos ou mais e era revertido sem justo motivo.
+- Para fins de prova, a proteção anterior exige que o requisito temporal de dez anos tenha sido completado até 10/11/2017, véspera da vigência da Lei 13.467/2017.
+- Em julgamento da SBDI-1 do TST em 25/06/2026 (E-Ag-ED-RRAg-XXXXX-47.2019.5.10.0011, conforme notícia/inteiro teor localizado), consolidou-se que quem não completou os dez anos antes de 11/11/2017 não adquire incorporação, ainda que estivesse muito próximo de completar o decênio.
+- Portanto, não aplicar automaticamente a antiga Súmula 372 a quem completou dez anos depois da Reforma. A regra atual do art. 468, § 2º, prevalece.
+- Norma coletiva ou regulamento empresarial mais favorável pode exigir análise própria, conforme sua vigência, conteúdo e incorporação contratual.
+
+**Questões de prova**
+- Se o enunciado disser apenas que o empregado exerceu função por 5, 10 ou 12 anos, sem afirmar que completou dez anos até 10/11/2017, aplique a regra atual: reversão com ou sem justo motivo, sem incorporação automática.
+- Se a questão narrar que o decênio foi completado antes de 11/11/2017, examine o direito adquirido segundo a jurisprudência intertemporal do TST.
+
+### 28.18. Adicional de transferência
+
+**CLT, art. 469**
+- Regra: é vedado transferir o empregado, sem sua anuência, para localidade diversa da que resultar do contrato, quando isso acarretar necessariamente mudança de domicílio.
+- Não se considera transferência a alteração que não acarretar mudança de domicílio (§ 1º).
+- A lei prevê hipóteses excepcionais em que a transferência pode ocorrer: empregados em cargo de confiança, existência de cláusula explícita ou implícita de transferência com real necessidade de serviço, extinção do estabelecimento e outras situações legais (§§ 1º e 2º).
+- Mesmo nas hipóteses em que a transferência é juridicamente possível, se ela for provisória e exigir mudança de domicílio, é devido adicional de, no mínimo, 25% enquanto durar a situação (§ 3º).
+- A OJ 113 da SDI-1 do TST esclarece: cargo de confiança ou cláusula de transferência não afastam o adicional quando a transferência for provisória.
+- O adicional é salário-condição e tem natureza salarial enquanto devido; cessada a situação provisória, cessa o pagamento.
+- Despesas resultantes da transferência correm por conta do empregador (art. 470 da CLT).
+- A transferência definitiva, em regra, não gera o adicional de 25%, embora permaneçam as obrigações legais quanto às despesas de transferência.
+- A caracterização da provisoriedade depende das circunstâncias concretas, duração, sucessividade das transferências e contexto contratual; não existe critério puramente matemático único.
+
+**Pegadinhas FCC**
+1. Mudança de local de trabalho sem mudança de domicílio: não é transferência para fins do art. 469.
+2. Cargo de confiança: não afasta automaticamente o adicional.
+3. Cláusula contratual de transferência: não afasta o adicional se a transferência for provisória.
+4. Adicional: mínimo de 25%, não 20% ou 30%.
+5. Despesas de transferência: responsabilidade do empregador, art. 470.
+6. Definitiva x provisória: o adicional de 25% é ligado à transferência provisória, conforme OJ 113.
+
+#### Questões autorais de fixação — não são questões oficiais FCC
+
+**1.** Empregado exerce função de confiança por doze anos e, em 2026, retorna ao cargo efetivo. Incorpora automaticamente a gratificação?
+
+**Resposta:** Não. Pelo art. 468, §§ 1º e 2º, a reversão pode ocorrer com ou sem justo motivo e não assegura manutenção da gratificação, independentemente do tempo, ressalvado direito adquirido formado antes da Reforma ou condição mais favorável válida.
+
+**2.** Empregado completou dez anos de gratificação em 2019. Pode invocar a antiga Súmula 372 para obter incorporação?
+
+**Resposta:** Não. O decênio deveria estar completo até 10/11/2017 para a proteção intertemporal reconhecida pelo TST.
+
+**3.** Empregado em cargo de confiança é transferido provisoriamente para outra cidade, com mudança de domicílio. Tem direito ao adicional?
+
+**Resposta:** Sim. O cargo de confiança não afasta o adicional de transferência quando provisória (OJ 113 da SDI-1).
+
+**4.** O contrato contém cláusula de transferência. A empresa transfere provisoriamente o empregado para localidade que exige mudança de domicílio. A cláusula afasta os 25%?
+
+**Resposta:** Não. A cláusula pode permitir a transferência, mas não elimina o adicional devido pela provisoriedade (art. 469, § 3º, e OJ 113).
+
+**5.** A empresa transfere definitivamente o empregado e exige mudança de domicílio. Deve pagar o adicional de 25% por prazo indeterminado?
+
+**Resposta:** Em regra, não. O adicional está ligado à transferência provisória; as despesas da transferência, porém, são suportadas pelo empregador (art. 470).
+
