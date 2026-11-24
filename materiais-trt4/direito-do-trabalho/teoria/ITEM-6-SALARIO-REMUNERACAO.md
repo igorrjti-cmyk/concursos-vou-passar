@@ -1048,3 +1048,161 @@ A alternativa correta cadastrada é a **C**: o salário mínimo não pode ser us
 
 1. Décimo terceiro salário: aquisição, proporcionalidade, adiantamento, prazo, base de cálculo e efeitos da extinção contratual.
 2. Revisão integrada do salário e da remuneração, com questões oficiais FCC já cadastradas e questões autorais.
+
+
+## 22. Décimo terceiro salário (gratificação natalina)
+
+### 22.1. Fundamento e natureza
+
+O décimo terceiro salário, também chamado de gratificação natalina, é direito assegurado pelo art. 7º, VIII, da Constituição Federal. É disciplinado principalmente pelas Leis 4.090/1962 e 4.749/1965.
+
+A gratificação corresponde a **1/12 da remuneração devida em dezembro por mês de serviço no ano correspondente**. Portanto, em regra, quem trabalhou durante todo o ano recebe uma remuneração mensal integral como décimo terceiro.
+
+### 22.2. Aquisição: regra dos 15 dias
+
+A fração igual ou superior a **15 dias de trabalho** é considerada mês integral para o cálculo do décimo terceiro.
+
+Exemplos:
+- trabalhou 14 dias no mês: em regra, esse mês não conta como avo;
+- trabalhou 15 dias ou mais: conta como 1/12;
+- trabalhou o ano inteiro, com todos os meses computáveis: recebe 12/12.
+
+As faltas legais e justificadas não são deduzidas para fins de aquisição da gratificação, conforme art. 2º da Lei 4.090/1962.
+
+**Pegadinha:** o critério é de 15 dias, e não de 15 dias úteis. A análise é feita em cada mês do ano.
+
+### 22.3. Base de cálculo
+
+A Constituição utiliza a expressão **remuneração integral**. A regra legal considera a remuneração devida em dezembro, proporcional ao número de meses computáveis.
+
+- Para quem recebe salário fixo, considera-se a remuneração de dezembro.
+- Para quem recebe parcelas variáveis, como comissões, há cálculo pela média dos valores variáveis, com ajuste posterior quando necessário.
+- Havendo parte fixa e variável, somam-se as parcelas correspondentes.
+
+O Decreto 10.854/2021 detalha o cálculo dos empregados com remuneração variável: até dezembro, a gratificação é inicialmente apurada com base nos valores variáveis conhecidos até novembro; computada a parcela de dezembro, o cálculo deve ser revisto até 10 de janeiro, com pagamento ou compensação das diferenças.
+
+**Atenção:** não confundir a média das parcelas variáveis com a regra de 1/12 por mês. A proporcionalidade dos avos permanece.
+
+### 22.4. Pagamento: duas parcelas e datas
+
+A Lei 4.749/1965 estabelece:
+- **adiantamento:** entre fevereiro e novembro, em parcela única, correspondente a metade do salário recebido pelo empregado no mês anterior ao pagamento;
+- **parcela final:** até 20 de dezembro, compensando-se o adiantamento já pago.
+
+O empregador não é obrigado a pagar o adiantamento a todos os empregados no mesmo mês.
+
+**Adiantamento junto com as férias:** o empregado pode requerer, no mês de janeiro do respectivo ano, que o adiantamento do décimo terceiro seja pago por ocasião de suas férias. Não é um direito de exigir essa antecipação em qualquer mês escolhido livremente: a lei condiciona o requerimento ao mês de janeiro.
+
+### 22.5. Décimo terceiro proporcional na extinção do contrato
+
+Em regra, é devido o décimo terceiro proporcional na extinção do contrato:
+- por dispensa sem justa causa;
+- por pedido de demissão;
+- no término normal de contrato por prazo determinado;
+- por aposentadoria, ainda que antes de dezembro;
+- em outras hipóteses de extinção em que a lei assegure a proporcionalidade.
+
+O cálculo considera os meses computáveis no ano, observada a fração de 15 dias.
+
+**Dispensa por justa causa — atenção à jurisprudência:** a interpretação tradicional do art. 3º da Lei 4.090/1962 e a jurisprudência predominante do TST afastam o décimo terceiro proporcional na dispensa por justa causa. Entretanto, o TST afetou a matéria ao rito dos recursos repetitivos no **Tema 96**, ainda sem tese firmada na fonte consultada. Para a prova, diferencie o texto legal e a orientação jurisprudencial tradicional do estado processual do tema repetitivo; não apresente o Tema 96 como tese já julgada.
+
+### 22.6. Aviso-prévio e projeção contratual
+
+O aviso-prévio, inclusive quando indenizado, projeta o término do contrato para os efeitos legais pertinentes. Se a projeção alcançar período que complete novo avo de décimo terceiro, esse mês deve ser considerado no cálculo.
+
+Exemplo: empregado dispensado no fim de novembro, com aviso-prévio indenizado cuja projeção alcança dezembro e completa pelo menos 15 dias no mês projetado, pode ter direito ao avo correspondente.
+
+### 22.7. Questões autorais de fixação — não oficiais
+
+**41.** De acordo com a Lei 4.090/1962, o décimo terceiro salário corresponde, por mês de serviço no ano, a:
+
+- A) 1/10 da remuneração de novembro.
+- B) 1/12 da remuneração devida em dezembro.
+- C) 1/6 do salário-base de janeiro.
+- D) Uma quantia fixa definida pelo empregador.
+
+**Gabarito: B.** A gratificação corresponde a 1/12 da remuneração de dezembro por mês de serviço.
+
+**42.** Para fins de cálculo do décimo terceiro, a fração igual ou superior a:
+
+- A) 10 dias é considerada mês integral.
+- B) 12 dias é considerada mês integral.
+- C) 15 dias é considerada mês integral.
+- D) 20 dias é considerada mês integral.
+
+**Gabarito: C.** Art. 1º, § 2º, da Lei 4.090/1962.
+
+**43.** As faltas legais e justificadas ao serviço:
+
+- A) Sempre reduzem os avos do décimo terceiro.
+- B) Não são deduzidas para fins de cálculo do décimo terceiro.
+- C) Eliminam o direito à gratificação.
+- D) Só não são deduzidas se houver autorização sindical.
+
+**Gabarito: B.** É a regra expressa do art. 2º da Lei 4.090/1962.
+
+**44.** Segundo a Lei 4.749/1965, o adiantamento do décimo terceiro deve ser pago:
+
+- A) Obrigatoriamente em janeiro, a todos os empregados.
+- B) Entre fevereiro e novembro, em parcela única, observadas as regras legais.
+- C) Somente em dezembro.
+- D) Até 20 de janeiro do ano seguinte.
+
+**Gabarito: B.** O adiantamento é realizado entre fevereiro e novembro.
+
+**45.** O empregado que deseja receber o adiantamento do décimo terceiro por ocasião das férias deve:
+
+- A) Requerê-lo no mês de janeiro do correspondente ano.
+- B) Requerê-lo em qualquer momento do período aquisitivo.
+- C) Obter autorização judicial.
+- D) Ser necessariamente comissionista.
+
+**Gabarito: A.** Art. 2º, § 2º, da Lei 4.749/1965.
+
+**46.** O pagamento da parcela final do décimo terceiro deve ocorrer, no máximo, até:
+
+- A) 30 de novembro.
+- B) 10 de dezembro.
+- C) 20 de dezembro.
+- D) 31 de dezembro.
+
+**Gabarito: C.** Art. 1º da Lei 4.749/1965.
+
+**47.** Para empregado que recebe salário fixo e comissões, o décimo terceiro:
+
+- A) Considera exclusivamente o salário fixo.
+- B) Considera apenas as comissões de dezembro.
+- C) Deve considerar a parte fixa e a parcela variável, observadas as regras de média e ajuste.
+- D) Não é devido quando há remuneração variável.
+
+**Gabarito: C.** A remuneração variável integra o cálculo, com apuração e ajuste conforme a legislação.
+
+**48.** O TST afetou ao rito dos recursos repetitivos a controvérsia sobre o décimo terceiro proporcional na dispensa por justa causa. Na fonte oficial consultada, o Tema 96:
+
+- A) Já possui tese definitiva e transitada em julgado.
+- B) Está afetado, sem tese firmada indicada no documento consultado.
+- C) Trata exclusivamente de aviso-prévio.
+- D) Revogou a Lei 4.090/1962.
+
+**Gabarito: B.** O documento oficial do TST identifica o Tema 96 como afetado e sem tese firmada.
+
+### 22.8. Fontes legais e jurisprudenciais
+
+- Constituição Federal, art. 7º, VIII: https://www4.planalto.gov.br/legislacao/legis-federal/constituicao
+- Lei 4.090/1962: https://www.planalto.gov.br/ccivil_03/leis/l4090.htm
+- Lei 4.749/1965: https://www.planalto.gov.br/ccivil_03/leis/l4749.htm
+- Decreto 10.854/2021, arts. 76 a 78: https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/decreto/d10854.htm
+- TST, Tema Repetitivo 96: https://www.tst.jus.br/documents/10157/0/IRR096%2B%281%29.pdf/6f90f390-496e-6f59-8ca7-8abdf4836f59
+
+## 23. Fechamento do conteúdo teórico do Item 6
+
+Concluídos os tópicos de salário e remuneração, a próxima etapa é uma revisão integrada, priorizando:
+1. distinções entre salário, remuneração, gorjetas e utilidades;
+2. parcelas salariais e não salariais;
+3. pagamento, comissões e salário variável;
+4. equiparação salarial;
+5. proteção salarial e descontos;
+6. salário mínimo, piso e salário profissional;
+7. décimo terceiro salário.
+
+A revisão deverá cruzar a teoria com as questões oficiais FCC já existentes no banco. Questões autorais continuarão identificadas separadamente e não serão inseridas na tabela de questões oficiais.
