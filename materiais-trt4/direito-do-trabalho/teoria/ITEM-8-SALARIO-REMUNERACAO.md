@@ -96,3 +96,135 @@ O PDF de teoria contém ainda baterias próprias de exercícios nas páginas 458
 
 ## Posição no ranking
 O item 8 fica em quinto lugar na ordem de blocos do edital, com 86 questões classificadas nas categorias relacionadas. Depois dele, retomar o item 3 (66 questões) e concluir a revisão dos itens expressos com incidência menos concentrada.
+
+
+## Material autoral — salário-utilidade (art. 458 da CLT)
+
+### 1. Conceito: salário pago em bens ou serviços
+
+Salário-utilidade, também chamado salário in natura, é a parcela salarial fornecida pelo empregador em bens ou serviços, além ou em substituição parcial ao dinheiro, em razão do contrato ou do costume e de forma habitual. O art. 458 da CLT menciona, entre outros exemplos, alimentação, habitação e vestuário.
+
+A utilidade somente terá natureza salarial quando representar contraprestação pelo trabalho. Se for fornecida **para viabilizar ou facilitar a execução do serviço**, sem constituir vantagem remuneratória, não será salário.
+
+**Regra prática para a prova:**
+- **Pelo trabalho:** tende a ter natureza salarial.
+- **Para o trabalho:** não tem natureza salarial, porque é instrumento ou condição para a prestação dos serviços.
+
+Exemplo: moradia concedida como vantagem pessoal ao empregado pode integrar o salário; alojamento indispensável para o empregado executar trabalho em local remoto, sem finalidade remuneratória, não integra.
+
+### 2. Requisitos para integração
+
+Em regra, verificar:
+1. fornecimento pelo empregador;
+2. habitualidade;
+3. vínculo com o contrato ou costume;
+4. caráter de contraprestação pelo trabalho, e não de instrumento necessário à execução.
+
+A mera concessão de um benefício não basta para transformá-lo em salário. É preciso examinar a finalidade e as exceções legais.
+
+### 3. Utilidades que não integram o salário — art. 458, § 2º
+
+Não são consideradas salário, para os efeitos do art. 458:
+- vestuário, equipamentos e acessórios fornecidos e utilizados no local de trabalho para a prestação do serviço;
+- educação, inclusive matrícula, mensalidade, anuidade, livros e material didático;
+- transporte para deslocamento ao trabalho e retorno;
+- assistência médica, hospitalar e odontológica, diretamente ou por seguro-saúde;
+- seguros de vida e de acidentes pessoais;
+- previdência privada;
+- vale-cultura.
+
+O § 5º também exclui da natureza salarial os valores relativos à assistência médica ou odontológica e reembolsos de despesas médicas abrangidos pelo dispositivo, mesmo quando concedidos por diferentes modalidades de planos e coberturas.
+
+**Pegadinha:** a lista legal não autoriza concluir que qualquer benefício chamado “auxílio” seja automaticamente indenizatório. É necessário conferir o enquadramento legal e a forma de concessão.
+
+### 4. Alimentação: distinções essenciais
+
+A alimentação é tema clássico de prova e exige separar situações:
+
+- **Alimentação fornecida como utilidade, em razão do contrato ou costume:** pode ter natureza salarial, conforme art. 458 e jurisprudência.
+- **Auxílio-alimentação pago em dinheiro:** o art. 457, § 2º, afasta a integração salarial quando observado o regime legal ali previsto? Atenção: o próprio dispositivo exige que o auxílio-alimentação não seja pago em dinheiro para receber a exclusão expressa. Pagamento em dinheiro não se enquadra nessa exclusão específica e deve ser analisado conforme sua natureza e o regime aplicável.
+- **Auxílio-alimentação não pago em dinheiro:** o art. 457, § 2º, estabelece que, ainda que habitual, não integra a remuneração, observadas as condições legais.
+- **Refeição fornecida por força do contrato:** a Súmula 241 do TST afirma, como regra, que o vale para refeição fornecido por força do contrato tem caráter salarial e integra a remuneração.
+- **Programa de Alimentação do Trabalhador (PAT):** a OJ 133 da SDI-1 do TST afasta a natureza salarial da ajuda alimentação fornecida por empresa participante do PAT, nos termos do programa e da legislação aplicável.
+
+**Cuidado com a Reforma Trabalhista:** para fatos posteriores à Lei 13.467/2017, aplicar a redação atual do art. 457, § 2º, e não transportar automaticamente o entendimento de questões antigas sobre habitualidade. Verificar a data dos fatos, a forma do benefício e a inscrição no PAT.
+
+### 5. Habitação e limites de valoração
+
+O art. 458, § 3º, determina que a habitação e a alimentação fornecidas como salário-utilidade atendam aos fins a que se destinam e não excedam:
+- habitação: 25% do salário contratual;
+- alimentação: 20% do salário contratual.
+
+Em habitação coletiva, o § 4º determina que o valor seja obtido pela divisão do justo valor da habitação pelo número de coabitantes, vedada a utilização da mesma unidade residencial por mais de uma família.
+
+Esses percentuais são limites legais de valoração das utilidades descritas, e não autorização para descontos salariais indiscriminados.
+
+### 6. Súmula 367 do TST — utilidade necessária ao trabalho
+
+A Súmula 367 do TST traz duas orientações importantes:
+- **Item I:** habitação, energia elétrica e veículo fornecidos pelo empregador não têm natureza salarial quando indispensáveis à realização do trabalho, ainda que utilizados também em atividades particulares.
+- **Item II:** cigarros não se consideram salário-utilidade, em razão de seu caráter nocivo à saúde.
+
+**Pegadinha FCC:** o uso particular eventual de veículo, energia ou moradia não transforma automaticamente a utilidade em salário se ela for indispensável à execução do trabalho, conforme a Súmula 367, I.
+
+### 7. Quadro de fixação
+
+| Situação | Regra geral |
+|---|---|
+| Moradia concedida como vantagem pessoal | Pode integrar o salário |
+| Alojamento indispensável à execução do serviço | Não integra, se necessário ao trabalho |
+| Veículo indispensável à atividade | Não integra, ainda que haja uso particular, conforme Súmula 367, I |
+| Uniforme e equipamentos usados no serviço | Não integram |
+| Educação custeada nos termos legais | Não integra |
+| Transporte para deslocamento casa-trabalho-casa | Não integra |
+| Assistência médica/hospitalar/odontológica | Não integra |
+| Previdência privada e seguro de vida/acidentes | Não integram |
+| Cigarros | Não integram, conforme Súmula 367, II |
+| Alimentação | Exige análise do art. 457, § 2º, art. 458, PAT, forma e período de concessão |
+
+### 8. Questões autorais — não extraídas de provas
+
+**A.** A empresa fornece moradia ao empregado como vantagem pessoal, de forma habitual e em razão do contrato, sem que a residência seja necessária à execução do serviço. Em regra, a utilidade:
+- A) Nunca integra o salário, porque não é paga em dinheiro.
+- B) Pode integrar o salário como salário-utilidade.
+- C) É sempre considerada ajuda de custo.
+- D) Integra o salário apenas se houver previsão em norma coletiva.
+
+**Gabarito: B.** Art. 458, caput. A moradia concedida como contraprestação pode ter natureza salarial.
+
+**B.** Um empregador fornece veículo indispensável à atividade externa do empregado, que também pode utilizá-lo em atividades particulares. Conforme a Súmula 367, I, do TST:
+- A) O veículo sempre integra o salário por causa do uso particular.
+- B) O veículo não tem natureza salarial quando indispensável à realização do trabalho.
+- C) O veículo integra o salário apenas nos dias de uso particular.
+- D) O veículo constitui gorjeta.
+
+**Gabarito: B.** A indispensabilidade ao trabalho afasta a natureza salarial, mesmo com uso particular.
+
+**C.** Nos termos do art. 458, § 2º, da CLT, não são consideradas salário-utilidade:
+- A) Habitação e alimentação fornecidas como vantagem pessoal, em qualquer hipótese.
+- B) Vestuário e equipamentos utilizados no local de trabalho para a prestação do serviço.
+- C) Toda e qualquer quantia paga habitualmente.
+- D) Comissões e gratificações legais.
+
+**Gabarito: B.** O dispositivo exclui vestuário, equipamentos e acessórios utilizados no local de trabalho para a prestação do serviço.
+
+**D.** A empresa participante do PAT fornece alimentação aos empregados. A orientação da OJ 133 da SDI-1 do TST é de que:
+- A) A ajuda alimentação tem natureza salarial em qualquer situação.
+- B) A ajuda alimentação fornecida nos termos do PAT não tem natureza salarial.
+- C) A alimentação integra apenas o salário mínimo.
+- D) A inscrição no PAT transforma a alimentação em gorjeta.
+
+**Gabarito: B.** OJ 133 da SDI-1 do TST.
+
+### 9. Questões oficiais localizadas no banco
+
+A consulta específica a `public.questoes` por “salário-utilidade”, “salário in natura”, “art. 458” e “utilidade” não retornou registros identificados diretamente por esses termos. Isso não prova inexistência de questões sobre o assunto sob tópicos mais genéricos ou enunciados sem essas expressões.
+
+**Controle:** nenhuma questão oficial foi inserida nesta etapa. As questões A–D acima são autorais e não devem ser identificadas como FCC ou prova real.
+
+### 10. Referências
+
+- CLT, arts. 457, §§ 1º a 4º, e 458, §§ 1º a 5º.
+- TST, Súmula 241 — alimentação fornecida por força do contrato.
+- TST, OJ 133 da SDI-1 — ajuda alimentação e PAT.
+- TST, Súmula 367, I e II — utilidades indispensáveis ao trabalho e cigarros.
