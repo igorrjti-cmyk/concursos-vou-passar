@@ -1214,3 +1214,81 @@ Também foi identificada a questão de rank 7714, FCC/TRT-1/2025, sobre direitos
 - TST, Súmula 305 — FGTS sobre o aviso, inclusive indenizado.
 - TST, Súmula 163 — aviso-prévio na rescisão antecipada do contrato de experiência, na forma do art. 481 da CLT.
 
+
+
+## Fechamento do item 5 — revisão integrativa e questões do banco
+
+### 13. Mapa mental das modalidades de extinção
+
+1. **Dispensa sem justa causa:** iniciativa do empregador, sem falta grave do empregado. Em regra, aviso-prévio, 13º proporcional, férias vencidas e proporcionais + 1/3, saque do FGTS e indenização de 40%, além de seguro-desemprego se preenchidos os requisitos.
+2. **Pedido de demissão:** iniciativa do empregado. São devidos saldo salarial, 13º proporcional e férias vencidas e proporcionais + 1/3. Não há multa de 40%, saque rescisório por essa modalidade ou seguro-desemprego. O aviso não cumprido pode ser descontado nos limites legais.
+3. **Justa causa:** falta grave do empregado enquadrada no art. 482. Em regra, saldo salarial e férias vencidas + 1/3; não são devidos aviso-prévio, 13º proporcional, férias proporcionais, multa de 40% ou seguro-desemprego.
+4. **Rescisão indireta:** falta grave do empregador prevista no art. 483. Reconhecida, produz em regra os efeitos econômicos da dispensa sem justa causa, inclusive aviso-prévio (art. 487, § 4º).
+5. **Culpa recíproca:** faltas graves de ambas as partes que concorrem para a ruptura. A indenização é reduzida pela metade na forma do art. 484; a Súmula 14 do TST especifica aviso-prévio, 13º proporcional e férias proporcionais.
+6. **Acordo do art. 484-A:** metade do aviso-prévio somente se indenizado e metade da indenização do FGTS (20%); demais verbas integralmente. Saque limitado a 80% na forma legal e sem seguro-desemprego.
+
+### 14. Pontos de distinção que costumam confundir
+
+- **Culpa recíproca não é acordo:** a primeira depende do reconhecimento de faltas graves recíprocas; o segundo decorre de consenso das partes.
+- **Rescisão indireta não é pedido de demissão:** na indireta, a causa da ruptura é falta grave patronal; reconhecida, o empregado recebe verbas equivalentes às da dispensa sem justa causa.
+- **Art. 479 não é aviso-prévio:** é indenização própria da ruptura antecipada pelo empregador em contrato a termo sem exercício de cláusula assecuratória.
+- **Art. 480 não gera cobrança automática:** a indenização contra o empregado depende de prejuízo demonstrado e observa o teto legal.
+- **Art. 481 muda o regime:** exercida a cláusula assecuratória, aplicam-se os princípios dos contratos por prazo indeterminado.
+- **Justa causa exige prova e proporcionalidade:** a gradação de penas é comum em faltas leves/reiteradas, mas não é requisito absoluto quando um único ato é suficientemente grave.
+- **Abandono exige elemento objetivo e subjetivo:** ausência prolongada e intenção de abandonar; 30 dias é referência jurisprudencial relevante, não texto literal do art. 482.
+
+### 15. Questões oficiais já cadastradas — resolução complementar
+
+**Rank 7830 — FCC, TRT-2, 2025, questão 198 — cláusula assecuratória (gabarito E).**
+
+O enunciado trata do empregado que rompe antecipadamente contrato por prazo determinado quando existe cláusula assecuratória do direito recíproco de rescisão. A alternativa correta é a que aplica os princípios dos contratos por prazo indeterminado, inclusive aviso-prévio ou indenização correspondente. Fundamento: art. 481 da CLT. A cláusula precisa ser exercida; não basta sua existência abstrata.
+
+**Rank 7837 — TRT-18, 2012, questão 217 — justa causa em contrato de experiência (gabarito C).**
+
+A questão reconhece que o descumprimento de regras empresariais sobre acesso à internet e uso de correio eletrônico pode configurar falta grave. A conclusão depende da prova, da gravidade, da ciência das regras e das circunstâncias concretas. O contrato de experiência não imuniza o empregado contra justa causa: o art. 482 pode ser aplicado durante sua vigência.
+
+**Controle do banco:** ambas as questões já estavam cadastradas em `public.questoes`; não foram reinseridas. A consulta não localizou, nesta busca específica, um conjunto amplo de questões diretamente classificadas sob justa causa, culpa recíproca ou rescisão indireta. Não se deve concluir que o banco não tenha outras questões relacionadas sob tópicos mais genéricos.
+
+### 16. Questões autorais de revisão — não oficiais
+
+**AR.** Reconhecida judicialmente a rescisão indireta por falta grave do empregador, o empregado recebe, em regra:
+- A) Apenas saldo salarial e férias vencidas.
+- B) As verbas equivalentes às da dispensa sem justa causa.
+- C) As verbas do pedido de demissão.
+- D) Apenas metade das verbas rescisórias.
+
+**Gabarito: B.** Art. 483 combinado com art. 487, § 4º, da CLT.
+
+**AS.** Na culpa recíproca, segundo a Súmula 14 do TST, são pagas pela metade:
+- A) Todas as verbas rescisórias, indistintamente.
+- B) Apenas o saldo salarial.
+- C) Aviso-prévio, 13º proporcional e férias proporcionais.
+- D) Apenas a multa do FGTS.
+
+**Gabarito: C.** Não se reduz indistintamente toda parcela rescisória.
+
+**AT.** A extinção por acordo prevista no art. 484-A da CLT:
+- A) Garante seguro-desemprego.
+- B) Reduz pela metade todas as verbas trabalhistas.
+- C) Paga pela metade o aviso-prévio somente se indenizado e a indenização do FGTS; as demais verbas são integrais.
+- D) Permite saque integral do FGTS.
+
+**Gabarito: C.** Art. 484-A, caput e §§ 1º e 2º.
+
+**AU.** O empregador pretende cobrar do empregado indenização pela ruptura antecipada de contrato a termo, com fundamento no art. 480 da CLT. Para isso:
+- A) Basta demonstrar que o empregado saiu antes do prazo.
+- B) Deve demonstrar prejuízo decorrente da ruptura, observado o limite legal.
+- C) Pode cobrar automaticamente todos os salários restantes.
+- D) Deve aplicar a multa de 40% do FGTS contra o empregado.
+
+**Gabarito: B.** Art. 480, caput e § 1º.
+
+### 17. Referências legais de fechamento
+
+- Constituição Federal, art. 7º, XXI e XXIX.
+- CLT, arts. 467, 477, 479 a 484-A e 487, § 4º.
+- Lei 8.036/1990, arts. 18, § 1º, e 20, I-A.
+- TST, Súmula 14 — culpa recíproca.
+- TST, Súmula 73 — justa causa durante o aviso-prévio.
+- TST, Súmula 212 — ônus da prova do término do contrato, quando negados a prestação de serviço e o despedimento.
+- TST, Súmula 32 — presunção de abandono após cessação do benefício previdenciário nas condições nela previstas.
