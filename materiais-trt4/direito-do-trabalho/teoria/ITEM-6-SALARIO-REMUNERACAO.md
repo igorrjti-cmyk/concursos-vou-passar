@@ -486,3 +486,215 @@ A Reforma Trabalhista alterou a redação do § 1º para mencionar gratificaçõ
 2. Proteção do salário, descontos e intangibilidade — art. 462 e normas correlatas.
 3. Salário mínimo, piso salarial e salário profissional.
 4. 13º salário e parcelas salariais correlatas.
+
+
+## 17. Equiparação salarial — art. 461 da CLT
+
+### 17.1. Finalidade e regra geral
+
+A equiparação salarial concretiza a isonomia: sendo idêntica a função, a trabalho de igual valor, prestado ao mesmo empregador e no mesmo estabelecimento empresarial, corresponde igual salário, sem distinção de sexo, etnia, nacionalidade ou idade (art. 461, caput).
+
+- **Reclamante/equiparando:** empregado que pede a equiparação.
+- **Paradigma:** empregado apontado como referência para comparação salarial.
+
+O que importa é a realidade das atividades. A denominação formal dos cargos, isoladamente, não decide o pedido.
+
+### 17.2. Requisitos cumulativos do trabalho de igual valor — art. 461, § 1º
+
+Para que o trabalho seja considerado de igual valor, a lei exige, cumulativamente:
+
+1. **Igual produtividade**;
+2. **Mesma perfeição técnica**;
+3. Diferença de tempo de serviço para o mesmo empregador não superior a **quatro anos**;
+4. Diferença de tempo na função não superior a **dois anos**.
+
+Atenção à dupla contagem:
+- até 4 anos de diferença no tempo de serviço para o mesmo empregador;
+- até 2 anos de diferença no tempo de exercício da função.
+
+Não basta que os empregados tenham o mesmo tempo total de emprego. Também é necessário observar a diferença no tempo da função.
+
+**Exemplo 1:** Ana e Bruno trabalham na mesma empresa e estabelecimento, exercem a mesma função, têm produtividade e perfeição técnica equivalentes. Bruno tem três anos a mais de empresa e um ano a mais na função. Os limites temporais são respeitados.
+
+**Exemplo 2:** se Bruno tiver cinco anos a mais de serviço para o mesmo empregador, o requisito temporal do § 1º não será atendido, ainda que a diferença na função seja pequena.
+
+### 17.3. Mesmo empregador e mesmo estabelecimento empresarial
+
+Depois da Lei 13.467/2017, o art. 461 exige trabalho prestado:
+- ao mesmo empregador; e
+- no mesmo estabelecimento empresarial.
+
+**Pegadinha clássica:** a redação anterior utilizava a expressão “mesma localidade”. A redação vigente fala em **mesmo estabelecimento empresarial**. Portanto, não se deve aplicar automaticamente a antiga ideia de mesmo município ou região metropolitana para situações regidas pela lei atual.
+
+Empregados da mesma empresa, mas lotados em estabelecimentos empresariais diferentes, não preenchem, em regra, esse requisito do caput.
+
+### 17.4. Identidade de função: tarefas efetivamente desempenhadas
+
+A Súmula 6, III, do TST permanece relevante: a equiparação depende de mesma função e mesmas tarefas, não importando se os cargos têm denominações iguais ou diferentes.
+
+Exemplos:
+- “Analista I” e “Analista II” podem exercer as mesmas tarefas na realidade; o nome distinto não afasta automaticamente a equiparação.
+- Dois empregados com o mesmo título de “analista” podem exercer atividades substancialmente diferentes; o título igual não garante equiparação.
+
+A análise é concreta: conteúdo ocupacional, tarefas, responsabilidades e condições reais de trabalho.
+
+### 17.5. Contemporaneidade e paradigma remoto — art. 461, § 5º
+
+A equiparação somente é possível entre empregados **contemporâneos no cargo ou na função**. A lei veda a indicação de paradigmas remotos, ainda que o paradigma remoto tenha obtido vantagem por decisão judicial.
+
+Em termos práticos:
+- deve ter existido período de exercício simultâneo da função entre reclamante e paradigma;
+- não se pode construir uma cadeia ilimitada de equiparações usando sucessivos paradigmas que nunca trabalharam contemporaneamente com o reclamante;
+- a diferença salarial não pode ser buscada por meio de comparação indireta com empregado distante na cadeia.
+
+A Súmula 6, IV, do TST esclarece que não é necessário que reclamante e paradigma ainda estejam trabalhando no estabelecimento no momento em que a ação é ajuizada, desde que o pedido diga respeito a situação pretérita. Isso não elimina a exigência de contemporaneidade no período comparado.
+
+### 17.6. Plano de cargos e salários — art. 461, §§ 2º e 3º
+
+A equiparação não prevalece quando o empregador tiver pessoal organizado em quadro de carreira ou adotar plano de cargos e salários por meio de:
+- norma interna da empresa; ou
+- negociação coletiva, por convenção ou acordo coletivo.
+
+A lei atual não exige homologação ou registro do plano em órgão público.
+
+As promoções podem ser feitas por merecimento e antiguidade, ou por apenas um desses critérios, dentro de cada categoria profissional.
+
+**Pegadinha FCC:** não utilizar a antiga exigência de homologação do Ministério do Trabalho como requisito geral de validade do plano. O item I da antiga Súmula 6 do TST foi cancelado em 2025 por perda de eficácia após a Reforma Trabalhista.
+
+### 17.7. Readaptação profissional — art. 461, § 4º
+
+O trabalhador readaptado em nova função por motivo de deficiência física ou mental atestada pelo órgão competente da Previdência Social não pode servir de paradigma para fins de equiparação salarial.
+
+A finalidade é impedir que a remuneração diferenciada do empregado readaptado seja utilizada como referência automática para equiparação.
+
+### 17.8. Discriminação salarial — art. 461, § 6º
+
+Em caso de discriminação por motivo de sexo ou etnia, além do pagamento das diferenças salariais devidas, o empregador ficará sujeito à multa legal, sem prejuízo de outras medidas cabíveis.
+
+A regra específica do § 6º não exclui a aplicação de outras normas antidiscriminatórias quando presentes seus pressupostos.
+
+### 17.9. Ônus da prova — Súmula 6, VIII, do TST
+
+A distribuição do ônus probatório merece atenção:
+
+- Ao empregado cabe demonstrar os fatos constitutivos de seu direito, especialmente a identidade funcional e o exercício das mesmas tarefas em relação ao paradigma.
+- Ao empregador cabe provar os fatos impeditivos, modificativos ou extintivos da equiparação, como diferença de produtividade, diferença de perfeição técnica, diferenças temporais legais ou existência de plano de cargos válido.
+
+A Súmula 6, VIII, do TST atribui ao empregador o ônus da prova do fato impeditivo, modificativo ou extintivo do direito à equiparação.
+
+Não significa que o empregado esteja dispensado de provar a identidade de funções. A prova é repartida conforme a natureza do fato alegado.
+
+### 17.10. Prescrição — Súmula 6, IX, do TST
+
+Na ação de equiparação salarial, a prescrição é parcial e alcança as diferenças salariais vencidas no período de cinco anos anterior ao ajuizamento da ação, observadas as regras gerais de prescrição trabalhista e o limite de dois anos após a extinção do contrato para ajuizar a reclamação.
+
+Para prova objetiva, diferencie:
+- prescrição bienal: prazo para ajuizar a ação após o fim do contrato;
+- prescrição quinquenal: alcance das parcelas anteriores ao ajuizamento.
+
+### 17.11. Súmula 6 do TST: o que continua útil e o que mudou
+
+A Resolução 225/2025 atualizou a Súmula 6. Para a prova, não basta decorar a redação antiga.
+
+Pontos que continuam especialmente úteis:
+- **Item III:** identidade de função e tarefas, independentemente do nome do cargo.
+- **Item IV:** não é necessário que ambos ainda estejam trabalhando no estabelecimento no ajuizamento, se o pedido tratar de situação pretérita.
+- **Item VIII:** ônus do empregador quanto aos fatos impeditivos, modificativos ou extintivos.
+- **Item IX:** prescrição parcial das diferenças salariais, observado o quinquênio.
+
+Foram cancelados por perda de eficácia, entre outros, os itens I e II, e o item X, que tratava da antiga expressão “mesma localidade”. O item VI também teve alteração/cancelamento parcial, inclusive quanto à equiparação em cadeia, que passou a ser disciplinada pelo § 5º do art. 461.
+
+**Regra de ouro:** para fatos posteriores a 11/11/2017, comece pelo texto atual do art. 461; use a Súmula 6 apenas nos pontos que permanecem compatíveis com a lei vigente.
+
+### 17.12. Quadro-resumo para memorização
+
+| Requisito | Regra atual |
+|---|---|
+| Empregador | Mesmo empregador |
+| Local de trabalho | Mesmo estabelecimento empresarial |
+| Função | Idêntica, com mesmas tarefas na realidade |
+| Valor do trabalho | Igual produtividade e mesma perfeição técnica |
+| Tempo no empregador | Diferença máxima de 4 anos |
+| Tempo na função | Diferença máxima de 2 anos |
+| Contemporaneidade | Necessária |
+| Paradigma remoto | Vedado |
+| Plano de cargos | Norma interna ou negociação coletiva; sem homologação pública obrigatória |
+| Readaptado | Não serve como paradigma |
+| Ônus dos fatos impeditivos | Empregador |
+| Prescrição | Parcial, quinquenal para diferenças, respeitada a bienal |
+
+### 17.13. Questões autorais de fixação — não oficiais
+
+**20.** De acordo com o art. 461 da CLT, para a equiparação salarial, o trabalho deve ser prestado:
+
+- A) Ao mesmo grupo econômico, em qualquer estabelecimento.
+- B) Ao mesmo empregador e no mesmo estabelecimento empresarial.
+- C) A empregadores diferentes, desde que no mesmo município.
+- D) Na mesma categoria profissional, independentemente do empregador.
+
+**Gabarito: B.** O caput exige mesmo empregador e mesmo estabelecimento empresarial.
+
+**21.** Para que o trabalho seja considerado de igual valor, o art. 461, § 1º, estabelece diferença máxima de tempo:
+
+- A) De três anos no emprego e um ano na função.
+- B) De quatro anos no serviço para o mesmo empregador e dois anos na função.
+- C) De dois anos no emprego e quatro anos na função.
+- D) De cinco anos no emprego e dois anos na função.
+
+**Gabarito: B.** Memorize os limites distintos: quatro anos no empregador e dois anos na função.
+
+**22.** Dois empregados possuem o mesmo título de cargo, mas desempenham tarefas substancialmente diferentes. À luz da Súmula 6, III, do TST:
+
+- A) A equiparação é automática, pois o título é igual.
+- B) O nome do cargo é decisivo.
+- C) A identidade deve ser examinada pelas funções e tarefas efetivamente desempenhadas.
+- D) A equiparação depende apenas do tempo de serviço.
+
+**Gabarito: C.** A realidade das tarefas prevalece sobre a denominação formal.
+
+**23.** A respeito do plano de cargos e salários, segundo a redação vigente do art. 461, §§ 2º e 3º, da CLT:
+
+- A) É indispensável homologação pelo Ministério do Trabalho.
+- B) Deve ser necessariamente instituído por lei.
+- C) Pode ser estabelecido por norma interna ou negociação coletiva, sem homologação ou registro público obrigatório.
+- D) Impede promoções por merecimento.
+
+**Gabarito: C.** A lei atual não exige homologação ou registro público.
+
+**24.** O empregado readaptado em nova função por motivo de deficiência física ou mental atestada pelo órgão competente da Previdência Social:
+
+- A) Deve ser utilizado como paradigma em qualquer situação.
+- B) Não pode servir de paradigma para fins de equiparação salarial.
+- C) Só pode ser paradigma se receber salário maior.
+- D) Perde o direito à remuneração contratual.
+
+**Gabarito: B.** Art. 461, § 4º.
+
+**25.** Em relação ao ônus da prova na equiparação salarial, conforme a Súmula 6, VIII, do TST:
+
+- A) Todos os fatos devem ser provados exclusivamente pelo empregado.
+- B) Todos os fatos devem ser provados exclusivamente pelo empregador.
+- C) Cabe ao empregador provar os fatos impeditivos, modificativos ou extintivos do direito.
+- D) Não existe distribuição do ônus da prova.
+
+**Gabarito: C.** O empregado prova os fatos constitutivos; o empregador, os impeditivos, modificativos ou extintivos.
+
+**26.** A respeito da contemporaneidade e do paradigma remoto:
+
+- A) A lei permite equiparação em cadeia ilimitada.
+- B) A equiparação pode ser fundada em paradigma remoto que nunca trabalhou contemporaneamente com o reclamante.
+- C) A lei exige contemporaneidade e veda a indicação de paradigmas remotos.
+- D) O paradigma deve necessariamente continuar empregado na data do ajuizamento.
+
+**Gabarito: C.** Art. 461, § 5º; a Súmula 6, IV, não exige que ambos ainda estejam empregados no ajuizamento quando a situação discutida é pretérita.
+
+### 17.14. Fontes legais e jurisprudenciais
+
+- CLT, art. 461, texto consolidado: https://www.planalto.gov.br/ccivil_03/decreto-lei/del5452compilado.htm
+- TST, Súmula 6, versão atualizada pela Resolução 225/2025: https://www.tst.jus.br/documents/d/guest/livrointernet-12-pdf
+
+## 18. Próximos tópicos do Item 6
+
+1. Proteção do salário, descontos e intangibilidade — art. 462 da CLT.
+2. Salário mínimo, piso salarial e salário profissional.
+3. 13º salário e parcelas salariais correlatas.
