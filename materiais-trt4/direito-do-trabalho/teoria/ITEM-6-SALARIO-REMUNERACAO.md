@@ -1752,3 +1752,14 @@ Antes de considerar o assunto consolidado, revise:
 - [ ] 13º salário.
 
 O núcleo teórico do Item 6 está sistematizado neste arquivo. A etapa seguinte é uma bateria de questões oficiais FCC, com revisão de cada alternativa e identificação de eventuais lacunas antes de encerrar definitivamente a matéria.
+
+
+### 28.8. Questões oficiais adicionais cadastradas na bateria
+
+Foram incluídas no banco de questões, com origem real preservada e classificação no escopo de preparação TRT-4:
+
+- **Q2288285 — FCC TRT-12/SC, Técnico Judiciário, 2023 — rank 7882 — gabarito D.** 13º proporcional e aposentadoria. A aposentadoria não elimina o direito ao pagamento proporcional; as demais alternativas confundem justa causa, contratos a prazo, morte e acidente do trabalho.
+- **Q3302497 — FCC TRT-15/SP, Analista Judiciário, 2025 — rank 7883 — gabarito D.** Equiparação salarial. A diferença máxima é de quatro anos no tempo de serviço para o mesmo empregador e dois anos na função (CLT, art. 461, § 1º).
+- **Q3468739 — FCC TRT-1/RJ, Técnico Judiciário, 2025 — rank 7884 — gabarito C.** Cálculo de 13º proporcional: janeiro e fevereiro contam; março, com 14 dias, não. Resultado: 2/12 de R$ 3.600,00 = R$ 600,00.
+
+Esses três registros foram inseridos e conferidos por consulta posterior no banco. O campo de escopo permanece TRT4 para fins do projeto; o campo de origem identifica corretamente o TRT e o ano de cada prova.
