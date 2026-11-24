@@ -82,13 +82,139 @@ O Tema 234 do TST reafirmou a Súmula 354, com tese transitada em julgado em 202
 
 **Gabarito: A.** Súmula 354 e Tema 234 do TST.
 
-## 7. Fontes oficiais e jurisprudenciais
+
+
+## 7. Salário-utilidade ou salário in natura — art. 458 da CLT
+
+### 7.1. Regra geral
+
+O salário pode ser pago em dinheiro e também por meio de prestações in natura. O art. 458 considera salário, para todos os efeitos legais, a alimentação, a habitação, o vestuário ou outras utilidades que o empregador, por força do contrato ou do costume, forneça **habitualmente** ao empregado.
+
+Requisitos que merecem atenção:
+- fornecimento pelo empregador;
+- habitualidade;
+- utilidade concedida como contraprestação pelo trabalho, e não apenas como instrumento necessário à execução do serviço;
+- inexistência de enquadramento em uma das exclusões legais.
+
+Não se admite pagamento do salário-utilidade por meio de bebidas alcoólicas ou drogas nocivas.
+
+### 7.2. Pelo trabalho x para o trabalho
+
+A distinção é recorrente em provas:
+
+- **Pelo trabalho:** a utilidade é concedida como vantagem remuneratória, em troca dos serviços. Pode ter natureza salarial, se presentes os requisitos legais.
+- **Para o trabalho:** a utilidade é fornecida para viabilizar ou facilitar a prestação dos serviços. Em regra, não tem natureza salarial.
+
+Exemplos:
+- Casa fornecida gratuitamente ao empregado como vantagem contratual, sem necessidade funcional, pode configurar salário-utilidade.
+- Alojamento disponibilizado porque o serviço é executado em local remoto, em benefício da própria execução do trabalho, tende a ser ferramenta de trabalho, sem natureza salarial.
+- Veículo indispensável ao serviço não se torna salário apenas porque o empregado também o utiliza em atividades particulares, conforme Súmula 367, I, do TST.
+
+A análise depende da finalidade concreta do fornecimento, não apenas do nome atribuído pelo empregador.
+
+### 7.3. Utilidades que não são salário — art. 458, § 2º
+
+A CLT exclui expressamente da natureza salarial as seguintes utilidades:
+
+1. vestuários, equipamentos e acessórios fornecidos e utilizados no local de trabalho para a prestação do serviço;
+2. educação, em estabelecimento próprio ou de terceiros, incluindo matrícula, mensalidade, anuidade, livros e material didático;
+3. transporte destinado ao deslocamento para o trabalho e retorno, haja ou não transporte público no percurso;
+4. assistência médica, hospitalar e odontológica, diretamente ou por seguro-saúde;
+5. seguros de vida e de acidentes pessoais;
+6. previdência privada;
+7. valor correspondente ao vale-cultura.
+
+**Atenção à alimentação:** o art. 458, § 2º, não a inclui nessa lista geral de exclusões. Já o art. 457, § 2º, prevê que o auxílio-alimentação não integra a remuneração, desde que **não seja pago em dinheiro**. A questão deve ser resolvida identificando a parcela e a forma de fornecimento, sem confundir os dispositivos.
+
+O § 5º do art. 458 também determina que os valores relativos à assistência médica ou odontológica, inclusive reembolsos de medicamentos, óculos, aparelhos e despesas similares, não integram o salário para qualquer efeito.
+
+### 7.4. Limites para habitação e alimentação — art. 458, §§ 3º e 4º
+
+Quando habitação e alimentação são fornecidas como salário-utilidade, os valores não podem exceder, respectivamente:
+- **habitação: 25%** do salário contratual;
+- **alimentação: 20%** do salário contratual.
+
+Na habitação coletiva, o valor deve ser apurado dividindo-se o justo valor da habitação pelo número de co-ocupantes. A lei veda, em qualquer hipótese, a utilização da mesma unidade residencial por mais de uma família.
+
+Esses percentuais são limites legais específicos para a valoração dessas utilidades. Não confundir com percentuais de descontos salariais nem aplicar automaticamente a toda e qualquer prestação in natura.
+
+### 7.5. Súmula 367 do TST
+
+A Súmula 367 contém duas regras importantes:
+
+- **Item I:** habitação, energia elétrica e veículo fornecidos pelo empregador, quando indispensáveis à realização do trabalho, não têm natureza salarial. No caso do veículo, isso permanece mesmo que o empregado também o utilize em atividades particulares.
+- **Item II:** cigarro não é salário-utilidade, em razão de sua nocividade à saúde.
+
+Pegadinha: o uso particular eventual do veículo não transforma, por si só, a utilidade indispensável ao trabalho em parcela salarial.
+
+### 7.6. Questões autorais de fixação — não oficiais
+
+**5.** Uma empresa fornece gratuitamente moradia a empregado como vantagem prevista no contrato, sem que a residência seja necessária à execução dos serviços. A utilidade é fornecida habitualmente. Em princípio, segundo o art. 458 da CLT:
+
+- A) Nunca poderá integrar o salário, pois moradia é benefício social.
+- B) Poderá configurar salário-utilidade, por ser vantagem fornecida pelo trabalho.
+- C) Será gorjeta, pois não é paga em dinheiro.
+- D) Será necessariamente ajuda de custo.
+
+**Gabarito: B.** A moradia habitual concedida como contraprestação pode integrar o salário, observadas as regras legais.
+
+**6.** O empregador fornece veículo indispensável à realização do trabalho. O empregado também o utiliza em atividades particulares. Conforme a Súmula 367, I, do TST:
+
+- A) O veículo sempre integra o salário, em razão do uso particular.
+- B) O veículo não tem natureza salarial se indispensável ao trabalho, mesmo com uso particular.
+- C) O veículo integra apenas metade do salário.
+- D) O uso particular transforma o veículo em gorjeta.
+
+**Gabarito: B.** A indispensabilidade para o trabalho afasta a natureza salarial, ainda que exista uso particular.
+
+**7.** Assinale a utilidade expressamente excluída do conceito de salário pelo art. 458, § 2º, da CLT:
+
+- A) Moradia fornecida como contraprestação habitual.
+- B) Alimentação fornecida como vantagem salarial.
+- C) Transporte destinado ao deslocamento para o trabalho e retorno.
+- D) Vestuário fornecido para uso fora do serviço como vantagem pessoal.
+
+**Gabarito: C.** O inciso III exclui o transporte destinado ao deslocamento de ida e volta ao trabalho.
+
+**8.** A CLT estabelece, para habitação e alimentação fornecidas como salário-utilidade, limites máximos, respectivamente, de:
+
+- A) 20% e 25% do salário contratual.
+- B) 25% e 20% do salário contratual.
+- C) 30% e 10% do salário mínimo.
+- D) 10% e 30% da remuneração.
+
+**Gabarito: B.** Art. 458, § 3º: habitação 25%; alimentação 20%.
+
+## 8. Questões oficiais localizadas no banco
+
+Na consulta realizada para o tema salário/remuneração, não apareceu questão cadastrada especificamente sobre salário-utilidade, art. 458 ou Súmula 367. Permanecem localizadas três questões oficiais correlatas, mas de outros recortes:
+- rank 7722 — FCC, TRT-2, 2025 — proteção do salário;
+- rank 7738 — FCC, TRT-12, 2023 — jornada e salário-família;
+- rank 7747 — FCC, TRT-14, 2022 — salário mínimo e proteção salarial.
+
+Não inseri questões autorais no banco de questões oficiais. As quatro questões autorais desta seção ficam apenas no material teórico.
+
+## 9. Fontes oficiais e jurisprudenciais
+
+- CLT, arts. 457 e 458, texto consolidado: https://www2.camara.leg.br/legin/fed/declei/1940-1949/decreto-lei-5452-1-maio-1943-415500-normaatualizada-pe.html
+- TST, Livro de Súmulas, OJs e PNs — Súmula 367: https://www.tst.jus.br/documents/d/guest/livrointernet-12-pdf
+
+## 10. Próximos tópicos do Item 6
+
+1. Formas de estipulação e pagamento do salário.
+2. Comissões, percentagens, gratificações e parcelas variáveis.
+3. Equiparação salarial, art. 461.
+4. Proteção do salário, descontos e intangibilidade.
+5. Salário mínimo, piso salarial e salário profissional.
+6. 13º salário e parcelas salariais correlatas.
+
+## 11. Fontes oficiais e jurisprudenciais
 
 - CLT, art. 457, texto consolidado: https://www2.camara.leg.br/legin/fed/declei/1940-1949/decreto-lei-5452-1-maio-1943-415500-normaatualizada-pe.html
 - TST, Tema Repetitivo 234: https://www.tst.jus.br/documents/d/guest/irr234temprandomsuffixcpqmsziy
 - TST, Súmula 354, reafirmada pelo IRR 234.
 
-## 8. Próximos tópicos do Item 6
+## 12. Próximos tópicos do Item 6
 
 1. Salário-utilidade (salário in natura), art. 458 da CLT.
 2. Formas de estipulação e pagamento do salário.
