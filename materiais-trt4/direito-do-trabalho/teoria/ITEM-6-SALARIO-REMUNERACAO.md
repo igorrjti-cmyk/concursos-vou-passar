@@ -1877,3 +1877,65 @@ Fontes de atualização: TST, IRR Tema 65 (RRAg-0011110-03.2023.5.03.0027) e ín
 **Resposta:** Não, conforme Súmula 225 do TST. A mesma regra vale para gratificação de produtividade paga mensalmente.
 
 **Alerta de atualização:** a Súmula 27, a Súmula 340, a OJ 397 e a Súmula 225 tratam de problemas diferentes. Em questão objetiva, identifique se o enunciado pergunta por RSR sobre comissão, cálculo de horas extras do comissionista ou reflexo de gratificação mensal.
+
+### 28.13. Adicionais de insalubridade e periculosidade
+
+**Natureza jurídica**
+- Enquanto pagos, os adicionais de insalubridade e periculosidade têm natureza salarial e integram a remuneração para os efeitos legais pertinentes (Súmulas 139 e 132, I, do TST).
+- Não se incorporam definitivamente ao contrato: cessada a condição insalubre ou perigosa, cessa o direito ao adicional (CLT, arts. 194 e 195; Súmula 248 do TST). Não há direito adquirido à continuidade de adicional condicionado à exposição ao risco.
+
+**Insalubridade — CLT, arts. 189 a 192**
+- Exposição a agentes nocivos acima dos limites de tolerância, considerados natureza e intensidade do agente e tempo de exposição (art. 189).
+- A eliminação/neutralização pode ocorrer por medidas ambientais que mantenham a exposição dentro dos limites ou por EPI eficaz (art. 191).
+- Graus: mínimo 10%, médio 20%, máximo 40% (art. 192).
+- Base de cálculo: em regra, salário mínimo, enquanto não houver lei ou norma coletiva válida que estabeleça base diferente, observada a Súmula Vinculante 4 do STF e a decisão na Reclamação 6.266. O Judiciário não pode simplesmente substituir o indexador por salário-base por decisão judicial.
+- Exceções legais específicas existem, como agentes comunitários de saúde e agentes de combate às endemias: após a Lei 13.342/2016, cálculo sobre vencimento ou salário-base, conforme art. 9º-A, § 3º, da Lei 11.350/2006 e Tema 306 do TST.
+- EPI: Súmula 80 do TST — eliminação da insalubridade por aparelho protetor aprovado exclui o adicional. Súmula 289 — o simples fornecimento do equipamento não basta; o empregador deve adotar medidas para reduzir/eliminar a nocividade e fiscalizar seu uso.
+- Exposição intermitente: Súmula 47 — não afasta, por si só, o direito ao adicional.
+- Caracterização: perícia por médico do trabalho ou engenheiro do trabalho, registrados no órgão competente (art. 195). A classificação da atividade na relação oficial do Ministério do Trabalho é necessária; laudo isolado não basta (Súmula 448, I).
+- Higienização de instalações sanitárias de uso público ou coletivo de grande circulação e coleta do respectivo lixo: grau máximo, conforme Súmula 448, II.
+
+**Periculosidade — CLT, arts. 193 e 194**
+- Atividades/ operações perigosas previstas em lei e regulamentação, com risco acentuado por exposição permanente a inflamáveis, explosivos, energia elétrica, roubos/violência física nas atividades de segurança pessoal ou patrimonial, e outras hipóteses legais específicas.
+- Adicional de 30% sobre o salário básico, sem acréscimo de gratificações, prêmios ou participação nos lucros (art. 193, § 1º; Súmula 191, I).
+- Exceção histórica dos eletricitários: observar os itens II e III da Súmula 191 e a data de admissão/alteração legislativa; para contratos submetidos ao regime anterior, a base pode abranger a totalidade das parcelas de natureza salarial.
+- Exposição eventual ou por tempo extremamente reduzido não gera adicional; exposição permanente ou intermitente gera, conforme Súmula 364, I. Não confundir intermitência habitual com eventualidade fortuita.
+- O empregado pode optar pelo adicional de insalubridade que porventura lhe seja devido, vedada a cumulação dos adicionais (art. 193, § 2º; entendimento predominante do TST).
+- Cessada a condição perigosa, cessa o adicional (art. 194).
+
+**Perícia e pagamento espontâneo**
+- Art. 195: caracterização e classificação por perícia de médico do trabalho ou engenheiro do trabalho habilitado.
+- Tema 266 do TST (reafirmação da Súmula 453): pagamento espontâneo do adicional de periculosidade, ainda que proporcional ou em percentual inferior ao legal, torna incontroversa a existência de trabalho em condições perigosas e dispensa a perícia para esse fim.
+
+**Reflexos e bases de cálculo que a FCC pode misturar**
+- Insalubridade integra a remuneração enquanto percebida (Súmula 139) e pode compor a base do adicional noturno e das horas extras, conforme a jurisprudência do TST.
+- Periculosidade integra a base de cálculo das horas extras (Súmula 132, I).
+- Adicional noturno integra a base das horas extras prestadas no período noturno (OJ 97 da SDI-1; Tema 288 do TST).
+- A vedação de cumulação de insalubridade e periculosidade não impede a integração de adicional salarial na base de cálculo de outra parcela quando a jurisprudência assim determina.
+
+#### Questões autorais de fixação — não são questões oficiais FCC
+
+**1.** Eliminado efetivamente o agente insalubre por nova máquina, a empresa deve continuar pagando o adicional porque ele já havia integrado a remuneração?
+
+**Resposta:** Não. O adicional é condicionado à exposição nociva; cessada a condição, cessa o direito (arts. 194 e 195 da CLT e Súmula 248 do TST).
+
+**2.** O simples fornecimento de EPI pelo empregador elimina automaticamente o direito ao adicional?
+
+**Resposta:** Não. É necessário que o equipamento seja eficaz e que o empregador adote medidas de proteção e fiscalize seu uso (Súmulas 80 e 289 do TST).
+
+**3.** O adicional de periculosidade de 30% incide sobre salário básico acrescido de gratificações, prêmios e participação nos lucros?
+
+**Resposta:** Não. Em regra, incide apenas sobre o salário básico, sem essas parcelas (art. 193, § 1º, CLT e Súmula 191, I).
+
+**4.** A exposição intermitente ao agente perigoso exclui sempre o adicional?
+
+**Resposta:** Não. A exposição intermitente habitual pode gerar o adicional; a eventual/fortuita ou por tempo extremamente reduzido não gera (Súmula 364, I).
+
+**5.** A insalubridade pode ser reconhecida apenas porque o perito considerou a atividade prejudicial, mesmo sem enquadramento na relação oficial?
+
+**Resposta:** Não. A atividade deve estar classificada na relação oficial do Ministério do Trabalho (Súmula 448, I).
+
+**6.** É possível receber simultaneamente os adicionais de insalubridade e periculosidade?
+
+**Resposta:** Em regra, não. O art. 193, § 2º, assegura opção pelo adicional que for devido.
+
