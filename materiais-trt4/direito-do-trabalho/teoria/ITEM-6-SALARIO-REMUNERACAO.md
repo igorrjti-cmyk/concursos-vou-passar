@@ -698,3 +698,212 @@ Foram cancelados por perda de eficácia, entre outros, os itens I e II, e o item
 1. Proteção do salário, descontos e intangibilidade — art. 462 da CLT.
 2. Salário mínimo, piso salarial e salário profissional.
 3. 13º salário e parcelas salariais correlatas.
+
+
+## 19. Proteção do salário e descontos — art. 462 da CLT
+
+### 19.1. Regra geral: intangibilidade salarial
+
+O art. 462, caput, proíbe o empregador de efetuar descontos nos salários do empregado, salvo quando decorrentes de:
+1. adiantamentos;
+2. dispositivos de lei;
+3. contrato coletivo (atualmente, acordo ou convenção coletiva, conforme o contexto normativo).
+
+A regra protege a integralidade do salário e impede que o empregador transfira ao empregado custos e riscos próprios da atividade econômica.
+
+**Atenção:** intangibilidade não significa que jamais possa haver desconto. Significa que o desconto precisa de fundamento jurídico válido.
+
+### 19.2. Dano causado pelo empregado — art. 462, § 1º
+
+Se o empregado causar dano ao empregador, o desconto salarial só é lícito:
+- se houver dolo do empregado; ou
+- se a possibilidade de desconto tiver sido previamente acordada.
+
+Distinção essencial:
+- **Dolo:** intenção de causar o dano. O desconto pode ser efetuado mesmo sem cláusula contratual específica que o autorize, desde que o dolo seja demonstrado.
+- **Culpa (negligência, imprudência ou imperícia):** exige que a possibilidade de desconto tenha sido previamente acordada.
+
+Exemplo: empregado quebra intencionalmente equipamento da empresa. Demonstrado o dolo, pode haver desconto. Se a quebra decorreu de descuido, a possibilidade de desconto precisa ter sido previamente ajustada.
+
+Não basta o empregador alegar prejuízo. Deve demonstrar o dano, o nexo com a conduta do empregado e o requisito legal (dolo ou prévio ajuste, conforme o caso). O risco normal do negócio não pode ser repassado ao trabalhador.
+
+### 19.3. Descontos autorizados por lei
+
+Exemplos comuns de descontos legais:
+- contribuição previdenciária do empregado (INSS);
+- imposto de renda retido na fonte, quando devido;
+- pensão alimentícia, conforme ordem judicial ou título juridicamente válido;
+- faltas injustificadas e atrasos, observadas as regras legais;
+- vale-transporte, respeitado o limite legal;
+- outros descontos previstos expressamente em lei.
+
+**Pegadinha:** o FGTS é obrigação do empregador. O depósito de FGTS não pode ser descontado do salário do empregado.
+
+### 19.4. Adiantamentos salariais
+
+O desconto de valores efetivamente adiantados pelo empregador é expressamente permitido pelo art. 462, caput.
+
+Exemplo: o empregado recebe antecipadamente parte do salário no meio do mês. No fechamento da folha, o empregador pode descontar o valor que já foi adiantado, sem que isso configure desconto ilícito.
+
+Não confundir adiantamento real com empréstimo ou cobrança disfarçada de despesa empresarial.
+
+### 19.5. Vale-transporte: limite de 6%
+
+A Lei 7.418/1985 autoriza a participação do empregado no custeio do vale-transporte até o limite de **6% do salário básico**. O empregador arca com a parcela que exceder esse limite.
+
+Exemplo: salário básico de R$ 2.000; limite máximo de participação do empregado = R$ 120. Se o custo do vale-transporte for R$ 220, o empregador suporta os R$ 100 restantes.
+
+O desconto deve observar a efetiva concessão do benefício e as regras legais. Não se deve aplicar automaticamente 6% sobre toda a remuneração quando a lei utiliza o salário básico como referência.
+
+### 19.6. Descontos para benefícios: Súmula 342 do TST
+
+A Súmula 342 do TST considera lícitos, sem afronta ao art. 462, os descontos efetuados com **autorização prévia e por escrito** do empregado para sua inclusão em:
+- planos de assistência odontológica;
+- planos médico-hospitalares;
+- seguro;
+- previdência privada;
+- entidade cooperativa;
+- entidade cultural ou recreativo-associativa dos trabalhadores.
+
+A autorização deve se referir a benefício em favor do empregado ou de seus dependentes. O desconto não será válido se houver coação ou outro vício de consentimento.
+
+**Pegadinha:** a mera utilização do plano ou benefício não substitui automaticamente a autorização prévia e escrita exigida pela Súmula 342.
+
+### 19.7. Autorização assinada na admissão — OJ 160 da SDI-1 do TST
+
+A OJ 160 estabelece que não se presume vício de consentimento apenas porque o empregado autorizou expressamente descontos salariais no momento da admissão.
+
+Assim:
+- a autorização dada na admissão não é automaticamente inválida;
+- também não torna qualquer desconto lícito por si só: é preciso observar a natureza do desconto e os requisitos legais;
+- para reconhecer vício de vontade, exige-se demonstração concreta.
+
+Diferencie a OJ 160 da Súmula 342: a Súmula 342 trata da necessidade de autorização prévia e escrita para determinados benefícios; a OJ 160 afasta a presunção automática de coação pelo simples fato de a autorização ter sido assinada na admissão.
+
+### 19.8. Contribuição sindical, mensalidade associativa e contribuição assistencial
+
+Não confunda as três espécies:
+
+**A) Contribuição sindical (arts. 578 e 579 da CLT)**
+- O desconto depende de autorização prévia e expressa.
+- Após a Reforma Trabalhista, não é compulsória apenas por o empregado pertencer à categoria.
+
+**B) Mensalidade associativa**
+- É devida pelo trabalhador associado ao sindicato, observada a autorização para o desconto.
+- Não se confunde com contribuição assistencial.
+
+**C) Contribuição assistencial — Tema 935 do STF**
+- Pode ser instituída por acordo ou convenção coletiva e alcançar todos os empregados da categoria, inclusive não sindicalizados.
+- Deve ser assegurado o direito de oposição.
+- O STF, nos embargos julgados em novembro de 2025, acrescentou salvaguardas: vedação de cobrança retroativa relativa ao período em que prevalecia o entendimento de inconstitucionalidade; impossibilidade de interferência de terceiros no livre exercício do direito de oposição; e valor razoável e compatível com a capacidade econômica da categoria.
+- O direito de oposição deve ser efetivo, livre e sem obstáculos indevidos.
+
+**D) Contribuição confederativa**
+- A Súmula Vinculante 40 do STF estabelece que só é exigível dos filiados ao sindicato.
+- Não confundir com contribuição assistencial, que segue o Tema 935.
+
+**Quadro comparativo:**
+
+| Espécie | Pode alcançar não filiado? | Regra essencial |
+|---|---|---|
+| Sindical | Não por simples pertencimento à categoria | Autorização prévia e expressa (CLT, art. 579) |
+| Mensalidade associativa | Não | Pressupõe associação e autorização |
+| Assistencial | Sim | Norma coletiva e direito de oposição (Tema 935/STF) |
+| Confederativa | Não | Somente filiados (SV 40/STF) |
+
+### 19.9. Armazém e serviços mantidos pelo empregador — art. 462, §§ 2º a 4º
+
+A CLT proíbe que a empresa:
+- exerça coação ou induzimento para que o empregado compre no armazém da empresa ou utilize serviços por ela mantidos;
+- limite, por qualquer forma, a liberdade do empregado de dispor do próprio salário;
+- faça pressão para que o empregado utilize o salário em mercadorias ou serviços oferecidos pelo empregador.
+
+A finalidade é evitar o chamado sistema de salário vinculado ou “truck system”, em que o trabalhador fica obrigado a consumir no estabelecimento patronal ou tem sua liberdade econômica restringida.
+
+### 19.10. Questões autorais de fixação — não oficiais
+
+**27.** Conforme o art. 462, caput, da CLT, o empregador pode efetuar descontos salariais quando resultarem de:
+
+- A) Qualquer prejuízo econômico da empresa.
+- B) Adiantamentos, dispositivos de lei ou contrato coletivo.
+- C) Decisão unilateral do setor financeiro.
+- D) Costume empresarial, ainda que contrário à lei.
+
+**Gabarito: B.** São as hipóteses expressas no caput do art. 462.
+
+**28.** O empregado causa dano ao empregador por negligência. Para que o desconto seja lícito, nos termos do art. 462, § 1º, da CLT:
+
+- A) Basta a existência do dano, independentemente de ajuste.
+- B) É necessário que a possibilidade de desconto tenha sido previamente acordada.
+- C) O empregador pode descontar sempre que houver culpa.
+- D) É necessária autorização sindical individual.
+
+**Gabarito: B.** Na hipótese culposa, exige-se ajuste prévio; no dolo, o desconto é admitido pela própria lei.
+
+**29.** O empregado, intencionalmente, danifica equipamento da empresa. Demonstrado o dolo:
+
+- A) O desconto é sempre proibido.
+- B) O desconto pode ser lícito, mesmo sem ajuste prévio específico.
+- C) O empregador só pode descontar com autorização judicial.
+- D) O dano deve ser suportado pelo sindicato.
+
+**Gabarito: B.** O art. 462, § 1º, admite o desconto em caso de dolo.
+
+**30.** De acordo com a Lei 7.418/1985, a participação do empregado no custeio do vale-transporte pode alcançar, no máximo:
+
+- A) 10% do salário contratual.
+- B) 6% do salário básico.
+- C) 8% da remuneração total.
+- D) 5% do salário mínimo.
+
+**Gabarito: B.** O empregador arca com o que exceder 6% do salário básico.
+
+**31.** Segundo a Súmula 342 do TST, descontos para plano médico-hospitalar ou odontológico, seguro e previdência privada podem ser lícitos quando:
+
+- A) Forem impostos unilateralmente pelo empregador.
+- B) Houver autorização prévia e por escrito, sem coação ou vício de consentimento.
+- C) O empregado utilizar o benefício, ainda que nunca tenha autorizado o desconto.
+- D) Forem realizados apenas no primeiro mês do contrato.
+
+**Gabarito: B.** É a regra da Súmula 342 do TST.
+
+**32.** Conforme a OJ 160 da SDI-1 do TST, a autorização expressa para descontos salariais assinada no momento da admissão:
+
+- A) É sempre nula.
+- B) Gera presunção absoluta de coação.
+- C) Não permite presumir vício de consentimento apenas por ter sido assinada na admissão.
+- D) Autoriza qualquer desconto, mesmo sem fundamento jurídico.
+
+**Gabarito: C.** É necessária demonstração concreta do vício de vontade.
+
+**33.** De acordo com o Tema 935 do STF, a contribuição assistencial:
+
+- A) Só pode ser cobrada de empregados sindicalizados.
+- B) Pode alcançar todos os empregados da categoria, inclusive não sindicalizados, desde que assegurado o direito de oposição.
+- C) É idêntica à contribuição confederativa.
+- D) Pode ser cobrada retroativamente em qualquer período.
+
+**Gabarito: B.** A tese do STF admite a cobrança mediante norma coletiva e direito de oposição, com as salvaguardas definidas nos embargos de 2025.
+
+**34.** A contribuição confederativa, segundo a Súmula Vinculante 40 do STF:
+
+- A) É exigível de todos os empregados da categoria.
+- B) Só é exigível dos filiados ao sindicato.
+- C) É obrigatória para todos os empregados públicos.
+- D) Substitui a contribuição sindical.
+
+**Gabarito: B.** Não confundir com a contribuição assistencial do Tema 935.
+
+### 19.11. Fontes oficiais
+
+- CLT, arts. 462, 545, 578 e 579: https://www.planalto.gov.br/ccivil_03/decreto-lei/del5452compilado.htm
+- Lei 7.418/1985 — vale-transporte: https://www.planalto.gov.br/ccivil_03/leis/l7418.htm
+- STF, Tema 935 — tese e embargos de declaração: https://portal.stf.jus.br/jurisprudenciaRepercussao/verAndamentoProcesso.asp?incidente=5112803&numeroTema=935
+- STF, Informativo 1200 — salvaguardas sobre contribuição assistencial: https://www.stf.jus.br/arquivo/informativo/documento/informativo1200.htm
+- TST, Súmula 342 e OJ 160 da SDI-1: consultar o livro oficial de súmulas e orientações jurisprudenciais do TST.
+
+## 20. Próximos tópicos do Item 6
+
+1. Salário mínimo, piso salarial e salário profissional.
+2. Décimo terceiro salário.
+3. Revisão integrada de salário e remuneração, com questões oficiais FCC e questões autorais.
