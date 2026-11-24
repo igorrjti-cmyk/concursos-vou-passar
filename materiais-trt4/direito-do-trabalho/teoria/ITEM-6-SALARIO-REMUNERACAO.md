@@ -344,3 +344,145 @@ Para a prova, memorize a relação entre:
 3. Proteção do salário, descontos e intangibilidade.
 4. Salário mínimo, piso salarial e salário profissional.
 5. 13º salário e parcelas salariais correlatas.
+
+
+## 15. Comissões, percentagens e gratificações
+
+### 15.1. Comissões e percentagens — art. 457, § 1º
+
+As comissões pagas pelo empregador integram o salário. São parcelas variáveis vinculadas, em regra, às vendas, negócios ou resultados atribuídos ao empregado.
+
+Exemplo: vendedor recebe salário fixo de R$ 1.600 mais comissão de 3% sobre as vendas que realizar. A comissão é parcela salarial e compõe o salário para os efeitos legais pertinentes.
+
+Não confundir:
+- **comissão:** parcela salarial paga pelo empregador, normalmente calculada sobre negócios ou vendas;
+- **gorjeta:** valor dado pelo cliente ou cobrado pela empresa e destinado aos empregados; integra a remuneração, mas não é salário pago diretamente pelo empregador;
+- **prêmio:** liberalidade por desempenho superior ao ordinariamente esperado, nos termos do art. 457, §§ 2º e 4º; atendidos os requisitos legais, não integra a remuneração.
+
+### 15.2. Quando a comissão se torna exigível — art. 466 da CLT
+
+O pagamento de comissões e percentagens só é exigível depois de **ultimada a transação**.
+
+Para fins de prova, a transação é considerada ultimada quando o negócio é efetivado/aceito, e não apenas quando o comprador termina de pagar todas as obrigações. Não confundir o momento em que nasce o direito à comissão com o momento de sua exigibilidade nas hipóteses de prestações sucessivas.
+
+Nas transações realizadas por prestações sucessivas, o art. 466, § 1º, prevê que as comissões correspondentes são exigíveis proporcionalmente à respectiva liquidação.
+
+Exemplo:
+- venda à vista: uma vez ultimada a transação, a comissão torna-se exigível conforme a regra aplicável;
+- venda parcelada: as comissões relativas às prestações sucessivas são exigíveis proporcionalmente à liquidação de cada prestação, observada também a legislação especial dos vendedores empregados.
+
+### 15.3. Vendedores, viajantes e pracistas — Lei 3.207/1957
+
+A Lei 3.207/1957 disciplina a atividade dos empregados vendedores, viajantes e pracistas, em complemento à CLT.
+
+Pontos de prova:
+- **Art. 2º:** o vendedor tem direito à comissão avençada sobre as vendas que realizar. Se houver zona de trabalho expressamente reservada com exclusividade, também terá direito às comissões sobre vendas realizadas naquela zona diretamente pela empresa ou por preposto.
+- **Art. 3º:** a transação é considerada aceita se o empregador não a recusar por escrito em 10 dias contados da proposta. Para negócio com comerciante ou empresa estabelecida em outro Estado ou no exterior, o prazo é de 90 dias, prorrogável por tempo determinado mediante comunicação escrita.
+- **Art. 4º:** pagamento mensal das comissões, com prestação de contas e cópias das faturas dos negócios concluídos. As partes podem fixar outra época, mas o prazo não pode exceder um trimestre contado da aceitação do negócio.
+- **Art. 5º:** nas transações com prestações sucessivas, as comissões são exigíveis conforme a ordem de recebimento das prestações.
+- **Art. 6º:** a cessação do contrato ou a inexecução voluntária do negócio pelo empregador não prejudica as comissões devidas.
+- **Art. 7º:** o texto legal prevê estorno em caso de insolvência do comprador. A aplicação dessa regra deve ser estudada em conjunto com a jurisprudência vinculante mais recente do TST sobre inadimplência e cancelamento, sem confundir insolvência com simples atraso ou inadimplemento.
+
+### 15.4. Estorno de comissões: Tema Repetitivo 65 do TST
+
+**Atenção: atualização jurisprudencial relevante.**
+
+No Tema Repetitivo 65, o Tribunal Pleno do TST fixou a tese de que **a inadimplência ou o cancelamento da compra pelo cliente não autoriza o empregador a estornar as comissões do empregado**.
+
+Fundamento: princípio da alteridade (art. 2º da CLT). Os riscos da atividade econômica são do empregador, não podendo ser transferidos ao empregado comissionista.
+
+Consequência prática:
+- venda ultimada e cliente depois deixa de pagar: não cabe estorno da comissão apenas por essa inadimplência;
+- cliente cancela depois de ultimada a transação: não cabe estorno apenas pelo cancelamento;
+- não confundir cancelamento posterior com negócio que nunca chegou a ser aceito ou ultimado.
+
+**Cuidado de prova:** a Lei 3.207/1957, art. 7º, menciona insolvência do comprador. A tese vinculante do Tema 65 trata expressamente de inadimplência e cancelamento. O enunciado deve ser lido com precisão: não equipare automaticamente qualquer atraso de parcela à insolvência juridicamente caracterizada, nem ignore a tese repetitiva atual do TST.
+
+### 15.5. Comissões depois do fim do contrato
+
+O término do contrato de trabalho não elimina o direito às comissões já devidas (art. 466, § 2º, da CLT).
+
+A Lei 3.207/1957, art. 6º, também determina que a cessação das relações de trabalho não prejudica a percepção das comissões e percentagens devidas.
+
+Exemplo: o empregado concluiu e ultimou uma venda durante o contrato, mas a comissão só se torna exigível posteriormente conforme o cronograma legal de liquidação das prestações. O encerramento do vínculo não apaga esse crédito.
+
+### 15.6. Gratificações legais e gratificação semestral
+
+O art. 457, § 1º, menciona expressamente as **gratificações legais** como parcelas integrantes do salário. A análise da natureza de qualquer gratificação exige identificar sua fonte normativa, finalidade e regime de pagamento; o nome utilizado no contracheque não resolve sozinho a questão.
+
+A Reforma Trabalhista alterou a redação do § 1º para mencionar gratificações legais. A antiga Súmula 152 do TST, sobre ajuste tácito de gratificação, foi cancelada em 2025 por perda de eficácia após a Lei 13.467/2017. Não use a redação antiga como se ainda fosse súmula vigente.
+
+**Súmula 253 do TST — gratificação semestral:**
+- em regra, não repercute no cálculo de horas extras, férias e aviso-prévio, ainda que indenizado;
+- repercute pelo duodécimo na indenização por antiguidade e na gratificação natalina.
+- atenção à situação em que a parcela chamada “semestral” é paga mensalmente: a jurisprudência do TST distingue a periodicidade real do pagamento, podendo afastar a aplicação da Súmula 253.
+
+### 15.7. Questões autorais de fixação — não oficiais
+
+**14.** Conforme o art. 466 da CLT, o pagamento de comissões e percentagens torna-se exigível:
+
+- A) Apenas depois de o comprador quitar integralmente qualquer negócio, mesmo à vista.
+- B) Depois de ultimada a transação a que se referem.
+- C) Somente no encerramento do contrato de trabalho.
+- D) Apenas após autorização sindical.
+
+**Gabarito: B.** É a regra expressa do caput do art. 466.
+
+**15.** Em transação realizada por prestações sucessivas, o art. 466, § 1º, prevê que as comissões e percentagens correspondentes são exigíveis:
+
+- A) Todas no primeiro dia da venda, independentemente das prestações.
+- B) Proporcionalmente à respectiva liquidação.
+- C) Somente após a última prestação.
+- D) Apenas quando o contrato de trabalho terminar.
+
+**Gabarito: B.** A exigibilidade acompanha proporcionalmente a liquidação das prestações.
+
+**16.** Empregado comissionista realiza venda ultimada. Posteriormente, o cliente deixa de pagar o preço. Conforme a tese do Tema Repetitivo 65 do TST:
+
+- A) O empregador pode sempre estornar a comissão.
+- B) A inadimplência do cliente autoriza automaticamente o desconto.
+- C) A inadimplência ou o cancelamento da compra pelo cliente não autoriza o estorno da comissão.
+- D) A comissão só é devida se o cliente pagar todas as parcelas pontualmente.
+
+**Gabarito: C.** Tema 65 do TST: o risco do negócio não pode ser transferido ao empregado.
+
+**17.** O empregado vendedor tem zona de trabalho expressamente reservada com exclusividade. De acordo com a Lei 3.207/1957, terá direito à comissão:
+
+- A) Apenas sobre as vendas que ele próprio concluir presencialmente.
+- B) Também sobre vendas realizadas na zona reservada diretamente pela empresa ou por preposto.
+- C) Apenas sobre vendas à vista.
+- D) Somente se houver previsão em convenção coletiva.
+
+**Gabarito: B.** Art. 2º da Lei 3.207/1957.
+
+**18.** A respeito do término do contrato de trabalho do empregado comissionista:
+
+- A) O término extingue todas as comissões ainda não pagas.
+- B) A cessação do vínculo não prejudica a percepção das comissões devidas na forma legal.
+- C) O empregado só recebe comissões se cumprir aviso-prévio.
+- D) O empregador pode reter todas as comissões até o fim de eventual ação judicial.
+
+**Gabarito: B.** Art. 466, § 2º, da CLT e art. 6º da Lei 3.207/1957.
+
+**19.** Sobre a gratificação semestral, conforme a Súmula 253 do TST:
+
+- A) Repercute sempre em horas extras, férias e aviso-prévio.
+- B) Não repercute em horas extras, férias e aviso-prévio, mas repercute pelo duodécimo na gratificação natalina.
+- C) Nunca repercute em nenhuma parcela.
+- D) É sempre indenizatória.
+
+**Gabarito: B.** É a regra da Súmula 253, observada a distinção jurisprudencial quando o pagamento nominalmente semestral ocorre mensalmente.
+
+### 15.8. Fontes oficiais
+
+- CLT, arts. 457, 459 e 466: https://www.planalto.gov.br/ccivil_03/decreto-lei/del5452compilado.htm
+- Lei 3.207/1957, texto oficial: https://www2.camara.leg.br/legin/fed/lei/1950-1959/lei-3207-18-julho-1957-354828-publicacaooriginal-1-pl.html
+- TST, Tema Repetitivo 65 — comissões, inadimplência ou cancelamento da compra: https://www.tst.jus.br/documents/10157/0/IRR065%2B%281%29.pdf/2de12aab-f549-b865-db58-47c815f17f75
+- TST, Súmula 253 e Súmula 152 (cancelada): https://www.tst.jus.br/documents/d/guest/livrointernet-12-pdf
+
+## 16. Próximos tópicos do Item 6
+
+1. Equiparação salarial — art. 461 da CLT.
+2. Proteção do salário, descontos e intangibilidade — art. 462 e normas correlatas.
+3. Salário mínimo, piso salarial e salário profissional.
+4. 13º salário e parcelas salariais correlatas.
