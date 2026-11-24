@@ -1840,3 +1840,40 @@ As duas questões foram cadastradas no banco e a consulta posterior confirmou os
 **Resposta:** Não. A previsão contratual não afasta a tese vinculante do Tema 65 nem transfere ao empregado o risco empresarial.
 
 Fontes de atualização: TST, IRR Tema 65 (RRAg-0011110-03.2023.5.03.0027) e índice de precedentes do TRT-3 com a tese do Tema 57; CLT, arts. 2º, 457 e 466; Lei 3.207/1957, arts. 2º, 4º, 6º e 7º.
+
+### 28.12. Comissionista, repouso semanal remunerado e horas extras
+
+**Repouso semanal — Súmula 27 do TST**
+- É devido o repouso semanal remunerado e o pagamento dos feriados ao empregado comissionista, inclusive pracista.
+- Para o comissionista puro, o RSR incidente sobre as comissões deve ser apurado à parte, pois a remuneração variável decorre das vendas efetivamente realizadas.
+- Para o comissionista misto, distingue-se a parcela fixa (cujo RSR normalmente já está incluído no salário mensal) da parcela variável (comissões), sobre a qual é devido o RSR correspondente.
+
+**Horas extras — Súmula 340 do TST**
+- O empregado comissionista sujeito a controle de horário tem direito ao adicional de horas extras, no mínimo de 50%, calculado sobre o valor-hora das comissões recebidas no mês.
+- O divisor é o número de horas efetivamente trabalhadas no mês.
+- No comissionista misto, a regra da Súmula 340 incide sobre a parte variável; para a parte fixa, aplica-se o cálculo ordinário das horas extras. Referência: OJ 397 da SDI-1.
+- Não confundir horas extras efetivamente trabalhadas com horas fictas decorrentes da supressão do intervalo intrajornada: a jurisprudência do TST distingue essas situações e afasta a aplicação automática da Súmula 340 às horas intervalares.
+
+**Gratificações mensais — Súmula 225 do TST**
+- As gratificações por tempo de serviço e de produtividade pagas mensalmente não repercutem no cálculo do RSR.
+- A Súmula 225 permanece no repertório oficial do TST; não confundir com verbetes efetivamente cancelados pela Resolução 225/2025.
+
+#### Questões autorais de fixação — não são questões oficiais FCC
+
+**1.** Vendedor comissionista puro recebe comissões pelas vendas. Não recebe RSR porque a comissão já remunera todos os dias do mês?
+
+**Resposta:** Errado. O comissionista tem direito ao RSR e aos feriados, conforme Súmula 27 do TST.
+
+**2.** Empregado recebe salário fixo mais comissões. O RSR sobre a parte fixa mensal deve ser pago novamente, além do salário mensal?
+
+**Resposta:** Em regra, não: o salário mensal já remunera os repousos relativos à parcela fixa. O RSR sobre as comissões variáveis deve ser apurado conforme a remuneração variável.
+
+**3.** Comissionista sujeito a controle de horário trabalha além da jornada. Sobre as comissões, recebe hora extra integral (hora normal + adicional)?
+
+**Resposta:** Pela Súmula 340, sobre a parte comissionada é devido o adicional de horas extras, calculado sobre o valor-hora das comissões e com divisor correspondente às horas efetivamente trabalhadas. No comissionista misto, separar a parcela fixa da variável.
+
+**4.** Gratificação por tempo de serviço paga mensalmente repercute no RSR?
+
+**Resposta:** Não, conforme Súmula 225 do TST. A mesma regra vale para gratificação de produtividade paga mensalmente.
+
+**Alerta de atualização:** a Súmula 27, a Súmula 340, a OJ 397 e a Súmula 225 tratam de problemas diferentes. Em questão objetiva, identifique se o enunciado pergunta por RSR sobre comissão, cálculo de horas extras do comissionista ou reflexo de gratificação mensal.
