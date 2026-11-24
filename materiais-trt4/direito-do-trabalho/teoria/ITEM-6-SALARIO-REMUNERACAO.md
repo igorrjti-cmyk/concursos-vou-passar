@@ -1308,3 +1308,73 @@ Prioridades para complementar o banco com provas oficiais de outros TRTs:
 - Constituição Federal, art. 7º: https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm
 - CLT, arts. 457 a 466: https://www.planalto.gov.br/ccivil_03/decreto-lei/del5452compilado.htm
 - STF, Súmula Vinculante 4: https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=26&sumula=1195
+
+
+## 25. Questão oficial FCC — TRT20/SE, Técnico Judiciário, 2024
+
+### 25.1. Questão 25 da prova H08 — inserida no banco oficial
+
+**Enunciado:** De acordo com o legislador, a remuneração é composta por diversas parcelas que visam remunerar o trabalhador de forma justa e adequada. Nesse sentido, integram a remuneração, além do valor fixo estipulado em contrato,
+
+- **A)** as gratificações ajustadas, as diárias para viagem, independentemente do valor pago, os prêmios e os abonos.
+- **B)** as gorjetas, sendo vedada a inclusão de qualquer gratificação ou comissão.
+- **C)** as gorjetas pagas diretamente pelos clientes ao empregado e as diárias para viagem.
+- **D)** as comissões e as gratificações legais.
+- **E)** a ajuda de custo, o auxílio-alimentação pago em dinheiro e os prêmios.
+
+<badge color="success">Questão oficial cadastrada</badge> **Gabarito: D.** Registro confirmado em `public.questoes`, rank **7878**, ID **3169919**. A prova é FCC, TRT da 20ª Região, Técnico Judiciário — Área Administrativa, 2024, caderno H08, tipo 002.
+
+**Fundamento:** art. 457, caput e §§ 1º e 2º, da CLT. As comissões pagas pelo empregador e as gratificações legais integram o salário e, consequentemente, a remuneração. As gorjetas também integram a remuneração, mas não são salário pago diretamente pelo empregador. A questão pede o que integra a remuneração **além do valor fixo**, e a alternativa D apresenta parcelas salariais expressamente previstas no § 1º.
+
+**Por que as demais estão erradas:**
+- **A:** diárias para viagem e prêmios, atendidos os requisitos legais, não integram a remuneração pelo art. 457, § 2º; a alternativa também generaliza as gratificações ajustadas, enquanto o § 1º menciona gratificações legais.
+- **B:** é incorreta porque comissões e gratificações legais integram o salário.
+- **C:** gorjetas integram a remuneração, mas diárias para viagem não integram a remuneração após a Reforma Trabalhista.
+- **D:** correta: comissões e gratificações legais integram o salário.
+- **E:** ajuda de custo e prêmios estão entre as parcelas excluídas pelo § 2º; o auxílio-alimentação só recebe a exclusão legal quando não pago em dinheiro.
+
+**Pegadinha central da FCC:** não confundir salário com remuneração. A gorjeta entra na remuneração por força do caput do art. 457, mas a comissão e a gratificação legal entram no próprio salário por força do § 1º.
+
+**Fontes conferidas:** caderno de prova FCC TRT20/2024, questão 25, e gabarito oficial do tipo 002, que indica alternativa D. A questão foi incluída no banco com origem e identificação da prova preservadas; não é exercício autoral.
+
+### 25.2. Treino autoral complementar — questões 53 a 56
+
+**53.** Um empregado recebe salário fixo, comissões pagas pelo empregador e gorjetas espontaneamente dadas pelos clientes. Para fins do art. 457 da CLT:
+
+- A) somente o salário fixo integra a remuneração.
+- B) salário fixo e gorjetas formam o salário, enquanto as comissões são indenizatórias.
+- C) salário fixo e comissões integram o salário; as gorjetas integram a remuneração.
+- D) gorjetas e comissões são sempre indenizações.
+
+**Gabarito: C.** O § 1º inclui comissões no salário; o caput inclui gorjetas na remuneração.
+
+**54.** Após a Reforma Trabalhista, as diárias para viagem:
+
+- A) integram a remuneração sempre que ultrapassarem 50% do salário.
+- B) não integram a remuneração, ainda que habituais, conforme art. 457, § 2º.
+- C) integram o salário quando pagas mensalmente.
+- D) são gorjetas quando pagas em dinheiro.
+
+**Gabarito: B.** A regra atual do § 2º não conserva o antigo critério de 50% da redação anterior.
+
+**55.** A gorjeta cobrada pela empresa na conta do cliente, destinada à distribuição aos empregados:
+
+- A) não é gorjeta, pois não foi entregue espontaneamente.
+- B) integra a remuneração, nos termos do art. 457, § 3º.
+- C) integra o salário fixo do empregado.
+- D) somente integra a remuneração se houver previsão em contrato individual.
+
+**Gabarito: B.** O § 3º abrange tanto a gorjeta espontânea quanto a cobrada pela empresa como serviço ou adicional e destinada aos empregados.
+
+**56.** Um pagamento denominado “prêmio” é concedido de forma automática, como contraprestação ordinária por metas que correspondem ao desempenho normalmente esperado. Nessa situação:
+
+- A) o simples nome “prêmio” garante a natureza não salarial.
+- B) a habitualidade, isoladamente, transforma qualquer prêmio em gorjeta.
+- C) é necessário verificar a realidade do pagamento, pois o prêmio legal exige liberalidade e desempenho superior ao ordinariamente esperado.
+- D) todo pagamento variável é necessariamente indenizatório.
+
+**Gabarito: C.** Art. 457, § 4º. A denominação não substitui os requisitos legais; se a parcela for contraprestação ordinária disfarçada, poderá ser reconhecida sua natureza salarial.
+
+### 25.3. Atualização do diagnóstico de questões oficiais
+
+Com a inclusão da questão rank 7878, o banco passa a ter uma questão oficial FCC diretamente dedicada à distinção entre salário, remuneração, gorjetas, comissões e gratificações legais. A amostra continua pequena para cobrir todo o Item 6; a busca deve prosseguir especialmente em equiparação salarial, salário-utilidade, descontos e comissões. Os exercícios 53 a 56 permanecem somente neste arquivo de teoria e não foram inseridos em `public.questoes`.
