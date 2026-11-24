@@ -1206,3 +1206,105 @@ Concluídos os tópicos de salário e remuneração, a próxima etapa é uma rev
 7. décimo terceiro salário.
 
 A revisão deverá cruzar a teoria com as questões oficiais FCC já existentes no banco. Questões autorais continuarão identificadas separadamente e não serão inseridas na tabela de questões oficiais.
+
+
+## 24. Revisão integrada — questões oficiais já cadastradas no banco
+
+A consulta à tabela `public.questoes`, filtrando questões FCC relacionadas a salário, remuneração, gorjetas, comissões, salário mínimo, décimo terceiro e equiparação salarial, localizou atualmente os seguintes itens diretamente pertinentes:
+- rank 7722 — FCC, TRT-2, 2025 — proteção do salário e irredutibilidade;
+- rank 7747 — FCC, TRT-14, 2022 — salário mínimo e vedação de vinculação.
+
+A questão rank 7738, embora contenha a palavra salário-família, tem como foco principal jornada em turnos ininterruptos e salário-família, não sendo contabilizada como questão central deste item.
+
+### 24.1. Questão oficial rank 7722 — FCC, TRT-2, 2025
+
+**Enunciado:** De acordo com a Constituição Federal de 1988 e com as disposições legais que preveem regras de proteção ao salário, qual afirmação está correta?
+
+Alternativas:
+- **A:** a irredutibilidade salarial seria absoluta, mesmo diante de convenção ou acordo coletivo.
+- **B:** a redução poderia ocorrer com justificativa prévia do empregador.
+- **C:** a redução seria possível por acordo individual quando o empregado tivesse diploma de nível superior.
+- **D:** a irredutibilidade é a regra, mas admite redução prevista em convenção ou acordo coletivo.
+- **E:** a redução poderia ocorrer por acordo individual para empregado com salário igual ou superior a duas vezes o teto do RGPS.
+
+**Gabarito cadastrado: D.**
+
+**Fundamento:** art. 7º, VI, da Constituição Federal: irredutibilidade do salário, salvo o disposto em convenção ou acordo coletivo.
+
+**Análise das alternativas:**
+- **A — errada:** transforma a garantia em absoluta e elimina a exceção constitucional da negociação coletiva.
+- **B — errada:** justificativa unilateral do empregador não substitui a exigência constitucional.
+- **C — errada:** a condição de empregado com diploma de nível superior, isoladamente, não autoriza redução salarial individual.
+- **D — correta:** reproduz a regra constitucional e sua exceção.
+- **E — errada:** o critério remuneratório e o diploma podem ser relevantes para a negociação individual de determinadas matérias nos termos do art. 444, parágrafo único, mas não afastam a regra constitucional específica sobre redução salarial.
+
+**Ponto de prova:** não confunda o art. 7º, VI, da CF com o art. 444, parágrafo único, da CLT. A autonomia individual ampliada prevista neste último não transforma a redução salarial em hipótese livre de negociação individual.
+
+### 24.2. Questão oficial rank 7747 — FCC, TRT-14, 2022
+
+**Enunciado:** questão sobre o salário mínimo como proteção constitucional e sua função de assegurar condições dignas ao trabalhador e à família.
+
+**Gabarito cadastrado: C.** A alternativa correta afirma que o salário mínimo não pode ser usado como indexador de prestação instituída por lei ou estipulada em contrato, em razão da vedação de vinculação para qualquer fim.
+
+**Fundamento:** art. 7º, IV, da Constituição e Súmula Vinculante 4 do STF.
+
+**Ponto de prova:** a unificação nacional do salário mínimo não impede a existência de pisos salariais específicos, desde que instituídos por fonte normativa válida. A vedação de vinculação não deve ser confundida com a existência de piso de categoria.
+
+### 24.3. Diagnóstico de cobertura do banco
+
+A amostra diretamente localizada na consulta atual é pequena diante da extensão do conteúdo teórico. Isso não significa que a FCC não cobre os demais assuntos: significa apenas que eles ainda não estão representados, com esses filtros, no conjunto de registros encontrados.
+
+Prioridades para complementar o banco com provas oficiais de outros TRTs:
+1. natureza salarial e indenizatória das parcelas (art. 457);
+2. gorjetas e seus reflexos (Súmula 354);
+3. salário-utilidade (art. 458 e Súmula 367);
+4. comissões, pagamento e estorno (art. 466 e Tema 65 do TST);
+5. equiparação salarial (art. 461);
+6. descontos e proteção salarial (art. 462 e Súmula 342);
+7. décimo terceiro salário.
+
+**Controle de qualidade:** questões encontradas em páginas de terceiros ou em provas disponíveis na internet não serão inseridas como oficiais apenas por aparecerem em uma busca. Antes da inclusão, é necessário conferir prova, alternativas, gabarito e identificação da origem. A questão FCC TRT-1/2025 sobre parcelas recebidas pelo empregado foi localizada em cópia do caderno, mas seu gabarito oficial ainda precisa ser conferido; por isso, não foi importada nem recebeu rank no banco.
+
+### 24.4. Treino autoral — questões 49 a 52
+
+**49.** A Constituição Federal assegura a irredutibilidade salarial, ressalvando a possibilidade de redução:
+
+- A) por decisão unilateral do empregador, desde que motivada.
+- B) por acordo individual em qualquer hipótese.
+- C) por convenção ou acordo coletivo de trabalho.
+- D) por decisão do sindicato, independentemente de instrumento coletivo.
+
+**Gabarito: C.** Art. 7º, VI, da Constituição.
+
+**50.** Empregado que recebe salário variável:
+
+- A) não tem garantia constitucional de salário mínimo.
+- B) tem garantia de salário nunca inferior ao mínimo, nos termos do art. 7º, VII, da Constituição.
+- C) pode receber valor inferior ao mínimo em qualquer mês.
+- D) recebe obrigatoriamente o dobro do mínimo.
+
+**Gabarito: B.** A Constituição protege expressamente quem recebe remuneração variável.
+
+**51.** As gorjetas integram:
+
+- A) o salário básico, para todos os efeitos.
+- B) a remuneração, mas não o salário pago diretamente pelo empregador.
+- C) apenas o FGTS, sem integrar a remuneração.
+- D) exclusivamente o cálculo das férias.
+
+**Gabarito: B.** Art. 457, caput e § 3º, da CLT. Os reflexos seguem a disciplina legal e a Súmula 354 do TST.
+
+**52.** A vedação de vinculação do salário mínimo significa que:
+
+- A) não pode existir piso salarial de categoria.
+- B) todo trabalhador deve receber exatamente o salário mínimo.
+- C) o salário mínimo não pode funcionar como indexador automático de outras prestações, observadas as hipóteses constitucionais.
+- D) o salário mínimo pode ser livremente substituído por piso regional.
+
+**Gabarito: C.** Art. 7º, IV, da Constituição e SV 4 do STF.
+
+### 24.5. Fontes para revisão
+
+- Constituição Federal, art. 7º: https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm
+- CLT, arts. 457 a 466: https://www.planalto.gov.br/ccivil_03/decreto-lei/del5452compilado.htm
+- STF, Súmula Vinculante 4: https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=26&sumula=1195
