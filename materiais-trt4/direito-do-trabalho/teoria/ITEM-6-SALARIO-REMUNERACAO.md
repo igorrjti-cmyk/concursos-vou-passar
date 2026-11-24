@@ -1763,3 +1763,19 @@ Foram incluídas no banco de questões, com origem real preservada e classifica�
 - **Q3468739 — FCC TRT-1/RJ, Técnico Judiciário, 2025 — rank 7884 — gabarito C.** Cálculo de 13º proporcional: janeiro e fevereiro contam; março, com 14 dias, não. Resultado: 2/12 de R$ 3.600,00 = R$ 600,00.
 
 Esses três registros foram inseridos e conferidos por consulta posterior no banco. O campo de escopo permanece TRT4 para fins do projeto; o campo de origem identifica corretamente o TRT e o ano de cada prova.
+
+
+### 28.9. Questões oficiais adicionais — gorjetas, salário-utilidade e parcelas não salariais
+
+Mais três questões oficiais foram cadastradas e conferidas no banco:
+
+- **Q25096 — FCC TRT-18/GO, Analista Judiciário, 2008 — rank 7885 — gabarito B.** Gorjetas integram a remuneração, mas não servem de base para RSR, aviso-prévio, horas extras e adicional noturno (Súmula 354 do TST). Questão anterior à Reforma Trabalhista; a alternativa sobre diárias deve ser lida conforme a lei da época.
+- **Q14360 — FCC TRT-15/SP, Técnico Judiciário, 2009 — rank 7886 — gabarito A.** Gorjetas não integram a base do RSR; comissões, percentagens e gratificações ajustadas tinham natureza salarial; seguro de vida/acidentes e assistência odontológica não eram salário-utilidade. Questão histórica, anterior à Reforma.
+- **Q889540 — FCC TRT-6/PE, Analista Judiciário, 2018 — rank 7887 — gabarito E.** Ajuda de custo e diárias de viagem estão fora da remuneração, sem limite de 50%; auxílio-alimentação só permanece fora quando não pago em dinheiro; gorjetas e gratificações legais integram a remuneração/salário, respectivamente (CLT, art. 457).
+
+#### Atualização importante para não transportar regra antiga para prova atual
+
+Antes da Lei 13.467/2017, o art. 457 previa integração de diárias superiores a 50% do salário e a jurisprudência tratava a habitualidade de algumas parcelas de modo diferente. O texto atual do § 2º exclui ajuda de custo, auxílio-alimentação não pago em dinheiro, diárias para viagem, prêmios e abonos, ainda que habituais, desde que efetivamente correspondam às rubricas legais. A nomenclatura dada pelo empregador não prevalece sobre a realidade do pagamento.
+
+**Atenção à gorjeta:** ela integra a remuneração, mas não o salário pago diretamente pelo empregador. Por isso, a Súmula 354 do TST afasta sua repercussão nas bases ali indicadas. Não confundir com comissões, que integram o salário.
+
