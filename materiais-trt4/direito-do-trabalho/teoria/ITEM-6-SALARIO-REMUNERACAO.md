@@ -1378,3 +1378,131 @@ Prioridades para complementar o banco com provas oficiais de outros TRTs:
 ### 25.3. Atualização do diagnóstico de questões oficiais
 
 Com a inclusão da questão rank 7878, o banco passa a ter uma questão oficial FCC diretamente dedicada à distinção entre salário, remuneração, gorjetas, comissões e gratificações legais. A amostra continua pequena para cobrir todo o Item 6; a busca deve prosseguir especialmente em equiparação salarial, salário-utilidade, descontos e comissões. Os exercícios 53 a 56 permanecem somente neste arquivo de teoria e não foram inseridos em `public.questoes`.
+
+
+## 26. Equiparação salarial — art. 461 da CLT
+
+### 26.1. Requisitos cumulativos
+
+O caput do art. 461 assegura salário igual quando houver:
+- identidade de função;
+- trabalho de igual valor;
+- mesmo empregador;
+- mesmo estabelecimento empresarial;
+- ausência de fator legal que afaste a equiparação.
+
+A igualdade de função é apurada pelas tarefas efetivamente desempenhadas, e não apenas pelo nome do cargo. A Súmula 6, III, do TST afirma que a denominação diferente dos cargos não impede a equiparação quando as funções e tarefas são as mesmas.
+
+**Atenção:** após a Reforma Trabalhista, o critério territorial é o mesmo estabelecimento empresarial. Não basta que os empregados trabalhem em municípios da mesma região metropolitana. A expressão “mesma localidade” pertence à redação anterior e não deve ser aplicada aos fatos submetidos à lei atual.
+
+### 26.2. Trabalho de igual valor — § 1º
+
+O trabalho de igual valor exige, simultaneamente:
+1. igual produtividade;
+2. mesma perfeição técnica;
+3. diferença de tempo de serviço para o mesmo empregador não superior a quatro anos;
+4. diferença de tempo na função não superior a dois anos.
+
+Os limites temporais são cumulativos e possuem marcos diferentes. O primeiro considera o tempo de serviço para o empregador; o segundo, o tempo na função.
+
+**Exemplo:** empregado A tem seis anos de empresa e quatro anos na função; empregado B tem três anos de empresa e dois anos na função. A diferença é de três anos no empregador e dois anos na função: os limites temporais, isoladamente, são respeitados. Ainda será necessário demonstrar identidade de função, igual produtividade e mesma perfeição técnica.
+
+### 26.3. Plano de cargos e salários — §§ 2º e 3º
+
+A equiparação não prevalece quando o empregador:
+- possui pessoal organizado em quadro de carreira; ou
+- adota plano de cargos e salários por norma interna da empresa ou negociação coletiva.
+
+A lei dispensa homologação ou registro em órgão público. As promoções podem ocorrer por merecimento e antiguidade, ou por apenas um desses critérios, dentro de cada categoria profissional.
+
+**Pegadinha FCC:** a alternativa que exige homologação do Ministério do Trabalho reproduz entendimento anterior à Reforma Trabalhista e está errada para a regra atual.
+
+### 26.4. Paradigma readaptado e contemporaneidade — §§ 4º e 5º
+
+- O empregado readaptado em nova função, por motivo de deficiência física ou mental atestada pelo órgão competente da Previdência Social, não serve como paradigma.
+- A equiparação só é possível entre empregados contemporâneos no cargo ou na função.
+- É vedada a indicação de paradigma remoto, ainda que o paradigma contemporâneo tenha obtido a vantagem em ação judicial própria.
+
+Não é necessário que reclamante e paradigma ainda estejam trabalhando na empresa no momento do ajuizamento, desde que a pretensão se refira a período em que foram contemporâneos. A Súmula 6, IV, do TST preserva essa hipótese.
+
+### 26.5. Trabalho intelectual
+
+A equiparação também pode alcançar trabalho intelectual. A Súmula 6, VII, do TST admite a comparação quando a perfeição técnica puder ser avaliada por critérios objetivos.
+
+Não confunda:
+- **correta:** trabalho intelectual pode ser equiparado, se demonstrados os requisitos legais e a possibilidade de avaliação objetiva;
+- **incorreta:** trabalho intelectual nunca admite equiparação porque sua qualidade seria impossível de medir.
+
+Esse ponto aparece na questão FCC/CSJT de 2017 já localizada no banco, rank 7754. A assertiva IV daquela questão está errada justamente porque presume inviabilidade absoluta de aferição objetiva.
+
+### 26.6. Ônus da prova e prescrição
+
+Conforme a Súmula 6, VIII, do TST:
+- cabe ao empregado demonstrar os fatos constitutivos do direito, especialmente identidade funcional e trabalho de igual valor;
+- cabe ao empregador provar fatos impeditivos, modificativos ou extintivos, como diferença de produtividade/perfeição técnica, limites temporais, plano de cargos válido ou ausência de contemporaneidade.
+
+A pretensão de diferenças salariais decorrentes de equiparação está sujeita à prescrição parcial: alcança as parcelas vencidas no quinquênio anterior ao ajuizamento, respeitado o limite de dois anos após o término do contrato. A Súmula 6, IX, do TST registra a natureza parcial da prescrição.
+
+### 26.7. Discriminação remuneratória — atualização da Lei 14.611/2023
+
+Atenção à mudança legislativa:
+- **Na redação vigente em 2018**, o antigo § 6º previa multa em favor do empregado discriminado no valor de 50% do limite máximo dos benefícios do RGPS. É essa redação histórica que aparece na questão FCC TRT-6/2018, questão 58.
+- **Na redação atual**, dada pela Lei 14.611/2023, o § 6º assegura que o pagamento das diferenças salariais não afasta a ação de indenização por danos morais, consideradas as especificidades do caso concreto.
+- O atual § 7º estabelece multa de dez vezes o valor do novo salário devido ao empregado discriminado, elevada ao dobro em caso de reincidência, sem prejuízo das demais cominações legais.
+
+Em prova com questão antiga, resolva conforme a legislação indicada ou vigente no momento cobrado. Em questão atual, não repita automaticamente o antigo percentual de 50% do teto do RGPS.
+
+### 26.8. Questão oficial — FCC TRT-6/PE 2018, questão 58
+
+**Enunciado:** questão com quatro assertivas sobre equiparação salarial: critério territorial, limites de tempo, plano de cargos e salários e multa por discriminação.
+
+**Gabarito: C — II e IV.** Questão cadastrada em `public.questoes`, ID `890561`, rank `7879`.
+
+Análise:
+- **I — falsa:** o texto atual e também o texto reformado vigente em 2018 exigiam o mesmo estabelecimento empresarial; a referência alternativa à região metropolitana não estava correta.
+- **II — verdadeira:** reproduz os limites de quatro anos no tempo de serviço para o mesmo empregador e dois anos na função.
+- **III — falsa:** desde a Reforma Trabalhista, o plano de cargos e salários não depende de homologação ou registro em órgão público.
+- **IV — verdadeira para a prova de 2018:** na época, o antigo § 6º previa multa de 50% do limite máximo dos benefícios do RGPS. A Lei 14.611/2023 alterou a disciplina; hoje devem ser aplicados os §§ 6º e 7º atuais, descritos na seção 26.7.
+
+**Origem e gabarito conferidos:** FCC, TRT da 6ª Região/PE, Analista Judiciário — Oficial de Justiça Avaliador Federal, prova aplicada em 29/04/2018, caderno B02, questão 58; gabarito C. A identificação de origem foi preservada no banco. O campo `concurso='TRT4'` representa o escopo deste caderno de preparação, não a origem da prova.
+
+### 26.9. Treino autoral — questões 57 a 60
+
+**57.** Para a equiparação salarial, segundo o art. 461 da CLT, o limite de diferença de tempo de serviço para o mesmo empregador é de:
+- A) dois anos, enquanto na função é de quatro anos.
+- B) quatro anos, enquanto na função é de dois anos.
+- C) cinco anos, enquanto na função é de três anos.
+- D) três anos, enquanto na função é de um ano.
+
+**Gabarito: B.** Os dois limites são cumulativos: quatro anos no serviço para o empregador e dois anos na função.
+
+**58.** Uma empresa adota plano de cargos e salários por norma interna, sem homologação ou registro em órgão público. À luz do art. 461, § 2º, da CLT:
+- A) o plano é inválido por falta de homologação sindical.
+- B) o plano só é válido se registrado no Ministério do Trabalho.
+- C) a homologação ou o registro público são dispensados.
+- D) o plano não pode prever promoções por merecimento.
+
+**Gabarito: C.** A lei dispensa homologação ou registro em órgão público.
+
+**59.** Dois empregados exercem trabalho intelectual de igual valor, e a perfeição técnica pode ser aferida por critérios objetivos. Segundo a jurisprudência do TST:
+- A) a equiparação é sempre proibida para trabalho intelectual.
+- B) a equiparação pode ser admitida, se preenchidos os demais requisitos legais.
+- C) basta a identidade do nome dos cargos.
+- D) a equiparação depende exclusivamente do tempo de empresa.
+
+**Gabarito: B.** Súmula 6, VII, do TST.
+
+**60.** Em questão atual sobre discriminação salarial por motivo de sexo, raça, etnia, origem ou idade, a CLT prevê:
+- A) exclusivamente a multa histórica de 50% do teto do RGPS.
+- B) apenas pagamento das diferenças salariais, sem outras consequências.
+- C) possibilidade de indenização por danos morais, além das diferenças, e multa legal de dez vezes o novo salário devido, dobrada em caso de reincidência.
+- D) nulidade automática de todo o contrato de trabalho.
+
+**Gabarito: C.** Art. 461, §§ 6º e 7º, na redação da Lei 14.611/2023.
+
+### 26.10. Fontes legais e jurisprudenciais
+
+- CLT, art. 461, texto consolidado: https://www2.camara.leg.br/legin/fed/declei/1940-1949/decreto-lei-5452-1-maio-1943-415500-normaatualizada-pe.html
+- Lei 14.611/2023 — igualdade salarial e critérios remuneratórios: https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/lei/l14611.htm
+- TST, Súmula 6 — equiparação salarial, com revisão/cancelamentos decorrentes da Reforma Trabalhista e Resolução 225/2025: https://www.tst.jus.br/documents/d/guest/livrointernet-12-pdf
+
