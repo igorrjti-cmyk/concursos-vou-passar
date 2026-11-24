@@ -1798,3 +1798,45 @@ As duas questões foram cadastradas no banco e a consulta posterior confirmou os
 7. Paradigma readaptado não serve para equiparação.
 8. Ônus do empregador quanto aos fatos impeditivos, modificativos ou extintivos, observada a distribuição legal/jurisprudencial do ônus da prova.
 
+
+### 28.11. Comissões: aquisição do direito, vendas parceladas e estorno
+
+**Regra legal — CLT, arts. 457, § 1º, e 466**
+- Comissões e percentagens integram o salário.
+- O direito à comissão torna-se exigível quando ultimada a transação a que ela se refere (art. 466, caput).
+- Em transações realizadas por prestações sucessivas, o pagamento das comissões é exigível proporcionalmente à liquidação das parcelas (art. 466, § 1º).
+- A regra de exigibilidade proporcional nas prestações sucessivas não autoriza transferir ao empregado o risco de inadimplemento posterior do comprador.
+
+**Vendedor empregado — Lei 3.207/1957**
+- Art. 2º: assegura comissão ao empregado vendedor pelas vendas realizadas.
+- Art. 3º: disciplina a hipótese de zona exclusiva e negócios ali realizados.
+- Art. 4º: pagamento mensal das comissões, admitida periodicidade maior nos limites legais.
+- Art. 6º: a cessação do contrato não prejudica as comissões devidas por negócios já realizados.
+- Art. 7º: prevê a hipótese específica de insolvência do comprador como fundamento legal para estorno da comissão paga. Não confundir insolvência juridicamente caracterizada com simples atraso ou inadimplência.
+
+**Jurisprudência vinculante do TST**
+- **Tema 65 (IRR):** a inadimplência ou o cancelamento da compra pelo cliente não autoriza o empregador a estornar as comissões do empregado. Tese julgada pelo Tribunal Pleno em 24/02/2025 e publicada em 11/03/2025.
+- **Tema 57 (IRR):** nas vendas a prazo, as comissões incidem sobre o valor total da operação, incluídos juros e demais encargos financeiros, salvo pactuação em sentido contrário.
+- Fundamento comum: princípio da alteridade (CLT, art. 2º). O risco normal do negócio pertence ao empregador.
+
+**Pegadinha de prova:** diferencie (a) transação ainda não ultimada, em que o direito pode não ter surgido; (b) venda concluída e posterior inadimplência/cancelamento, que não autoriza estorno pelo Tema 65; e (c) hipótese legal específica de insolvência do comprador, prevista no art. 7º da Lei 3.207/1957. Não trate simples falta de pagamento como sinônimo automático de insolvência.
+
+#### Questões autorais de fixação — não são questões oficiais FCC
+
+**1.** Vendedor conclui a venda e recebe a comissão. O cliente posteriormente deixa de pagar uma parcela. A empresa pode estornar a comissão apenas por esse inadimplemento?
+
+**Resposta:** Não. O Tema 65 do TST estabelece que a inadimplência do cliente não autoriza o estorno. O risco da atividade econômica é do empregador.
+
+**2.** Em venda a prazo, a comissão deve ser calculada necessariamente apenas sobre o preço à vista, excluídos juros e encargos?
+
+**Resposta:** Não. Pelo Tema 57 do TST, a comissão incide sobre o valor total da operação, incluindo juros e encargos financeiros, salvo pactuação em sentido contrário.
+
+**3.** A comissão integra a remuneração, mas não o salário?
+
+**Resposta:** Incorreto. A comissão integra o salário, nos termos do art. 457, § 1º, da CLT. Gorjetas, por sua vez, integram a remuneração, sem se confundirem com salário pago diretamente pelo empregador.
+
+**4.** A simples previsão contratual de estorno permite descontar comissão quando o consumidor cancela a compra depois de concluída a transação?
+
+**Resposta:** Não. A previsão contratual não afasta a tese vinculante do Tema 65 nem transfere ao empregado o risco empresarial.
+
+Fontes de atualização: TST, IRR Tema 65 (RRAg-0011110-03.2023.5.03.0027) e índice de precedentes do TRT-3 com a tese do Tema 57; CLT, arts. 2º, 457 e 466; Lei 3.207/1957, arts. 2º, 4º, 6º e 7º.
