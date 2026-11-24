@@ -1779,3 +1779,22 @@ Antes da Lei 13.467/2017, o art. 457 previa integração de diárias superiores 
 
 **Atenção à gorjeta:** ela integra a remuneração, mas não o salário pago diretamente pelo empregador. Por isso, a Súmula 354 do TST afasta sua repercussão nas bases ali indicadas. Não confundir com comissões, que integram o salário.
 
+
+
+### 28.10. Questões oficiais adicionais — equiparação salarial (FCC)
+
+- **Q2109292 — FCC TRT-9/PR, Analista Judiciário, 2022 — rank 7888 — gabarito E.** A diferença de tempo na função é de 1 ano e 8 meses (inferior a dois anos); a diferença de tempo de serviço para o empregador é de três anos (inferior a quatro). Os dois limites são autônomos e cumulativos.
+- **Q1999248 — FCC TRT-5/BA, Analista Judiciário, 2022 — rank 7889 — gabarito C (II e IV).** Plano de cargos e salários não precisa de homologação/registro em órgão público; o limite temporal de tempo de serviço para o mesmo empregador é quatro anos, e não dois; a contemporaneidade impede paradigma remoto, inclusive na hipótese descrita na questão.
+
+As duas questões foram cadastradas no banco e a consulta posterior confirmou os respectivos IDs, ranks, origens e gabaritos.
+
+**Síntese atual do art. 461 da CLT:**
+1. Mesmo empregador e mesmo estabelecimento empresarial.
+2. Identidade de função, trabalho de igual valor, igual produtividade e perfeição técnica.
+3. Diferença de tempo para o mesmo empregador: até quatro anos.
+4. Diferença de tempo na função: até dois anos.
+5. Contemporaneidade; vedação a paradigma remoto.
+6. Plano de cargos e salários por norma interna ou negociação coletiva, sem necessidade de homologação/registro público.
+7. Paradigma readaptado não serve para equiparação.
+8. Ônus do empregador quanto aos fatos impeditivos, modificativos ou extintivos, observada a distribuição legal/jurisprudencial do ônus da prova.
+
