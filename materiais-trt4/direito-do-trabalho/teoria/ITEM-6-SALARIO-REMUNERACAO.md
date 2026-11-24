@@ -1946,3 +1946,68 @@ Fontes de atualização: TST, IRR Tema 65 (RRAg-0011110-03.2023.5.03.0027) e ín
 - **Q3214723 — FCC TRT-6/PE, Analista Judiciário, 2025 — rank 7891 — gabarito C.** Eliminado efetivamente o agente insalubre pela substituição do maquinário, cessa o pagamento do adicional. É salário-condição, não parcela incorporada definitivamente.
 
 As duas questões foram cadastradas em `public.questoes`; consulta posterior confirmou IDs, ranks, origem e gabaritos. Os identificadores de origem são os das bases de questões; a origem real da prova está registrada como TRT-6/PE, sem confundir com o escopo de estudo TRT-4.
+
+### 28.15. Adicional noturno, hora noturna reduzida e prorrogação
+
+**Trabalho urbano — CLT, art. 73**
+- Período noturno urbano: das 22h de um dia às 5h do dia seguinte (art. 73, § 2º).
+- Adicional noturno legal mínimo: 20% sobre a hora diurna (art. 73, caput), salvo percentual mais favorável em norma coletiva.
+- Hora noturna reduzida: 52 minutos e 30 segundos (art. 73, § 1º). Assim, 7 horas de relógio entre 22h e 5h equivalem a 8 horas noturnas para fins de cômputo.
+- O adicional noturno pago com habitualidade integra o salário para todos os efeitos (Súmula 60, I, do TST).
+- A transferência para o período diurno implica perda do adicional noturno (Súmula 265 do TST), pois desaparece a condição que justificava a parcela.
+
+**Trabalho rural — Lei 5.889/1973**
+- Lavoura: das 21h às 5h.
+- Pecuária: das 20h às 4h.
+- Adicional noturno rural: 25%.
+- A hora noturna rural é de 60 minutos; não se aplica a redução ficta urbana de 52min30s.
+- Pegadinha recorrente: não transportar o horário e percentual urbanos para o trabalhador rural.
+
+**Prorrogação da jornada noturna — CLT, art. 73, § 5º, e Súmula 60, II, do TST**
+- Cumprida integralmente a jornada no período noturno e prorrogada, é devido o adicional também nas horas prorrogadas.
+- O entendimento do TST também tem sido aplicado à jornada mista que abrange parte do período noturno e termina após as 5h, quando há efetiva prorrogação do labor noturno.
+- A jurisprudência do TST reconhece, na prorrogação, também a observância da hora noturna reduzida, conforme o caso.
+- Não confundir prorrogação da jornada noturna com qualquer trabalho diurno isolado após as 5h: é necessário contexto de continuidade/prorrogação do labor noturno.
+
+**Atenção à jornada 12x36**
+- O art. 59-A, parágrafo único, da CLT estabelece que a remuneração mensal pactuada para a jornada 12x36 abrange os pagamentos devidos pelo descanso semanal e feriados e considera compensadas as prorrogações do trabalho noturno referidas no art. 73, § 5º.
+- A aplicação e o alcance dessa regra em situações concretas devem ser lidos em conjunto com o regime efetivamente praticado, a validade da escala e a jurisprudência aplicável. Não generalizar a regra da 12x36 para outros regimes.
+
+**Tema 92 do TST — ponto de atualização**
+- Em março de 2025, o TST afetou o Tema 92 para decidir se a jornada iniciada no período noturno e prorrogada após as 5h gera adicional no período prorrogado mesmo quando não houve trabalho durante todo o período noturno, e se norma coletiva pode limitar esse adicional à luz do Tema 1046 do STF.
+- Na consulta oficial realizada para esta atualização, o Tema 92 constava como afetado, sem tese firmada. Portanto, não apresentar a controvérsia como definitivamente resolvida por precedente repetitivo.
+- Para questões que cobram a regra geral consolidada, estudar art. 73, §§ 4º e 5º, e Súmula 60, II, ressalvando o debate submetido ao Tema 92.
+
+**Base de cálculo e reflexos**
+- A base do adicional noturno é a hora diurna normal, observada a remuneração aplicável e normas mais favoráveis.
+- O adicional noturno integra a base de cálculo das horas extras prestadas no período noturno (OJ 97 da SDI-1 do TST).
+- O adicional noturno habitual integra o salário para os efeitos legais (Súmula 60, I).
+- Se o empregado recebe adicional de periculosidade e trabalha à noite, o adicional de periculosidade integra a base de cálculo do adicional noturno (OJ 259 da SDI-1 do TST).
+
+#### Questões autorais de fixação — não são questões oficiais FCC
+
+**1.** Empregado urbano trabalha das 22h às 5h. Qual o adicional mínimo e qual a duração da hora noturna?
+
+**Resposta:** 20% e hora ficta de 52 minutos e 30 segundos. O período de sete horas de relógio corresponde a oito horas noturnas.
+
+**2.** Trabalhador rural da lavoura presta serviços das 21h às 5h. Aplica-se a hora noturna de 52min30s e adicional de 20%?
+
+**Resposta:** Não. Para a lavoura, o período noturno vai das 21h às 5h, o adicional é de 25% e a hora tem 60 minutos.
+
+**3.** Empregado cumpre jornada noturna integral e continua trabalhando após as 5h. O adicional noturno termina necessariamente às 5h?
+
+**Resposta:** Não. A regra do art. 73, § 5º, e da Súmula 60, II, do TST assegura o adicional também na prorrogação da jornada noturna, ressalvadas controvérsias específicas submetidas ao Tema 92 e regimes legais próprios.
+
+**4.** O adicional noturno habitual integra o salário? E a transferência para o turno diurno mantém o adicional?
+
+**Resposta:** O adicional habitual integra o salário (Súmula 60, I), mas a transferência para o período diurno retira o direito ao adicional noturno (Súmula 265).
+
+**5.** O adicional de periculosidade deve integrar a base do adicional noturno?
+
+**Resposta:** Sim, conforme OJ 259 da SDI-1 do TST.
+
+**6.** Em escala 12x36, o art. 59-A, parágrafo único, da CLT contém regra específica sobre a prorrogação noturna?
+
+**Resposta:** Sim. O dispositivo considera compensadas as prorrogações do trabalho noturno ali referidas. É regra própria do regime 12x36, não aplicável automaticamente a todas as escalas.
+
+Fontes de atualização: CLT, art. 73 e art. 59-A; Lei 5.889/1973, art. 7º; Súmulas 60 e 265 do TST; OJs 97 e 259 da SDI-1; ficha oficial do Tema 92 do TST (afetado em 24/03/2025, sem tese firmada na consulta).
