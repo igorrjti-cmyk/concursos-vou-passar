@@ -259,3 +259,151 @@ O Tema 102 do TST foi afetado para discutir situação específica de trabalhado
 - TST — OJ 355 e jurisprudência sobre intervalo interjornada: https://www.tst.jus.br/
 - TST — Tema 102 (afetado): https://www.tst.jus.br/documents/d/guest/irr102
 - Acórdão do TST que explicita a distinção temporal da Lei 13.467/2017 e a regra atual do art. 71, § 4º: https://jurisprudencia-backend.tst.jus.br/rest/documentos/146aa057c93a9b7b7a142c9042632820
+
+
+## 15. Repouso semanal remunerado (DSR) — Lei 605/1949 e CLT, art. 67
+
+O repouso semanal remunerado é período de descanso de natureza obrigatória, destinado à recuperação física e mental do trabalhador. Na disciplina tradicional, corresponde a 24 horas consecutivas por semana, preferencialmente aos domingos (CLT, art. 67; Lei 605/1949, art. 1º).
+
+### 15.1. Requisitos e perda da remuneração do repouso
+
+A Lei 605/1949 assegura o repouso remunerado, mas seu art. 6º condiciona a remuneração ao cumprimento integral da jornada semanal, sem falta injustificada ou atraso que não seja justificado na forma legal.
+
+Atenção à distinção:
+- o repouso como período de descanso não se confunde com o direito à remuneração daquele dia;
+- falta injustificada pode acarretar perda da remuneração do repouso da semana, nos termos do art. 6º;
+- não significa autorização para o empregador retirar o descanso físico semanal ou exigir sete dias seguidos de trabalho.
+
+As ausências legalmente justificadas não devem ser tratadas como faltas injustificadas para esse efeito. A Lei 605/1949 e seu regulamento devem ser lidos em conjunto com as hipóteses legais de ausência justificada.
+
+### 15.2. Como se calcula o DSR
+
+- Mensalista: em regra, o repouso semanal já está incluído no salário mensal.
+- Horista/diarista: o repouso é remunerado conforme a legislação e a forma de pagamento.
+- Comissionista: o repouso semanal e os feriados repercutem na remuneração, conforme a Súmula 27 do TST.
+- Trabalhador por produção, tarefa ou peça: observar a regra de cálculo correspondente à remuneração efetivamente percebida e a regulamentação aplicável.
+
+Não confundir o pagamento do DSR com o pagamento em dobro por trabalho em domingo ou feriado não compensado. São fatos jurídicos distintos.
+
+## 16. Domingo, feriado e pagamento em dobro
+
+### 16.1. Trabalho em domingo ou feriado sem compensação
+
+A Súmula 146 do TST estabelece que o trabalho prestado em domingos e feriados, quando não compensado, deve ser pago em dobro, sem prejuízo da remuneração relativa ao repouso semanal.
+
+**Pegadinha:** a dobra não substitui o repouso semanal remunerado. A súmula expressamente preserva a remuneração do repouso.
+
+Exemplo didático: empregado trabalha em feriado e não recebe folga compensatória. Em regra, é devido o pagamento em dobro pelo trabalho naquele dia, sem prejuízo do repouso semanal remunerado.
+
+Se houver folga compensatória válida, não se aplica automaticamente a dobra prevista na Súmula 146. A análise depende da efetiva compensação e das regras legais/convencionais aplicáveis.
+
+### 16.2. Repouso concedido somente depois do sétimo dia consecutivo
+
+A OJ 410 da SDI-1 do TST considera violadora do art. 7º, XV, da Constituição a concessão do repouso semanal remunerado após o sétimo dia consecutivo de trabalho, impondo pagamento em dobro.
+
+Regra de memorização:
+- repouso deve ser concedido dentro do ciclo semanal;
+- não se pode organizar a escala para o empregado trabalhar sete dias consecutivos e só depois descansar;
+- a folga posterior não apaga a irregularidade já ocorrida.
+
+O TST reafirmou a orientação no Tema 265 dos recursos repetitivos. A dobra pelo repouso concedido fora do prazo não se confunde com a dobra do trabalho em domingo/feriado não compensado: podem ser parcelas distintas se os fatos geradores forem distintos.
+
+## 17. Trabalho aos domingos e feriados — regras específicas
+
+### 17.1. Domingos
+
+O trabalho aos domingos não é universalmente proibido. Nos serviços que exigem funcionamento dominical, deve existir escala de revezamento, organizada e sujeita à fiscalização (CLT, art. 67, parágrafo único, e art. 68, conforme legislação aplicável).
+
+No comércio em geral:
+- a Lei 10.101/2000, art. 6º, autoriza o trabalho aos domingos, observada a legislação municipal;
+- o repouso semanal deve coincidir com o domingo pelo menos uma vez no período máximo de três semanas, respeitadas as demais normas protetivas e a negociação coletiva;
+- a EC 141/2026 e a Portaria MTE 2.041/2026 introduzem a nova disciplina de dois repousos semanais a partir de 16/12/2026. A regulamentação do MTE mantém a coincidência dominical mínima de uma vez a cada três semanas no comércio e, nas demais atividades, ao menos uma vez a cada quatro semanas, além da escala de revezamento.
+
+Para empregadas que trabalham aos domingos, observar também o art. 386 da CLT: escala quinzenal que favoreça o repouso dominical, conforme a interpretação jurisprudencial aplicável.
+
+### 17.2. Feriados
+
+A Lei 605/1949 assegura repouso remunerado nos feriados legalmente instituídos. O trabalho em feriado pode ocorrer nas hipóteses legalmente autorizadas, observadas as exigências específicas da atividade e a compensação/pagamento correspondente.
+
+**Comércio em geral:** a Lei 10.101/2000, art. 6º-A, prevê autorização por convenção coletiva de trabalho e observância da legislação municipal. Em 2026, a Portaria MTE 1.316/2026 regulamentou o trabalho do comércio em feriados e previu exceções para atividades expressamente listadas no ato normativo. Não generalizar a autorização de domingos para feriados: são regimes jurídicos diferentes.
+
+### 17.3. Quadro comparativo para a FCC
+
+| Situação | Consequência principal |
+|---|---|
+| Domingo trabalhado e compensado regularmente | Em regra, não há dobra automática pela Súmula 146 |
+| Domingo trabalhado sem compensação | Pagamento em dobro, sem prejuízo do repouso (Súmula 146) |
+| Feriado trabalhado sem compensação | Pagamento em dobro, sem prejuízo do repouso (Súmula 146) |
+| Repouso concedido após o sétimo dia consecutivo | Pagamento em dobro do repouso irregular (OJ 410) |
+| Falta injustificada na semana | Pode retirar a remuneração do DSR, conforme art. 6º da Lei 605/1949; não elimina o direito ao descanso |
+| Trabalho no comércio em domingo | Lei 10.101/2000, art. 6º, legislação municipal e repouso dominical mínimo |
+| Trabalho no comércio em feriado | Lei 10.101/2000, art. 6º-A, CCT e legislação municipal, observadas exceções regulamentares |
+
+## 18. EC 141/2026 — dois repousos semanais remunerados
+
+A EC 141, de 16/10/2026, alterou o art. 7º, XV, da Constituição para prever **dois dias de repouso semanal remunerado**, um deles preferencialmente aos domingos.
+
+### 18.1. Vigência e transição
+
+- A alteração do art. 7º, XV, entra em vigor após dois meses da publicação: **16/12/2026**.
+- A partir dessa data, a regra geral passa a ser dois repousos semanais, cada um com 24 horas consecutivas.
+- Os descansos podem ocorrer em dias consecutivos ou não, observada a disciplina regulamentar.
+- Excepcionalmente, ACT/CCT pode estabelecer regime compensatório com média de dois dias de repouso no mês-calendário, garantido pelo menos um dia de descanso dentro do período máximo de uma semana de trabalho.
+- A EC determina aplicação aos contratos em vigor sem redução salarial.
+
+A Portaria MTE 2.041/2026, publicada em 23/11/2026, esclarece que os dois repousos podem ser concedidos em dias consecutivos ou não, ressalvadas as hipóteses de compensação coletiva. Na compensação excepcional, exige-se pelo menos um dia de descanso a cada período máximo de seis dias consecutivos, sem redução do total de repousos devidos.
+
+### 18.2. Cuidado com questões anteriores à EC
+
+A FCC pode cobrar provas de 2009, 2011, 2018, 2022 ou 2025. Nelas, deve-se resolver a questão conforme a legislação vigente na data do certame, sem projetar retroativamente os dois repousos da EC 141/2026.
+
+Para a prova futura, estudar:
+- regra antiga: um repouso semanal de 24 horas, preferencialmente aos domingos;
+- regra nova, a partir de 16/12/2026: dois repousos semanais remunerados;
+- exceção: regime compensatório por ACT/CCT, na forma do art. 7º, § 2º, da Constituição;
+- repouso semanal não se confunde com intervalo interjornada de 11 horas.
+
+## 19. Questões autorais de fixação — não são questões oficiais FCC
+
+**1.** Empregado trabalha em feriado e recebe folga compensatória válida. A Súmula 146 determina, automaticamente, o pagamento em dobro?
+
+**Resposta:** Não. A dobra é devida quando o trabalho em domingo ou feriado não é compensado, sem prejuízo da remuneração do repouso.
+
+**2.** Empregado trabalha sete dias consecutivos e recebe folga no oitavo dia. A folga posterior regulariza a escala?
+
+**Resposta:** Não. A OJ 410 considera irregular a concessão do repouso após o sétimo dia consecutivo, impondo o pagamento em dobro do repouso.
+
+**3.** O empregado falta injustificadamente em um dia da semana. O empregador pode retirar o repouso físico semanal?
+
+**Resposta:** Não. A falta injustificada pode repercutir na remuneração do repouso, conforme art. 6º da Lei 605/1949, mas não autoriza suprimir o descanso semanal.
+
+**4.** Todo trabalho aos domingos é proibido?
+
+**Resposta:** Não. Existem atividades autorizadas e escalas de revezamento. No comércio, aplica-se a Lei 10.101/2000, art. 6º, observada a legislação municipal e a coincidência dominical mínima.
+
+**5.** Trabalho em domingo e trabalho em feriado seguem necessariamente a mesma autorização legal?
+
+**Resposta:** Não. São regimes distintos. O comércio aos domingos segue o art. 6º da Lei 10.101/2000; o trabalho no comércio em feriados segue o art. 6º-A, com autorização por CCT e observância da legislação municipal, ressalvadas exceções regulamentares.
+
+**6.** A partir de 16/12/2026, a EC 141/2026 assegura quantos repousos semanais remunerados?
+
+**Resposta:** Dois, cada um com 24 horas consecutivas, sendo um preferencialmente aos domingos, ressalvadas as formas excepcionais de compensação coletiva previstas na Constituição e regulamentação.
+
+**7.** A EC 141/2026 autoriza reduzir o salário mensal porque haverá mais dias de repouso?
+
+**Resposta:** Não. A Emenda determina que a ampliação do repouso e a redução da jornada sejam implementadas sem redução salarial.
+
+**8.** A dobra da Súmula 146 e a dobra da OJ 410 têm exatamente o mesmo fato gerador?
+
+**Resposta:** Não. A Súmula 146 trata do trabalho em domingos/feriados não compensado; a OJ 410 trata da concessão do repouso semanal somente após o sétimo dia consecutivo de trabalho.
+
+## 20. Fontes normativas e jurisprudenciais para revisão
+
+- Constituição Federal, art. 7º, XV, e EC 141/2026: https://planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc141.htm
+- CLT compilada, arts. 67 a 70: https://www.planalto.gov.br/ccivil_03/decreto-lei/del5452compilado.htm
+- Lei 605/1949: https://www.planalto.gov.br/ccivil_03/leis/l0605.htm
+- Lei 10.101/2000, arts. 6º e 6º-A: https://planalto.gov.br/ccivil_03/leis/l10101compilado.htm
+- Decreto 13.173/2026: https://planalto.gov.br/ccivil_03/_ato2023-2026/2026/decreto/d13173.htm
+- MTE — Portaria 2.041/2026 e explicação oficial: https://www.gov.br/trabalho-e-emprego/pt-br/noticias-e-conteudo/2026/novembro/governo-federal-publica-portaria-com-regras-complementares-para-aplicacao-da-escala-5x2
+- MTE — Portaria 1.316/2026 sobre feriados no comércio: https://www.gov.br/trabalho-e-emprego/pt-br/noticias-e-conteudo/2026/julho/portaria-regulamenta-o-trabalho-no-comercio-durante-os-feriados
+- TST — Súmula 146 e OJ 410: https://www.tst.jus.br/
