@@ -2110,3 +2110,39 @@ Os três registros foram confirmados no banco após a inserção, preservando as
 **Revisão da questão autoral 2:** a resposta correta não deve ser categórica. Cinco anos, isoladamente, não geram incorporação pela antiga Súmula 372. Porém, a existência de regulamento interno ou condição contratual mais favorável exige análise própria.
 
 **Fontes:** CLT, art. 468, §§ 1º e 2º; Lei 13.467/2017; Informativo TST nº 310 (23/02 a 20/03/2026), item sobre gratificação de função e regulamento interno.
+
+
+### 28.21. Abonos, prêmios e gratificações — distinções finais
+
+**CLT, art. 457, §§ 1º, 2º e 4º**
+- Integram o salário: importância fixa estipulada, gratificações legais e comissões pagas pelo empregador (§ 1º).
+- Não integram a remuneração, ainda que habituais, as importâncias pagas a título de ajuda de custo, auxílio-alimentação (vedado o pagamento em dinheiro), diárias para viagem, prêmios e **abonos** (§ 2º).
+- Prêmio é a liberalidade concedida pelo empregador em bens, serviços ou dinheiro em razão de desempenho superior ao ordinariamente esperado no exercício das atividades (§ 4º).
+- Portanto, a tabela de classificação deve incluir também os **abonos** entre as parcelas expressamente excluídas pelo § 2º. A redação atual foi introduzida pela Lei 13.467/2017.
+- Não confundir a nomenclatura com a realidade: pagamentos rotulados como prêmio, abono ou ajuda de custo, mas que na prática escondam contraprestação salarial ordinária, podem gerar discussão sobre fraude e natureza jurídica real.
+- Gratificação legal integra o salário por expressa previsão do § 1º. Gratificação de função recebida durante o exercício da função tem natureza salarial; a questão distinta é se ela permanece após a reversão, matéria do art. 468, § 2º, e das ressalvas intertemporais/contratuais estudadas acima.
+
+**Pegadinhas FCC**
+1. Abono habitual: a habitualidade, por si só, não o torna salarial, pois está expressamente no art. 457, § 2º.
+2. Prêmio: não basta ser eventual; deve corresponder à liberalidade por desempenho superior ao ordinariamente esperado.
+3. Gratificação legal: integra o salário pelo § 1º.
+4. Auxílio-alimentação pago em dinheiro: não se beneficia da exclusão específica do § 2º.
+5. Gorjetas: integram a remuneração, mas não se confundem com salário pago diretamente pelo empregador; observar Súmula 354 do TST.
+
+#### Questões autorais de fixação — não são questões oficiais FCC
+
+**1.** A empresa paga mensalmente abono fixo a todos os empregados, sem vinculação a desempenho extraordinário. A habitualidade, sozinha, torna a parcela salarial?
+
+**Resposta:** Não automaticamente. O art. 457, § 2º, inclui expressamente os abonos entre as parcelas que não integram a remuneração, ainda que habituais. Se houver fraude ou contraprestação salarial disfarçada, examina-se a realidade.
+
+**2.** Empregado recebe prêmio por superar metas em nível superior ao ordinariamente esperado. Qual o enquadramento legal?
+
+**Resposta:** Pode ser prêmio não salarial, conforme art. 457, §§ 2º e 4º, desde que seja verdadeira liberalidade vinculada ao desempenho superior ao ordinariamente esperado.
+
+**3.** Uma gratificação legal é paga mensalmente pelo empregador. Integra o salário?
+
+**Resposta:** Sim. O art. 457, § 1º, determina expressamente a integração das gratificações legais.
+
+**4.** O empregador paga auxílio-alimentação em dinheiro e afirma que a parcela não tem natureza salarial porque o benefício é habitual. A exclusão do § 2º se aplica?
+
+**Resposta:** Não. A exclusão legal do auxílio-alimentação exige que não seja pago em dinheiro.
