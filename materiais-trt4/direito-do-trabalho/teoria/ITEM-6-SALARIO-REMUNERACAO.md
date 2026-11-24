@@ -2087,3 +2087,11 @@ Os quatro registros foram confirmados em consulta posterior ao banco. As origens
 
 **Resposta:** Em regra, não. O adicional está ligado à transferência provisória; as despesas da transferência, porém, são suportadas pelo empregador (art. 470).
 
+
+### 28.19. Questões oficiais FCC — gratificação de função e transferência
+
+- **Q1943181 — FCC TRT-4/RS, Técnico Judiciário, Área Administrativa, 2022 — rank 7896 — gabarito D.** Empregada exerce função de confiança há doze anos e retorna ao cargo efetivo. Pela regra atual do art. 468, §§ 1º e 2º, a reversão com ou sem justo motivo não assegura a manutenção da gratificação. A questão é especialmente relevante por ser da própria prova do TRT-4. Ressalva: se os dez anos foram completados até 10/11/2017, examina-se o direito adquirido conforme a jurisprudência intertemporal.
+- **Q1999954 — FCC TRT-17/ES, Técnico Judiciário, Área Administrativa, 2022 — rank 7897 — gabarito C.** A empregada exerceu função de confiança por cinco anos; ao deixar a função, recebe apenas o salário do cargo efetivo, sem incorporação proporcional da gratificação, conforme art. 468, § 2º.
+- **Q394179 — FCC TRT-7/CE, Analista Judiciário, Área Judiciária, 2009 — rank 7898 — gabarito C (I, II e III).** Adicional de transferência mínimo de 25%; cargo de confiança ou cláusula de transferência não afastam o adicional se provisória; parcela de natureza salarial. A assertiva que estendia o adicional à transferência definitiva é falsa.
+
+Os três registros foram confirmados no banco após a inserção, preservando as origens reais das provas. O campo `concurso='TRT4'` identifica o projeto de preparação, não a origem de todas as questões.
