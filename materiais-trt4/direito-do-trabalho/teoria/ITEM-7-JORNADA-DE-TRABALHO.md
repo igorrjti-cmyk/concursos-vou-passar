@@ -642,3 +642,172 @@ Antes dessa alteração, a jurisprudência do TST considerava inválido o sistem
 Fontes complementares:
 - TST, Ag-RR XXXXX-91.2022.5.09.0662, julgamento em 05/10/2026: https://www.jusbrasil.com.br/jurisprudencia/tst/7590269833
 - CLT, art. 74, §§ 2º e 4º: https://www.planalto.gov.br/ccivil_03/decreto-lei/del5452compilado.htm
+
+
+## 28. Turnos ininterruptos de revezamento — CF, art. 7º, XIV
+
+### 28.1. Regra constitucional
+
+A Constituição assegura jornada de **seis horas** para o trabalho realizado em turnos ininterruptos de revezamento, salvo negociação coletiva (CF, art. 7º, XIV).
+
+A razão da proteção é o desgaste decorrente da alternância de horários, especialmente quando o empregado passa a trabalhar em períodos diurnos e noturnos, com impacto no relógio biológico, no convívio social e familiar.
+
+### 28.2. Quando se caracteriza o turno ininterrupto?
+
+O ponto central é a alternância de turnos que alcance, ainda que parcialmente, períodos diurnos e noturnos. Não é indispensável que a empresa funcione 24 horas por dia; o que importa é a alternância prejudicial ao trabalhador.
+
+A OJ 360 da SDI-1 do TST reconhece o direito à jornada especial quando o empregado trabalha em sistema de alternância de turnos, ainda que em dois turnos, desde que compreendam, no todo ou em parte, o horário diurno e o noturno.
+
+Exemplo: uma semana das 6h às 14h e outra das 14h às 22h, com alternância que alcança períodos diurno e noturno. A análise deve observar a efetiva escala e a alternância, não apenas o nome dado pela empresa.
+
+**Pegadinha:** a empresa não precisa operar sem qualquer interrupção durante 24 horas para que exista turno ininterrupto de revezamento.
+
+### 28.3. Jornada superior a seis horas e negociação coletiva
+
+A própria Constituição admite exceção por negociação coletiva. O STF, no Tema 1.046, reconheceu a constitucionalidade de acordos e convenções coletivas que limitem ou afastem direitos trabalhistas, respeitados os direitos absolutamente indisponíveis.
+
+A antiga Súmula 423 do TST afirmava que, havendo negociação coletiva regular, poderia ser fixada jornada superior a seis e limitada a oito horas, sem pagamento da 7ª e 8ª horas como extras. **A Súmula 423 foi cancelada pela Resolução 225/2025**, em razão da perda de eficácia decorrente do julgamento do STF no ARE 1.121.633, com ata publicada em 14/06/2022.
+
+Consequências para estudo:
+- em questões antigas, a Súmula 423 pode ser a referência exigida pela banca, conforme a data da prova;
+- no direito atual, não apresentar o limite de oito horas da antiga Súmula 423 como texto sumulado vigente;
+- analisar a validade da cláusula coletiva à luz do art. 7º, XIV, da Constituição e do Tema 1.046 do STF;
+- se a empresa extrapola a jornada efetivamente negociada, as horas além do limite pactuado podem ser extras. A extrapolação habitual, isoladamente, não invalida automaticamente a cláusula coletiva, conforme jurisprudência atual do TST alinhada ao STF.
+
+**Atenção à EC 141/2026:** a regra geral de jornada passou a ser de oito horas diárias e 40 semanais ao fim da transição, mas isso não apaga a regra especial de seis horas dos turnos ininterruptos de revezamento. A exceção constitucional continua sendo a negociação coletiva.
+
+### 28.4. Alternância parcial
+
+Não é necessário que o empregado trabalhe integralmente em período diurno e integralmente em período noturno. A alternância pode alcançar apenas parte desses períodos, desde que caracterize efetivo revezamento prejudicial.
+
+A simples mudança de horário, sem alternância que envolva períodos diurno e noturno, não basta automaticamente. Examinar os horários concretos.
+
+## 29. Sobreaviso e prontidão
+
+### 29.1. Sobreaviso — art. 244, § 2º, da CLT e Súmula 428 do TST
+
+O sobreaviso é o período em que o empregado, fora do local de trabalho, permanece submetido a controle patronal, em regime de plantão ou equivalente, aguardando a qualquer momento convocação para o serviço.
+
+A regra legal ferroviária é aplicada analogicamente a outras categorias. O pagamento do sobreaviso corresponde a **um terço do salário-hora normal por hora de sobreaviso** (art. 244, § 2º).
+
+A Súmula 428 do TST estabelece:
+- I — o simples uso de celular, aplicativo ou instrumento telemático fornecido pela empresa não caracteriza, por si só, sobreaviso;
+- II — há sobreaviso quando o empregado, à distância e sob controle patronal por instrumentos telemáticos ou informatizados, permanece em plantão ou equivalente, aguardando chamado durante o descanso.
+
+**Não é obrigatório permanecer em casa.** O elemento decisivo é a submissão a plantão ou regime equivalente, com restrição relevante da disponibilidade pessoal e possibilidade de convocação a qualquer momento.
+
+Exemplos:
+- empregado que apenas possui celular corporativo e pode ignorar mensagens fora do expediente: em regra, não configura sobreaviso;
+- empregado escalado em plantão, obrigado a manter-se em área de cobertura e pronto para atender imediatamente, com restrição concreta de sua liberdade: pode configurar sobreaviso.
+
+Se o empregado é efetivamente chamado e presta serviços, o período de trabalho efetivo deve ser computado como jornada trabalhada, com pagamento correspondente; não se confunde com a remuneração do período de espera.
+
+### 29.2. Prontidão — art. 244, § 3º, da CLT
+
+Na prontidão, o empregado permanece nas dependências da empresa aguardando ordens.
+
+- remuneração: dois terços do salário-hora normal;
+- período máximo: 12 horas;
+- os intervalos para refeição devem ser observados conforme a disciplina legal.
+
+Memorização:
+- sobreaviso: fora do estabelecimento, aguardando convocação — 1/3;
+- prontidão: nas dependências do empregador, aguardando ordens — 2/3.
+
+A prontidão ferroviária é a figura expressa do art. 244, § 3º; eventual aplicação analógica a outras situações exige examinar a compatibilidade jurídica do caso.
+
+## 30. Tempo à disposição do empregador — CLT, art. 4º
+
+### 30.1. Regra geral
+
+Considera-se serviço efetivo o período em que o empregado esteja à disposição do empregador, aguardando ou executando ordens, salvo disposição especial expressa.
+
+Não é necessário que o empregado esteja produzindo continuamente: aguardar ordens, quando submetido ao poder diretivo e sem liberdade para usar o tempo em benefício próprio, pode configurar tempo de serviço.
+
+### 30.2. Atividades pessoais excluídas — art. 4º, § 2º
+
+Por não se considerar tempo à disposição, o período em que o empregado, por escolha própria, permanecer na empresa para:
+- práticas religiosas;
+- descanso;
+- lazer;
+- estudo;
+- alimentação;
+- atividades de relacionamento social;
+- higiene pessoal;
+- troca de roupa ou uniforme, quando não houver obrigatoriedade de realizá-la na empresa.
+
+A exclusão pressupõe que o empregado não esteja executando atividade exigida pelo empregador nem aguardando ordens.
+
+**Pegadinha da troca de uniforme:** se a empresa exige que a troca ocorra dentro do estabelecimento, o tempo pode ser computado como jornada. Se o empregado pode chegar uniformizado e escolhe trocar-se na empresa, a regra do § 2º pode afastar o cômputo.
+
+### 30.3. Deslocamento e horas in itinere
+
+Após a Reforma Trabalhista (Lei 13.467/2017), o art. 58, § 2º, estabelece que o tempo de deslocamento da residência até a efetiva ocupação do posto de trabalho e para o retorno, a pé ou por qualquer meio de transporte, inclusive fornecido pelo empregador, não é computado na jornada, por não ser tempo à disposição.
+
+Para fatos anteriores à Reforma, observar o regime histórico do art. 58, § 2º, e a antiga Súmula 90 do TST, que tratava de horas in itinere.
+
+A Súmula 429 do TST, que considerava tempo à disposição o deslocamento interno entre a portaria e o local de trabalho quando superior a dez minutos diários, foi cancelada em 2025 por perda de eficácia a partir da Reforma Trabalhista. Não usar sua redação como regra atual geral.
+
+### 30.4. Minutos residuais — art. 58, § 1º
+
+A regra legal geral desconsidera variações no registro de ponto de até cinco minutos por marcação, observado o limite máximo de dez minutos no dia. Ultrapassado o limite legal, considera-se extraordinário o tempo que exceder a jornada normal, conforme o texto do § 1º.
+
+Entretanto, há atualização jurisprudencial importante: em decisão de 21/10/2026, o TST aplicou o Tema 1.046 do STF para reconhecer a validade de cláusula coletiva que disciplinava limite de tolerância diferente para minutos residuais. Assim:
+- sem norma coletiva válida: aplica-se a tolerância legal de cinco minutos por marcação, máximo de dez por dia;
+- havendo norma coletiva: examinar a cláusula e sua validade à luz do Tema 1.046, sem presumir que toda cláusula seja inválida;
+- a negociação coletiva não pode ser tratada como autorização irrestrita para fraude ou para eliminar direito absolutamente indisponível.
+
+## 31. Questões autorais de fixação — não são questões oficiais FCC
+
+**1.** Para caracterizar turno ininterrupto de revezamento, a empresa precisa funcionar 24 horas por dia?
+
+**Resposta:** Não. O relevante é a alternância de turnos que alcance, ainda que parcialmente, períodos diurnos e noturnos, conforme a OJ 360 da SDI-1 do TST.
+
+**2.** Empregado trabalha em dois turnos alternados, um diurno e outro noturno, mas a empresa interrompe suas atividades durante parte da noite. A jornada especial pode ser aplicável?
+
+**Resposta:** Sim. A continuidade de funcionamento da empresa por 24 horas não é requisito absoluto; deve-se verificar a alternância efetiva de turnos.
+
+**3.** A antiga Súmula 423 do TST, que limitava a jornada negociada em turnos ininterruptos a oito horas, continua vigente?
+
+**Resposta:** Não. Foi cancelada pela Resolução 225/2025. A negociação coletiva deve ser analisada à luz do art. 7º, XIV, da Constituição e do Tema 1.046 do STF.
+
+**4.** O empregado que possui celular corporativo está automaticamente em sobreaviso?
+
+**Resposta:** Não. A Súmula 428, I, afasta essa conclusão pelo simples uso do aparelho. É necessário plantão ou regime equivalente, com controle patronal e disponibilidade restrita.
+
+**5.** O empregado escalado em plantão remoto, obrigado a permanecer em área de cobertura e pronto para atendimento imediato durante o descanso, pode receber horas de sobreaviso?
+
+**Resposta:** Sim, se comprovados o controle patronal, o regime de plantão ou equivalente e a restrição relevante da disponibilidade pessoal (Súmula 428, II).
+
+**6.** Qual a diferença remuneratória entre sobreaviso e prontidão?
+
+**Resposta:** Sobreaviso: um terço do salário-hora normal por hora. Prontidão: dois terços do salário-hora normal por hora, com permanência nas dependências da empresa.
+
+**7.** O empregado que permanece na empresa depois do expediente para estudar, por escolha própria e sem aguardar ordens, está em tempo à disposição?
+
+**Resposta:** Não, em regra, conforme art. 4º, § 2º, da CLT.
+
+**8.** Se a empresa exige que o empregado troque o uniforme dentro do estabelecimento, o período pode integrar a jornada?
+
+**Resposta:** Sim. A exclusão do art. 4º, § 2º, não alcança a troca de uniforme obrigatória dentro da empresa.
+
+**9.** O deslocamento residência-trabalho em transporte fornecido pela empresa integra a jornada, segundo a regra atual?
+
+**Resposta:** Não, em regra, conforme art. 58, § 2º, da CLT, após a Lei 13.467/2017.
+
+**10.** A empresa pode desconsiderar qualquer tempo de espera por ordens, porque o empregado não está produzindo?
+
+**Resposta:** Não. O art. 4º considera serviço efetivo o período em que o empregado aguarda ou executa ordens, ressalvadas as exclusões legais.
+
+**11.** A regra de cinco minutos por marcação e dez minutos diários é absoluta, mesmo quando existe norma coletiva válida disciplinando os minutos residuais?
+
+**Resposta:** Não necessariamente. O TST reconheceu, em 21/10/2026, a incidência do Tema 1.046 do STF para prestigiar cláusula coletiva sobre minutos residuais. Deve-se examinar o conteúdo e a validade da norma coletiva.
+
+## 32. Fontes normativas e jurisprudenciais — turnos, sobreaviso e tempo à disposição
+
+- Constituição Federal, art. 7º, XIII e XIV, com EC 141/2026: https://planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc141.htm
+- CLT compilada, arts. 4º, 58, 59, 62, 74 e 244: https://www.planalto.gov.br/ccivil_03/decreto-lei/del5452compilado.htm
+- TST, Súmula 428 (sobreaviso), Súmula 423 (cancelada em 2025) e Súmula 429 (cancelada em 2025), livro oficial de jurisprudência: https://www.tst.jus.br/documents/10157/63003/LivroInternet%2811%29pdf.pdf
+- TST, RR 1000386-29.2016.5.02.0468 — negociação coletiva e minutos residuais, julgamento em 21/10/2026: https://jurisprudencia-backend.tst.jus.br/rest/documentos/f04b9b27b859a4ec84f0c274d2784272
+- TST, AIRR 1001199-34.2023.5.02.0202 — turnos de revezamento, negociação coletiva e extrapolação da jornada pactuada: https://jurisprudencia-backend.tst.jus.br/rest/documentos/e3cd5b9e2a6630c813dc6f7b560fd242
+- TST, Ag-AIRR 0000854-21.2024.5.12.0025 — regime de sobreaviso e restrição concreta da disponibilidade: https://jurisprudencia-backend.tst.jus.br/rest/documentos/40fd4561aca2fa462a8dd5ceda491a55
