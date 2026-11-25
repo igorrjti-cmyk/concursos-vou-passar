@@ -662,3 +662,72 @@ D) a escala quinzenal somente se aplica a empregadas gestantes.
 E) o art. 386 assegura dois domingos consecutivos de folga por mês, sem possibilidade de trabalho dominical.
 
 **Gabarito: B.** O TST reconhece a recepção constitucional do art. 386 e a prevalência da norma especial sobre a regra geral do comércio. A trabalhadora deve ter repouso dominical em escala quinzenal; a violação pode gerar pagamento em dobro dos domingos trabalhados em desacordo com a escala.
+
+## 26. Creche, reembolso-creche e apoio à parentalidade — CLT e Lei 14.457/2022
+
+### A) Obrigação de local apropriado — CLT, art. 389, §§ 1º e 2º
+
+- Toda empresa deve observar as medidas de higiene, segurança e conforto previstas no art. 389.
+- O § 1º determina que estabelecimentos com **pelo menos 30 mulheres com mais de 16 anos** tenham local apropriado para que as empregadas guardem, sob vigilância e assistência, seus filhos no período de amamentação.
+- O § 2º admite suprir essa exigência por creches distritais mantidas diretamente ou mediante convênios com entidades públicas ou privadas, em regime comunitário, ou a cargo do SESI, SESC, LBA ou entidades sindicais.
+- A obrigação considera o número de mulheres no estabelecimento, não o número total de empregados da empresa.
+- Não confundir a obrigação de disponibilizar estrutura para a amamentação com o direito individual aos intervalos do art. 396.
+
+### B) Reembolso-creche — Lei 14.457/2022, arts. 2º a 5º
+
+A lei autoriza o empregador a adotar reembolso-creche, observados os requisitos:
+
+1. Destinação ao pagamento de creche ou pré-escola de livre escolha da empregada ou do empregado, ou ressarcimento de outra modalidade equivalente de serviço, com comprovação das despesas.
+2. Beneficiário com filho de até **5 anos e 11 meses**.
+3. Informação aos empregados sobre a existência do benefício e os procedimentos para utilização.
+4. Oferta não discriminatória e sem caracterização de premiação.
+5. Formalização por acordo individual, acordo coletivo ou convenção coletiva, observadas as limitações do art. 21 da Lei 14.457/2022: acordo individual só pode ser utilizado se não houver instrumento coletivo aplicável ou se estabelecer condição mais vantajosa.
+
+**Natureza jurídica dos valores:** o reembolso-creche não tem natureza salarial, não se incorpora à remuneração, não integra a base do FGTS ou da contribuição previdenciária e não constitui rendimento tributável do empregado (art. 4º).
+
+**Efeito sobre a obrigação de creche:** o empregador que adota o reembolso-creche para todos os empregados e empregadas com filhos de até 5 anos e 11 meses fica dispensado da instalação do local previsto no art. 389, § 1º, da CLT (Lei 14.457/2022, art. 5º, parágrafo único).
+
+**Pegadinhas FCC:**
+- O benefício não é restrito às mulheres: a lei inclui empregadas e empregados.
+- A idade-limite é 5 anos e 11 meses, e não apenas seis meses.
+- O benefício exige comprovação das despesas e formalização adequada.
+- Não possui natureza salarial.
+- A dispensa da estrutura física depende de oferecer o benefício a todos os empregados e empregadas que preencham o critério legal, não apenas a algumas mães escolhidas.
+- Reembolso-creche não elimina os demais direitos de proteção à maternidade, inclusive os intervalos para amamentação.
+
+### C) Intervalos para amamentação — CLT, art. 396
+
+- Até que o filho complete **seis meses**, inclusive se advindo de adoção, a empregada tem direito, durante a jornada, a **dois descansos especiais de meia hora cada**.
+- Quando a saúde da criança exigir, o período de seis meses pode ser ampliado, a critério da autoridade competente (§ 1º).
+- Os horários dos descansos são definidos em acordo individual entre empregada e empregador (§ 2º).
+- São dois intervalos especiais, cada um de 30 minutos; não se confundem com o intervalo intrajornada para repouso e alimentação do art. 71.
+- A lei não exige que a empregada esteja em estabelecimento com 30 mulheres para ter os intervalos: o direito do art. 396 é individual.
+- O texto abrange expressamente filho adotivo.
+
+### Questões autorais de fixação
+
+**18.** Em um estabelecimento trabalham 32 mulheres com mais de 16 anos. A empresa não possui local apropriado para guarda dos filhos durante a amamentação, mas oferece reembolso-creche apenas às empregadas que solicitarem individualmente, sem estender o benefício aos empregados homens que também tenham filhos na faixa etária legal. À luz da CLT e da Lei 14.457/2022:
+
+A) a empresa está dispensada da estrutura, pois qualquer reembolso-creche substitui automaticamente o local apropriado.  
+B) o reembolso-creche pode ser discriminatório, pois é benefício exclusivo das mães.  
+C) o reembolso-creche deve ser oferecido de forma não discriminatória; para dispensar a estrutura do art. 389, § 1º, deve alcançar todos os empregados e empregadas que preencham o critério legal.  
+D) a obrigação de estrutura física somente existe quando há 30 empregados homens e mulheres somados.  
+E) o reembolso-creche integra o salário e gera reflexos em FGTS e contribuição previdenciária.
+
+**Gabarito: C.** A Lei 14.457/2022 admite o reembolso-creche para empregadas e empregados, exige oferta não discriminatória e somente dispensa a instalação do local apropriado quando o benefício for adotado para todos os empregados e empregadas com filhos de até 5 anos e 11 meses.
+
+**19.** Uma empregada retorna da licença-maternidade quando seu filho adotivo está com quatro meses. Ela trabalha em jornada integral e pede os intervalos do art. 396 da CLT. A empresa nega, afirmando que a regra só vale para filho biológico e que o descanso é de uma hora contínua. Assinale a alternativa correta:
+
+A) a empresa tem razão, pois a adoção não está abrangida pelo art. 396.  
+B) a empregada tem direito a dois descansos de meia hora cada durante a jornada, pois o dispositivo inclui expressamente filho advindo de adoção.  
+C) a empregada tem direito a um intervalo de duas horas, independentemente de acordo.  
+D) o direito só existe em estabelecimento com pelo menos 30 mulheres maiores de 16 anos.  
+E) os intervalos são de 15 minutos cada e terminam quando a criança completa três meses.
+
+**Gabarito: B.** O art. 396 assegura dois descansos especiais de meia hora cada até a criança completar seis meses, inclusive quando advinda de adoção. Os horários são definidos por acordo individual; a extensão do período depende da saúde da criança e de decisão da autoridade competente.
+
+### Fontes normativas oficiais
+
+- CLT, arts. 389, §§ 1º e 2º, 396 e 400: https://www.planalto.gov.br/ccivil_03/decreto-lei/del5452compilado.htm
+- Lei 14.457/2022, arts. 1º a 5º e art. 21: https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/lei/l14457.htm
+- Senado Federal — texto da Lei 14.457/2022: https://legis.senado.leg.br/norma/36360116/publicacao/36361273
