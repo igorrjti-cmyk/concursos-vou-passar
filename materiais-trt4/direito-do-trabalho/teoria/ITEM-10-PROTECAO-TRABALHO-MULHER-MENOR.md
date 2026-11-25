@@ -52,6 +52,12 @@ Material autoral de estudo para TRT-4 — Técnico Judiciário, Área Administra
 - A estabilidade não depende de comunicação prévia ao empregador.
 - Não confundir estabilidade gestante (desde a confirmação até cinco meses após o parto) com licença-maternidade (120 dias).
 
+### Interrupção da gravidez — CLT, art. 395
+- Em caso de **aborto não criminoso**, comprovado por atestado médico oficial, a empregada tem **repouso remunerado de duas semanas**, com direito de retornar à função que ocupava.
+- A hipótese do art. 395 não se confunde com o parto: não se aplica automaticamente o período de 120 dias de licença-maternidade.
+- A jurisprudência trabalhista distingue a interrupção da gravidez por aborto não criminoso da ocorrência de parto, inclusive parto de natimorto. Em caso de aborto não criminoso, a garantia de emprego é limitada ao período de duas semanas previsto no art. 395; não se estende, por esse simples fato, até cinco meses após o parto.
+- **Pegadinha FCC:** duas semanas de repouso remunerado (art. 395) versus 120 dias de licença-maternidade (art. 392) e estabilidade gestante até cinco meses após o parto (ADCT, art. 10, II, b).
+
 ## 5. Atividade insalubre durante a gestação e lactação
 
 - CLT, art. 394-A: gestante deve ser afastada de atividade insalubre, em qualquer grau, durante a gestação; lactante, durante a lactação, nas hipóteses e condições legais.
@@ -361,4 +367,16 @@ D) somente a mulher poderá se afastar, pois a licença-paternidade não alcanç
 E) a licença dependerá de autorização judicial específica para cada modalidade.
 
 **Gabarito: C.** A Lei 15.371/2026 alterou o art. 392-A para contemplar empregado ou empregada e prevê, na adoção/guarda conjunta, uma licença-maternidade e uma licença-paternidade, sem repetição do mesmo tipo para mais de um adotante/guardião. A lei entra em vigor em 1º/1/2027.
+
+## 20. Questão autoral — aborto não criminoso
+
+**11.** Uma empregada sofre aborto não criminoso, comprovado por atestado médico oficial. Nos termos do art. 395 da CLT, ela terá direito a:
+
+A) licença-maternidade de 120 dias e estabilidade por cinco meses após o aborto.  
+B) repouso remunerado de duas semanas, assegurado o retorno à função anteriormente ocupada.  
+C) afastamento não remunerado de 15 dias, sem garantia de retorno.  
+D) licença-paternidade de 10 dias, por aplicação analógica.  
+E) repouso remunerado de 30 dias, sem direito à função anterior.
+
+**Gabarito: B.** O art. 395 da CLT assegura, no aborto não criminoso comprovado por atestado médico oficial, repouso remunerado de duas semanas e retorno à função. Não confundir com a licença-maternidade ordinária de 120 dias e a estabilidade até cinco meses após o parto.
 
