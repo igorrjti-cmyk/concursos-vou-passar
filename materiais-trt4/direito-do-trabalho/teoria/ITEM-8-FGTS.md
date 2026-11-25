@@ -252,3 +252,148 @@ Não foram inseridas novas questões no banco nesta etapa: os registros encontra
 - Caixa — FGTS Digital, perguntas frequentes do empregador: https://www.caixa.gov.br/Downloads/fgts-manuais-e-cartilhas-operacionais/FAQ_Externa_Empregador_FGTS_Digital_V7.pdf
 - TST — precedentes repetitivos, Temas 68 e 70: https://www.tst.jus.br/documents/10157/31961062/Precedentes%2BTrabalhistas%2B-%2B%C3%8Dndice%2BTem%C3%A1tico%2B-%2BSTF-TST.pdf
 - STF — ARE 709.212, Tema 608 (prescrição do FGTS): https://portal.stf.jus.br/
+
+
+## 14. FGTS nos afastamentos — quadro de incidência
+
+Este tema costuma aparecer em assertivas de certo/errado e em questões que misturam suspensão e interrupção do contrato.
+
+| Situação | Depósito de FGTS? | Regra |
+|---|---:|---|
+| Serviço militar obrigatório | **Sim** | Obrigação expressa do art. 15, § 5º, da Lei 8.036/1990 |
+| Acidente do trabalho / doença ocupacional | **Sim** | Obrigação expressa do art. 15, § 5º; durante o afastamento acidentário |
+| Doença comum, primeiros 15 dias | **Sim** | Empregador paga salário no período e há incidência normal |
+| Doença comum, a partir do 16º dia | **Em regra, não** | Benefício previdenciário comum; não se confunde com afastamento acidentário |
+| Licença-maternidade | **Sim** | O depósito continua durante a licença |
+| Férias gozadas + 1/3 | **Sim** | Incidência conforme competência e dias de gozo |
+| Férias indenizadas + 1/3 indenizado | **Não** | Parcelas indenizatórias, sem incidência ordinária |
+| Aviso-prévio indenizado | **Sim** | Súmula 305 do TST |
+| Afastamento sem remuneração por interesse particular | **Em regra, não** | Suspensão contratual sem hipótese legal de manutenção do depósito |
+
+**Base legal expressa:** art. 15, § 5º, da Lei 8.036/1990 determina depósito obrigatório nos afastamentos para serviço militar obrigatório e licença por acidente do trabalho. O MTE esclarece a operacionalização do recolhimento durante o afastamento acidentário: primeiros 15 dias com rubrica remuneratória e período posterior com rubrica informativa com incidência de FGTS.
+
+**Pegadinha:** nem todo afastamento suspende o depósito, e nem toda suspensão mantém FGTS. Memorize as exceções expressas: serviço militar obrigatório e acidente do trabalho; some a licença-maternidade e o aviso-prévio indenizado conforme regras próprias.
+
+## 15. Base de cálculo da indenização de 40% — detalhes
+
+A regra do art. 18, § 1º, é 40% do montante de todos os depósitos realizados durante a vigência do contrato, atualizados monetariamente e acrescidos dos juros legais.
+
+Pontos de prova:
+- a base é histórica e considera os depósitos devidos/realizados durante todo o contrato;
+- saques feitos pelo trabalhador durante o vínculo não reduzem, por si, a base da indenização;
+- o valor não é simplesmente 40% do saldo atual mostrado no aplicativo;
+- a distribuição de resultados do FGTS, creditada na conta vinculada, **não integra a base da multa**, conforme art. 13, § 7º, da Lei 8.036/1990;
+- a multa de 20% nas hipóteses legais de culpa recíproca ou força maior depende de reconhecimento pela Justiça do Trabalho, conforme art. 18, § 2º;
+- na extinção por acordo do art. 484-A da CLT, a indenização é paga pela metade, resultando em 20%.
+
+**Exemplo didático:** depósitos contratuais considerados para fins rescisórios = R$ 30.000,00, já atualizados; saques anteriores não alteram a base. Multa de 40% = R$ 12.000,00. Se a hipótese legal for de 20%, a indenização será R$ 6.000,00. O exemplo não inclui eventual distribuição de resultados, que deve ser excluída da base.
+
+## 16. Saques — distinções que a FCC pode explorar
+
+### 16.1. Extinção normal do contrato a termo
+
+O art. 20, IX, permite movimentação do FGTS na extinção normal do contrato por prazo determinado, inclusive o contrato de trabalho temporário. Isso não significa que toda extinção de contrato a termo gere multa de 40%: a movimentação do saldo e a indenização compensatória são institutos distintos.
+
+### 16.2. Aposentadoria e continuidade do vínculo
+
+A aposentadoria concedida pela Previdência Social é hipótese de movimentação do FGTS (art. 20, III). Se o empregado continua trabalhando, os depósitos posteriores continuam sendo feitos; a aposentadoria não extingue automaticamente o contrato de trabalho privado.
+
+### 16.3. Falecimento
+
+O saldo é pago aos dependentes habilitados perante a Previdência Social. Na falta deles, recebem os sucessores previstos na lei civil, mediante alvará judicial, independentemente de inventário ou arrolamento (art. 20, IV).
+
+### 16.4. Três anos fora do regime
+
+O trabalhador pode movimentar a conta quando permanecer três anos ininterruptos fora do regime do FGTS, observadas as condições legais e operacionais do art. 20, VIII. Não basta ficar três anos sem depósito em um contrato ainda ativo sujeito ao FGTS.
+
+### 16.5. Moradia própria
+
+As hipóteses de uso para moradia exigem requisitos específicos, entre eles:
+- mínimo de três anos de trabalho sob o regime do FGTS, somados em uma ou mais empresas;
+- imóvel residencial urbano e atendimento aos limites e condições do SFH e da regulamentação;
+- inexistência de impedimentos legais, como propriedade de outro imóvel residencial nas condições vedadas ou financiamento ativo incompatível;
+- utilização para aquisição, pagamento de parte das prestações, amortização ou liquidação, conforme a hipótese.
+
+Não decorar apenas “três anos”: o requisito é tempo de trabalho sob o regime do FGTS, não três anos na empresa atual.
+
+### 16.6. Doenças graves e desastre natural
+
+O art. 20 prevê movimentação em hipóteses como neoplasia maligna, HIV, estágio terminal por doença grave e necessidade pessoal urgente e grave decorrente de desastre natural, com os requisitos legais e regulamentares. A doença pode atingir o próprio trabalhador ou dependente, conforme o inciso específico.
+
+## 17. Saque-aniversário — regras atuais e alteração em 1º/11/2026
+
+A sistemática é opcional e alcança todas as contas vinculadas do mesmo titular. A primeira adesão produz efeito imediato. Enquanto estiver vigente:
+- na dispensa sem justa causa, o trabalhador movimenta a multa rescisória, mas não o saldo integral da conta por causa da rescisão;
+- continuam possíveis outras hipóteses legais de saque não excluídas pelo art. 20-A, § 2º;
+- o retorno ao saque-rescisão, em regra, produz efeitos no primeiro dia do 25º mês subsequente ao pedido, desde que não haja cessão/alienação de saques futuros que impeça a alteração;
+- se o trabalhador for desligado enquanto ainda estiver na sistemática saque-aniversário, aplica-se a restrição correspondente, mesmo que já tenha pedido retorno, mas o retorno ainda não tenha produzido efeitos.
+
+### Antecipação do saque-aniversário
+
+Conforme regras do Conselho Curador divulgadas pela CAIXA:
+- desde 1º/11/2025, é necessário aguardar 90 dias da opção para autorizar consulta e bloqueio de saldo para antecipação;
+- até 31/10/2026, era possível antecipar até cinco saques anuais, respeitados os limites;
+- **a partir de 1º/11/2026**, o limite passou a ser de até três saques anuais, com uma contratação por competência anual, observadas as demais condições;
+- a parcela antecipada deve respeitar o mínimo e máximo regulamentares; a página oficial da CAIXA informa faixa de R$ 100 a R$ 500 por saque anual.
+
+### Liberação extraordinária da MP 1.331/2025 — não confundir com regra permanente
+
+A MP 1.331/2025 autorizou, excepcionalmente, a movimentação de saldo de trabalhadores que:
+1. haviam optado pelo saque-aniversário;
+2. tiveram contrato extinto ou suspenso em uma das hipóteses legais durante a vigência da opção;
+3. tiveram o evento entre 01/01/2020 e 23/12/2025; e
+4. possuíam saldo disponível na conta vinculada daquele contrato.
+
+A MP teve vigência de 23/12/2025 a 01/06/2026, com pagamentos em etapas e ajustes pela MP 1.355/2026. **Em 25/11/2026, essa janela extraordinária está encerrada.** Ela não revogou nem alterou permanentemente a regra geral do saque-aniversário. Desligamentos posteriores a 23/12/2025 seguem a sistemática ordinária: optante do saque-aniversário saca a multa rescisória, mas não o saldo integral por motivo de dispensa.
+
+## 18. Multa, recolhimento e fiscalização — questões objetivas
+
+- O empregador deve recolher os depósitos mensais e rescisórios; a falta de depósito sujeita-o a atualização, juros e multas legais.
+- A declaração prestada no sistema digital constitui reconhecimento dos créditos e confissão de débito, nos termos do art. 17-A, § 1º, da Lei 8.036/1990.
+- A fiscalização pode constituir o crédito de ofício em caso de omissão, erro, fraude ou sonegação (art. 17-A, § 2º).
+- O trabalhador tem direito a serviços digitais que permitam acompanhar os créditos e acionar a inspeção do trabalho diante do inadimplemento (art. 17, I).
+- FGTS Digital é o sistema de gestão/recolhimento, não uma nova modalidade de saque nem uma alteração da natureza jurídica do Fundo.
+
+## 19. Questões autorais adicionais — não oficiais
+
+**11.** Empregado afastado por doença comum recebe benefício previdenciário a partir do 16º dia. O empregador deve continuar depositando FGTS durante todo o afastamento?
+
+**Resposta:** Em regra, não. A obrigação legal de manutenção durante afastamento está expressamente prevista para serviço militar obrigatório e acidente do trabalho, sem prejuízo de outras hipóteses legais específicas.
+
+**12.** O empregador deve recolher FGTS durante afastamento por acidente do trabalho?
+
+**Resposta:** Sim. A obrigação está expressa no art. 15, § 5º, da Lei 8.036/1990.
+
+**13.** O trabalhador sacou parte do FGTS durante o contrato. O valor sacado é subtraído da base da multa de 40%?
+
+**Resposta:** Não. A indenização considera os depósitos do contrato atualizados, e não apenas o saldo remanescente disponível.
+
+**14.** A distribuição anual de resultados do FGTS integra a base da indenização de 40%?
+
+**Resposta:** Não. O art. 13, § 7º, exclui o valor distribuído, acrescido de juros e atualização, da base de cálculo da multa rescisória.
+
+**15.** O trabalhador que se aposenta e continua no emprego deixa de receber depósitos do FGTS?
+
+**Resposta:** Não. A aposentadoria permite movimentação da conta, mas, mantido o vínculo de emprego, os depósitos posteriores continuam devidos.
+
+**16.** A extinção normal de contrato a termo permite movimentação do saldo, mas gera automaticamente multa de 40%?
+
+**Resposta:** Não. A hipótese do art. 20, IX, autoriza o saque do saldo; a indenização compensatória depende da modalidade de extinção.
+
+**17.** A liberação extraordinária da MP 1.331/2025 continua aberta em novembro de 2026?
+
+**Resposta:** Não. A MP teve vigência até 01/06/2026; tratou de janela excepcional para contratos extintos ou suspensos entre 01/01/2020 e 23/12/2025.
+
+**18.** Desde 1º/11/2026, quantos saques anuais podem ser antecipados na regra geral de antecipação do saque-aniversário?
+
+**Resposta:** Até três saques anuais, observados os limites e as demais condições da Resolução CCFGTS 1.130/2025.
+
+## 20. Fontes oficiais complementares e atualizações verificadas
+
+- Lei 8.036/1990, texto compilado — arts. 13, 15, 17, 17-A, 18 e 20: https://www.planalto.gov.br/ccivil_03/leis/l8036compilada.htm
+- Lei 15.486/2026 — alteração do art. 9º-C, voltada a aplicações do Fundo em operações de crédito para entidades hospitalares filantrópicas e instituições sem fins lucrativos que atuem com pessoas com deficiência: https://www2.camara.leg.br/legin/fed/lei/2026/lei-15486-6-agosto-2026-799702-publicacaooriginal-180717-pl.html
+- MTE — FGTS Digital, perguntas frequentes, inclusive afastamento acidentário e férias: https://www.gov.br/trabalho-e-emprego/pt-br/servicos/empregador/fgtsdigital/perguntas-frequentes
+- CAIXA — saque-aniversário e regras de antecipação: https://www.fgts.gov.br/Paginas/trabalhador/saque/saque-aniversario.aspx
+- CAIXA — liberação excepcional da MP 1.331/2025 e encerramento da vigência em 01/06/2026: https://www.fgts.gov.br/Paginas/subpaginas/saque-mp-1331-2025.aspx
+- Ato Declaratório CN nº 44/2026 — encerramento da vigência da MP 1.331/2025: https://planalto.gov.br/ccivil_03/_ato2023-2026/2026/congresso/adc-44-mpv1.331.htm
+- TST — Temas 68 e 70: https://www.tst.jus.br/documents/10157/31961062/Precedentes%2BTrabalhistas%2B-%2B%C3%8Dndice%2BTem%C3%A1tico%2B-%2BSTF-TST.pdf
