@@ -619,3 +619,46 @@ D) o adolescente de 15 anos não pode trabalhar em hipótese alguma, mas o de 17
 E) ambos podem trabalhar se houver autorização dos pais.
 
 **Gabarito: C.** O adolescente de 15 anos pode ser aprendiz, pois a aprendizagem é admitida a partir dos 14 anos, mas permanece proibido o trabalho perigoso, insalubre ou noturno até os 18. O adolescente de 17 anos também não pode exercer atividade insalubre, ainda que diurna.
+
+## 25. Repouso dominical da mulher — art. 386 da CLT e jurisprudência
+
+### Regra legal
+
+O art. 386 da CLT determina que, havendo trabalho aos domingos, seja organizada escala de revezamento quinzenal que favoreça o repouso dominical da mulher. Na prática, a escala deve assegurar que a trabalhadora tenha repouso no domingo em revezamento quinzenal, e não apenas uma folga em outro dia da semana.
+
+### Jurisprudência do TST
+
+- O TST considera o art. 386 recepcionado pela Constituição Federal: a proteção diferenciada é compatível com a igualdade material.
+- A norma especial do art. 386 prevalece, para as trabalhadoras, sobre a regra geral do art. 6º, parágrafo único, da Lei 10.101/2000, que prevê coincidência do repouso com domingo pelo menos uma vez no período máximo de três semanas para o comércio em geral.
+- Portanto, não basta conceder folga dominical apenas uma vez a cada três semanas às empregadas abrangidas pelo art. 386.
+- O descumprimento da escala quinzenal gera direito ao pagamento em dobro dos domingos trabalhados em desacordo com a proteção, conforme jurisprudência do TST e aplicação do art. 9º da Lei 605/1949.
+- A concessão de folga em outro dia da semana não substitui o repouso dominical quinzenal especial.
+
+### Atualização constitucional — EC 141/2026
+
+A EC 141/2026 passou a prever dois dias semanais de repouso remunerado, com um deles preferencialmente aos domingos, observada a eficácia temporal prevista na própria emenda. A regra especial do art. 386 da CLT não deve ser tratada como automaticamente revogada: deve ser harmonizada com o novo patamar constitucional, preservando-se a disciplina específica do repouso dominical quinzenal das trabalhadoras.
+
+**Pegadinhas FCC:**
+1. Art. 386 = escala quinzenal que favoreça repouso aos domingos.
+2. A regra especial da mulher prevalece sobre a regra geral do comércio de um domingo a cada três semanas.
+3. Folga compensatória em outro dia não sana, por si só, a violação ao art. 386.
+4. O TST reconhece consequência pecuniária: pagamento em dobro dos domingos trabalhados em desrespeito à escala.
+
+**Fontes jurisprudenciais para aprofundamento:**
+- TST, E-ED-RR-619-11.2017.5.12.0054, SBDI-1, DEJT 11/02/2022 (recepção constitucional e prevalência da norma especial).
+- TST, RR-315-44.2022.5.12.0019, 7ª Turma, DEJT 31/01/2025 (art. 386 e escala quinzenal).
+- TST, RR-0101093-09.2021.5.01.0069, julgamento divulgado em 2026 (aplicação da escala quinzenal e consequências do descumprimento).
+- STF, ADI 7612, acórdão publicado em 15/10/2026, trecho que registra a jurisprudência constitucional sobre a legitimidade da proteção diferenciada prevista no art. 386 da CLT.
+- TRT-3, IRDR 0013487-57.2025.5.03.0000, acórdão de 02/09/2025 (tese regional sobre constitucionalidade, pagamento em dobro e indisponibilidade da proteção; observar o âmbito territorial e a situação processual do incidente).
+
+### Questão autoral de fixação
+
+**17.** Uma empregada do comércio trabalha habitualmente aos domingos. A empresa concede repouso semanal às segundas-feiras e escala folga aos domingos apenas uma vez a cada três semanas, invocando o art. 6º da Lei 10.101/2000. Segundo a jurisprudência do TST sobre o art. 386 da CLT:
+
+A) a empresa cumpre a lei, pois a regra geral do comércio prevalece sobre a proteção especial da mulher.  
+B) a empresa deve observar a escala quinzenal especial do art. 386; a folga em outro dia não substitui o repouso dominical previsto, e o descumprimento pode gerar pagamento em dobro.  
+C) a regra do art. 386 foi revogada pela Reforma Trabalhista.  
+D) a escala quinzenal somente se aplica a empregadas gestantes.  
+E) o art. 386 assegura dois domingos consecutivos de folga por mês, sem possibilidade de trabalho dominical.
+
+**Gabarito: B.** O TST reconhece a recepção constitucional do art. 386 e a prevalência da norma especial sobre a regra geral do comércio. A trabalhadora deve ter repouso dominical em escala quinzenal; a violação pode gerar pagamento em dobro dos domingos trabalhados em desacordo com a escala.
