@@ -457,3 +457,33 @@ E) a participação sindical é facultativa.
 - STF, Tema 935 (ARE 1.018.459): https://portal.stf.jus.br/jurisprudenciaRepercussao/verAndamentoProcesso.asp?incidente=5112803&numeroProcesso=1018459&numeroTema=935
 - Ministério do Trabalho e Emprego, Negociação e Mediação Coletiva Trabalhista — Consolidação da Legislação Aplicável (2024): https://www.gov.br/trabalho-e-emprego/pt-br/pdfs/livro-mte-negociacao-coletiva-trabalhista-04nov2024_op002.pdf
 
+
+
+## 20. Complemento de precisão — quórum de assembleia e controle judicial
+
+### Quórum do art. 612 da CLT
+
+O dispositivo estabelece, para deliberação de CCT ou ACT:
+- primeira convocação: comparecimento e votação de **2/3 dos associados**, tratando-se de convenção, ou dos interessados, no caso de acordo;
+- segunda convocação: **1/3 dos membros**;
+- entidades sindicais com mais de 5.000 associados: em segunda convocação, quórum de **1/8 dos associados**.
+
+A assembleia deve ser especialmente convocada para essa finalidade e observar os estatutos. O art. 617, § 2º, prevê convocação dos diretamente interessados, sindicalizados ou não, para deliberar sobre ACT.
+
+**Cuidado:** o enunciado pode trocar o quórum de convenção pelo de acordo, ou omitir a regra especial de 1/8 para entidade com mais de 5.000 associados. Memorize a sequência: **2/3 na primeira; 1/3 na segunda; 1/8 na segunda para sindicato com mais de 5.000 associados.**
+
+### Intervenção mínima não é imunidade absoluta
+
+O art. 8º, § 3º, da CLT determina que, ao examinar ACT/CCT, a Justiça do Trabalho analise a conformidade dos elementos essenciais do negócio jurídico e observe o princípio da intervenção mínima na autonomia da vontade coletiva. Isso não elimina:
+- controle de constitucionalidade e legalidade;
+- proteção dos direitos absolutamente indisponíveis;
+- aplicação do art. 611-B;
+- exame de fraude, vício de consentimento e representação legítima;
+- observância da tese vinculante do Tema 1.046 do STF.
+
+### Fontes complementares da jurisprudência de 2026
+
+- STF, Rcl 85.349 AgR, Segunda Turma, julgamento em 25/02/2026: https://portal.stf.jus.br/constituicao-supremo/artigo.asp?abrirArtigo=7&abrirBase=CF
+- STF, Tema 935, andamento e incidentes processuais: https://portal.stf.jus.br/jurisprudenciaRepercussao/verAndamentoProcesso.asp?incidente=5112803&numeroProcesso=1018459&numeroTema=935
+- STF, Informativo 1200, parâmetros sobre contribuição assistencial e direito de oposição: https://www.stf.jus.br/arquivo/informativo/documento/informativo1200.htm
+
