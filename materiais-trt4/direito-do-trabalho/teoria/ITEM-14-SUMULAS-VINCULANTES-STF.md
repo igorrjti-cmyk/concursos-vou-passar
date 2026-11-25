@@ -91,3 +91,134 @@ Prioridade de revisão:
 - STF — SV 16: https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=26&sumula=1237
 - STF — SV 22 e SV 23: https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=26
 
+
+
+---
+
+## 1. Correção e ampliação do recorte — SV 40 também é essencial
+
+A **Súmula Vinculante 40** deve integrar o núcleo do Item 14, pois trata diretamente de contribuição sindical/confederativa:
+
+**Enunciado:** “A contribuição confederativa de que trata o art. 8º, IV, da Constituição Federal, só é exigível dos filiados ao sindicato respectivo.”
+
+**Pegadinha FCC:** não confundir contribuição confederativa com contribuição assistencial.
+- **Confederativa (SV 40):** somente filiados.
+- **Assistencial (Tema 935/STF):** pode alcançar todos os integrantes da categoria, inclusive não filiados, desde que assegurado direito de oposição livre e observados os parâmetros definidos pelo STF.
+- **Sindical:** após a Reforma Trabalhista, exige autorização prévia e expressa, conforme os arts. 578 e seguintes da CLT.
+- **Mensalidade associativa:** decorre da filiação.
+
+A SV 40 é diretamente pertinente ao Item 12 do edital (Direito Coletivo) e deve receber prioridade alta, ao lado das SV 4, 22 e 23.
+
+Fonte oficial: https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=26&sumula=1642
+
+## 2. Alcance das súmulas e distinções que evitam confusão
+
+### 2.1 SV 4 e adicional de insalubridade
+
+A SV 4 contém duas proibições que precisam ser lidas em conjunto:
+1. o salário mínimo não pode ser utilizado como indexador da base de cálculo de vantagem de empregado ou servidor, salvo hipótese constitucional;
+2. o Judiciário não pode simplesmente substituir o indexador por outra base de cálculo, atuando como legislador positivo.
+
+No caso do adicional de insalubridade, a jurisprudência do STF impede que o juiz substitua, por decisão própria, o salário mínimo pelo salário básico ou por outra parcela. Até que sobrevenha lei ou norma coletiva válida que estabeleça critério diverso, não se deve inventar uma base judicialmente.
+
+**Pegadinha:** “o salário mínimo não pode ser base” não significa “o juiz pode escolher livremente o salário contratual”. A parte final da SV 4 impede essa substituição judicial.
+
+Fonte oficial e precedentes representativos: https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=26&sumula=1195
+
+### 2.2 SV 15 e SV 16 — cuidado com o regime jurídico
+
+As SV 15 e 16 têm destinatário direto no regime remuneratório dos servidores públicos. Não devem ser transportadas automaticamente para empregados de empresas privadas.
+
+- SV 15: o abono pago para completar o salário mínimo do servidor não integra a base de cálculo de gratificações e vantagens.
+- SV 16: para verificar se o servidor recebe ao menos o salário mínimo, considera-se a remuneração total, não necessariamente o vencimento básico isolado.
+
+Para o cargo de Técnico Judiciário, é útil compreender a literalidade, mas o edital de Direito do Trabalho não transforma todo o regime remuneratório estatutário em conteúdo trabalhista.
+
+### 2.3 SV 22 — acidente de trabalho: ação indenizatória x benefício previdenciário
+
+A competência da Justiça do Trabalho abrange a ação de indenização por danos morais ou materiais proposta pelo empregado contra o empregador em razão de acidente de trabalho.
+
+Não confundir:
+- empregado x empregador, pedido de indenização civil decorrente do acidente: Justiça do Trabalho (SV 22);
+- segurado x INSS, pedido de benefício previdenciário: Justiça comum, conforme a disciplina constitucional e jurisprudencial própria.
+
+### 2.4 SV 23 — ação possessória ligada à greve
+
+A Justiça do Trabalho julga ação possessória cuja causa decorra do exercício do direito de greve por trabalhadores da iniciativa privada. A natureza possessória do pedido não afasta a competência especializada quando a controvérsia decorre diretamente da greve.
+
+Não estender automaticamente a tese a conflitos possessórios sem relação com o exercício de greve.
+
+## 3. Quadro de prioridade para a FCC
+
+| Prioridade | Súmula Vinculante | O que memorizar |
+|---|---|---|
+| Muito alta | SV 4 | Salário mínimo não indexa vantagem; Judiciário não substitui a base |
+| Muito alta | SV 22 | Indenização por acidente de trabalho: empregado contra empregador na JT |
+| Muito alta | SV 23 | Ação possessória decorrente de greve na iniciativa privada na JT |
+| Muito alta | SV 40 | Contribuição confederativa somente dos filiados |
+| Complementar | SV 15 | Abono para completar mínimo não entra na base de vantagens do servidor |
+| Complementar | SV 16 | Mínimo do servidor considera remuneração total |
+
+## 4. Questões autorais — Súmulas Vinculantes
+
+**Questão 1.** A empresa calcula adicional de insalubridade sobre o salário mínimo. O empregado pede que o Judiciário substitua essa base pelo salário contratual, sem lei ou norma coletiva que estabeleça o critério. À luz da SV 4:
+
+A) o juiz deve substituir automaticamente a base.  
+B) a SV 4 autoriza qualquer base escolhida pelo empregado.  
+C) o salário mínimo não pode ser indexador, mas o Judiciário não pode substituí-lo por decisão própria, sem suporte normativo.  
+D) a SV 4 só vale para servidores públicos.  
+E) a base é necessariamente a remuneração total.
+
+**Gabarito: C.** A parte final da SV 4 impede que o Judiciário atue como legislador positivo para eleger outra base.
+
+**Questão 2.** A contribuição confederativa foi instituída em assembleia e descontada de todos os empregados da categoria, inclusive não filiados. Segundo a SV 40:
+
+A) o desconto é válido porque a assembleia representa toda a categoria.  
+B) o desconto só é exigível dos filiados ao sindicato.  
+C) o desconto é obrigatório para todos, desde que previsto em CCT.  
+D) a SV 40 trata de contribuição assistencial.  
+E) a contribuição confederativa tem natureza de mensalidade associativa.
+
+**Gabarito: B.** A SV 40 limita a exigibilidade da contribuição confederativa aos filiados.
+
+**Questão 3.** Empregado ajuíza ação contra o empregador para receber indenização por danos morais e materiais decorrentes de acidente de trabalho. A competência é:
+
+A) da Justiça Federal.  
+B) da Justiça comum estadual em qualquer hipótese.  
+C) da Justiça do Trabalho.  
+D) do juízo previdenciário.  
+E) do Tribunal de Contas.
+
+**Gabarito: C.** Aplicação direta da SV 22.
+
+**Questão 4.** Trabalhadores da iniciativa privada realizam greve e, em razão da ocupação de acesso ao estabelecimento, surge ação possessória diretamente vinculada ao movimento. A competência para julgar a ação é:
+
+A) da Justiça do Trabalho.  
+B) da Justiça Eleitoral.  
+C) da Justiça Federal, necessariamente.  
+D) da Justiça comum, porque a ação é possessória.  
+E) do Ministério do Trabalho.
+
+**Gabarito: A.** A SV 23 fixa a competência trabalhista para ação possessória decorrente do exercício do direito de greve na iniciativa privada.
+
+**Questão 5.** Para verificar se servidor público recebe ao menos o salário mínimo, a SV 16 determina considerar:
+
+A) apenas o vencimento básico.  
+B) somente a gratificação de função.  
+C) o total da remuneração percebida.  
+D) apenas as parcelas permanentes.  
+E) o salário mínimo acrescido de abono, sem outras parcelas.
+
+**Gabarito: C.** A SV 16 refere-se ao total da remuneração do servidor.
+
+## 5. Checklist final do Item 14
+
+- [ ] SV 4: proibição de indexação pelo salário mínimo e vedação de substituição judicial da base.
+- [ ] SV 15: abono para completar o mínimo não compõe base de outras vantagens do servidor.
+- [ ] SV 16: garantia do mínimo considera a remuneração total do servidor.
+- [ ] SV 22: ação indenizatória por acidente de trabalho entre empregado e empregador é da Justiça do Trabalho.
+- [ ] SV 23: ação possessória decorrente de greve na iniciativa privada é da Justiça do Trabalho.
+- [ ] SV 40: contribuição confederativa só pode ser exigida de filiados.
+- [ ] Diferenciar contribuição confederativa (SV 40) de assistencial (Tema 935).
+- [ ] Não confundir ação indenizatória trabalhista (SV 22) com demanda previdenciária contra o INSS.
+- [ ] Não ampliar a SV 23 para ações possessórias sem vínculo com greve.
