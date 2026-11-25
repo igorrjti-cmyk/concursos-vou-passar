@@ -2174,3 +2174,77 @@ Os três registros foram confirmados no banco após a inserção, preservando as
 - Memorizar Súmulas 27, 60, 225, 253, 265, 340, 354, 367, 381 e 448 do TST, nos pontos pertinentes.
 - Revisar arts. 457 a 466, 468, 469 a 470, 461 e 462 da CLT.
 - Resolver novamente questões oficiais de vários TRTs, não apenas do TRT-4.
+
+
+### 28.23. Revisão integrada FCC — natureza das parcelas e reflexos
+
+Esta seção consolida as distinções mais úteis para questões que misturam remuneração, jornada e verbas rescisórias.
+
+#### A. Salário, remuneração e gorjetas: sequência de análise
+
+1. **Salário**: parcela paga diretamente pelo empregador como contraprestação do trabalho, abrangendo a importância fixa, gratificações legais e comissões (art. 457, § 1º).
+2. **Remuneração**: salário acrescido das gorjetas (art. 457, caput).
+3. **Gorjeta**: pode ser espontânea ou cobrada na conta pelo empregador e destinada à distribuição aos empregados (art. 457, § 3º).
+4. **Prêmio**: só recebe a exclusão do § 2º quando corresponder à liberalidade por desempenho superior ao ordinariamente esperado, nos termos do § 4º. O nome dado à parcela não prevalece sobre sua realidade.
+5. **Auxílio-alimentação**: a exclusão expressa do § 2º exige que não seja pago em dinheiro.
+
+#### B. Gorjetas — Tema 234 do TST
+
+O Tema 234 reafirmou a Súmula 354: gorjetas integram a remuneração, mas não servem de base de cálculo para:
+- aviso-prévio;
+- adicional noturno;
+- horas extras;
+- repouso semanal remunerado.
+
+**Pegadinha:** não basta decorar que a gorjeta integra a remuneração. A questão pode afirmar que, por integrar a remuneração, necessariamente compõe a base de todas as parcelas. A conclusão é errada. O Tema 234 reafirma expressamente as quatro exclusões acima.
+
+Fonte oficial do TST: https://www.tst.jus.br/documents/d/guest/irr234-pdf
+
+#### C. Comissões e cálculo de horas extras
+
+Não confundir o tratamento das gorjetas com o das comissões. As comissões têm natureza salarial e repercutem nas parcelas pertinentes, observadas as regras específicas do comissionista:
+- comissionista puro: Súmula 340 do TST — em regra, recebe apenas o adicional de horas extras sobre as comissões, pois a hora simples já está remunerada;
+- comissionista misto: OJ 397 da SDI-1 — adicional sobre a parte variável e hora normal mais adicional sobre a parte fixa;
+- repouso semanal sobre comissões: observar Súmula 27 do TST.
+
+A questão deve indicar se o empregado é comissionista puro ou misto e qual parcela já remunerou a hora trabalhada.
+
+#### D. Reflexos: quadro de prevenção de erro
+
+| Parcela | Integra salário/remuneração? | Cuidado na base de cálculo |
+|---|---|---|
+| Comissão | Sim, salário | Regras específicas para comissionista e horas extras |
+| Gratificação legal | Sim, salário | Verificar regra legal específica e habitualidade quando pertinente |
+| Gorjeta | Sim, remuneração | Não compõe aviso-prévio, adicional noturno, horas extras e RSR (Tema 234/Súmula 354) |
+| Prêmio verdadeiro do art. 457, § 4º | Não, nos termos do § 2º | Exige desempenho superior ao ordinariamente esperado |
+| Ajuda de custo abrangida pelo § 2º | Não | Investigar eventual fraude ou contraprestação disfarçada |
+| Auxílio-alimentação não pago em dinheiro | Não, nos termos do § 2º | Não confundir com pagamento em espécie |
+| Salário-utilidade | Pode integrar salário | Verificar se é fornecido pelo trabalho ou para o trabalho e as exclusões do art. 458 |
+
+#### E. Questões autorais de recuperação ativa
+
+**1.** Garçom recebe salário fixo e gorjetas espontâneas. As gorjetas integram a remuneração e entram na base das horas extras?
+
+**Resposta:** Integram a remuneração, mas não entram na base das horas extras, conforme Tema 234 e Súmula 354 do TST.
+
+**2.** Vendedor recebe salário fixo e comissões. Para calcular horas extras, pode ser aplicada indistintamente a Súmula 340 como se fosse comissionista puro?
+
+**Resposta:** Não. É comissionista misto; aplica-se a OJ 397: tratamento distinto para a parte fixa e a variável.
+
+**3.** A empresa denomina “prêmio” uma parcela mensal paga automaticamente a todos, sem desempenho superior ao ordinariamente esperado. O rótulo basta para afastar a natureza salarial?
+
+**Resposta:** Não. A realidade dos pagamentos deve corresponder aos requisitos do art. 457, § 4º. A mera denominação não transforma salário em prêmio.
+
+**4.** Gorjetas integram a base do repouso semanal remunerado porque integram a remuneração?
+
+**Resposta:** Não. A Súmula 354 e o Tema 234 excluem expressamente o RSR da base de cálculo das gorjetas.
+
+#### F. Checklist de prova
+
+- Identificar quem paga a parcela: empregador ou cliente.
+- Separar salário de remuneração.
+- Verificar se a verba está expressamente excluída pelo art. 457, § 2º.
+- Testar os requisitos materiais do prêmio (§ 4º).
+- Distinguir gorjetas de comissões.
+- Identificar comissionista puro ou misto antes de calcular horas extras.
+- Aplicar o Tema 234/Súmula 354 sem ampliar ou reduzir a lista de parcelas excluídas.
