@@ -274,3 +274,55 @@ Beth foi dispensada em março de 2009 e somente procurou orientação em julho d
 - **Média:** prescrição intercorrente do art. 11-A.
 - **Média/baixa, mas literal:** decadência de 30 dias do inquérito judicial (CLT, art. 853).
 - **Atenção a precedentes:** prescrição total/parcial exige identificar a fonte do direito e a natureza da lesão; não resolver apenas pela expressão “ato único”.
+
+
+## 19. Precedentes qualificados do TST — atualização jurisprudencial
+
+### Tema 169 — projeção do aviso-prévio indenizado
+
+**Tese firmada:** a prescrição bienal começa a fluir do término do aviso-prévio, ainda que indenizado.
+
+- O aviso-prévio indenizado integra o tempo de serviço para esse marco.
+- Na contagem do biênio, não usar automaticamente o último dia efetivamente trabalhado.
+- Referências: CF, art. 7º, XXIX; CLT, art. 487, § 1º; OJs 82 e 83 da SDI-1.
+- Tema 169 transitado em julgado em 23/08/2025.
+
+### Tema 170 — protesto judicial como causa interruptiva
+
+**Tese firmada:** o protesto judicial previsto no art. 202, II, do Código Civil continua sendo causa de interrupção da prescrição, mesmo após a Lei 13.467/2017 e a inclusão do art. 11, § 3º, da CLT.
+
+**Atenção:** não confundir protesto judicial com simples comunicação extrajudicial. A tese reconhece a eficácia interruptiva do instrumento judicial.
+
+### Tema 268 — suspensão contratual por benefício previdenciário
+
+**Tese firmada:** auxílio-doença ou aposentadoria por incapacidade não impedem, por si sós, o curso da prescrição quinquenal. Exceção: absoluta impossibilidade de acesso ao Judiciário.
+
+É reafirmação da OJ 375 da SDI-1. Não basta provar que o contrato estava suspenso; a exceção exige impossibilidade efetiva de acesso à Justiça.
+
+### Tema 132 — retificação e entrega do PPP
+
+**Tese firmada:** a pretensão de retificação e entrega do Perfil Profissiográfico Previdenciário (PPP) tem natureza meramente declaratória e não se submete à prescrição, conforme CLT, art. 11, § 1º.
+
+**Cuidado:** a imprescritibilidade da pretensão declaratória de retificação/entrega do PPP não transforma em imprescritíveis pedidos condenatórios de pagamento de parcelas trabalhistas.
+
+### Tema 251 — FGTS incidente sobre parcelas prescritas
+
+**Tese firmada:** a prescrição da pretensão relativa às parcelas remuneratórias alcança também o respectivo recolhimento do FGTS. É reafirmação da Súmula 206 do TST.
+
+**Exemplo:** se a pretensão de cobrar determinada verba salarial está prescrita, não se contorna essa prescrição pedindo apenas o FGTS incidente sobre aquela verba.
+
+### Temas em acompanhamento — não tratar como tese firmada
+
+O índice temático oficial do TST consultado (outubro de 2025) registrava, sem tese fixada naquele documento:
+- IRR 046: aplicação da suspensão de prazos da Lei 14.010/2020 às prescrições bienal e quinquenal trabalhistas.
+- IRR 091: possibilidade de reconhecimento de ofício da prescrição trabalhista, ressalvada a prescrição intercorrente.
+- IRR 106: prazo e termo inicial para execução individual de decisão coletiva.
+
+Esses itens devem ser conferidos novamente na base oficial de precedentes antes da prova. Não memorizar questão jurídica afetada como se já fosse tese vinculante.
+
+### Fontes oficiais de precedentes
+
+- TST — Índice Temático de Precedentes Qualificados (outubro/2025): https://www.tst.jus.br/documents/10157/34530039/Indice%2BTem%C3%A1tico%2Bde%2BPrecedentes%2BQualificados%2Bno%2BTST.pdf
+- TST — Tema 169: https://www.tst.jus.br/documents/10157/33660380/irr169-1-pdf
+- TST — Tema 268: https://www.tst.jus.br/documents/10157/guest/irr268-1-pdf
+- STF — Tema 608 (FGTS): https://portal.stf.jus.br/jurisprudenciaRepercussao/tema.asp?num=608
