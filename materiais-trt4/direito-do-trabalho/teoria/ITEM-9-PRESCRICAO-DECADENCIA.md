@@ -399,7 +399,7 @@ E) 2 anos.
 ### Gabarito comentado
 
 1. **C.** Tema 169 do TST: o biênio começa no término do aviso-prévio, ainda que indenizado.
-2. **B.** Primeiro se observa o limite de dois anos após o fim do contrato; depois, o quinquênio retroativo ao ajuizamento. O enunciado diz quatro anos após o término, portanto há uma inconsistência: **a alternativa correta é A**, pois o biênio já foi ultrapassado. *Correção pedagógica: nesta questão, o marco de quatro anos após a extinção torna a pretensão condenatória prescrita; o quinquênio não supera o biênio.*
+2. **A.** Como a ação é proposta quatro anos após a extinção contratual, o biênio já foi ultrapassado. O quinquênio não supera o limite de dois anos para ajuizamento após o término do contrato.
 3. **C.** STF, Tema 608: quinquênio, com modulação para prazos iniciados antes de 13/11/2014.
 4. **C.** TST, Tema 268; a suspensão contratual não paralisa automaticamente a prescrição.
 5. **B.** TST, Tema 170: protesto judicial continua interrompendo a prescrição após a Reforma.
