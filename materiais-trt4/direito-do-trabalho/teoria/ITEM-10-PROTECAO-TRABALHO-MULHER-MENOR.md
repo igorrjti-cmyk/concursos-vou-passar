@@ -277,3 +277,65 @@ Fontes: prova e enunciado — https://www.qconcursos.com/questoes-de-concursos/p
 | 2239638 | TRT-14/2022 | B | 7748 |
 
 Os três registros já existiam; não foram duplicados. As resoluções detalhadas foram atualizadas e a consulta posterior confirmou o conteúdo e os gabaritos.
+
+
+## 17. Licença-paternidade — Lei 15.371/2026 (vigência em 1º/1/2027)
+
+**Atualização especialmente relevante para prova de 2027:** a Lei 15.371, de 31/03/2026, entra em vigor em **1º de janeiro de 2027**. Não aplicar sua disciplina como se já estivesse vigente em novembro/dezembro de 2026; para fatos ocorridos antes da vigência, observar a regra temporal correspondente.
+
+### Duração escalonada
+A licença-paternidade e o salário-paternidade, considerados isoladamente, terão duração total:
+- **10 dias**, a partir de 1º/1/2027;
+- **15 dias**, a partir de 1º/1/2028;
+- **20 dias**, a partir de 1º/1/2029, condicionados ao cumprimento da meta fiscal prevista na lei.
+
+No Programa Empresa Cidadã, a prorrogação da licença-paternidade passa a ser de mais 15 dias, além do período obrigatório, observados os requisitos legais.
+
+### Hipóteses e deveres
+- É concedida por nascimento, adoção ou guarda judicial para fins de adoção de criança ou adolescente, sem prejuízo do emprego e do salário.
+- O empregado deve comunicar ao empregador, com antecedência mínima de 30 dias, o período previsto, acompanhado de atestado com a data provável do parto ou documento judicial pertinente.
+- No parto antecipado, o afastamento é imediato; a comunicação deve ser feita tão logo possível, com posterior apresentação da documentação.
+- Durante a licença, o empregado deve afastar-se do trabalho, não pode exercer atividade remunerada e deve participar dos cuidados e da convivência com a criança/adolescente.
+- A licença pode ser suspensa, cessada ou indeferida se houver elementos concretos de violência doméstica/familiar ou abandono material praticados pelo pai contra a criança/adolescente, conforme procedimento legal e regulamentação.
+
+### Estabilidade do empregado pai
+- A lei veda dispensa arbitrária ou sem justa causa desde o início do gozo da licença-paternidade até um mês após o seu término.
+- Se, após a comunicação formal ao empregador e antes do início da licença, o contrato for rescindido de modo a frustrar o gozo, a lei prevê indenização em dobro do período indicado no art. 4º.
+- Não confundir essa garantia específica com a estabilidade gestante do ADCT, que tem marco e duração próprios.
+
+### Adoção, guarda e situações especiais
+- A licença-paternidade também é prevista para adoção e guarda judicial para fins de adoção.
+- Em adoção ou guarda conjunta, serão concedidas licença-maternidade e licença-paternidade aos adotantes/guardiões, sem conceder o mesmo tipo de licença a mais de um deles.
+- Na ausência materna no registro civil ou na adoção/guarda apenas pelo pai, a licença-paternidade equivale à licença-maternidade, inclusive em duração e estabilidade.
+- Em caso de falecimento da mãe ou do pai, quem assumir legalmente os deveres parentais, se empregado, pode usufruir o período restante ou integral conforme as condições legais.
+- Em nascimento ou adoção de criança/adolescente com deficiência, a duração da licença é acrescida de um terço.
+- Internação hospitalar da mãe ou do recém-nascido, com nexo com o parto, prorroga a licença pelo período da internação, retomando-se a contagem após a alta que ocorrer por último.
+
+### Salário-paternidade
+A Lei 15.371/2026 também institui o salário-paternidade no RGPS:
+- para empregado e trabalhador avulso, renda mensal igual à remuneração integral, proporcional à duração;
+- a empresa paga ao empregado e recebe reembolso previdenciário, observadas as regras legais;
+- para outros segurados, o pagamento é feito diretamente pela Previdência, com cálculo conforme a categoria;
+- o benefício exige afastamento do trabalho ou atividade;
+- pode coexistir com salário-maternidade em relação ao mesmo evento, nos termos legais.
+
+### Como a FCC pode cobrar
+1. Não confundir a vigência da lei (1º/1/2027) com sua publicação (31/3/2026).
+2. Memorizar a escada de duração: 10 dias em 2027, 15 em 2028, 20 em 2029, com condição fiscal para o último estágio.
+3. A estabilidade do pai começa no início do gozo da licença e termina um mês após o fim; não começa automaticamente na confirmação da gravidez da companheira.
+4. Adoção/guarda também gera licença-paternidade; a lei disciplina adoção conjunta e adoção apenas pelo pai.
+5. A ausência de atividade remunerada durante a licença é requisito expresso.
+
+**Fonte oficial:** Lei 15.371/2026, especialmente arts. 2º a 14: https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/l15371.htm
+
+## 18. Questão autoral — nova licença-paternidade
+
+**9.** Considerando a Lei 15.371/2026, com vigência a partir de 1º de janeiro de 2027, a duração total ordinária da licença-paternidade será:
+
+A) 5 dias em 2027, 10 em 2028 e 15 em 2029.  
+B) 10 dias em 2027, 15 em 2028 e 20 em 2029, este último estágio condicionado à meta fiscal legal.  
+C) 15 dias desde a publicação da lei em 2026.  
+D) 20 dias desde 1º de janeiro de 2027, sem condição.  
+E) 30 dias a partir de 2028.
+
+**Gabarito: B.** A lei estabelece escalonamento temporal e condiciona a duração de 20 dias em 2029 ao cumprimento da meta fiscal prevista. A lei entra em vigor em 1º/1/2027, não na data de sua publicação.
