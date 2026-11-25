@@ -445,7 +445,7 @@ E) a participação sindical é facultativa.
 5. **C.** SV 40: contribuição confederativa só é exigível dos filiados.
 6. **B.** Art. 611-A, § 3º: redução salarial ou de jornada negociada exige proteção contra dispensa imotivada durante a vigência do instrumento.
 7. **C.** Art. 611-B, III, protege o valor dos depósitos mensais e da indenização rescisória do FGTS.
-8. **D.** Entre mais de 2.000 e 5.000 empregados, a comissão é de cinco membros (art. 510-A, § 1º, II).
+8. **C.** Para empresa com mais de 200 e até 3.000 empregados, a comissão tem três membros (art. 510-A, § 1º, I). Cinco membros somente para empresa com mais de 3.000 e até 5.000 empregados.
 9. **B.** Súmula 374 do TST: a empresa não representada pelo sindicato patronal correspondente não fica obrigada às vantagens da norma coletiva da categoria diferenciada.
 10. **A.** Art. 611-A, § 5º: sindicatos subscritores são litisconsortes necessários em ação de anulação de cláusulas.
 
@@ -486,4 +486,127 @@ O art. 8º, § 3º, da CLT determina que, ao examinar ACT/CCT, a Justiça do Tra
 - STF, Rcl 85.349 AgR, Segunda Turma, julgamento em 25/02/2026: https://portal.stf.jus.br/constituicao-supremo/artigo.asp?abrirArtigo=7&abrirBase=CF
 - STF, Tema 935, andamento e incidentes processuais: https://portal.stf.jus.br/jurisprudenciaRepercussao/verAndamentoProcesso.asp?incidente=5112803&numeroProcesso=1018459&numeroTema=935
 - STF, Informativo 1200, parâmetros sobre contribuição assistencial e direito de oposição: https://www.stf.jus.br/arquivo/informativo/documento/informativo1200.htm
+
+
+
+## 21. Direito de greve — Constituição e Lei 7.783/1989
+
+### 21.1 Conceito e titularidade
+
+Greve é a suspensão coletiva, temporária e pacífica, total ou parcial, da prestação pessoal de serviços ao empregador (Lei 7.783/1989, art. 2º).
+
+- O direito é assegurado constitucionalmente aos trabalhadores (CF, art. 9º).
+- Cabe aos trabalhadores decidir a oportunidade de exercê-lo e os interesses que pretendem defender.
+- A greve não é necessariamente total: pode ser parcial.
+- A lei veda meios violentos e exige respeito aos direitos fundamentais de terceiros.
+
+### 21.2 Requisitos prévios
+
+- Deve haver tentativa de negociação coletiva ou impossibilidade de recurso à via arbitral (art. 3º).
+- A entidade sindical convoca assembleia geral para definir reivindicações e deliberar sobre a paralisação, observando o estatuto (art. 4º).
+- Se não houver entidade sindical, a assembleia dos trabalhadores constitui comissão para representar a categoria nas negociações (art. 4º, § 2º).
+- A entidade sindical ou comissão deve comunicar a decisão ao empregador com antecedência mínima de **48 horas** (art. 3º, parágrafo único).
+
+**Pegadinha:** a regra geral é 48 horas. Em serviços ou atividades essenciais, o aviso prévio é de **72 horas**, também aos usuários (art. 13).
+
+### 21.3 Serviços ou atividades essenciais — art. 10
+
+A Lei 7.783/1989 considera essenciais, entre outros:
+- tratamento e abastecimento de água; produção e distribuição de energia elétrica, gás e combustíveis;
+- assistência médica e hospitalar;
+- distribuição e comercialização de medicamentos e alimentos;
+- funerários;
+- transporte coletivo;
+- captação e tratamento de esgoto e lixo;
+- telecomunicações;
+- guarda, uso e controle de substâncias radioativas, equipamentos e materiais nucleares;
+- processamento de dados ligados a serviços essenciais;
+- controle de tráfego aéreo e navegação aérea;
+- compensação bancária;
+- atividades médico-periciais relacionadas ao regime geral de previdência social;
+- atividades portuárias.
+
+O rol legal é o parâmetro da prova. Não basta o serviço ser socialmente importante: é necessário enquadramento legal ou constitucional pertinente.
+
+### 21.4 Necessidades inadiáveis e equipes mínimas
+
+Em serviços ou atividades essenciais, sindicatos, empregadores e trabalhadores ficam obrigados a garantir, durante a greve, a prestação dos serviços indispensáveis ao atendimento das necessidades inadiáveis da comunidade (art. 11).
+
+São necessidades inadiáveis aquelas cuja falta coloque em perigo iminente a sobrevivência, a saúde ou a segurança da população.
+
+- Se não houver acordo para manter equipes mínimas, o Poder Público pode assegurar a prestação dos serviços indispensáveis (art. 12).
+- O atendimento mínimo não significa necessariamente funcionamento integral do serviço.
+- O percentual de funcionamento não é fixado universalmente pela Lei 7.783/1989: depende das circunstâncias e da necessidade de proteger a comunidade.
+
+### 21.5 Abusividade e efeitos
+
+- A inobservância das normas da Lei 7.783/1989, a manutenção da paralisação após acordo ou decisão da Justiça do Trabalho e outras condutas ilegais podem caracterizar abuso (art. 14).
+- A responsabilidade pelos atos ilícitos praticados durante a greve é apurada nas esferas cabíveis (art. 15).
+- Em regra, a participação na greve suspende o contrato de trabalho; as relações obrigacionais durante o período devem ser disciplinadas por acordo, convenção, laudo arbitral ou decisão judicial (art. 7º).
+- É vedada a rescisão contratual durante a greve, assim como a contratação de substitutos, salvo as hipóteses legais de manutenção de serviços indispensáveis e abuso do direito de greve (arts. 7º e 9º, § 2º).
+- A greve não autoriza coação, violência, bloqueio de acesso ao trabalho ou dano a pessoas e patrimônio (art. 6º).
+
+### 21.6 Lockout
+
+Lockout é a paralisação das atividades por iniciativa do empregador, com o objetivo de frustrar negociação ou dificultar reivindicações dos empregados.
+
+- É vedado pelo art. 17 da Lei 7.783/1989.
+- Durante o lockout, os trabalhadores têm direito à percepção dos salários.
+- Não confundir lockout com paralisação empresarial por motivo econômico ou técnico que não tenha a finalidade ilícita de frustrar a negociação coletiva.
+
+## 22. Greve no serviço público — jurisprudência do STF
+
+### 22.1 Servidores públicos civis
+
+O art. 37, VII, da Constituição assegura o direito de greve dos servidores públicos, nos termos e limites definidos em lei específica. Diante da omissão legislativa, o STF, nos Mandados de Injunção 670, 708 e 712, determinou a aplicação, no que couber, da Lei 7.783/1989 aos servidores públicos civis.
+
+- A aplicação é adaptada às peculiaridades do serviço público e à continuidade dos serviços essenciais.
+- Não se trata de equiparar integralmente servidor estatutário a empregado celetista.
+- O Poder Público deve participar da mediação e observar as regras constitucionais de continuidade do serviço.
+
+### 22.2 Policiais e agentes de segurança pública
+
+No Tema 541 da repercussão geral (ARE 654.432), o STF fixou que o exercício do direito de greve é vedado aos policiais civis e a todos os servidores públicos que atuem diretamente na área de segurança pública.
+
+**Pegadinha:** a vedação não se limita aos policiais militares; alcança policiais civis e servidores públicos que atuem diretamente na segurança pública, nos termos da tese.
+
+### 22.3 Desconto dos dias parados
+
+No Tema 531 (RE 693.456), o STF assentou, como regra, a possibilidade de desconto dos dias de paralisação decorrentes de greve de servidores públicos, admitindo compensação por acordo. O desconto é incabível se ficar demonstrado que a greve foi provocada por conduta ilícita do Poder Público.
+
+**Atenção:** não transportar automaticamente essa regra do regime estatutário para o empregado celetista privado; neste, aplica-se o art. 7º da Lei 7.783/1989 e o que for pactuado ou decidido.
+
+## 23. Dissídio coletivo de greve e competência
+
+- A Justiça do Trabalho julga ações que envolvam exercício do direito de greve (CF, art. 114, II).
+- Compete à Justiça do Trabalho julgar ações sobre representação sindical e conflitos entre sindicatos, sindicatos e trabalhadores e sindicatos e empregadores (CF, art. 114, III).
+- Em greve em atividade essencial, com possibilidade de lesão ao interesse público, o Ministério Público do Trabalho pode ajuizar dissídio coletivo, competindo à Justiça do Trabalho decidir o conflito (CF, art. 114, § 3º).
+- Para dissídio coletivo de natureza econômica, o art. 114, § 2º, exige comum acordo das partes, sem prejuízo das hipóteses constitucionais específicas.
+
+## 24. Questões FCC identificadas — auditoria para o banco oficial
+
+Foram localizadas questões FCC de TRTs diversos diretamente relacionadas ao item. A identificação abaixo serve para estudo e rastreamento. **Não inserir no Supabase enquanto não estiverem conciliados o caderno/tipo, o número da questão e o gabarito definitivo correspondente.** O número interno do Qconcursos não substitui essa conferência.
+
+| ID da questão | Prova | Tema principal | Observação de revisão |
+|---|---|---|---|
+| Q3627593 | TRT-2/SP, 2025, Analista Judiciário | Tema 1.046; PLR e grau de insalubridade | Exige separar disponibilidade do direito à PLR e enquadramento negociável da insalubridade |
+| Q3469439 | TRT-1/RJ, 2025, Analista – Oficial de Justiça | Art. 611-A x 611-B | Redução de férias é vedada; intervalo de 30 min, sobreaviso, troca de feriado e grau de insalubridade são matérias negociáveis nos termos legais |
+| Q3295831 | TRT-15/SP, 2025, Analista | Greve em transporte coletivo | Serviço essencial; 72 horas de aviso a empregador e usuários e manutenção das necessidades inadiáveis |
+| Q3215731 | FCC, 2025 | Art. 611-A/B | Comparação entre prorrogação em ambiente insalubre, RSR, férias, 13º e intervalo |
+| Q2400463 | TRT-11/AM-RR, 2024, Analista | Art. 611-A/B | Teletrabalho e modalidade de registro de jornada são negociáveis; salário-família, seguro de acidente e adicional mínimo de horas extras são protegidos |
+| Q4157407 | TRT-21/RN, 2023, Técnico | Categoria econômica, art. 611-A, vigência e art. 620 | Afirmação sobre prazo de um ano está errada; ACT prevalece sobre CCT |
+| Q2384436 | TRT-12/SC, 2023, Analista | Vigência, depósito, publicidade e ultratividade | Revisar arts. 614 e 615 e a vedação de ultratividade |
+| Q2086029 | TRT-18/GO, 2023, Técnico | Art. 611-A/B | Banco anual, insalubridade, FGTS, adicional noturno e troca de feriado |
+| Q2111068 | TRT-5/BA, 2022, Analista – Oficial de Justiça | Redução salarial e proteção contra dispensa | Art. 611-A, § 3º: proteção contra dispensa imotivada durante a vigência do instrumento |
+| Q1969214 | TRT-23/MT, 2022, Técnico | Art. 611-A/B | FGTS, 13º, adicional noturno, intervalo mínimo e grau de insalubridade |
+
+### Fontes de localização e conferência
+
+- Questões FCC de Direito Coletivo: https://www.qconcursos.com/questoes-de-concursos/questoes?discipline_ids%5B%5D=7&examining_board_ids%5B%5D=1&subject_ids%5B%5D=1116
+- Prova TRT-11/2024 e gabarito preliminar FCC do cargo B02, tipo 5: https://arquivos.qconcursos.com/prova/arquivo_gabarito/105597/fcc-2024-trt-11-regiao-am-e-rr-analista-judiciario-area-judiciaria-gabarito.pdf
+- Prova TRT-15/2025: https://arquivos.qconcursos.com/prova/arquivo_prova/130569/fcc-2025-trt-15-regiao-sp-analista-judiciario-area-judiciaria-prova.pdf
+- STF, art. 9º da Constituição e precedentes sobre greve: https://portal.stf.jus.br/constituicao-supremo/artigo.asp?abrirArtigo=9&abrirBase=CF
+- STF, MI 708 — aplicação da Lei 7.783/1989 aos servidores públicos civis: https://portal.stf.jus.br/jurisprudencia/
+- STF, Tema 541 — greve na segurança pública: https://portal.stf.jus.br/jurisprudenciaRepercussao/
+- Lei 7.783/1989: https://www.planalto.gov.br/ccivil_03/leis/l7783.HTM
 
