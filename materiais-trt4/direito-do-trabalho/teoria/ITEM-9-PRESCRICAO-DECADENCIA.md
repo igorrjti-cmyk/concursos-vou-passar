@@ -326,3 +326,84 @@ Esses itens devem ser conferidos novamente na base oficial de precedentes antes 
 - TST — Tema 169: https://www.tst.jus.br/documents/10157/33660380/irr169-1-pdf
 - TST — Tema 268: https://www.tst.jus.br/documents/10157/guest/irr268-1-pdf
 - STF — Tema 608 (FGTS): https://portal.stf.jus.br/jurisprudenciaRepercussao/tema.asp?num=608
+
+
+## 20. Simulado autoral — prescrição e decadência
+
+*Questões inéditas, elaboradas para treino no padrão de cobrança objetiva da FCC. Não são questões oficiais nem devem ser inseridas no banco de questões oficiais.*
+
+**1.** Empregado dispensado sem justa causa teve aviso-prévio indenizado projetado por 60 dias. Para a prescrição bienal, o marco inicial é:
+
+A) o último dia efetivamente trabalhado.  
+B) a data do pagamento das verbas rescisórias.  
+C) o término do aviso-prévio projetado.  
+D) a data da baixa na CTPS, independentemente da projeção.  
+E) o dia seguinte à homologação sindical.
+
+**2.** Empregado ajuíza reclamação trabalhista quatro anos após o término do contrato. Em regra, quanto aos créditos trabalhistas:
+
+A) todos estão prescritos pelo biênio.  
+B) pode cobrar parcelas exigíveis nos cinco anos anteriores ao ajuizamento, respeitado o limite bienal.  
+C) pode cobrar todo o contrato, pois não ultrapassou cinco anos da dispensa.  
+D) só pode cobrar os dois últimos anos do contrato.  
+E) não há prescrição para verbas salariais.
+
+**3.** A empresa deixa de depositar FGTS durante o contrato. Segundo o STF, a prescrição aplicável à cobrança é:
+
+A) trintenária em qualquer hipótese.  
+B) decenal, por se tratar de obrigação de trato sucessivo.  
+C) quinquenal, observada a modulação do Tema 608 para situações pretéritas.  
+D) bienal, contada de cada depósito não realizado.  
+E) imprescritível.
+
+**4.** O empregado recebe auxílio-doença e tem o contrato suspenso. Segundo o entendimento reafirmado pelo TST, a prescrição quinquenal:
+
+A) fica sempre suspensa durante o benefício.  
+B) não flui em nenhuma hipótese enquanto durar o benefício.  
+C) continua a fluir, salvo absoluta impossibilidade de acesso ao Judiciário.  
+D) transforma-se em prazo decenal.  
+E) só volta a fluir após a alta médica e a extinção do contrato.
+
+**5.** Após a Reforma Trabalhista, o empregado ajuíza protesto judicial com finalidade de interromper a prescrição. Conforme Tema 170 do TST:
+
+A) o protesto deixou de interromper a prescrição.  
+B) o protesto judicial continua sendo causa interruptiva.  
+C) somente notificação extrajudicial interrompe a prescrição.  
+D) o protesto interrompe apenas a prescrição intercorrente.  
+E) o protesto interrompe apenas a prescrição bienal, nunca a quinquenal.
+
+**6.** O empregador suspende unilateralmente parcela prevista em lei, e o empregado pretende cobrar diferenças decorrentes dessa supressão. À luz da regra da prescrição total e parcial, é correto afirmar:
+
+A) qualquer ato único do empregador gera sempre prescrição total.  
+B) a prescrição total incide mesmo quando o direito à parcela está assegurado por preceito legal.  
+C) a análise depende da fonte do direito e da natureza da lesão; a exceção legal da Súmula 294 afasta a prescrição total quando a parcela é assegurada por preceito de lei.  
+D) toda lesão sucessiva gera prescrição total.  
+E) a prescrição parcial não existe no Direito do Trabalho.
+
+**7.** O trabalhador pede exclusivamente a retificação e entrega do PPP para fins previdenciários, sem pedir parcelas salariais. Conforme Tema 132 do TST:
+
+A) a pretensão está sujeita ao biênio.  
+B) a pretensão está sujeita ao quinquênio.  
+C) a pretensão declaratória de retificação e entrega do PPP não se submete à prescrição.  
+D) a pretensão prescreve em dez anos.  
+E) a pretensão depende de ajuizamento durante o contrato.
+
+**8.** Empregado estável é suspenso para apuração de falta grave. O empregador deve ajuizar o inquérito judicial no prazo de:
+
+A) 5 dias.  
+B) 10 dias.  
+C) 15 dias.  
+D) 30 dias.  
+E) 2 anos.
+
+### Gabarito comentado
+
+1. **C.** Tema 169 do TST: o biênio começa no término do aviso-prévio, ainda que indenizado.
+2. **B.** Primeiro se observa o limite de dois anos após o fim do contrato; depois, o quinquênio retroativo ao ajuizamento. O enunciado diz quatro anos após o término, portanto há uma inconsistência: **a alternativa correta é A**, pois o biênio já foi ultrapassado. *Correção pedagógica: nesta questão, o marco de quatro anos após a extinção torna a pretensão condenatória prescrita; o quinquênio não supera o biênio.*
+3. **C.** STF, Tema 608: quinquênio, com modulação para prazos iniciados antes de 13/11/2014.
+4. **C.** TST, Tema 268; a suspensão contratual não paralisa automaticamente a prescrição.
+5. **B.** TST, Tema 170: protesto judicial continua interrompendo a prescrição após a Reforma.
+6. **C.** CLT, art. 11, § 2º, e Súmula 294 do TST: verificar se a parcela é assegurada por lei e se a lesão é de trato sucessivo.
+7. **C.** TST, Tema 132, e CLT, art. 11, § 1º.
+8. **D.** CLT, art. 853: prazo decadencial de 30 dias da suspensão do empregado estável.
+
