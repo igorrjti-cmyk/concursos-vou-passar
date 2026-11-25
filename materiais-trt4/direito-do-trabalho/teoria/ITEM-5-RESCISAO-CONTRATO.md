@@ -1386,3 +1386,90 @@ Para a prova, guarde a distinção:
 - CLT, arts. 467, 477, 482 a 486 e 501 a 504: https://www.planalto.gov.br/ccivil_03/decreto-lei/del5452compilado.htm
 - STF, Tema 638 (RE 999.435): https://portal.stf.jus.br/jurisprudenciaRepercussao/tema.asp?num=638
 - TST, IRR 70 — FGTS e rescisão indireta: tese sobre ausência ou irregularidade dos depósitos e desnecessidade de imediatidade.
+
+
+### 25. Revisão integrada FCC — aviso-prévio, rescisão indireta e FGTS
+
+#### 25.1. Aviso-prévio proporcional: direito do empregado
+
+A Lei 12.506/2011 assegura 30 dias de aviso-prévio até um ano de serviço na mesma empresa, acrescidos de 3 dias por ano completo adicional, até o máximo de 90 dias.
+
+**Distinção essencial firmada pelo TST:** a proporcionalidade superior a 30 dias é direito exclusivo do empregado dispensado sem justa causa. O empregador não pode exigir que o trabalhador cumpra período trabalhado superior a 30 dias; se conceder aviso trabalhado, a exigência de trabalho limita-se a 30 dias, sendo o excedente indenizado.
+
+- 1 ano completo: 30 dias.
+- 2 anos completos: 33 dias.
+- 3 anos completos: 36 dias.
+- 10 anos completos: 57 dias.
+- 20 anos completos: 87 dias.
+- 21 anos completos: 90 dias (teto).
+
+**Atenção à contagem:** são 30 dias básicos mais 3 dias por ano completo de serviço além do primeiro, observado o limite de 90 dias. Não se deve calcular 30 + 3 desde o primeiro ano.
+
+O aviso-prévio é, em regra, cabível nos contratos por prazo indeterminado. Pode aparecer em contrato a termo que contenha cláusula assecuratória recíproca (art. 481 da CLT), hipótese em que se aplicam os princípios dos contratos por prazo indeterminado.
+
+**Súmula 276 do TST:** o aviso-prévio é irrenunciável pelo empregado; o pedido de dispensa de cumprimento não exime o empregador de pagar o valor, salvo comprovação de novo emprego.
+
+Fontes:
+- Lei 12.506/2011: https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12506.htm
+- TST — precedentes sobre proporcionalidade como direito exclusivo do empregado: https://www.tst.jus.br/
+
+#### 25.2. Projeção do aviso-prévio e verbas rescisórias
+
+O aviso-prévio, ainda que indenizado, integra o tempo de serviço para os efeitos legais (art. 487, § 1º, CLT). A projeção pode alterar:
+- data de saída anotada na CTPS (OJ 82 da SDI-1);
+- contagem de avos de 13º salário;
+- contagem do período aquisitivo de férias;
+- marco inicial da prescrição bienal, conforme Tema 169 do TST.
+
+**Cuidado com a multa de 40% do FGTS:** o Tema 255 do TST firmou que a base de cálculo da indenização de 40% corresponde à soma dos valores devidos na conta vinculada durante o contrato, atualizados e acrescidos de juros, mas **não inclui valores decorrentes da projeção do aviso-prévio indenizado**. Não confundir a projeção do aviso para tempo de serviço com sua inclusão automática na base da multa de 40%.
+
+Fonte oficial: https://www.tst.jus.br/documents/d/guest/irr255-1-pdf
+
+#### 25.3. Rescisão indireta por irregularidade no FGTS — Tema 70 do TST
+
+O Tema 70, julgado pelo Tribunal Pleno e transitado em julgado, estabeleceu que a ausência ou irregularidade dos depósitos do FGTS caracteriza descumprimento contratual (art. 483, “d”, CLT) suficiente para configurar rescisão indireta, sendo desnecessário o requisito da imediatidade.
+
+Consequências para a prova:
+1. Não é necessário que o empregado reaja imediatamente à primeira irregularidade.
+2. A ausência ou irregularidade dos depósitos pode configurar falta grave patronal.
+3. O empregado deve demonstrar os fatos constitutivos alegados; a regularidade dos depósitos é fato cujo ônus probatório recai sobre o empregador, conforme Súmula 461 do TST.
+4. Reconhecida a rescisão indireta, são devidas as parcelas correspondentes à dispensa sem justa causa, observadas as particularidades do caso.
+
+Fonte oficial: https://www.tst.jus.br/documents/d/guest/irr070
+
+#### 25.4. Quadro comparativo — três marcos temporais
+
+| Questão | Marco correto |
+|---|---|
+| Prazo de pagamento e entrega dos documentos rescisórios (art. 477, § 6º) | Até 10 dias contados do término do contrato |
+| Projeção do aviso-prévio indenizado | Integra o tempo de serviço para os efeitos legais |
+| Prescrição bienal | Começa ao término do aviso-prévio, ainda que indenizado (Tema 169/TST) |
+| Base da multa de 40% do FGTS | Depósitos devidos na conta durante o contrato, atualizados e com juros; excluída a projeção do aviso indenizado (Tema 255/TST) |
+
+#### 25.5. Questões autorais de recuperação ativa
+
+**1.** Empregado com 8 anos completos de serviço é dispensado sem justa causa. O empregador pode exigir que ele trabalhe os 51 dias de aviso-prévio?
+
+**Resposta:** Não. O aviso proporcional é direito exclusivo do empregado; o trabalho exigível limita-se a 30 dias, e o excedente deve ser indenizado.
+
+**2.** O aviso-prévio indenizado projeta o contrato para fins de tempo de serviço, mas seus dias projetados entram na base da multa de 40% do FGTS?
+
+**Resposta:** Não. O Tema 255 do TST exclui da base da multa os valores decorrentes da projeção do aviso-prévio indenizado.
+
+**3.** A empresa deixa de recolher FGTS durante vários meses. O empregado demora a ajuizar ação e o empregador sustenta ausência de imediatidade. A tese procede?
+
+**Resposta:** Não, quanto à exigência de imediatidade: o Tema 70 do TST considera desnecessário esse requisito para a rescisão indireta fundada na ausência ou irregularidade dos depósitos.
+
+**4.** O aviso-prévio foi indenizado. A prescrição bienal começa na data em que o empregado deixou fisicamente de trabalhar?
+
+**Resposta:** Não. O marco é o término da projeção do aviso-prévio, conforme Tema 169 do TST e OJ 83 da SDI-1.
+
+#### 25.6. Checklist final de recuperação
+
+- Calcular aviso-prévio proporcional sem exceder 90 dias.
+- Saber que a proporcionalidade é direito do empregado e que o trabalho exigível não ultrapassa 30 dias.
+- Diferenciar aviso trabalhado e indenizado.
+- Aplicar a projeção para tempo de serviço e prescrição.
+- Não incluir a projeção do aviso indenizado na base da multa de 40% do FGTS (Tema 255).
+- Aplicar o Tema 70 à rescisão indireta por ausência ou irregularidade do FGTS.
+- Separar o prazo do art. 477, a multa do § 8º e o acréscimo do art. 467.
