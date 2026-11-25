@@ -284,6 +284,8 @@ Fontes: prova e enunciado — https://www.qconcursos.com/questoes-de-concursos/p
 | 2160939 | TRT-23/2022 | D | 7744 |
 | 2239638 | TRT-14/2022 | B | 7748 |
 | 3469440 | TRT-1/2025 | B | 7904 |
+| 3598831 | TRT-2/2025 | E | 7905 |
+| 3598830 | TRT-2/2025 | B | 7906 |
 
 Os três registros já existiam; não foram duplicados. As resoluções detalhadas foram atualizadas e a consulta posterior confirmou o conteúdo e os gabaritos.
 
@@ -313,6 +315,37 @@ E) a duração do trabalho do aprendiz não pode, em nenhuma hipótese, ultrapas
 **Pegadinha central:** a FCC reuniu vários dispositivos em uma questão. Memorizar: salário mínimo-hora; prazo de dois anos (exceção PCD); cota de 5% a 15% com exclusões; jornada ordinária de seis horas, com a exceção expressa de até oito horas nas condições do § 1º.
 
 **Fontes:** prova — https://arquivos.qconcursos.com/prova/arquivo_prova/132833/fcc-2025-trt-1-regiao-rj-analista-judiciario-area-judiciaria-especialidade-oficial-de-justica-avaliador-federal-prova.pdf ; gabarito oficial, questão 44 = B — https://arquivos.qconcursos.com/prova/arquivo_gabarito/132833/fcc-2025-trt-1-regiao-rj-analista-judiciario-area-judiciaria-especialidade-oficial-de-justica-avaliador-federal-gabarito.pdf
+
+
+
+
+### Q3598831 — TRT-2/SP, 2025 — Técnico Judiciário, Área Administrativa — questão 49 — gabarito E
+
+**Enunciado:** Hermínio, estudante de Direito, prepara trabalho sobre o contrato de aprendizagem. De acordo com a CLT, deverá constar no trabalho que o contrato de aprendizagem:
+
+A) não poderá ser estipulado por mais de 18 meses, exceto para aprendiz com deficiência.  
+B) é contrato especial, escrito, com prazo máximo de um ano, para pessoa maior de 14 e menor de 21 anos.  
+C) é contrato especial, escrito, com prazo máximo de um ano, para pessoa maior de 14 e menor de 24 anos.  
+D) é contrato especial, escrito, com prazo máximo de um ano, para pessoa maior de 14 e menor de 18 anos.  
+E) não poderá ser estipulado por mais de dois anos, exceto quando se tratar de aprendiz com deficiência.
+
+**E — correta.** CLT, art. 428, caput e § 3º: aprendizagem é contrato especial, escrito e por prazo determinado, celebrado com maior de 14 e menor de 24 anos; prazo máximo de dois anos, exceto para aprendiz com deficiência. A idade máxima de 24 anos também não se aplica ao aprendiz com deficiência (§ 5º).
+
+**Pegadinha:** prazo máximo de dois anos e idade máxima de 24 anos são regras diferentes; ambas têm exceção para pessoa com deficiência.
+
+Fontes: prova oficial, caderno P16 tipo 004, questão 49 — https://arquivos.qconcursos.com/prova/arquivo_prova/136985/fcc-2025-trt-2-regiao-sp-tecnico-judiciario-area-administrativa-prova.pdf ; gabarito oficial, tipo 4, questão 49 = E — https://arquivos.qconcursos.com/prova/arquivo_gabarito/136985/fcc-2025-trt-2-regiao-sp-tecnico-judiciario-area-administrativa-gabarito.pdf
+
+### Q3598830 — TRT-2/SP, 2025 — Técnico Judiciário, Área Administrativa — questão 48 — gabarito B
+
+**Enunciado em síntese:** duas situações de falecimento da mãe: uma durante o parto e outra 40 dias após o nascimento. A questão pergunta sobre o direito do pai à licença-maternidade.
+
+**B — correta:** o pai/companheiro empregado tem direito à licença pelo período integral quando a mãe falece no parto; se a mãe falece após já ter usufruído parte da licença, o pai tem direito ao período restante.
+
+**Fundamento aplicável à prova de 2025:** CLT, art. 392-B, que assegura ao cônjuge ou companheiro empregado o gozo da licença por todo o período ou pelo tempo restante a que teria direito a mãe, ressalvadas as hipóteses legais.
+
+**Atualização temporal:** a questão foi aplicada em 2025. Para fatos a partir de 1º/1/2027, também se deve examinar a Lei 15.371/2026 e sua disciplina ampliada de licença-paternidade e salário-paternidade; não misturar o regime temporal da questão original com a lei superveniente.
+
+Fontes: prova oficial, caderno P16 tipo 004, questão 48 — https://arquivos.qconcursos.com/prova/arquivo_prova/136985/fcc-2025-trt-2-regiao-sp-tecnico-judiciario-area-administrativa-prova.pdf ; gabarito oficial, tipo 4, questão 48 = B — https://arquivos.qconcursos.com/prova/arquivo_gabarito/136985/fcc-2025-trt-2-regiao-sp-tecnico-judiciario-area-administrativa-gabarito.pdf
 
 
 
