@@ -895,3 +895,89 @@ Não confundir os fundamentos do ROT-0001503-12.2024.5.21.0000 com uma condenaç
 5. Confundir a decisão coletiva de invalidação da cláusula com a condenação individual em dobro: analisar separadamente.
 
 **Fonte de conferência:** TST, ROT-0001503-12.2024.5.21.0000, SDC, Rel. Min. Mauricio Godinho Delgado, julgamento em 13/04/2026; divulgação no Informativo TST nº 311. Síntese institucional publicada pela Escola Judicial do TRT-6 em 15/06/2026: https://portal-ej.trt6.jus.br/noticias/2026/06/15/ejud-6-atualiza-no-114
+
+
+## 31. Simulado autoral integrado — proteção da mulher, maternidade, paternidade e menor
+
+**Finalidade:** revisão transversal do item, com alternativas no estilo de cobrança objetiva da FCC. As questões abaixo são autorais e **não** devem ser cadastradas no banco de questões oficiais.
+
+### Questões
+
+**22.** Uma adolescente de 17 anos é contratada para trabalhar das 23h às 5h em atividade urbana, sem exposição a agentes insalubres ou perigosos. A empresa sustenta que a proibição constitucional só alcança atividades perigosas e insalubres. Assinale a alternativa correta.
+
+A) A contratação é válida, pois o trabalho noturno urbano é permitido a partir dos 16 anos.  
+B) A contratação é válida se houver autorização dos pais.  
+C) A contratação é proibida, pois o menor de 18 anos não pode trabalhar em horário noturno, perigoso ou insalubre.  
+D) A contratação é válida se houver pagamento do adicional noturno em dobro.  
+E) A contratação é proibida apenas se o trabalho ocorrer entre 0h e 5h.
+
+**23.** Um aprendiz de 17 anos concluiu o ensino fundamental e cumpre jornada diária de oito horas, incluídas as horas destinadas à aprendizagem teórica. Considerando o art. 432 da CLT, assinale a alternativa correta.
+
+A) A jornada é necessariamente inválida, pois o aprendiz jamais pode ultrapassar seis horas diárias.  
+B) A jornada pode ser válida, pois a exceção legal admite até oito horas para quem concluiu o ensino fundamental, computadas as horas teóricas.  
+C) A jornada é válida apenas se as horas teóricas forem realizadas fora da jornada.  
+D) A jornada pode chegar a dez horas se houver acordo coletivo.  
+E) A jornada é inválida porque o contrato de aprendizagem não admite trabalho de oito horas.
+
+**24.** Empregada retorna ao trabalho quando seu filho adotivo tem cinco meses. Requer dois intervalos de 30 minutos para amamentação, mas a empresa nega por não se tratar de filho biológico. Assinale a alternativa correta.
+
+A) O direito não alcança adoção.  
+B) A empregada tem direito a dois descansos especiais de meia hora cada, pois o art. 396 abrange filho advindo de adoção.  
+C) O direito só existe se o estabelecimento possuir pelo menos 30 mulheres maiores de 16 anos.  
+D) O direito é de uma hora contínua, sem possibilidade de fracionamento.  
+E) O direito termina quando a criança completa quatro meses.
+
+**25.** A gravidez de uma empregada é confirmada durante contrato de experiência. O empregador encerra o contrato na data originalmente prevista, alegando que a garantia provisória é incompatível com contrato por prazo determinado. À luz da jurisprudência sumulada do TST:
+
+A) a estabilidade não se aplica ao contrato de experiência.  
+B) a estabilidade depende de comunicação formal ao empregador antes da contratação.  
+C) a empregada tem garantia provisória desde a confirmação da gravidez até cinco meses após o parto.  
+D) a garantia termina na data originalmente prevista para o fim do contrato.  
+E) há apenas direito à licença-maternidade, sem estabilidade.
+
+**26.** Em 10 de janeiro de 2027, empregado comunica à empresa, com a documentação legal, que usufruirá licença-paternidade em razão do nascimento de seu filho. Considerando a Lei 15.371/2026, a duração total ordinária aplicável a partir de 1º de janeiro de 2027 será de:
+
+A) 5 dias.  
+B) 7 dias.  
+C) 10 dias.  
+D) 15 dias.  
+E) 20 dias.
+
+**27.** Estabelecimento possui 35 mulheres com mais de 16 anos. A empresa oferece reembolso-creche apenas às empregadas mulheres que solicitarem, mas não aos empregados homens com filhos na faixa etária legal. Pretende, com isso, dispensar a instalação do local previsto no art. 389, § 1º, da CLT. Assinale a alternativa correta.
+
+A) A dispensa é automática, pois basta oferecer reembolso a uma empregada.  
+B) A dispensa é possível, ainda que haja discriminação entre empregados e empregadas.  
+C) A dispensa exige que o reembolso-creche seja adotado para todos os empregados e empregadas que preencham o critério legal.  
+D) A obrigação de estrutura física só existe quando houver 30 empregados no total.  
+E) O reembolso-creche tem natureza salarial e por isso substitui a obrigação.
+
+**28.** Convenção coletiva do comércio estabelece que todas as pessoas empregadas terão repouso coincidente com domingo apenas uma vez a cada três semanas. Para as trabalhadoras abrangidas pelo art. 386 da CLT, a cláusula:
+
+A) é válida porque o Tema 1.046 do STF permite negociar qualquer escala de repouso.  
+B) é válida porque a Lei 10.101/2000 sempre prevalece sobre a CLT.  
+C) é inválida na parte em que afasta a escala quinzenal especial, considerada proteção de indisponibilidade absoluta no precedente do TST de 2026.  
+D) é válida desde que haja pagamento de adicional de 100%.  
+E) é inválida apenas para gestantes.
+
+**29.** Empresa que possui CIPA estabelece que o treinamento sobre assédio e violência ocorrerá a cada dois anos e que a pessoa denunciante deverá ser identificada em todos os casos. De acordo com a Lei 14.457/2022, art. 23:
+
+A) ambas as medidas são válidas se aprovadas pela CIPA.  
+B) a capacitação deve ocorrer no mínimo a cada 12 meses e o procedimento deve garantir anonimato da pessoa denunciante.  
+C) a lei exige capacitação apenas para os membros da CIPA.  
+D) a lei não exige procedimento interno para recebimento de denúncias.  
+E) o canal interno substitui eventual procedimento criminal.
+
+### Gabarito comentado
+
+- **22 — C.** A Constituição proíbe trabalho noturno, perigoso ou insalubre a menores de 18 anos. Para trabalho noturno urbano, considera-se o período legal das 22h às 5h; autorização familiar e pagamento de adicional não afastam a proibição.
+- **23 — B.** O art. 432, § 1º, da CLT permite até oito horas diárias ao aprendiz que concluiu o ensino fundamental, desde que incluídas as horas destinadas à aprendizagem teórica. A regra geral é de seis horas.
+- **24 — B.** O art. 396 da CLT assegura dois descansos especiais de meia hora cada até a criança completar seis meses, inclusive quando advinda de adoção. A exigência de 30 mulheres refere-se à estrutura do art. 389, não ao direito individual aos intervalos.
+- **25 — C.** A Súmula 244, III, do TST estende a estabilidade gestante aos contratos por prazo determinado, inclusive experiência. O marco final é cinco meses após o parto.
+- **26 — C.** A Lei 15.371/2026 entra em vigor em 1º/1/2027 e prevê duração total de dez dias a partir dessa data; quinze dias a partir de 2028; vinte dias a partir de 2029, condicionados à meta fiscal legal.
+- **27 — C.** O art. 5º, parágrafo único, da Lei 14.457/2022 dispensa a instalação do local do art. 389, § 1º, quando o reembolso-creche for adotado para todos os empregados e empregadas com filhos de até cinco anos e onze meses.
+- **28 — C.** No ROT-0001503-12.2024.5.21.0000, julgado em 13/4/2026, a SDC do TST manteve a invalidação de cláusula coletiva que aplicava repouso dominical a cada três semanas às trabalhadoras do comércio, por prevalecer o art. 386 da CLT.
+- **29 — B.** O art. 23 da Lei 14.457/2022 exige ações de capacitação, orientação e sensibilização no mínimo a cada 12 meses, para empregados de todos os níveis hierárquicos, e garantia de anonimato da pessoa denunciante.
+
+### Diagnóstico de revisão
+
+Se houver erro nas questões 22 ou 23, retomar idade mínima, trabalho proibido ao menor e jornada do aprendiz. Erros nas questões 24 ou 27 indicam necessidade de separar intervalo individual para amamentação, estrutura física e reembolso-creche. Erros nas questões 25 ou 26 exigem revisar estabilidade gestante e vigência escalonada da Lei 15.371/2026. Erros nas questões 28 ou 29 indicam revisão da jurisprudência do art. 386 e das medidas obrigatórias de prevenção ao assédio.
