@@ -4,7 +4,7 @@
 
 O edital exige **Súmulas e Orientações da Jurisprudência uniformizada do TST sobre Direito do Trabalho**. Isso não significa estudar indistintamente todo o repertório do Tribunal. A seleção abaixo prioriza verbetes ligados aos itens 1 a 12 do conteúdo programático e alerta para cancelamentos e alterações.
 
-**Atenção à atualização:** em 30/06/2025, a Resolução TST nº 225 cancelou diversos verbetes, entre eles as Súmulas 90, 114, 152, 219, 228, 277, 294, 307, 331 (item I), 366, 372 (item I), 437, 439, 444, 449, 450 e 452, além de OJs específicas. Portanto, não estudar texto antigo de apostila como se ainda estivesse vigente. A resolução oficial deve ser conferida antes da prova.
+**Atenção à atualização:** em 30/06/2025, a Resolução TST nº 225 cancelou integralmente as Súmulas 90, 114, 152, 219, 228, 268, 277, 294, 307, 311, 320, 329, 366, 375, 377, 423, 426, 429, 437, 439, 444, 449, 450 e 452; cancelou parcialmente a Súmula 6 (itens I, II, VI, alínea “b”, e X) e o item I da Súmula 331, além de OJs e precedente normativo específicos. Portanto, não estudar texto antigo de apostila como se ainda estivesse vigente. A resolução oficial deve ser conferida antes da prova.
 
 Fonte oficial: https://juslaboris.tst.jus.br/handle/20.500.12178/251919
 
@@ -19,7 +19,7 @@ Fonte oficial: https://juslaboris.tst.jus.br/handle/20.500.12178/251919
 | FGTS | Súmula 63 (incidência sobre parcelas salariais); Súmula 206 (prescrição dos reflexos); Súmula 305 (incidência sobre aviso-prévio); Súmula 362 (prescrição); Súmula 461 (ônus da prova dos depósitos) | Foco em incidência, ônus probatório e prescrição. Relacionar ao arquivo do Item 6. |
 | Jornada, intervalos e descanso | Súmula 85 (compensação); Súmula 110 (revezamento e descanso); Súmula 146 (feriados trabalhados); Súmula 172 (horas extras habituais no DSR); Súmula 264 (base de cálculo da hora extra); Súmula 338 (registros de jornada e ônus da prova); Súmula 428 (sobreaviso); Súmula 444 foi cancelada em 2025; Súmula 437 foi cancelada em 2025 | A Súmula 338 merece atenção especial para prova e controles de ponto. Não memorizar a antiga Súmula 437 como vigente: estudar o texto legal atual do intervalo intrajornada e a jurisprudência posterior. |
 | Salário e remuneração | Súmula 101 (diárias e integração, conforme limites); Súmula 159 (substituição); Súmula 203 (gratificação por tempo de serviço); Súmula 241 (auxílio-alimentação, observar natureza e norma aplicável); Súmula 354 (gorjetas); Súmula 367 (utilidades); Súmula 381 (correção monetária); (sem acrescentar verbete não confirmado) | Priorizar natureza salarial/indenizatória, integração e base de cálculo. Conferir redação vigente, especialmente após reforma legislativa e cancelamentos. |
-| Prescrição e decadência | Súmula 308 (prescrição quinquenal); Súmula 326 (complementação de aposentadoria, cancelada em 2025); Súmula 294 foi cancelada em 2025; Súmula 362 (FGTS) | Para o edital, dominar art. 7º, XXIX, CF, art. 11 da CLT e Súmula 362. As Súmulas 294 e 326 não devem ser estudadas como vigentes. |
+| Prescrição e decadência | Súmula 308 (prescrição quinquenal); Súmula 326 (complementação de aposentadoria jamais recebida; não consta entre os cancelamentos da Resolução 225/2025, devendo ser conferida na versão oficial vigente); Súmula 294 foi cancelada em 2025; Súmula 362 (FGTS) | Para o edital, dominar art. 7º, XXIX, CF, art. 11 da CLT e Súmula 362. As Súmulas 294 e 326 não devem ser estudadas como vigentes. |
 | Insalubridade e periculosidade | Súmula 39 (periculosidade em atividade específica, verificar pertinência); Súmula 47 (insalubridade intermitente); Súmula 80 (eliminação por EPI eficaz); Súmula 289 (fornecimento de EPI não basta); Súmula 364 (periculosidade e exposição); Súmula 448 (caracterização da insalubridade e limpeza de sanitários); Súmula 453 (periculosidade e exposição a inflamáveis, conforme hipótese); OJ 173 da SDI-1 (atividade a céu aberto e calor/raios solares, observar evolução normativa) | Cruzar com CLT arts. 189–197 e NRs. A caracterização depende de enquadramento técnico e não apenas do nome dado à atividade. |
 | Proteção ao menor | CLT arts. 402–441 e art. 440; identificar no repertório do TST apenas verbetes efetivamente relacionados à proteção do adolescente | Não foi identificada, no recorte de incidência usado, uma Súmula/OJ autônoma central sobre o trabalho do menor. Não inventar cobrança de verbete: estudar prioritariamente Constituição, CLT e aprendizagem. |
 | Direito coletivo | Súmula 277 foi cancelada em 2025; Súmula 374 (categoria diferenciada e norma coletiva); OJ 322 da SDI-1 (acordo coletivo e prazo, verificar pertinência e vigência) | A ultratividade não deve ser estudada com base na antiga Súmula 277: considerar a ADPF 323 e o art. 614, § 3º, da CLT. Dar prioridade ao Tema 1.046 do STF e aos arts. 611-A e 611-B da CLT, já tratados no Item 12. |
@@ -75,3 +75,99 @@ O levantamento dos cinco cadernos FCC classificou 1.000 questões por assunto. N
 - TST — Livro de Súmulas e OJs (edição disponibilizada pelo Tribunal; conferir atualizações posteriores): https://www.tst.jus.br/documents/10157/63003/Livro-Internet.pdf
 - TST — Repositório de jurisprudência: https://www.tst.jus.br/jurisprudencia
 - STF — Súmulas vinculantes (para o Item 14): https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=26
+
+
+---
+
+## 14. Retificação técnica — lista completa da Resolução TST 225/2025
+
+Para evitar erro de revisão, a lista completa de cancelamentos do ato é:
+
+**Súmulas integralmente canceladas:** 90, 114, 152, 219, 228, 268, 277, 294, 307, 311, 320, 329, 366, 375, 377, 423, 426, 429, 437, 439, 444, 449, 450 e 452.
+
+**Cancelamentos parciais:**
+- Súmula 6: itens I, II, VI, alínea “b”, e X.
+- Súmula 331: item I.
+
+**Orientações jurisprudenciais e precedente normativo cancelados:**
+- OJ 13 do Tribunal Pleno/Órgão Especial.
+- OJs 14, 270, 355, 383 e 418 da SDI-1.
+- OJ Transitória 36 da SDI-1.
+- OJ 16 da Seção de Dissídios Coletivos.
+- Precedente Normativo 100 do TST.
+
+**Cuidado:** a Resolução 225/2025 não cancelou a Súmula 326. A tabela de prescrição foi ajustada para não classificá-la equivocadamente como cancelada por esse ato. A situação de cada verbete deve ser confirmada na edição oficial mais recente, pois atos posteriores podem alterar o repertório.
+
+Fonte oficial: https://juslaboris.tst.jus.br/handle/20.500.12178/251919
+
+## 15. Precedentes qualificados que reafirmam súmulas — atenção à força vinculante
+
+A jurisprudência do TST passou a organizar parte da uniformização por incidentes de recursos repetitivos e reafirmação de jurisprudência. Para prova, não basta decorar o número da súmula: é necessário identificar se há tese qualificada posterior.
+
+### 15.1 Tema 278 do TST — continuidade da relação de emprego e ônus da prova
+
+O TST reafirmou a matéria da Súmula 212: quando o empregador nega a prestação de serviço e o despedimento, o ônus de provar o término do contrato é do empregador, em razão do princípio da continuidade da relação de emprego.
+
+**Aplicação prática:** se a empresa admite a prestação de serviços, mas sustenta que o vínculo terminou por iniciativa ou fato que afasta a continuidade, deve provar o término nos termos da tese. Não confundir com a situação em que a própria existência do vínculo é controvertida e o empregador nega a prestação de serviços.
+
+Fonte oficial do TST: https://www.tst.jus.br/documents/d/guest/irr278-pdf
+
+### 15.2 Tema 237 do TST — delegado sindical
+
+O TST reafirmou que delegado sindical não tem estabilidade provisória constitucional, que é dirigida aos ocupantes de cargos de direção sindical submetidos a processo eletivo. A matéria está desenvolvida no Item 12, mas deve ser revisada aqui como precedente qualificado.
+
+Fonte oficial: https://www.tst.jus.br/documents/d/guest/irr237-3-pdf
+
+## 16. Atualização jurisprudencial de 22/10/2026 — OJ 413, auxílio-alimentação e Tema 1.046
+
+Em 22/10/2026, a SDI-1 do TST, no processo **TST-Emb-RRAg-20776-37.2018.5.04.0104**, envolvendo empregado da CEEE-D, reafirmou a aplicação da OJ 413 da SDI-1:
+
+- Se o empregado já recebia habitualmente auxílio-alimentação com natureza salarial, a posterior adesão da empresa ao PAT ou a norma coletiva posterior atribuindo natureza indenizatória não altera, para esse empregado, a natureza salarial já incorporada.
+- O TST distinguiu a validade abstrata da norma coletiva da sua aplicação temporal ao contrato de empregado que já recebia a parcela antes da alteração.
+- A decisão entendeu que a controvérsia não se confundia com a questão de validade geral da negociação coletiva tratada no Tema 1.046 do STF.
+
+**Pegadinha FCC:** não basta invocar o Tema 1.046 para concluir que qualquer norma coletiva posterior pode modificar, sem análise temporal, a natureza de parcela já paga habitualmente e incorporada ao contrato antes da negociação.
+
+Fonte oficial do acórdão: https://jurisprudencia-backend.tst.jus.br/rest/documentos/00207763720185040104/22-10-2026/03-11-2026
+
+## 17. Questões autorais de revisão — verbetes e precedentes
+
+**Questão 1.** A Resolução TST 225/2025:
+
+A) cancelou integralmente a Súmula 331.  
+B) cancelou o item I da Súmula 331, sem cancelar por esse ato todos os demais itens.  
+C) manteve a Súmula 277 em vigor.  
+D) cancelou integralmente a Súmula 6.  
+E) cancelou a Súmula 212.
+
+**Gabarito: B.** A resolução cancelou o item I da Súmula 331, não a súmula inteira, e cancelou apenas itens específicos da Súmula 6.
+
+**Questão 2.** Segundo a tese reafirmada no Tema 278 do TST, quando o empregador admite a prestação de serviços, mas nega o despedimento e sustenta que o contrato terminou, o ônus de provar o término:
+
+A) é sempre do trabalhador.  
+B) é do sindicato profissional.  
+C) é do empregador, em razão do princípio da continuidade da relação de emprego.  
+D) é dividido igualmente entre as partes.  
+E) depende exclusivamente de prova testemunhal.
+
+**Gabarito: C.** A tese reafirma a Súmula 212 do TST.
+
+**Questão 3.** Empregado recebia habitualmente auxílio-alimentação com natureza salarial antes de norma coletiva posterior que atribuiu natureza indenizatória à parcela. Conforme a OJ 413 e o precedente da SDI-1 de 22/10/2026:
+
+A) a norma posterior altera automaticamente a natureza para todos os contratos.  
+B) a adesão posterior ao PAT sempre retira a natureza salarial retroativamente.  
+C) a natureza salarial não é alterada para o empregado que já recebia habitualmente a parcela antes da mudança.  
+D) o Tema 1.046 torna irrelevante a data de admissão e de início do pagamento.  
+E) o benefício passa a ser contribuição assistencial.
+
+**Gabarito: C.** O precedente distinguiu a validade da norma coletiva de sua aplicação temporal aos contratos anteriores.
+
+## 18. Checklist complementar do Item 13
+
+- [ ] Conferir a lista completa de cancelamentos da Resolução 225/2025.
+- [ ] Lembrar que a Súmula 6 foi parcialmente cancelada, não integralmente.
+- [ ] Lembrar que a Súmula 331 teve cancelado o item I, não a súmula inteira.
+- [ ] Não classificar a Súmula 326 como cancelada pela Resolução 225/2025.
+- [ ] Estudar Tema 278/TST junto da Súmula 212.
+- [ ] Estudar Tema 237/TST junto da estabilidade sindical.
+- [ ] Revisar OJ 413 e a distinção entre validade da norma coletiva e aplicação temporal ao contrato.
