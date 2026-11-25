@@ -811,3 +811,42 @@ Entretanto, há atualização jurisprudencial importante: em decisão de 21/10/2
 - TST, RR 1000386-29.2016.5.02.0468 — negociação coletiva e minutos residuais, julgamento em 21/10/2026: https://jurisprudencia-backend.tst.jus.br/rest/documentos/f04b9b27b859a4ec84f0c274d2784272
 - TST, AIRR 1001199-34.2023.5.02.0202 — turnos de revezamento, negociação coletiva e extrapolação da jornada pactuada: https://jurisprudencia-backend.tst.jus.br/rest/documentos/e3cd5b9e2a6630c813dc6f7b560fd242
 - TST, Ag-AIRR 0000854-21.2024.5.12.0025 — regime de sobreaviso e restrição concreta da disponibilidade: https://jurisprudencia-backend.tst.jus.br/rest/documentos/40fd4561aca2fa462a8dd5ceda491a55
+
+
+## 33. Questões oficiais FCC já existentes no banco — turnos ininterruptos
+
+As questões abaixo são oficiais FCC e já constam no banco Supabase do projeto. Não foram reinseridas.
+
+### 33.1. FCC — TRT-11/AM — 2017 — questão Q455458 — ID do banco 455458
+
+Caso: trabalhador rural em turnos ininterruptos de revezamento; a questão também trata da licença à gestante da esposa.
+
+**Gabarito: A.** O trabalhador tem direito à jornada de seis horas, salvo negociação coletiva. A licença à gestante é de 120 dias, sem prejuízo do emprego e do salário.
+
+**Ponto de prova:** o art. 7º, XIV, da Constituição alcança trabalhadores urbanos e rurais. A jornada especial é de seis horas, ressalvada a negociação coletiva.
+
+### 33.2. FCC — TRT-12/SC — 2023 — Oficial de Justiça Avaliador Federal — Q2820026 — ID do banco 2820026
+
+A questão combina turnos ininterruptos e salário-família.
+
+**Gabarito: C.** A jornada em turnos ininterruptos é de seis horas, salvo negociação coletiva; o trabalhador rural de baixa renda também pode ter direito ao salário-família, conforme os requisitos legais.
+
+**Ponto de prova:** não confundir a jornada especial com a regra geral de jornada. A exceção depende de negociação coletiva.
+
+### 33.3. FCC — CETESB — 2024 — Q2975371 — ID do banco 2975371
+
+A questão aborda trabalhador urbano que exerce atividade noturna em turnos ininterruptos de revezamento.
+
+**Gabarito: E.** São direitos a remuneração do trabalho noturno superior à do diurno e a jornada de seis horas nos turnos ininterruptos, salvo negociação coletiva.
+
+**Ponto de prova:** o adicional noturno e a jornada especial são direitos autônomos, ambos previstos no art. 7º da Constituição.
+
+### 33.4. Síntese do padrão FCC
+
+Nas questões localizadas, a banca cobra principalmente a literalidade do art. 7º, XIV:
+- jornada padrão de seis horas;
+- possibilidade de alteração por negociação coletiva;
+- aplicação a trabalhadores urbanos e rurais;
+- combinação com outros direitos constitucionais, como adicional noturno e salário-família.
+
+**Atualização para prova futura:** a Súmula 423 do TST foi cancelada em 2025. Questões de 2017 e 2023 devem ser resolvidas segundo a moldura jurídica da época; para a prova atual, estudar também o Tema 1.046 do STF e a negociação coletiva, sem tratar a antiga Súmula 423 como vigente.
