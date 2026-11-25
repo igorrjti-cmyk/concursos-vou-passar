@@ -120,7 +120,7 @@ Lei 14.457/2022, art. 23, para empresas com CIPA:
 
 - CLT, art. 411: duração do trabalho do menor segue, em regra, as normas gerais de duração, com proteções especiais.
 - CLT, art. 413: contém exceções históricas à vedação de prorrogação do trabalho do menor (compensação coletiva e força maior). **A literalidade antiga do dispositivo menciona limites semanais de 48 horas e adicional de 25%, que não podem ser reproduzidos como parâmetros constitucionais atuais.**
-- Após a EC 141/2026, a referência constitucional geral é de 8 horas diárias e 40 semanais, com adicional de serviço extraordinário de pelo menos 50%; a proteção do menor deve ser interpretada em conformidade com esses limites e com a vedação de trabalho prejudicial à escola e ao desenvolvimento.
+- Após a EC 141/2026, a jornada semanal está em transição: até 15/12/2026, permanece o limite geral de 44 horas; de 16/12/2026 a 15/12/2027, o limite passa a 42 horas; a partir de 16/12/2027, será de 40 horas. O limite diário geral é de 8 horas, e o adicional de serviço extraordinário é de pelo menos 50%. A proteção do menor deve ser interpretada em conformidade com o limite semanal vigente em cada período e com a vedação de trabalho prejudicial à escola e ao desenvolvimento.
 - Para prova, não assinalar como vigente a antiga permissão genérica de 12 horas ou adicional de apenas 25%. Em questão histórica, identificar expressamente a redação e o regime jurídico da época.
 - O menor não pode trabalhar em horário ou local que prejudique a frequência à escola.
 - Entre jornadas, deve ser observado o repouso mínimo legal, além das proteções específicas.
