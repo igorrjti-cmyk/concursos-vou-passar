@@ -173,3 +173,104 @@ Os registros abaixo já constam no Supabase. Não foram duplicados nem alterados
 - STF, Tema 608 — ARE 709.212: https://portal.stf.jus.br/jurisprudenciaRepercussao/verAndamentoProcesso.asp?classeProcesso=RE&incidente=4294417&numeroProcesso=709212&numeroTema=608
 - TST — Instrução Normativa 41/2018: https://www.tst.jus.br/documents/10157/2374827/IN+41
 - TST — Súmulas e OJs: conferir redação consolidada vigente antes da prova.
+
+
+## 16. Resolução comentada das questões FCC já cadastradas
+
+### Q3549969 — FCC SEFAZ-PI/2025 — gabarito D
+
+Clarinda, trabalhadora rural, ajuizaria a ação um ano após o fim do contrato.
+
+- **D — correta:** o art. 7º, XXIX, da Constituição assegura prazo prescricional de cinco anos, observado o limite de dois anos após a extinção contratual. Como a ação seria proposta apenas um ano depois, ainda está dentro do biênio.
+- **A — incorreta:** troca os prazos e os limites; não há regra geral de três anos.
+- **B e E — incorretas:** inventam prazos de três meses e seis meses.
+- **C — incorreta:** inverte quinquênio e biênio.
+
+**Lição FCC:** a regra constitucional alcança trabalhadores urbanos e rurais. A condição rural não cria prazo prescricional distinto.
+
+### Q3555218 — FCC MPE-PI/2025 — gabarito C
+
+O enunciado trata de trabalhador urbano em atividade insalubre e menciona possível dispensa futura.
+
+- **C — correta:** reconhece o adicional de remuneração para atividade insalubre, na forma da lei (CF, art. 7º, XXIII), e a prescrição quinquenal, limitada a dois anos após a extinção do contrato (art. 7º, XXIX).
+- **A e E — incorretas:** substituem o prazo de cinco anos por dez anos.
+- **B — incorreta:** mantém o quinquênio, mas altera o limite posterior à extinção para três anos.
+- **D — incorreta:** afirma que o adicional só existe para atividade perigosa; a Constituição também contempla atividades insalubres e penosas, na forma legal.
+
+**Pegadinha:** não confundir o prazo de cinco anos durante o contrato com o limite de dois anos depois de sua extinção. O enunciado não exige cálculo de parcelas vencidas; cobra a combinação constitucional dos direitos.
+
+### Q3690903 — FCC UNICAMP/2025 — gabarito E
+
+Ulisses foi dispensado em 08/08/2018 e pretende ajuizar ação em 08/08/2025, sete anos depois.
+
+- **E — correta:** ultrapassou o limite de dois anos após a extinção contratual. A pretensão está prescrita, independentemente de ainda existirem parcelas que, consideradas isoladamente, estariam dentro de um quinquênio.
+- **A e B — incorretas:** tratam a prescrição como decenal.
+- **C — incorreta:** inventa prazo de três anos após a extinção.
+- **D — incorreta:** créditos trabalhistas não são imprescritíveis.
+
+**Método de resolução:** primeiro teste o biênio. Se a ação é proposta depois de dois anos do término do contrato, a pretensão condenatória está fulminada; não adianta tentar salvar parcelas pelo quinquênio.
+
+### Q2340537 — FCC TRT-18/2023 — gabarito A
+
+Francisca é trabalhadora rural e busca horas extras não pagas.
+
+- **A — correta:** aplica o prazo de cinco anos, observado o limite de dois anos após o término do contrato.
+- **B — incorreta:** trabalhador rural também tem proteção jurisdicional e direitos trabalhistas.
+- **C — incorreta:** não existe imprescritibilidade geral dos créditos trabalhistas.
+- **D — incorreta:** o fato de ter recebido o salário normal não elimina o direito de cobrar o adicional de horas extras eventualmente devido.
+- **E — incorreta:** inverte os prazos.
+
+**Ponto de atenção:** o enunciado menciona a ausência de remuneração superior pelo serviço extraordinário para afastar a ideia de pagamento correto; a pergunta central, porém, é o prazo constitucional.
+
+### Q2849469 — FCC TRT-21/2023 — gabarito B
+
+A questão combina direitos constitucionais do trabalhador rural.
+
+- **B — correta:** seguro-desemprego é devido em caso de desemprego involuntário (CF, art. 7º, II), e a ação relativa a créditos trabalhistas observa cinco anos, até o limite de dois anos após a extinção (art. 7º, XXIX).
+- **A — incorreta:** aviso-prévio proporcional tem mínimo de 30 dias, não máximo.
+- **C — incorreta:** inventa prazos de três anos e um ano para prescrição trabalhista.
+- **D — incorreta:** seguro-desemprego não é devido no desemprego voluntário.
+- **E — incorreta:** o adicional de atividades penosas, insalubres ou perigosas depende da forma da lei; além disso, a alternativa erra ao incluir desemprego voluntário no seguro-desemprego.
+
+### Q2238115 — FCC TRT-14/2022 — gabarito A
+
+Denise foi dispensada sem justa causa após quinze anos de trabalho.
+
+- **A — correta:** aviso-prévio proporcional com mínimo constitucional de trinta dias (CF, art. 7º, XXI) e prescrição quinquenal, observado o biênio após a extinção (inciso XXIX).
+- **B — incorreta:** troca o limite de dois anos por cinco.
+- **C e D — incorretas:** afirmam que o aviso-prévio tem máximo de trinta dias; a Constituição estabelece mínimo, e a Lei 12.506/2011 disciplina a proporcionalidade.
+- **E — incorreta:** inverte os prazos prescricionais.
+
+**Conexão com o item 5:** para contar o biênio, considerar a projeção do aviso-prévio, inclusive quando indenizado, conforme a regra aplicável.
+
+### Q315010 — FCC TRE-AP/2015 — gabarito A
+
+Beth foi dispensada em março de 2009 e somente procurou orientação em julho de 2015.
+
+- **A — correta:** transcorreram mais de dois anos desde a extinção contratual; a ação condenatória está prescrita.
+- **B — incorreta:** a falta de conferência ou homologação das verbas não cria preclusão autônoma que substitua a prescrição constitucional.
+- **C — incorreta:** o quinquênio não autoriza ajuizar ação a qualquer tempo; ele opera dentro do limite bienal posterior à extinção.
+- **D — incorreta:** direito ao trabalho não torna imprescritíveis os créditos trabalhistas.
+- **E — incorreta:** inverte o biênio e o quinquênio.
+
+**Pegadinha clássica:** não confundir “últimos cinco anos” com “últimos cinco anos trabalhados”. O quinquênio é contado retroativamente da data do ajuizamento, mas a ação deve ser proposta até dois anos após o término do contrato.
+
+## 17. Quadro de decisão rápida — prescrição
+
+1. **Contrato ainda ativo:** em regra, alcança parcelas exigíveis há mais de cinco anos, contados retroativamente do ajuizamento.
+2. **Contrato encerrado há menos de dois anos:** ainda pode ajuizar; depois, delimita-se o quinquênio.
+3. **Contrato encerrado há mais de dois anos:** em regra, prescrição bienal da pretensão condenatória.
+4. **Aviso-prévio projetado:** considerar a data de término contratual juridicamente projetada.
+5. **Ação anterior arquivada ou ação sindical:** verificar interrupção e identidade dos pedidos; não presumir interrupção geral.
+6. **Execução:** verificar o art. 11-A da CLT, a determinação judicial expressa e o descumprimento pelo exequente.
+7. **Pedido declaratório previdenciário:** examinar a exceção do art. 11, § 1º, da CLT; não estender automaticamente a exceção a pedidos condenatórios.
+
+## 18. Prioridade de revisão para a FCC
+
+- **Muito alta:** art. 7º, XXIX, CF — cinco anos e limite de dois anos.
+- **Alta:** marco inicial do biênio e projeção do aviso-prévio.
+- **Alta:** quinquênio contado do ajuizamento, e não do fim do contrato.
+- **Média:** interrupção por reclamação arquivada e ação sindical (Súmulas 268 e OJ 359).
+- **Média:** prescrição intercorrente do art. 11-A.
+- **Média/baixa, mas literal:** decadência de 30 dias do inquérito judicial (CLT, art. 853).
+- **Atenção a precedentes:** prescrição total/parcial exige identificar a fonte do direito e a natureza da lesão; não resolver apenas pela expressão “ato único”.
