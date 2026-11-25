@@ -832,3 +832,39 @@ E) a lei dispensa regras internas se houver canal externo de denúncia.
 **Gabarito: C.** O art. 23 exige regras internas amplamente divulgadas, procedimento de denúncia com garantia de anonimato, inclusão do tema nas práticas da CIPA e ações periódicas, no mínimo a cada 12 meses, para empregados de todos os níveis hierárquicos.
 
 **Fonte oficial:** Lei 14.457/2022, arts. 7º a 23: https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/lei/l14457.htm
+
+## 29. Quadro de revisão rápida — prazos, idades e números que a FCC pode trocar
+
+| Tema | Regra-chave | Cuidado com a pegadinha |
+|---|---|---|
+| Licença-maternidade | 120 dias, em regra | Não confundir com estabilidade |
+| Estabilidade gestante | Da confirmação da gravidez até 5 meses após o parto | Não são 6 meses; alcança aviso-prévio e contrato de experiência |
+| Consultas pré-natais | Dispensa pelo tempo necessário para, no mínimo, 6 consultas e exames complementares | Não é limite máximo de seis |
+| Aborto não criminoso | Repouso remunerado de 2 semanas, com retorno à função | Não é licença-maternidade de 120 dias |
+| Amamentação — art. 396 | 2 descansos de 30 minutos até 6 meses | Filho adotivo também; extensão depende da saúde da criança e autoridade competente |
+| Estrutura de apoio — art. 389, § 1º | Estabelecimento com pelo menos 30 mulheres maiores de 16 anos | Conta mulheres do estabelecimento, não total de empregados |
+| Reembolso-creche | Filho de até 5 anos e 11 meses; empregado ou empregada | Não salarial; comprovantes e formalização |
+| Teletrabalho — Lei 14.457 | Prioridade para filho/enteado/guarda até 6 anos ou pessoa com deficiência sem limite etário | Prioridade em vagas compatíveis, não garantia absoluta |
+| Flexibilização — art. 8º | Filho até 6 anos ou pessoa com deficiência | Tempo parcial e férias antecipadas: limite até o segundo ano |
+| CIPA e assédio | Capacitação no mínimo a cada 12 meses | Denúncia com anonimato; não substitui esfera penal |
+| Trabalho comum | A partir de 16 anos | Menor de 16 só como aprendiz |
+| Aprendizagem | A partir de 14 anos | Aprendiz menor de 18 não pode trabalhar à noite, em atividade perigosa ou insalubre |
+| Trabalho noturno do menor | Proibido antes dos 18 anos, das 22h às 5h | Não confundir com adicional noturno do adulto |
+| Jornada do aprendiz | 6h como regra; até 8h na exceção legal | Para quem concluiu ensino fundamental, incluindo horas teóricas |
+| Prescrição contra menor | Não corre contra menores de 18 anos (CLT, art. 440) | Não confundir com prazo bienal após contrato para empregado adulto |
+| Repouso dominical da mulher | Escala quinzenal do art. 386 | Regra especial, não simplesmente um domingo a cada três semanas |
+
+### Checklist final antes de resolver questões
+
+- [ ] Separar licença-maternidade (afastamento) de estabilidade gestante (garantia de emprego).
+- [ ] Verificar se a gravidez foi confirmada durante o contrato, aviso-prévio ou experiência.
+- [ ] Não exigir conhecimento do empregador para reconhecer estabilidade.
+- [ ] Lembrar que gestante e lactante devem ser afastadas de atividade insalubre, conforme STF na ADI 5938.
+- [ ] Distinguir os dois intervalos de amamentação da pausa intrajornada.
+- [ ] Separar a obrigação de estrutura para amamentação do reembolso-creche e dos intervalos individuais.
+- [ ] Não tratar reembolso-creche como salário.
+- [ ] Em questão de adolescente, aplicar as três idades: 14 (aprendiz), 16 (trabalho permitido) e 18 (fim das proibições especiais).
+- [ ] Conferir a exceção de jornada de oito horas do aprendiz que concluiu o ensino fundamental, com horas teóricas incluídas.
+- [ ] Em questão de assédio, lembrar anonimato e treinamento no mínimo anual.
+- [ ] Na Lei 15.371/2026, conferir a vigência escalonada da licença-paternidade, sem antecipar a regra para fatos anteriores a 1º/1/2027.
+
