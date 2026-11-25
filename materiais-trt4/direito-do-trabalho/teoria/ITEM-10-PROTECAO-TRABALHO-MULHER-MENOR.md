@@ -121,7 +121,7 @@ Lei 14.457/2022, art. 23, para empresas com CIPA:
 - CLT, art. 411: duração do trabalho do menor segue, em regra, as normas gerais de duração, com proteções especiais.
 - CLT, art. 413: contém exceções históricas à vedação de prorrogação do trabalho do menor (compensação coletiva e força maior). **A literalidade antiga do dispositivo menciona limites semanais de 48 horas e adicional de 25%, que não podem ser reproduzidos como parâmetros constitucionais atuais.**
 - Após a EC 141/2026, a jornada semanal está em transição: até 15/12/2026, permanece o limite geral de 44 horas; de 16/12/2026 a 15/12/2027, o limite passa a 42 horas; a partir de 16/12/2027, será de 40 horas. O limite diário geral é de 8 horas, e o adicional de serviço extraordinário é de pelo menos 50%. A proteção do menor deve ser interpretada em conformidade com o limite semanal vigente em cada período e com a vedação de trabalho prejudicial à escola e ao desenvolvimento.
-- Para prova, não assinalar como vigente a antiga permissão genérica de 12 horas ou adicional de apenas 25%. Em questão histórica, identificar expressamente a redação e o regime jurídico da época.
+- A hipótese de força maior do art. 413, II, não é uma autorização genérica: exige força maior e que o trabalho do menor seja imprescindível ao funcionamento do estabelecimento. O limite textual de até 12 horas permanece no dispositivo, mas o adicional mínimo de 25% foi superado pelo patamar constitucional de pelo menos 50%; os limites semanais devem respeitar a transição da EC 141/2026.
 - O menor não pode trabalhar em horário ou local que prejudique a frequência à escola.
 - Entre jornadas, deve ser observado o repouso mínimo legal, além das proteções específicas.
 
@@ -283,6 +283,7 @@ Fontes: prova e enunciado — https://www.qconcursos.com/questoes-de-concursos/p
 | 3297002 | TRT-6/2025 | E | 7712 |
 | 2160939 | TRT-23/2022 | D | 7744 |
 | 2239638 | TRT-14/2022 | B | 7748 |
+| 3469440 | TRT-1/2025 | B | 7904 |
 
 Os três registros já existiam; não foram duplicados. As resoluções detalhadas foram atualizadas e a consulta posterior confirmou o conteúdo e os gabaritos.
 
