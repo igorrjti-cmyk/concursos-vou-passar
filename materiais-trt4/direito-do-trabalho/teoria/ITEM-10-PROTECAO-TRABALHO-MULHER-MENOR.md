@@ -572,3 +572,50 @@ E) apenas de Selene, desde a confirmação da gravidez até cinco meses após o 
 |---|---|---:|---:|---:|
 | 3598827 | TRT-2/2025 | 45 | A | 7907 |
 
+## 24. Trabalho insalubre de adolescentes — questão oficial FCC
+
+### Regra que resolve a questão
+
+- Menor de 16 anos: não pode trabalhar, salvo como aprendiz a partir dos 14 anos.
+- Menor de 18 anos: não pode trabalhar em atividade noturna, perigosa ou insalubre (CF, art. 7º, XXXIII).
+- Logo, adolescente de 16 ou 17 anos pode exercer trabalho permitido e não prejudicial, mas **não** pode exercer atividade insalubre, ainda que diurna.
+- Adolescente de 14 ou 15 anos somente pode trabalhar como aprendiz, e a aprendizagem não afasta a proibição de atividade insalubre antes dos 18 anos.
+- O pagamento de adicional de insalubridade não torna lícita a exposição proibida. O adicional remunera situação juridicamente reconhecida, mas não funciona como autorização para descumprir a proteção constitucional.
+
+### Q3598804 — TRT-2/SP, 2025 — Técnico Judiciário, Área Administrativa — questão 22 — gabarito E
+
+**Enunciado:** Januária tem dois filhos estudantes: Alício, de 17 anos recém-completados, e Aparício, de 14 anos. Ela exerce trabalho diurno considerado insalubre e deseja que os filhos exerçam imediatamente a mesma função, no mesmo local, para receberem o adicional correspondente. Considerando a Constituição Federal, qual é a conclusão correta?
+
+A) apenas Alício poderá realizar a atividade insalubre, por ter mais de 16 anos.  
+B) nenhum dos dois poderá realizar atividade insalubre, mas Alício poderá ser aprendiz, permitido a partir dos 16 anos.  
+C) nenhum dos dois poderá realizar qualquer trabalho, inclusive como aprendiz, por serem menores de 18 anos.  
+D) ambos poderão realizar atividade insalubre, pois possuem mais de 14 anos.  
+E) nenhum dos dois poderá realizar a atividade insalubre: a Alício é vedado trabalho noturno, perigoso ou insalubre; a Aparício é proibido qualquer trabalho, salvo como aprendiz.
+
+**E — correta.**
+
+- **Alício, 17 anos:** pode trabalhar em atividade permitida, mas não em atividade insalubre, perigosa ou noturna. A proibição alcança todos os menores de 18 anos.
+- **Aparício, 14 anos:** só pode trabalhar na condição de aprendiz. Mesmo nessa condição, não pode exercer atividade insalubre, perigosa ou noturna antes dos 18 anos.
+
+**Análise das alternativas:**
+- A — errada: a idade de 16 anos não autoriza trabalho insalubre; a vedação vai até os 18.
+- B — errada: a aprendizagem começa aos 14 anos, não aos 16.
+- C — errada: a Constituição admite aprendizagem a partir dos 14 anos.
+- D — errada: a idade mínima para aprendizagem não afasta as proibições especiais para menores de 18.
+- E — correta: diferencia a regra dos 14 anos (aprendizagem) da proibição absoluta de atividade insalubre para menores de 18.
+
+**Fundamentos:** CF, art. 7º, XXXIII; CLT, arts. 403, 404 e 405.
+
+**Fontes de conferência:** prova FCC TRT-2/2025, caderno P16, tipo 004, questão 22: https://arquivos.qconcursos.com/prova/arquivo_prova/136985/fcc-2025-trt-2-regiao-sp-tecnico-judiciario-area-administrativa-prova.pdf ; gabarito oficial, tipo 4, questão 22 = E, sem alteração: https://arquivos.qconcursos.com/prova/arquivo_gabarito/136985/fcc-2025-trt-2-regiao-sp-tecnico-judiciario-area-administrativa-gabarito.pdf
+
+### Questão autoral de fixação
+
+**16.** Uma empresa pretende contratar dois adolescentes: um de 17 anos para atividade insalubre diurna e outro de 15 anos como aprendiz em atividade perigosa. À luz da Constituição Federal:
+
+A) ambos podem ser contratados, desde que recebam os adicionais correspondentes.  
+B) somente o adolescente de 17 anos pode exercer a atividade, pois já superou 16 anos.  
+C) o adolescente de 17 anos não pode exercer atividade insalubre; o de 15 anos pode ser aprendiz, mas não em atividade perigosa.  
+D) o adolescente de 15 anos não pode trabalhar em hipótese alguma, mas o de 17 anos pode exercer atividade insalubre diurna.  
+E) ambos podem trabalhar se houver autorização dos pais.
+
+**Gabarito: C.** O adolescente de 15 anos pode ser aprendiz, pois a aprendizagem é admitida a partir dos 14 anos, mas permanece proibido o trabalho perigoso, insalubre ou noturno até os 18. O adolescente de 17 anos também não pode exercer atividade insalubre, ainda que diurna.
