@@ -610,3 +610,165 @@ Foram localizadas questões FCC de TRTs diversos diretamente relacionadas ao ite
 - STF, Tema 541 — greve na segurança pública: https://portal.stf.jus.br/jurisprudenciaRepercussao/
 - Lei 7.783/1989: https://www.planalto.gov.br/ccivil_03/leis/l7783.HTM
 
+
+
+---
+
+## 25. Dissídio coletivo de natureza econômica — comum acordo e jurisprudência atualizada
+
+### 25.1 Regra constitucional e Tema 841 do STF
+
+O art. 114, § 2º, da Constituição exige **comum acordo** para que as partes ajuízem dissídio coletivo de natureza econômica, depois de frustrada a negociação coletiva ou a arbitragem.
+
+O STF, no Tema 841 (RE 1.002.295), fixou que é constitucional essa exigência. A sentença normativa cria condições de trabalho para a categoria; por isso, o dissídio econômico não se confunde com ação individual destinada a exigir direito já previsto em lei ou contrato.
+
+**Não confundir:**
+- Dissídio coletivo econômico: busca criar ou modificar condições de trabalho; exige comum acordo.
+- Dissídio coletivo jurídico: busca interpretar norma preexistente; não se submete, em regra, ao requisito do comum acordo do § 2º.
+- Dissídio coletivo de greve: tem disciplina própria, especialmente quando há atividade essencial e risco ao interesse público (CF, art. 114, § 3º).
+
+Fonte oficial do Tema 841: https://portal.stf.jus.br/jurisprudenciaRepercussao/tema.asp?num=841
+
+### 25.2 TST, IRDR 1 — recusa arbitrária à negociação
+
+No IRDR 1000907-30.2023.5.00.0000, julgado pelo Tribunal Pleno do TST em 17/11/2025, foi firmada a tese de que a recusa arbitrária da entidade sindical patronal ou de integrante da categoria econômica em participar da negociação — demonstrada por ausências reiteradas às reuniões convocadas ou abandono imotivado das tratativas — viola a boa-fé objetiva e as Convenções 98 e 154 da OIT, produzindo a mesma consequência do comum acordo para a instauração do dissídio econômico.
+
+**Atenção à atualização posterior:** em 15/09/2026, no julgamento da Rcl 79.753 AgR/CE, o STF reafirmou que a exigência de comum acordo do Tema 841 não pode ser afastada com fundamento em recusa injustificada à negociação ou em consentimento tácito decorrente de preclusão. A decisão do STF é posterior ao julgamento do IRDR do TST e deve ser estudada em conjunto com ele. Para prova objetiva, não transforme a tese do IRDR 1 em autorização geral para ajuizar dissídio econômico sem comum acordo: verifique se a questão exige a tese do TST ou a orientação constitucional posterior do STF e destaque a tensão jurisprudencial.
+
+Fontes oficiais:
+- TST, IRDR 1: https://www.tst.jus.br/documents/d/guest/irdr01-1-pdf
+- STF, Rcl 79.753 AgR, inteiro teor: https://portal.stf.jus.br/jurisprudencia/obterInteiroTeor.asp?idDocumento=801074469
+- STF, Tema 841: https://portal.stf.jus.br/jurisprudenciaRepercussao/verAndamentoProcesso.asp?classeProcesso=RE&incidente=5065252&numeroProcesso=1002295&numeroTema=841
+
+### 25.3 Poder normativo da Justiça do Trabalho
+
+A Justiça do Trabalho, ao julgar dissídio coletivo econômico, pode estabelecer normas e condições de trabalho, mas não possui liberdade legislativa irrestrita.
+
+- Deve respeitar as disposições mínimas legais de proteção ao trabalho.
+- Deve respeitar as condições convencionadas anteriormente, nos termos do art. 114, § 2º, da Constituição.
+- O poder normativo não autoriza criar cláusulas sem suporte jurídico nem afastar direitos absolutamente indisponíveis.
+- A sentença normativa tem natureza constitutiva e eficácia coletiva, observados os limites subjetivos e temporais próprios.
+
+### 25.4 Competência e legitimidade em dissídios coletivos
+
+- A competência originária é dos Tribunais do Trabalho, conforme a abrangência territorial do conflito e as regras constitucionais e regimentais.
+- A Justiça do Trabalho julga ações sobre representação sindical e conflitos entre sindicatos, sindicatos e trabalhadores e sindicatos e empregadores (CF, art. 114, III).
+- Em greve de atividade essencial, havendo possibilidade de lesão ao interesse público, o MPT pode ajuizar dissídio coletivo, competindo à Justiça do Trabalho decidir o conflito (CF, art. 114, § 3º).
+- Não confundir a legitimidade do sindicato para representar a categoria com a necessidade de autorização individual de cada trabalhador.
+
+## 26. Estabilidade sindical — pontos de prova e precedentes qualificados
+
+### 26.1 Regra constitucional e CLT
+
+O empregado eleito para cargo de direção ou representação sindical tem proteção desde o registro da candidatura e, se eleito, ainda que suplente, até um ano após o término do mandato, salvo falta grave nos termos da lei (CF, art. 8º, VIII; CLT, art. 543, § 3º).
+
+A proteção busca impedir retaliação patronal contra a atuação sindical. Não é garantia pessoal desvinculada da função representativa.
+
+### 26.2 Limites numéricos e comunicação
+
+A Súmula 369 do TST deve ser estudada com atenção:
+- A estabilidade alcança até sete dirigentes sindicais e igual número de suplentes, conforme a interpretação do art. 522 da CLT recepcionado pela Constituição.
+- A comunicação da candidatura/eleição ao empregador é necessária, mas a ciência pode ocorrer por qualquer meio durante a vigência do contrato, conforme a redação atual do item I.
+- Empregado de categoria diferenciada só tem estabilidade se exercer, na empresa, atividade pertinente à categoria profissional do sindicato para o qual foi eleito.
+- Extinta a atividade empresarial na base territorial do sindicato, não subsiste a razão da estabilidade.
+- Candidatura registrada durante aviso-prévio, ainda que indenizado, não assegura estabilidade.
+
+### 26.3 Delegado sindical não se confunde com dirigente eleito
+
+No Tema 237 dos recursos repetitivos, o TST reafirmou que o delegado sindical não é beneficiário da estabilidade do art. 8º, VIII, da Constituição: a garantia é dirigida a quem exerce ou ocupa cargo de direção sindical submetido a processo eletivo.
+
+**Pegadinha:** a simples designação como delegado sindical não equivale à eleição para cargo de direção ou representação com estabilidade constitucional.
+
+Fontes:
+- TST, Súmula 369: https://www.tst.jus.br/documents/10157/c10e690e-08f5-44f5-a449-422b5460476b
+- TST, Tema 237: https://www.tst.jus.br/documents/d/guest/irr237-3-pdf
+
+## 27. Atualização do Tema 935 do STF — contribuição assistencial
+
+A tese principal continua sendo: é constitucional instituir contribuição assistencial por acordo ou convenção coletiva para todos os empregados da categoria, inclusive não sindicalizados, desde que assegurado o direito de oposição.
+
+Nos embargos de declaração concluídos em 25/11/2025 e publicados em dezembro de 2025, o STF acrescentou parâmetros que devem ser memorizados:
+
+1. É vedada a cobrança retroativa referente ao período em que o próprio STF mantinha entendimento pela inconstitucionalidade da cobrança aos não filiados.
+2. Terceiros não podem interferir no livre exercício do direito de oposição.
+3. O valor deve observar razoabilidade e compatibilidade com a capacidade econômica da categoria.
+4. A deliberação deve ser transparente e democrática, em assembleia.
+
+**Não confundir as contribuições:**
+- Assistencial: pode alcançar não filiados, desde que garantido o direito de oposição.
+- Confederativa: depende de filiação sindical (Súmula Vinculante 40).
+- Sindical: após a Reforma Trabalhista, exige autorização prévia e expressa, conforme a legislação.
+- Mensalidade associativa: decorre da condição de associado.
+
+Fontes oficiais:
+- STF, Tema 935: https://portal.stf.jus.br/jurisprudenciaRepercussao/verAndamentoProcesso.asp?incidente=5112803&numeroTema=935
+- STF, Informativo 1200: https://www.stf.jus.br/arquivo/informativo/documento/informativo1200.htm
+
+## 28. Questões autorais — dissídio coletivo e estabilidade sindical
+
+**Questão 1.** Sindicato profissional ajuíza dissídio coletivo econômico sem anuência patronal, alegando que a empresa se recusou a negociar. À luz do Tema 841 do STF, assinale a alternativa correta.
+
+A) A recusa patronal dispensa automaticamente o comum acordo.  
+B) O comum acordo é requisito constitucional para o dissídio econômico.  
+C) O requisito só se aplica a dissídio coletivo jurídico.  
+D) A exigência foi revogada pela Reforma Trabalhista.  
+E) O MPT deve autorizar previamente o ajuizamento.
+
+**Gabarito: B.** O Tema 841 reconhece a constitucionalidade do requisito. A questão deve ser atualizada com a Rcl 79.753 AgR/CE, julgada em 2026, e com a tese do IRDR 1 do TST, sem tratar a recusa como dispensa automática.
+
+**Questão 2.** O TST, no IRDR 1, examinou a recusa arbitrária e reiterada de entidade patronal em participar das reuniões de negociação coletiva. A tese firmada considerou que essa conduta:
+
+A) extingue a representação sindical.  
+B) configura greve patronal.  
+C) viola a boa-fé objetiva e pode produzir a consequência do comum acordo para o dissídio econômico, conforme a tese do TST, observada a orientação posterior do STF.  
+D) transforma o dissídio econômico em jurídico.  
+E) autoriza sentença normativa sem limites constitucionais.
+
+**Gabarito: C.** A resposta reproduz a tese do IRDR 1, mas a aplicação deve ser confrontada com a decisão posterior do STF na Rcl 79.753 AgR.
+
+**Questão 3.** Empregado é designado pelo sindicato como delegado sindical, sem eleição para cargo de direção. Segundo o Tema 237 do TST:
+
+A) possui estabilidade até um ano após o mandato.  
+B) possui estabilidade se trabalhar na base territorial.  
+C) possui estabilidade apenas se for suplente.  
+D) não é beneficiário da estabilidade constitucional própria do dirigente sindical eleito.  
+E) possui estabilidade por força do art. 543, § 3º, em qualquer hipótese.
+
+**Gabarito: D.** O Tema 237 distingue delegado sindical de dirigente eleito.
+
+**Questão 4.** Uma convenção coletiva institui contribuição assistencial para todos os empregados da categoria, inclusive não filiados, e assegura oposição livre. A cláusula:
+
+A) é sempre inconstitucional.  
+B) é válida apenas para filiados.  
+C) é constitucional, observados os parâmetros do Tema 935, inclusive razoabilidade, capacidade econômica e vedação à interferência no direito de oposição.  
+D) equivale à contribuição confederativa.  
+E) dispensa deliberação coletiva.
+
+**Gabarito: C.** Tema 935 do STF, com os parâmetros integrativos definidos em 2025.
+
+**Questão 5.** A estabilidade sindical, segundo a Súmula 369 do TST, alcança:
+
+A) todos os empregados associados ao sindicato.  
+B) até sete dirigentes e igual número de suplentes, observados os requisitos jurisprudenciais.  
+C) todos os delegados sindicais indicados.  
+D) qualquer empregado que participe de assembleia.  
+E) somente o presidente do sindicato.
+
+**Gabarito: B.** A garantia não alcança indistintamente todos os representantes ou associados.
+
+## 29. Checklist final de revisão do Item 12
+
+- [ ] Distinguir categoria econômica, profissional e diferenciada.
+- [ ] Diferenciar sindicato, federação, confederação e central sindical.
+- [ ] Memorizar ACT x CCT e a prevalência do ACT (CLT, art. 620).
+- [ ] Separar matérias negociáveis do art. 611-A e direitos protegidos pelo art. 611-B.
+- [ ] Saber os requisitos, prazos e limites de vigência dos instrumentos coletivos.
+- [ ] Não admitir ultratividade automática das cláusulas normativas.
+- [ ] Distinguir contribuição assistencial, confederativa, sindical e mensalidade.
+- [ ] Aplicar Tema 935 com direito de oposição livre e parâmetros de razoabilidade.
+- [ ] Conhecer os requisitos e efeitos da greve.
+- [ ] Diferenciar dissídio econômico, jurídico e de greve.
+- [ ] Memorizar Tema 841 e estudar a tensão entre IRDR 1/TST e Rcl 79.753 AgR/STF.
+- [ ] Distinguir dirigente sindical eleito de delegado sindical (Tema 237/TST).
+- [ ] Aplicar Súmula 369 do TST aos limites da estabilidade.
+
