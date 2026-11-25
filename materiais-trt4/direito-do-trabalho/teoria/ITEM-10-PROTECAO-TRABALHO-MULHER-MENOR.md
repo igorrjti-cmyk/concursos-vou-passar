@@ -287,6 +287,34 @@ Fontes: prova e enunciado — https://www.qconcursos.com/questoes-de-concursos/p
 Os três registros já existiam; não foram duplicados. As resoluções detalhadas foram atualizadas e a consulta posterior confirmou o conteúdo e os gabaritos.
 
 
+
+### Q3469440 — TRT-1/RJ, 2025 — Analista Judiciário, Área Judiciária, Especialidade Oficial de Justiça — questão 44 — gabarito B
+
+**Tema:** contrato de aprendizagem — prazo máximo, salário, cota e jornada.
+
+**Enunciado:** Em relação às regras de proteção ao menor, a CLT prevê a aprendizagem como formação técnico-profissional metódica. O diretor industrial da empresa Alpha Indústria e Comércio Ltda. pretende contratar aprendizes e pede ao departamento jurídico informações sobre as regras legais que regem essa contratação, sendo informado que:
+
+A) ao aprendiz, salvo condição mais favorável, é garantido 50% do valor do salário mínimo-hora.  
+B) o contrato de aprendizagem não poderá ser estipulado por mais de 2 anos, salvo quando se tratar de aprendiz com deficiência.  
+C) os estabelecimentos de qualquer natureza, inclusive entidades sem fins lucrativos que tenham por objeto a educação profissional, são obrigados a contratar entre 5% e 15% de aprendizes.  
+D) a duração do trabalho do aprendiz não excederá 6 horas diárias, facultadas a prorrogação e a compensação de jornada.  
+E) a duração do trabalho do aprendiz não pode, em nenhuma hipótese, ultrapassar 6 horas diárias, ainda que respeitado o limite de 8 horas diárias.
+
+**B — correta.** O art. 428, § 3º, da CLT estabelece prazo máximo de dois anos, exceto para aprendiz com deficiência.
+
+**Análise das alternativas:**
+- A — errada: o aprendiz tem garantia de salário mínimo-hora, salvo condição mais favorável (art. 428, § 2º).
+- B — correta: prazo máximo de dois anos, com exceção legal para aprendiz com deficiência.
+- C — errada: a entidade sem fins lucrativos que tenha por objetivo a educação profissional possui dispensa específica da obrigação de contratar aprendizes para compor a cota, conforme art. 429, § 1º-A.
+- D — errada: o art. 432 veda prorrogação e compensação da jornada.
+- E — errada: o art. 432, § 1º, permite jornada de até oito horas para quem concluiu o ensino fundamental, desde que computadas as horas de aprendizagem teórica.
+
+**Pegadinha central:** a FCC reuniu vários dispositivos em uma questão. Memorizar: salário mínimo-hora; prazo de dois anos (exceção PCD); cota de 5% a 15% com exclusões; jornada ordinária de seis horas, com a exceção expressa de até oito horas nas condições do § 1º.
+
+**Fontes:** prova — https://arquivos.qconcursos.com/prova/arquivo_prova/132833/fcc-2025-trt-1-regiao-rj-analista-judiciario-area-judiciaria-especialidade-oficial-de-justica-avaliador-federal-prova.pdf ; gabarito oficial, questão 44 = B — https://arquivos.qconcursos.com/prova/arquivo_gabarito/132833/fcc-2025-trt-1-regiao-rj-analista-judiciario-area-judiciaria-especialidade-oficial-de-justica-avaliador-federal-gabarito.pdf
+
+
+
 ## 17. Licença-paternidade — Lei 15.371/2026 (vigência em 1º/1/2027)
 
 **Atualização especialmente relevante para prova de 2027:** a Lei 15.371, de 31/03/2026, entra em vigor em **1º de janeiro de 2027**. Não aplicar sua disciplina como se já estivesse vigente em novembro/dezembro de 2026; para fatos ocorridos antes da vigência, observar a regra temporal correspondente.
