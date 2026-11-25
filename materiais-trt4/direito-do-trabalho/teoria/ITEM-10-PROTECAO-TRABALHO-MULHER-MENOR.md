@@ -981,3 +981,39 @@ E) o canal interno substitui eventual procedimento criminal.
 ### Diagnóstico de revisão
 
 Se houver erro nas questões 22 ou 23, retomar idade mínima, trabalho proibido ao menor e jornada do aprendiz. Erros nas questões 24 ou 27 indicam necessidade de separar intervalo individual para amamentação, estrutura física e reembolso-creche. Erros nas questões 25 ou 26 exigem revisar estabilidade gestante e vigência escalonada da Lei 15.371/2026. Erros nas questões 28 ou 29 indicam revisão da jurisprudência do art. 386 e das medidas obrigatórias de prevenção ao assédio.
+
+
+## 32. Correção jurisprudencial de precisão — gestante e lactante em atividade insalubre (ADI 5938)
+
+### Regra correta após o controle concentrado
+
+A leitura do art. 394-A da CLT deve considerar o resultado vinculante da ADI 5938 do STF. O Tribunal declarou inconstitucional a exigência de apresentação de atestado médico para o afastamento tanto da gestante quanto da lactante.
+
+- **Gestante:** deve ser afastada de atividades insalubres em qualquer grau durante a gestação.
+- **Lactante:** deve ser afastada de atividades insalubres em qualquer grau durante a lactação.
+- Não se pode exigir atestado médico da trabalhadora para produzir o afastamento previsto no art. 394-A. A exigência foi declarada inconstitucional nos incisos II e III.
+- O afastamento ocorre sem prejuízo da remuneração, nela incluído o adicional de insalubridade (§ 2º).
+- A empresa deve buscar o exercício de atividade em local salubre. Se não for possível, aplica-se a consequência prevista no § 3º: a hipótese é considerada gravidez de risco e enseja salário-maternidade durante todo o período de afastamento, nos termos legais.
+
+**Atenção à redação do material:** não resumir a decisão dizendo apenas que o atestado deixou de ser exigido para gestantes em grau médio/mínimo. A ADI 5938 também afastou a exigência de atestado para a lactante em qualquer grau de insalubridade.
+
+### Questão autoral de precisão
+
+**30.** Empregada que está amamentando retorna ao trabalho e é designada para atividade insalubre em grau mínimo. A empresa afirma que o afastamento depende de atestado médico emitido por profissional de confiança da empregada. À luz do art. 394-A da CLT e da ADI 5938 do STF:
+
+A) a empresa está correta, pois a lactante só é afastada mediante atestado médico.  
+B) a empresa está correta, pois a proteção alcança apenas a gestante.  
+C) a empregada deve ser afastada da atividade insalubre durante a lactação, sem exigência do atestado declarado inconstitucional pelo STF.  
+D) a empregada pode permanecer na atividade se receber adicional em dobro.  
+E) o afastamento só é obrigatório em grau máximo.
+
+**Gabarito: C.** O STF declarou inconstitucional a exigência de atestado médico tanto para a gestante em atividades insalubres de grau médio ou mínimo quanto para a lactante em atividades insalubres em qualquer grau. A proteção não depende de iniciativa médica da trabalhadora.
+
+**Fonte oficial:** STF, ADI 5938, julgamento em 29/05/2019, acórdão publicado em 23/09/2019: https://portal.stf.jus.br/peticaoInicial/verPeticaoInicial.asp?base=ADI&numProcesso=5938
+
+### Auditoria de questão antiga — TRT-12/2013
+
+Foi localizada a questão sobre proteção do trabalho da mulher e do menor da prova FCC TRT-12/2013, cargo Analista Judiciário — Oficial de Justiça Avaliador Federal. O enunciado reproduz uma afirmação incompatível com o art. 439 da CLT sobre a quitação rescisória por menor de 18 anos sem assistência.
+
+**Não cadastrar ainda no banco oficial:** as cópias públicas localizadas apresentam divergência entre numeração/caderno e gabarito associado. A prova em si foi identificada, mas não foi possível vincular com segurança o gabarito definitivo específico ao caderno e à questão. A regra jurídica pode ser estudada pelo art. 439 da CLT; a questão só será registrada como oficial após fechar essa conferência documental.
+
