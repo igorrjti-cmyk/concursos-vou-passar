@@ -131,9 +131,9 @@ Lei 14.457/2022, art. 23, para empresas com CIPA:
 - Aprendiz: maior de 14 e menor de 24 anos; não há limite máximo de idade para pessoa com deficiência.
 - Regra geral: duração máxima de dois anos, exceto quando se tratar de aprendiz com deficiência.
 - Exige anotação na CTPS, matrícula e frequência escolar se não concluiu o ensino médio, e inscrição em programa de aprendizagem desenvolvido por entidade qualificada.
-- **Jornada atual: máximo de seis horas diárias** (art. 432, caput), vedadas prorrogação e compensação. A antiga previsão de até oito horas para quem concluiu o ensino fundamental foi revogada; não deve ser usada como regra vigente.
-- O tempo destinado à aprendizagem teórica integra a jornada do aprendiz.
-- Não confundir a jornada especial do aprendiz com a jornada geral de oito horas dos empregados adultos.
+- Regra geral: até seis horas diárias, vedadas prorrogação e compensação (art. 432, caput).
+- **Exceção expressa do art. 432, § 1º:** a jornada pode chegar a oito horas diárias para o aprendiz que já concluiu o ensino fundamental, desde que as horas destinadas à aprendizagem teórica estejam computadas nesse total.
+- Portanto, oito horas não significam autorização genérica para horas extras: é limite especial condicionado à escolaridade e à inclusão da parte teórica na jornada.
 - Extinção antecipada: hipóteses legais incluem desempenho insuficiente ou inadaptação, falta disciplinar grave, ausência injustificada à escola que implique perda do ano letivo e pedido do aprendiz.
 - Atingir 24 anos extingue o contrato, salvo aprendiz com deficiência, observadas as regras legais.
 - Cota: estabelecimentos devem empregar e matricular aprendizes em percentual mínimo de 5% e máximo de 15% dos trabalhadores cujas funções demandem formação profissional, com exclusões legais.
@@ -185,12 +185,12 @@ C) em atividade insalubre, se houver EPI.
 D) em trabalho noturno, se houver autorização dos pais.  
 E) em atividade perigosa, se houver autorização judicial.
 
-**6.** De acordo com a redação vigente do art. 432 da CLT, a jornada diária do aprendiz:
-A) pode chegar a oito horas se concluído o ensino fundamental.  
-B) é limitada a seis horas, vedadas prorrogação e compensação.  
+**6.** De acordo com o art. 432 da CLT, a jornada diária do aprendiz:
+A) pode chegar a oito horas em qualquer hipótese.  
+B) pode chegar a oito horas se o aprendiz concluiu o ensino fundamental e forem computadas as horas de aprendizagem teórica.  
 C) pode ser prorrogada por até duas horas mediante acordo individual.  
-D) é de oito horas para maiores de 18 anos.  
-E) pode ser compensada por acordo coletivo.
+D) é de oito horas para qualquer aprendiz maior de 18 anos.  
+E) pode ser compensada livremente por acordo coletivo.
 
 **7.** Contra trabalhador de 17 anos:
 A) corre prescrição quinquenal normalmente.  
@@ -213,7 +213,7 @@ E) substituir o procedimento penal por investigação interna.
 3. **B** — CLT, art. 394-A, conforme STF, ADI 5938.  
 4. **B** — CLT, art. 396.  
 5. **B** — CF, art. 7º, XXXIII, e CLT, art. 403.  
-6. **B** — CLT, art. 432; a antiga exceção de oito horas foi revogada.  
+6. **B** — CLT, art. 432, § 1º; a jornada de até oito horas exige conclusão do ensino fundamental e inclusão da aprendizagem teórica.  
 7. **C** — CLT, art. 440.  
 8. **B** — Lei 14.457/2022, art. 23.
 
@@ -410,15 +410,15 @@ E) repouso remunerado de 30 dias, sem direito à função anterior.
 
 ## 21. Questões autorais — aprendizagem e trabalho do adolescente
 
-**12.** Uma empresa contrata aprendiz de 17 anos, regularmente matriculado em programa de aprendizagem. Sobre sua jornada, assinale a alternativa correta:
+**12.** Uma empresa contrata aprendiz de 17 anos que já concluiu o ensino fundamental. A jornada diária poderá ser:
 
-A) Pode ser de oito horas se o adolescente concluiu o ensino fundamental.  
-B) É limitada a seis horas diárias, vedadas prorrogação e compensação.  
-C) Pode ser prorrogada em duas horas por acordo individual.  
-D) Pode ser de 12 horas em caso de força maior, sem adicional.  
-E) É igual à jornada dos demais empregados.
+A) de até oito horas, desde que as horas de aprendizagem teórica estejam incluídas nesse total.  
+B) de oito horas, acrescidas das horas de aprendizagem teórica.  
+C) de até dez horas, mediante acordo individual.  
+D) de seis horas, sem qualquer exceção legal.  
+E) livremente prorrogada por convenção coletiva.
 
-**Gabarito: B.** O art. 432 da CLT estabelece limite de seis horas diárias e veda prorrogação e compensação. A antiga exceção de oito horas foi revogada.
+**Gabarito: A.** O art. 432, § 1º, permite até oito horas diárias ao aprendiz que concluiu o ensino fundamental, desde que as horas teóricas sejam computadas.
 
 **13.** O contrato de aprendizagem pode ser extinto antecipadamente, nos termos do art. 433 da CLT, por:
 
