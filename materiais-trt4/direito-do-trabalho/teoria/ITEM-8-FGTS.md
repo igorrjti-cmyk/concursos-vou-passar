@@ -397,3 +397,35 @@ A MP teve vigência de 23/12/2025 a 01/06/2026, com pagamentos em etapas e ajust
 - CAIXA — liberação excepcional da MP 1.331/2025 e encerramento da vigência em 01/06/2026: https://www.fgts.gov.br/Paginas/subpaginas/saque-mp-1331-2025.aspx
 - Ato Declaratório CN nº 44/2026 — encerramento da vigência da MP 1.331/2025: https://planalto.gov.br/ccivil_03/_ato2023-2026/2026/congresso/adc-44-mpv1.331.htm
 - TST — Temas 68 e 70: https://www.tst.jus.br/documents/10157/31961062/Precedentes%2BTrabalhistas%2B-%2B%C3%8Dndice%2BTem%C3%A1tico%2B-%2BSTF-TST.pdf
+
+
+## 21. Questões oficiais FCC de outros TRTs — incluídas no banco Supabase
+
+As duas questões abaixo foram conferidas no caderno de prova e no gabarito oficial FCC. Foram inseridas na tabela `public.questoes` do projeto de estudos e verificadas após a gravação.
+
+### Q3170817 — FCC TRT-20/SE 2024 — Analista Judiciário, Área Judiciária — questão 23
+
+**Gabarito oficial: E.** Tema: base de cálculo da indenização de 40% após saque para aquisição de moradia própria.
+
+Ronan foi admitido em janeiro de 2019, sacou parte do FGTS em fevereiro de 2023 para aquisição de moradia e foi dispensado sem justa causa em setembro de 2024. A empresa havia depositado corretamente os valores.
+
+**Fundamento:** Lei 8.036/1990, art. 18, § 1º. A multa é de 40% do montante de todos os depósitos do contrato, atualizados e acrescidos de juros. O saque anterior para moradia não reduz a base histórica da multa. Não se calcula a indenização sobre o saldo atual de R$ 20.000,00. A alternativa E reproduz a regra legal.
+
+Registro Supabase: ID `3170817`, rank 7900.
+
+### Q3170772 — FCC TRT-20/SE 2024 — Analista Judiciário, Área Administrativa — questão 48
+
+**Gabarito oficial: A (I, II e III).** Tema: saque por dependente portador de HIV e idade mínima de 70 anos.
+
+- I: verdadeira — a hipótese abrange o trabalhador ou qualquer dependente portador do vírus HIV (art. 20, XIII).
+- II: verdadeira — o trabalhador com 70 anos completos já preenche o requisito (art. 20, XV).
+- III: verdadeira — quem tem 71 anos também satisfaz o requisito de idade.
+
+Registro Supabase: ID `3170772`, rank 7901.
+
+**Fontes da prova e do gabarito oficial:**
+- TRT-20/2024, Analista Judiciário, Área Judiciária, caderno B02: https://arquivos.qconcursos.com/prova/arquivo_prova/125725/fcc-2024-trt-20-regiao-se-analista-judiciario-area-judiciaria-prova.pdf
+- Gabarito oficial do caderno B02, questão 23: https://arquivos.qconcursos.com/prova/arquivo_gabarito/125725/fcc-2024-trt-20-regiao-se-analista-judiciario-area-judiciaria-gabarito.pdf
+- TRT-20/2024, Analista Judiciário, Área Administrativa, caderno A01: https://arquivos.qconcursos.com/prova/arquivo_prova/125724/fcc-2024-trt-20-regiao-se-analista-judiciario-area-administrativa-prova.pdf
+- Gabarito oficial do caderno A01, questão 48: https://arquivos.qconcursos.com/prova/arquivo_gabarito/125724/fcc-2024-trt-20-regiao-se-analista-judiciario-area-administrativa-gabarito.pdf
+
