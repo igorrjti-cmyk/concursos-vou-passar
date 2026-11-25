@@ -429,3 +429,40 @@ Registro Supabase: ID `3170772`, rank 7901.
 - TRT-20/2024, Analista Judiciário, Área Administrativa, caderno A01: https://arquivos.qconcursos.com/prova/arquivo_prova/125724/fcc-2024-trt-20-regiao-se-analista-judiciario-area-administrativa-prova.pdf
 - Gabarito oficial do caderno A01, questão 48: https://arquivos.qconcursos.com/prova/arquivo_gabarito/125724/fcc-2024-trt-20-regiao-se-analista-judiciario-area-administrativa-gabarito.pdf
 
+
+
+## 22. Mais questões oficiais FCC de outros TRTs — conferidas e cadastradas
+
+### Q2400725 — FCC TRT-11/AM e RR 2024 — Analista Judiciário, Área Administrativa — questão 46
+
+**Gabarito oficial: C (II e IV).**
+
+A conta vinculada pode ser movimentada:
+- II — aposentadoria concedida pela Previdência Social;
+- IV — trabalhador com idade igual ou superior a 70 anos.
+
+As demais assertivas estão incorretas:
+- I — o prazo fora do regime é de **três anos ininterruptos**, não dois;
+- III — despedida por justa causa não é hipótese de saque rescisório.
+
+Registro Supabase: ID `2400725`, rank 7902.
+
+**Fontes:** prova: https://arquivos.qconcursos.com/prova/arquivo_prova/105598/fcc-2024-trt-11-regiao-am-e-rr-analista-judiciario-area-administrativa-prova.pdf ; gabarito oficial: https://arquivos.qconcursos.com/prova/arquivo_gabarito/105598/fcc-2024-trt-11-regiao-am-e-rr-analista-judiciario-area-administrativa-gabarito.pdf
+
+### Q3089719 — FCC TRT-7/CE 2024 — Analista Judiciário, Área Judiciária — questão 57
+
+**Gabarito oficial: D.**
+
+Na extinção por acordo (CLT, art. 484-A), com salário de R$ 2.500,00 e saldo de FGTS de R$ 1.500,00:
+- aviso-prévio indenizado pela metade: R$ 1.250,00;
+- indenização compensatória de 20%: R$ 300,00;
+- saque de até 80% do saldo: R$ 1.200,00;
+- sem direito ao seguro-desemprego.
+
+Registro Supabase: ID `3089719`, rank 7903. É questão de cruzamento entre extinção contratual e FGTS; também deve ser revisada no Item 5 — Rescisão.
+
+**Fontes:** prova: https://arquivos.qconcursos.com/prova/arquivo_prova/118757/fcc-2024-trt-7-regiao-ce-analista-judiciario-area-judiciaria-prova.pdf ; gabarito oficial: https://arquivos.qconcursos.com/prova/arquivo_gabarito/118757/fcc-2024-trt-7-regiao-ce-analista-judiciario-area-judiciaria-gabarito.pdf
+
+### Atualização do banco
+
+As questões Q2400725 e Q3089719 foram inseridas em `public.questoes` e consultadas novamente após a inserção. Os registros retornaram com os gabaritos C e D, respectivamente. Nenhuma questão autoral foi inserida no banco de questões oficiais.
