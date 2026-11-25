@@ -1007,3 +1007,67 @@ Não foram inseridas questões autorais no banco de questões oficiais.
 - TST — Tema 225 (médicos e engenheiros; Súmula 370): https://www.tst.jus.br/documents/10157/31961062/Precedentes%2BTrabalhistas%2B-%2B%C3%8Dndice%2BTem%C3%A1tico%2B-%2BSTF-TST.pdf
 - Decreto 13.173/2026: https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/decreto/d13173.htm
 - Portaria MTE 2.041/2026 — publicação e síntese oficial: https://www.gov.br/secom/pt-br/acompanhe-a-secom/noticias/2026/11/governo-federal-publica-portaria-com-regras-complementares-para-aplicacao-da-escala-5x2
+
+
+## 38. Revisão integrada FCC — jornada, descansos e remuneração
+
+Esta revisão cruza os pontos que a banca costuma misturar em uma mesma situação-problema. A legislação aplicável deve ser identificada pela data do fato ou da prova.
+
+### 38.1. Não confundir os quatro relógios
+
+| Instituto | O que mede | Regra de referência |
+|---|---|---|
+| Jornada diária | Tempo diário de trabalho juridicamente computável | Regra geral de 8h, respeitados regimes especiais |
+| Duração semanal | Soma normal de trabalho na semana | Até 15/12/2026: teto histórico de 44h; de 16/12/2026 a 15/12/2027: 42h; a partir de 16/12/2027: 40h |
+| Intervalo interjornada | Descanso entre duas jornadas | Mínimo geral de 11h consecutivas (art. 66) |
+| Repouso semanal | Descanso semanal remunerado | Até 15/12/2026: 24h; a partir de 16/12/2026: dois períodos de 24h, observada a disciplina de compensação coletiva |
+
+**Pegadinha:** 11 horas entre jornadas não substituem o repouso semanal. Tampouco se somam automaticamente para formar o repouso semanal: são institutos com fundamentos e requisitos próprios.
+
+### 38.2. Matriz de cálculo de horas extras
+
+1. Identifique a jornada contratual e o regime legal especial.
+2. Apure os minutos efetivamente computáveis, aplicando a tolerância do art. 58, § 1º (5 minutos por marcação, máximo de 10 no dia).
+3. Verifique acordo de compensação ou banco de horas válido e o prazo de compensação.
+4. Compare a jornada diária e o limite semanal vigente no período.
+5. Separe hora extraordinária de adicional devido por intervalo suprimido: após a Reforma de 2017, a parcela do art. 71, § 4º, é indenizatória e corresponde apenas ao período suprimido, com adicional de 50%, ressalvadas normas mais favoráveis e a disciplina temporal do contrato.
+6. Aplique percentual superior se houver norma coletiva ou regra especial.
+
+**Exemplo de transição:** em uma semana iniciada após 16/12/2026, não se deve usar automaticamente o teto semanal de 44h. O limite normal será 42h, sem prejuízo de regimes e compensações válidos. A partir de 16/12/2027, será 40h.
+
+### 38.3. Quadro de distinções que a FCC pode explorar
+
+| Situação | Consequência central |
+|---|---|
+| Banco de horas individual escrito | Compensação em até 6 meses |
+| Compensação dentro do mesmo mês | Acordo individual tácito ou escrito |
+| Banco anual | ACT/CCT, prazo máximo de 1 ano |
+| Intervalo intrajornada parcialmente concedido | Pagamento indenizatório apenas do período suprimido, com 50% |
+| Intervalo interjornada violado | Pagamento do período suprimido como extra, conforme OJ 355, observada a jurisprudência aplicável |
+| Trabalho em feriado sem compensação | Pagamento em dobro, conforme Súmula 146 |
+| Sétimo dia consecutivo de trabalho sem repouso | Pagamento em dobro do repouso, conforme OJ 410; a nova disciplina exige ao menos um descanso a cada seis dias consecutivos |
+| Uso de celular fora do expediente | Não gera, por si só, sobreaviso; verificar regime de plantão/restrição (Súmula 428) |
+| Teletrabalho por produção ou tarefa | Pode ficar fora do regime de duração, nos termos do art. 62, III; não basta o rótulo “teletrabalho” |
+| Cargo de gestão | Exige efetivos poderes de gestão e requisito remuneratório legal; nomenclatura do cargo não basta |
+
+### 38.4. Atualização da escala 12x36 e dos repousos
+
+A partir de 16/12/2026, a análise da escala 12x36 deve considerar a média mensal de horas trabalhadas. Se essa média ultrapassar o limite semanal constitucional aplicável, a Portaria MTE 2.041/2026 determina compensação das horas excedentes ou pagamento de horas extras, nos termos de ACT/CCT. Portanto, não marcar como correta a afirmação absoluta de que a escala 12x36 nunca produz horas extras.
+
+A regra geral passa a assegurar dois repousos semanais de 24 horas. A negociação coletiva pode disciplinar distribuição excepcional ao longo do mês, mas deve preservar a média de dois repousos no mês-calendário e ao menos um dia de descanso a cada período máximo de seis dias consecutivos de trabalho. A regra não autoriza trabalhar sete dias seguidos e descansar depois.
+
+### 38.5. Perguntas rápidas de recuperação ativa
+
+- O empregado trabalhou 6h e recebeu apenas 10 minutos de intervalo: qual parcela é devida? **Os 5 minutos suprimidos**, com natureza indenizatória e adicional de 50%, na disciplina posterior à Reforma.
+- O empregado ficou 10h entre o fim de uma jornada e o início da seguinte: qual instituto foi violado? **Intervalo interjornada**, pois o mínimo geral é 11h.
+- O empregado trabalhou em feriado e recebeu folga compensatória válida: há dobra automática? **Não**, a dobra da Súmula 146 pressupõe ausência de compensação.
+- O empregado usa smartphone corporativo, mas não está submetido a plantão ou controle que limite sua locomoção: há sobreaviso? **Não necessariamente**; o simples instrumento telemático não caracteriza sobreaviso.
+- A partir de 16/12/2026, o limite semanal passa diretamente a 40h? **Não.** A primeira etapa é 42h; 40h somente em 16/12/2027.
+- A partir de 16/12/2026, dois repousos permitem escala de sete dias consecutivos? **Não.** Na distribuição excepcional, deve haver ao menos um descanso a cada seis dias consecutivos.
+
+### 38.6. Fontes oficiais da atualização de novembro de 2026
+
+- EC 141/2026 — texto promulgado: https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=detalharAto&cod_menu=9381&cod_modulo=631&numeroAto=00000141&orgao=CN&seqAto=000&tipo=EMC&valorAno=2026
+- Decreto 13.173/2026 — texto oficial da Câmara: https://www2.camara.leg.br/legin/fed/decret/2026/decreto-13173-19-novembro-2026-800207-publicacaooriginal-182072-pe.html
+- Portaria MTE 2.041/2026 — publicação e síntese oficial do MTE: https://www.gov.br/trabalho-e-emprego/pt-br/noticias-e-conteudo/2026/novembro/governo-federal-publica-portaria-com-regras-complementares-para-aplicacao-da-escala-5x2
+- CLT compilada: https://www.planalto.gov.br/ccivil_03/decreto-lei/del5452compilado.htm
