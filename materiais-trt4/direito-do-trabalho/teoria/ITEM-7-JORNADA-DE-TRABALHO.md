@@ -1,7 +1,7 @@
 # ITEM 7 — JORNADA DE TRABALHO
 
 Material autoral de estudo para TRT-4 — Técnico Judiciário, Área Administrativa (FCC).
-Atualização legislativa considerada: 24/11/2026.
+Atualização legislativa considerada: 25/11/2026.
 
 > **Regra de método:** questões de provas anteriores devem ser resolvidas conforme a legislação vigente na data da prova. Ao lado, registrar a regra atual. Não transportar automaticamente a resposta histórica para a legislação atual.
 
@@ -850,3 +850,160 @@ Nas questões localizadas, a banca cobra principalmente a literalidade do art. 7
 - combinação com outros direitos constitucionais, como adicional noturno e salário-família.
 
 **Atualização para prova futura:** a Súmula 423 do TST foi cancelada em 2025. Questões de 2017 e 2023 devem ser resolvidas segundo a moldura jurídica da época; para a prova atual, estudar também o Tema 1.046 do STF e a negociação coletiva, sem tratar a antiga Súmula 423 como vigente.
+
+
+## 34. Regimes especiais de jornada — categorias que merecem atenção
+
+### 34.1. Bancários — CLT, arts. 224 a 226
+
+Regra geral do art. 224, caput:
+- seis horas contínuas nos dias úteis, exceto sábados;
+- total de 30 horas semanais;
+- intervalo de 15 minutos, nos termos do § 1º;
+- a jornada ordinária fica compreendida entre 7h e 22h.
+
+**Cargo de confiança bancário — art. 224, § 2º:** ficam fora da jornada de seis horas os empregados que efetivamente exerçam funções de direção, gerência, fiscalização, chefia e equivalentes, ou outros cargos de confiança, desde que recebam gratificação não inferior a um terço do salário do cargo efetivo.
+
+A gratificação, isoladamente, não basta: é necessário o efetivo exercício de atribuições diferenciadas e fidúcia especial. O nome do cargo (“gerente”, “chefe”, “coordenador”) não resolve sozinho o enquadramento.
+
+- Bancário comum: seis horas diárias; a 7ª e a 8ª, em regra, são extraordinárias.
+- Bancário enquadrado no § 2º: jornada de oito horas; extras, em regra, após a 8ª.
+- Gerente-geral de agência: analisar art. 62, II, da CLT e Súmula 287 do TST; não confundir com qualquer gerente bancário.
+- Art. 225: admite prorrogação excepcional até oito horas diárias, sem exceder 40 semanais, observadas as regras gerais.
+
+**Pegadinha FCC:** a gratificação mínima de um terço não transforma automaticamente qualquer bancário em ocupante de cargo de confiança. A fidúcia especial e as atribuições efetivas precisam estar presentes.
+
+### 34.2. Telefonia e telemarketing — CLT, art. 227 e Tema 176 do TST
+
+O art. 227 prevê, para operadores nos serviços de telefonia, telegrafia submarina ou subfluvial, radiotelegrafia e radiotelefonia:
+- máximo de seis horas contínuas por dia;
+- 36 horas por semana;
+- pagamento extraordinário do período excedente, com adicional mínimo de 50%, na hipótese legal.
+
+**Atualização jurisprudencial decisiva:** no Tema 176 dos recursos repetitivos, o TST firmou que o empregado que exerce atividade exclusiva ou preponderante de teleatendimento ou telemarketing tem direito à jornada reduzida de seis horas prevista no art. 227 da CLT.
+
+Portanto, não é correto restringir a proteção apenas ao trabalhador que opera uma antiga mesa telefônica. O critério firmado pelo TST alcança a atividade exclusiva ou preponderante de teleatendimento/telemarketing.
+
+### 34.3. Médicos e engenheiros — atenção à diferença entre jornada e salário profissional
+
+O TST, no Tema 225, reafirmou a Súmula 370: as Leis 3.999/1961 (médicos) e 4.950-A/1966 (engenheiros) estabelecem salário mínimo profissional calculado com referência a quatro horas (médicos) e seis horas (engenheiros), mas **não criam, por si sós, jornada reduzida**.
+
+Em regra, são extraordinárias as horas excedentes à 8ª diária, respeitado o salário mínimo-horário da categoria. Não confundir parâmetro de cálculo do piso com limite máximo de jornada.
+
+### 34.4. Professores — CLT, arts. 318 a 321
+
+Após a Lei 13.415/2017, o professor pode lecionar em mais de um turno no mesmo estabelecimento, desde que não ultrapasse a jornada semanal legal, assegurado o intervalo para refeição, que não é computado na jornada (art. 318).
+
+A remuneração é fixada pelo número de aulas semanais, conforme horários (art. 320). Para a prova, priorizar a redação atual do art. 318 e evitar reproduzir limites antigos de aulas consecutivas que foram superados.
+
+### 34.5. Advogados empregados — Lei 8.906/1994, art. 20
+
+A jornada do advogado empregado, em regra, não pode exceder quatro horas contínuas por dia e vinte horas semanais, salvo acordo ou convenção coletiva ou dedicação exclusiva, nos termos da lei e da jurisprudência aplicável.
+
+É regime profissional específico, não uma regra geral da CLT. Para questões, conferir a existência de dedicação exclusiva e o instrumento contratual/coletivo.
+
+## 35. Atualização superveniente: Portaria MTE nº 2.041/2026 e Decreto nº 13.173/2026
+
+A Portaria MTE nº 2.041 foi publicada em 23/11/2026 para complementar a EC 141/2026 e o Decreto 13.173/2026. Pontos relevantes para atualizar o estudo:
+
+1. **Dois repousos semanais:** a partir de 16/12/2026, cada empregado passa a ter dois dias de repouso semanal, cada um com 24 horas consecutivas, um preferencialmente aos domingos. Podem ser consecutivos ou não, observadas as regras da Portaria e da negociação coletiva.
+2. **Compensação excepcional dos repousos:** ACT/CCT pode disciplinar distribuição diferente ao longo do mês, mas deve assegurar média de dois dias de repouso semanal remunerado no mês-calendário e pelo menos um dia de descanso a cada período máximo de seis dias consecutivos de trabalho. A compensação não pode reduzir o total de repousos devidos.
+3. **Domingos:** no comércio em geral, o repouso deve coincidir com o domingo pelo menos uma vez a cada três semanas; nas demais atividades, pelo menos uma vez a cada quatro semanas, sem prejuízo de regras específicas. Para empregadas que trabalham aos domingos, observar também a escala quinzenal do art. 386 da CLT.
+4. **Escalas especiais:** a média de duração semanal e mensal do trabalho será apurada por mês-calendário, inclusive nas escalas especiais. Esse cálculo não se confunde com o divisor do salário-hora.
+5. **12x36:** quando a média mensal de horas trabalhadas ultrapassar o limite semanal constitucional, deve haver compensação das horas excedentes ou pagamento de horas extras, nos termos de ACT/CCT. Não presumir que a simples escala 12x36 dispense qualquer apuração após a mudança constitucional.
+6. **Turnos ininterruptos:** preserva-se a jornada de seis horas, salvo negociação coletiva, observados os limites semanais constitucionais e os dois repousos semanais.
+7. **Divisores gerais:** Decreto 13.173/2026 estabelece divisor 210 para a jornada máxima de 42 horas semanais e 200 para 40 horas. Deve prevalecer divisor inferior mais favorável previsto em lei, instrumento coletivo ou jornada contratual menor.
+8. **Banco de horas:** o saldo acumulado até 15/12/2026 será compensado ou pago conforme o acordo/instrumento vigente; as horas trabalhadas a partir de 16/12/2026 devem respeitar os novos limites aplicáveis.
+9. **Salário preservado:** a redução da duração normal e a ampliação dos repousos não autorizam redução salarial nominal, proporcional ou de qualquer outra espécie.
+
+**Atenção à data:** em 25/11/2026, as regras de 42 horas e dois repousos ainda não começaram a produzir efeitos; a data de início é 16/12/2026. O divisor 210 acompanha essa etapa. O divisor 200 passa a ser aplicável na etapa de 40 horas, a partir de 16/12/2027, ressalvados divisores inferiores mais favoráveis.
+
+## 36. Questões autorais de fixação — regimes especiais
+
+**1.** Bancário que recebe gratificação de função de 1/3 do salário efetivo está automaticamente enquadrado no art. 224, § 2º?
+
+**Resposta:** Não. Além da gratificação mínima, deve exercer efetivamente função de direção, gerência, fiscalização, chefia ou equivalente, com fidúcia especial.
+
+**2.** Bancário comum trabalha oito horas por dia. A 7ª e a 8ª horas são, em regra, extraordinárias?
+
+**Resposta:** Sim. Para o bancário não enquadrado na exceção do § 2º, a jornada normal é de seis horas diárias.
+
+**3.** Empregado exerce atividade exclusiva de telemarketing. Tem direito à jornada de seis horas?
+
+**Resposta:** Sim. Tema 176 do TST: atividade exclusiva ou preponderante de teleatendimento/telemarketing assegura a jornada reduzida do art. 227 da CLT.
+
+**4.** A lei do salário profissional do engenheiro, por mencionar seis horas, determina necessariamente que toda hora após a 6ª seja extra?
+
+**Resposta:** Não. Tema 225 do TST e Súmula 370: a lei fixa salário profissional com referência à jornada de seis horas, mas não estabelece, por si só, jornada reduzida; em regra, extras após a 8ª, respeitado o salário mínimo-horário.
+
+**5.** Professor pode lecionar em mais de um turno no mesmo estabelecimento?
+
+**Resposta:** Sim, desde que não ultrapasse a jornada semanal legal, assegurado o intervalo para refeição, conforme art. 318 da CLT.
+
+**6.** A partir de 16/12/2026, o repouso semanal pode ser distribuído de modo que o empregado trabalhe sete dias consecutivos, desde que receba dois repousos depois?
+
+**Resposta:** Não. A Portaria 2.041/2026 exige ao menos um dia de descanso a cada período máximo de seis dias consecutivos, mesmo na distribuição excepcional negociada.
+
+**7.** O divisor 210 passa a valer imediatamente na publicação do Decreto 13.173/2026?
+
+**Resposta:** Não. O Decreto entra em vigor na publicação, mas seus efeitos seguem o cronograma da EC 141/2026. O divisor 210 corresponde à etapa de 42 horas semanais, iniciada em 16/12/2026.
+
+**8.** Na escala 12x36, a partir da nova disciplina, nunca haverá horas extras porque existe descanso de 36 horas?
+
+**Resposta:** Incorreto. Deve-se apurar a média mensal; se ultrapassar o limite semanal constitucional, haverá compensação ou pagamento das horas excedentes, nos termos de ACT/CCT.
+
+## 37. Revisão de fechamento — jornada de trabalho
+
+### Quadro de memorização
+
+| Tema | Regra-chave |
+|---|---|
+| Limite geral na transição | 42h/semana a partir de 16/12/2026; 40h a partir de 16/12/2027 |
+| Repouso semanal | Dois períodos de 24h a partir de 16/12/2026 |
+| Hora extra | Mínimo de 50%; regra geral até 2 horas extras diárias |
+| Banco de horas | Mesmo mês: tácito ou escrito; 6 meses: individual escrito; 1 ano: ACT/CCT |
+| Intervalo intrajornada | 15 min para jornada >4h até 6h; 1h para >6h; negociação pode reduzir a 30 min |
+| Intervalo interjornada | 11h consecutivas |
+| 12x36 | 12h de trabalho + 36h de descanso; apurar média mensal na nova disciplina |
+| Controle de ponto | Obrigatório nos estabelecimentos da empresa com mais de 20 empregados, conforme interpretação jurisprudencial registrada no item 27 |
+| Turnos ininterruptos | 6h, salvo negociação coletiva |
+| Sobreaviso | 1/3 do salário-hora; exige plantão ou equivalente e restrição concreta |
+| Prontidão | 2/3 do salário-hora; permanência nas dependências do empregador |
+| Bancário comum | 6h/dia e 30h/semana |
+| Bancário do art. 224, § 2º | 8h/dia, com fidúcia especial e gratificação mínima de 1/3 |
+| Telemarketing exclusivo/preponderante | 6h/dia, conforme Tema 176 do TST |
+| Divisor geral na transição | 210 para 42h; 200 para 40h, preservado divisor inferior mais favorável |
+
+### Checklist final de domínio
+
+- [ ] Diferenciar jornada, horário, tempo à disposição e tempo de deslocamento.
+- [ ] Resolver minutos residuais e identificar eventual norma coletiva.
+- [ ] Distinguir compensação mensal, banco semestral e anual.
+- [ ] Calcular supressão de intervalo intrajornada e separar indenização de horas extras.
+- [ ] Distinguir intervalo interjornada de repouso semanal.
+- [ ] Aplicar a Lei 605/1949, Súmulas 146 e OJ 410, com a transição da EC 141.
+- [ ] Conhecer controle de ponto, Súmula 338 e ponto por exceção.
+- [ ] Identificar as exceções do art. 62 e a regra específica da EC 141/2026.
+- [ ] Caracterizar turnos ininterruptos e aplicar OJ 360/Tema 1046.
+- [ ] Distinguir sobreaviso de simples uso de celular e prontidão.
+- [ ] Resolver jornada bancária, telemarketing e categorias profissionais especiais.
+- [ ] Aplicar as datas de 16/12/2026 e 16/12/2027 sem misturar regra atual e histórica.
+
+### Questões oficiais localizadas no banco do projeto
+
+A consulta ao banco Supabase por termos de regimes especiais (bancário, teleatendimento, telefonista, 12x36, tempo parcial, compensação e banco de horas) não retornou registros adicionais. Isso não significa inexistência de questões FCC sobre o assunto em provas externas; significa apenas que não foram localizadas na consulta feita ao banco atual.
+
+Continuam registradas no banco, e já comentadas neste material, as questões oficiais de turnos ininterruptos:
+- FCC TRT-11/AM 2017 — Q455458;
+- FCC TRT-12/SC 2023 — Q2820026;
+- FCC CETESB 2024 — Q2975371.
+
+Não foram inseridas questões autorais no banco de questões oficiais.
+
+### Fontes oficiais complementares
+
+- CLT compilada — arts. 224 a 228, 227, 318 a 321: https://www.planalto.gov.br/ccivil_03/decreto-lei/del5452compilado.htm
+- TST — Tema 176 (teleatendimento/telemarketing): https://www.tst.jus.br/documents/d/guest/irr176
+- TST — Tema 225 (médicos e engenheiros; Súmula 370): https://www.tst.jus.br/documents/10157/31961062/Precedentes%2BTrabalhistas%2B-%2B%C3%8Dndice%2BTem%C3%A1tico%2B-%2BSTF-TST.pdf
+- Decreto 13.173/2026: https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/decreto/d13173.htm
+- Portaria MTE 2.041/2026 — publicação e síntese oficial: https://www.gov.br/secom/pt-br/acompanhe-a-secom/noticias/2026/11/governo-federal-publica-portaria-com-regras-complementares-para-aplicacao-da-escala-5x2
