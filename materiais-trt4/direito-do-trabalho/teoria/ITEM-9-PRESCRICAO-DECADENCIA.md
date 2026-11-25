@@ -103,3 +103,73 @@ CF, art. 7º, XXIX:
 ## Observação de atualização
 
 A apostila reúne enunciados e precedentes que podem ter sofrido alterações posteriores. Antes da prova, conferir a redação atual das Súmulas e OJs citadas, especialmente as alterações/cancelamentos recentes do TST. Para a regra constitucional, prevalece o art. 7º, XXIX, da CF e o art. 11 da CLT em sua redação vigente.
+
+
+## 9. Prescrição intercorrente na execução — aprofundamento
+
+CLT, art. 11-A:
+- prazo de **dois anos**;
+- o termo inicial é o descumprimento, pelo exequente, de determinação judicial no curso da execução;
+- pode ser declarada a requerimento ou de ofício, em qualquer grau de jurisdição.
+
+A IN 41/2018 do TST, art. 2º, orienta que o fluxo da prescrição intercorrente previsto no art. 11-A se aplica aos processos iniciados após 11/11/2017. O juiz deve indicar expressamente a determinação judicial a ser cumprida e o prazo para cumprimento.
+
+**Atenção FCC:** a mera ausência de bens penhoráveis ou a demora imputável ao Judiciário não se confundem, por si sós, com a inércia qualificada do exequente exigida pelo art. 11-A.
+
+## 10. Afastamento previdenciário e prescrição
+
+A suspensão do contrato por auxílio-doença ou aposentadoria por incapacidade não suspende automaticamente a prescrição trabalhista.
+
+- OJ 375 da SDI-1: a suspensão do contrato em razão de auxílio-doença ou aposentadoria por invalidez não impede a fluência da prescrição quinquenal, salvo absoluta impossibilidade de acesso ao Judiciário.
+- A exceção depende de situação concreta que efetivamente impeça o acesso à Justiça; não basta a existência do benefício previdenciário.
+
+## 11. Ação ajuizada por sindicato e interrupção
+
+OJ 359 da SDI-1: a ação ajuizada por sindicato, na qualidade de substituto processual, interrompe a prescrição, ainda que posteriormente seja considerado parte ilegítima, quanto aos pedidos idênticos.
+
+Súmula 268 do TST: reclamação trabalhista arquivada interrompe a prescrição somente em relação aos pedidos idênticos.
+
+**Não confundir:** a interrupção da prescrição não significa que qualquer pedido novo, acrescentado em ação posterior, esteja automaticamente protegido pela ação anterior.
+
+## 12. Ações declaratórias e anotações previdenciárias
+
+CLT, art. 11, § 1º: a regra prescricional do caput não se aplica às ações que tenham por objeto anotações para fins de prova junto à Previdência Social.
+
+O pedido declaratório puro pode receber tratamento distinto do pedido condenatório de pagamento de parcelas. A análise deve considerar o objeto concreto da ação e os efeitos financeiros pretendidos.
+
+## 13. Questões FCC do banco — orientação de resolução
+
+Os registros abaixo já constam no Supabase. Não foram duplicados nem alterados neste bloco:
+
+| ID | Prova / ano | Ponto de cobrança | Gabarito cadastrado |
+|---|---|---|---|
+| 3549969 | FCC SEFAZ-PI 2025 | Trabalhadora rural ajuíza ação um ano após extinção; aplicação dos prazos constitucionalmente previstos | D |
+| 3555218 | FCC MPE-PI 2025 | Prescrição e direitos relativos à insalubridade | C |
+| 3690903 | FCC UNICAMP 2025 | Ação ajuizada sete anos após dispensa; limite bienal | E |
+| 2340537 | FCC 2023 | Trabalhadora rural e cobrança de horas extras | A |
+| 2849469 | FCC TRT-21 2023 | Direitos constitucionais do trabalhador rural e prescrição | B |
+| 2238115 | FCC TRT-14 2022 | Aviso-prévio proporcional e prazo prescricional | A |
+| 315010 | FCC TRE-AP 2015 | Verbas rescisórias não pagas e ajuizamento tardio | A |
+
+**Roteiro para resolver:** primeiro verificar se a ação foi ajuizada até dois anos após a extinção contratual; somente depois examinar quais parcelas estão dentro do quinquênio anterior ao ajuizamento. Se o enunciado envolver trabalhador rural, aplicar a mesma regra constitucional de cinco anos e limite de dois anos.
+
+## 14. Pegadinhas adicionais e revisão
+
+1. O prazo de cinco anos não é contado do término do contrato; conta-se retroativamente do ajuizamento.
+2. O prazo de dois anos não se conta da data da dispensa comunicada, se houver projeção de aviso-prévio.
+3. A suspensão do contrato não paralisa automaticamente a prescrição.
+4. Ação anterior interrompe a prescrição apenas para pedidos idênticos.
+5. A prescrição intercorrente depende de descumprimento de determinação judicial na execução.
+6. Para FGTS, não repetir a regra trintenária como regra geral atual; aplicar o Tema 608 do STF e a modulação histórica.
+7. O direito a anotações para prova previdenciária tem exceção legal específica no art. 11, § 1º, da CLT.
+8. Para menor de 18 anos, art. 440 da CLT: não corre prescrição.
+9. A decadência de 30 dias do inquérito judicial não é a prescrição bienal ou quinquenal.
+10. A prescrição total/parcial depende da fonte do direito e do tipo de lesão; não basta afirmar que houve um ato único.
+
+## 15. Fontes oficiais para conferência
+
+- CLT compilada — arts. 11, 11-A, 440, 487 e 853: https://www.planalto.gov.br/ccivil_03/decreto-lei/del5452compilado.htm
+- Lei 13.467/2017 — alterações dos arts. 11 e 11-A: https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13467.htm
+- STF, Tema 608 — ARE 709.212: https://portal.stf.jus.br/jurisprudenciaRepercussao/verAndamentoProcesso.asp?classeProcesso=RE&incidente=4294417&numeroProcesso=709212&numeroTema=608
+- TST — Instrução Normativa 41/2018: https://www.tst.jus.br/documents/10157/2374827/IN+41
+- TST — Súmulas e OJs: conferir redação consolidada vigente antes da prova.
