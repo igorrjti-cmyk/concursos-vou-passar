@@ -731,3 +731,104 @@ E) os intervalos são de 15 minutos cada e terminam quando a criança completa t
 - CLT, arts. 389, §§ 1º e 2º, 396 e 400: https://www.planalto.gov.br/ccivil_03/decreto-lei/del5452compilado.htm
 - Lei 14.457/2022, arts. 1º a 5º e art. 21: https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/lei/l14457.htm
 - Senado Federal — texto da Lei 14.457/2022: https://legis.senado.leg.br/norma/36360116/publicacao/36361273
+
+## 27. Lei 14.457/2022 — flexibilização da jornada e apoio à parentalidade
+
+O Programa Emprega + Mulheres também instituiu medidas de apoio à parentalidade que alcançam **empregadas e empregados**. A ideia é conciliar trabalho e cuidado familiar, sem transformar essas medidas em concessão automática e incondicionada.
+
+### A) Prioridade no teletrabalho — art. 7º
+
+Na alocação de vagas em atividades que possam ser realizadas por teletrabalho, trabalho remoto ou a distância, o empregador deve conferir prioridade:
+
+- a empregados e empregadas com filho, enteado ou criança sob guarda judicial com até **6 anos**;
+- a empregados e empregadas com filho, enteado ou pessoa sob guarda judicial com deficiência, **sem limite de idade**.
+
+A prioridade não significa direito absoluto a qualquer vaga: pressupõe atividade compatível com o regime remoto.
+
+### B) Flexibilização da jornada — art. 8º
+
+No âmbito dos poderes diretivo e gerencial do empregador, considerada a vontade expressa do trabalhador, há priorização para uma ou mais medidas aos empregados e empregadas que tenham filho, enteado ou pessoa sob guarda com até seis anos ou com deficiência:
+
+1. regime de tempo parcial;
+2. banco de horas;
+3. jornada 12x36, quando a atividade permitir;
+4. antecipação de férias individuais;
+5. horários de entrada e saída flexíveis.
+
+**Limitação temporal importante:** as medidas de tempo parcial e antecipação de férias dos incisos I e IV somente podem ser adotadas até o segundo ano do nascimento, adoção ou guarda judicial. O § 3º estende essa limitação temporal também à hipótese de filho ou pessoa sob guarda com deficiência.
+
+As medidas devem ser formalizadas por acordo individual, acordo coletivo ou convenção coletiva. Para acordo individual, observar o art. 21: só é possível quando não houver instrumento coletivo aplicável ou quando o ajuste individual for mais vantajoso.
+
+### C) Banco de horas na rescisão — art. 9º
+
+- Banco positivo para o empregado: horas não compensadas são pagas junto com as verbas rescisórias.
+- Banco negativo em favor do empregador: a lei prevê desconto das horas nas verbas rescisórias quando a demissão for a pedido e o empregado não tiver interesse ou não puder compensar durante o aviso-prévio.
+
+Não confundir essa disciplina específica com autorização genérica para qualquer desconto rescisório.
+
+### D) Antecipação de férias — arts. 10 a 13
+
+- Pode ser concedida mesmo antes de completado o período aquisitivo, desde que a pessoa se enquadre no art. 8º, § 1º.
+- Não pode ser usufruída em período inferior a cinco dias corridos.
+- O empregador pode pagar o terço constitucional até a data em que é devida a gratificação natalina.
+- A remuneração das férias antecipadas pode ser paga até o quinto dia útil do mês seguinte ao início do gozo.
+- Na rescisão, férias antecipadas e ainda não usufruídas são pagas com as verbas rescisórias; se o período aquisitivo não se completou e houve pedido de demissão, a lei prevê desconto das férias antecipadas usufruídas.
+
+### E) Suspensão do contrato do pai empregado — art. 17
+
+Após o término da licença-maternidade da esposa ou companheira, o pai empregado pode requerer formalmente a suspensão do contrato para:
+
+- prestar cuidados e estabelecer vínculos com os filhos;
+- acompanhar o desenvolvimento dos filhos;
+- apoiar o retorno ao trabalho da esposa ou companheira.
+
+A suspensão:
+- é voltada à participação em curso ou programa de qualificação oferecido pelo empregador;
+- exige acordo individual, coletivo ou convenção coletiva, observadas as regras do art. 21;
+- ocorre após o término da licença-maternidade da esposa ou companheira;
+- tem curso não presencial, preferencialmente assíncrono, com carga máxima de 20 horas semanais;
+- assegura bolsa de qualificação profissional; o empregador pode pagar ajuda compensatória mensal sem natureza salarial;
+- se houver dispensa durante a suspensão ou nos seis meses seguintes ao retorno, incide multa prevista em norma coletiva de, no mínimo, 100% da última remuneração mensal anterior à suspensão.
+
+**Pegadinha:** não é licença-paternidade automática nem afastamento remunerado comum. É suspensão contratual vinculada a curso/programa de qualificação e aos requisitos legais.
+
+### Questão autoral de fixação
+
+**20.** Empregado de empresa privada tem filho de cinco anos e deseja horário flexível para conciliar trabalho e cuidados parentais. A empresa alega que a Lei 14.457/2022 protege apenas mulheres e que a flexibilização é obrigatória, independentemente da atividade e da vontade do empregado. Assinale a alternativa correta:
+
+A) a lei protege exclusivamente empregadas mulheres.  
+B) a lei contempla empregados e empregadas, considera a vontade expressa do trabalhador e prevê priorização das medidas do art. 8º no âmbito dos poderes diretivo e gerencial do empregador.  
+C) a lei assegura automaticamente teletrabalho integral a qualquer pai ou mãe com filho menor de 12 anos.  
+D) a lei proíbe banco de horas para empregados com filhos.  
+E) a lei permite antecipação de férias sem limite mínimo de dias e sem formalização.
+
+**Gabarito: B.** A Lei 14.457/2022 adota conceito amplo de parentalidade e inclui homens e mulheres. A prioridade depende dos critérios legais, da compatibilidade e da vontade expressa do empregado; não equivale a um direito automático e irrestrito a qualquer modalidade.
+
+## 28. Prevenção e combate ao assédio e à violência — Lei 14.457/2022, art. 23
+
+As empresas que possuem Comissão Interna de Prevenção de Acidentes e de Assédio (CIPA) devem adotar medidas de prevenção e combate ao assédio sexual e a outras formas de violência no trabalho, além de outras que entenderem necessárias:
+
+1. Incluir regras de conduta sobre assédio sexual e outras formas de violência nas normas internas, com ampla divulgação.
+2. Fixar procedimentos para recebimento e acompanhamento de denúncias, apuração dos fatos e, quando cabível, aplicação de sanções administrativas aos responsáveis diretos e indiretos, **garantido o anonimato da pessoa denunciante**.
+3. Incluir temas de prevenção e combate ao assédio e à violência nas atividades e práticas da CIPA.
+4. Realizar, no mínimo a cada **12 meses**, ações de capacitação, orientação e sensibilização de empregados de todos os níveis hierárquicos sobre violência, assédio, igualdade e diversidade, em formatos acessíveis e efetivos.
+
+**Atenção:** o canal interno e a apuração corporativa não substituem eventual procedimento penal. A lei deixa expressa essa ressalva quando a conduta puder configurar o crime de assédio sexual do art. 216-A do Código Penal ou outro crime.
+
+**Pegadinhas FCC:**
+- Periodicidade mínima: anual (a cada 12 meses), não semestral.
+- O anonimato da pessoa denunciante deve ser garantido no procedimento interno.
+- A regra se dirige às empresas que possuem CIPA.
+- As medidas não substituem procedimentos criminais cabíveis.
+
+**Questão autoral 21.** Empresa que possui CIPA atualiza suas normas internas, mas decide fazer treinamento sobre assédio apenas a cada dois anos e não prevê anonimato para quem denuncia. À luz do art. 23 da Lei 14.457/2022:
+
+A) cumpre a lei, pois a capacitação pode ocorrer a cada dois anos.  
+B) cumpre a lei se o canal de denúncias for exclusivo para mulheres.  
+C) descumpre a lei, pois deve garantir anonimato da pessoa denunciante e realizar ações de capacitação, orientação e sensibilização ao menos a cada 12 meses.  
+D) a lei exige apenas treinamento dos membros da CIPA, não de todos os níveis hierárquicos.  
+E) a lei dispensa regras internas se houver canal externo de denúncia.
+
+**Gabarito: C.** O art. 23 exige regras internas amplamente divulgadas, procedimento de denúncia com garantia de anonimato, inclusão do tema nas práticas da CIPA e ações periódicas, no mínimo a cada 12 meses, para empregados de todos os níveis hierárquicos.
+
+**Fonte oficial:** Lei 14.457/2022, arts. 7º a 23: https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/lei/l14457.htm
