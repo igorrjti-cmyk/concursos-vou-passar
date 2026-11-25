@@ -119,9 +119,9 @@ Lei 14.457/2022, art. 23, para empresas com CIPA:
 ## 11. Jornada do menor e horas extras
 
 - CLT, art. 411: duração do trabalho do menor segue, em regra, as normas gerais de duração, com proteções especiais.
-- CLT, art. 413: é vedado prorrogar a duração normal diária, salvo:
-  1. até mais duas horas, independentemente de acréscimo salarial, mediante acordo ou convenção coletiva, desde que o excesso de um dia seja compensado pela diminuição em outro, respeitado o limite semanal; ou
-  2. excepcionalmente, por motivo de força maior, até o máximo de 12 horas, com adicional de pelo menos 50%, desde que o trabalho do menor seja imprescindível ao funcionamento do estabelecimento.
+- CLT, art. 413: contém exceções históricas à vedação de prorrogação do trabalho do menor (compensação coletiva e força maior). **A literalidade antiga do dispositivo menciona limites semanais de 48 horas e adicional de 25%, que não podem ser reproduzidos como parâmetros constitucionais atuais.**
+- Após a EC 141/2026, a referência constitucional geral é de 8 horas diárias e 40 semanais, com adicional de serviço extraordinário de pelo menos 50%; a proteção do menor deve ser interpretada em conformidade com esses limites e com a vedação de trabalho prejudicial à escola e ao desenvolvimento.
+- Para prova, não assinalar como vigente a antiga permissão genérica de 12 horas ou adicional de apenas 25%. Em questão histórica, identificar expressamente a redação e o regime jurídico da época.
 - O menor não pode trabalhar em horário ou local que prejudique a frequência à escola.
 - Entre jornadas, deve ser observado o repouso mínimo legal, além das proteções específicas.
 
@@ -131,10 +131,9 @@ Lei 14.457/2022, art. 23, para empresas com CIPA:
 - Aprendiz: maior de 14 e menor de 24 anos; não há limite máximo de idade para pessoa com deficiência.
 - Regra geral: duração máxima de dois anos, exceto quando se tratar de aprendiz com deficiência.
 - Exige anotação na CTPS, matrícula e frequência escolar se não concluiu o ensino médio, e inscrição em programa de aprendizagem desenvolvido por entidade qualificada.
-- Jornada:
-  - até seis horas diárias para quem não concluiu o ensino fundamental;
-  - até oito horas para quem concluiu o ensino fundamental, se computadas as horas destinadas à aprendizagem teórica;
-  - não é permitida prorrogação nem compensação da jornada do aprendiz.
+- **Jornada atual: máximo de seis horas diárias** (art. 432, caput), vedadas prorrogação e compensação. A antiga previsão de até oito horas para quem concluiu o ensino fundamental foi revogada; não deve ser usada como regra vigente.
+- O tempo destinado à aprendizagem teórica integra a jornada do aprendiz.
+- Não confundir a jornada especial do aprendiz com a jornada geral de oito horas dos empregados adultos.
 - Extinção antecipada: hipóteses legais incluem desempenho insuficiente ou inadaptação, falta disciplinar grave, ausência injustificada à escola que implique perda do ano letivo e pedido do aprendiz.
 - Atingir 24 anos extingue o contrato, salvo aprendiz com deficiência, observadas as regras legais.
 - Cota: estabelecimentos devem empregar e matricular aprendizes em percentual mínimo de 5% e máximo de 15% dos trabalhadores cujas funções demandem formação profissional, com exclusões legais.
@@ -186,12 +185,12 @@ C) em atividade insalubre, se houver EPI.
 D) em trabalho noturno, se houver autorização dos pais.  
 E) em atividade perigosa, se houver autorização judicial.
 
-**6.** O aprendiz pode ter jornada de oito horas diárias:
-A) em qualquer caso, desde que receba horas extras.  
-B) se já concluiu o ensino fundamental e computadas as horas de aprendizagem teórica.  
-C) apenas após os 18 anos.  
-D) mediante autorização sindical, ainda que não concluiu o ensino fundamental.  
-E) nunca, pois o limite é sempre seis horas.
+**6.** De acordo com a redação vigente do art. 432 da CLT, a jornada diária do aprendiz:
+A) pode chegar a oito horas se concluído o ensino fundamental.  
+B) é limitada a seis horas, vedadas prorrogação e compensação.  
+C) pode ser prorrogada por até duas horas mediante acordo individual.  
+D) é de oito horas para maiores de 18 anos.  
+E) pode ser compensada por acordo coletivo.
 
 **7.** Contra trabalhador de 17 anos:
 A) corre prescrição quinquenal normalmente.  
@@ -214,7 +213,7 @@ E) substituir o procedimento penal por investigação interna.
 3. **B** — CLT, art. 394-A, conforme STF, ADI 5938.  
 4. **B** — CLT, art. 396.  
 5. **B** — CF, art. 7º, XXXIII, e CLT, art. 403.  
-6. **B** — CLT, art. 432.  
+6. **B** — CLT, art. 432; a antiga exceção de oito horas foi revogada.  
 7. **C** — CLT, art. 440.  
 8. **B** — Lei 14.457/2022, art. 23.
 
@@ -379,4 +378,65 @@ D) licença-paternidade de 10 dias, por aplicação analógica.
 E) repouso remunerado de 30 dias, sem direito à função anterior.
 
 **Gabarito: B.** O art. 395 da CLT assegura, no aborto não criminoso comprovado por atestado médico oficial, repouso remunerado de duas semanas e retorno à função. Não confundir com a licença-maternidade ordinária de 120 dias e a estabilidade até cinco meses após o parto.
+
+
+### Complemento de alta incidência — aprendizagem e trabalho do adolescente
+
+**Aprendizagem: requisitos e efeitos**
+- O contrato deve ser escrito, especial e por prazo determinado; não basta chamar o empregado de “aprendiz” informalmente.
+- Salário mínimo-hora, salvo condição mais favorável (art. 428, § 2º).
+- Prazo máximo de dois anos, exceto para aprendiz com deficiência (art. 428, § 3º).
+- Idade máxima de 24 anos não se aplica à pessoa com deficiência (art. 428, § 5º).
+- O aprendiz com deficiência não pode ter o contrato encerrado por desempenho insuficiente ou inadaptação quando a deficiência não foi suprida por acessibilidade, tecnologia assistiva e apoio necessários.
+- O contrato pode ser encerrado antecipadamente por: desempenho insuficiente/inadaptação (com a ressalva legal da pessoa com deficiência), falta disciplinar grave, ausência injustificada à escola que implique perda do ano letivo ou pedido do aprendiz (art. 433).
+- Nas hipóteses legais de extinção antecipada do art. 433, não se aplicam as indenizações dos arts. 479 e 480 da CLT (§ 2º).
+- Cota legal: em regra, cada estabelecimento deve contratar aprendizes em número equivalente a pelo menos 5% e no máximo 15% dos trabalhadores existentes em cada estabelecimento cujas funções demandem formação profissional (art. 429), observadas as exclusões e regras regulamentares.
+- A aprendizagem não autoriza trabalho noturno, perigoso ou insalubre para menor de 18 anos.
+
+**Trabalho do menor — outras proteções**
+- Art. 412: intervalo interjornada mínimo de 11 horas.
+- Art. 414: se o menor trabalhar em mais de um estabelecimento, as horas prestadas em cada um devem ser totalizadas.
+- Art. 427: o empregador deve conceder o tempo necessário à frequência às aulas.
+- Art. 407: constatado trabalho prejudicial à saúde, ao desenvolvimento físico ou à moralidade, a autoridade competente pode determinar o abandono do serviço; a empresa deve facilitar a mudança de função.
+- Art. 408: o responsável legal pode pleitear a extinção do contrato quando o serviço puder acarretar prejuízo físico ou moral ao menor.
+- Art. 439: o menor pode assinar recibo de salário; na rescisão, não pode dar quitação ao empregador sem assistência dos responsáveis legais.
+
+**Intervalos para amamentação — leitura prática**
+- São dois descansos especiais de 30 minutos cada durante a jornada, e não um intervalo único de uma hora imposto em horário fixo.
+- A lei determina que os horários sejam definidos por acordo individual entre empregada e empregador.
+- O direito legal ordinário vai até os seis meses da criança; pode ser ampliado por exigência de saúde da criança, a critério da autoridade competente.
+- O art. 396 inclui expressamente filho advindo de adoção.
+- Não confundir os descansos do art. 396 com o intervalo intrajornada geral do art. 71: são direitos com fundamentos e finalidades diferentes.
+
+## 21. Questões autorais — aprendizagem e trabalho do adolescente
+
+**12.** Uma empresa contrata aprendiz de 17 anos, regularmente matriculado em programa de aprendizagem. Sobre sua jornada, assinale a alternativa correta:
+
+A) Pode ser de oito horas se o adolescente concluiu o ensino fundamental.  
+B) É limitada a seis horas diárias, vedadas prorrogação e compensação.  
+C) Pode ser prorrogada em duas horas por acordo individual.  
+D) Pode ser de 12 horas em caso de força maior, sem adicional.  
+E) É igual à jornada dos demais empregados.
+
+**Gabarito: B.** O art. 432 da CLT estabelece limite de seis horas diárias e veda prorrogação e compensação. A antiga exceção de oito horas foi revogada.
+
+**13.** O contrato de aprendizagem pode ser extinto antecipadamente, nos termos do art. 433 da CLT, por:
+
+A) simples vontade unilateral do empregador, sem justificativa.  
+B) desempenho insuficiente ou inadaptação, falta disciplinar grave, ausência injustificada à escola que implique perda do ano letivo ou pedido do aprendiz, observadas as ressalvas legais.  
+C) qualquer falta escolar, ainda que justificada e sem perda do ano letivo.  
+D) gravidez da aprendiz.  
+E) afastamento médico de qualquer duração.
+
+**Gabarito: B.** O rol legal prevê essas hipóteses e protege especificamente o aprendiz com deficiência quando a inadaptação decorre da ausência de acessibilidade, tecnologia assistiva ou apoio necessário.
+
+**14.** Uma empregada retorna da licença-maternidade e passa a amamentar filho adotivo com quatro meses de idade. De acordo com o art. 396 da CLT, ela tem direito:
+
+A) a dois descansos especiais de meia hora cada, durante a jornada.  
+B) a uma hora extra remunerada por dia.  
+C) a dois intervalos de uma hora cada, obrigatoriamente no início e no fim da jornada.  
+D) ao direito somente se a adoção tiver sido individual.  
+E) a redução definitiva da jornada.
+
+**Gabarito: A.** O art. 396 inclui expressamente o filho advindo de adoção e prevê dois descansos de meia hora, com horários definidos por acordo individual.
 
