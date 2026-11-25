@@ -36,7 +36,10 @@ Material autoral de estudo para TRT-4 — Técnico Judiciário, Área Administra
 - CLT, art. 392: licença de 120 dias, sem prejuízo do emprego e do salário.
 - A licença pode começar entre o 28º dia antes do parto e a ocorrência deste, mediante atestado médico.
 - Em caso de parto antecipado, a licença é de 120 dias.
-- Adoção ou guarda judicial para fins de adoção também assegura licença-maternidade de 120 dias, observada a legislação.
+- **Atenção à alteração com vigência em 1º/1/2027 (Lei 15.371/2026):** o art. 392-A passa a prever licença-maternidade **ou** licença-paternidade para a empregada ou o empregado que adotar ou obtiver guarda judicial para fins de adoção. Portanto, não se deve afirmar que toda adoção gera automaticamente licença-maternidade de 120 dias.
+- Na adoção/guarda conjunta, serão concedidas uma licença-maternidade e uma licença-paternidade aos adotantes/guardiões empregados, sem que o mesmo tipo de licença seja concedido a mais de uma pessoa.
+- Na ausência materna no registro civil ou na adoção/guarda para fins de adoção realizada apenas pelo pai, a licença-paternidade equivale à licença-maternidade, inclusive quanto à duração e à estabilidade.
+- **Regra temporal de prova:** a Lei 15.371/2026 entra em vigor em 1º/1/2027. Para fatos anteriores, não antecipar sua aplicação; observar o regime vigente na data do fato.
 - Programa Empresa Cidadã pode prorrogar a licença por mais 60 dias, se cumpridos os requisitos da Lei 11.770/2008.
 
 ### Estabilidade provisória
@@ -304,6 +307,13 @@ No Programa Empresa Cidadã, a prorrogação da licença-paternidade passa a ser
 - Não confundir essa garantia específica com a estabilidade gestante do ADCT, que tem marco e duração próprios.
 
 ### Adoção, guarda e situações especiais
+**Distinção central do art. 392-A a partir de 1º/1/2027:**
+- A lei deixa de tratar a adoção apenas como hipótese de licença-maternidade da empregada: passa a contemplar expressamente empregada **ou empregado**, com licença-maternidade **ou** licença-paternidade.
+- Adoção/guarda conjunta: um adotante/guardião recebe a licença-maternidade e o outro a licença-paternidade; não se pode conceder o mesmo tipo a mais de um.
+- Adoção/guarda apenas pelo pai, ou ausência materna no registro civil: a licença-paternidade equivale à licença-maternidade, inclusive em duração e estabilidade (CLT, art. 392-D).
+- A regra geral de 120 dias refere-se à licença-maternidade. Não transportar automaticamente esse prazo para toda licença-paternidade; aplicar a regra especial de equivalência quando presente a hipótese do art. 392-D.
+- A Lei 15.371/2026 tem vigência em 1º/1/2027. Em questões com fatos anteriores, usar o regime temporal aplicável.
+
 - A licença-paternidade também é prevista para adoção e guarda judicial para fins de adoção.
 - Em adoção ou guarda conjunta, serão concedidas licença-maternidade e licença-paternidade aos adotantes/guardiões, sem conceder o mesmo tipo de licença a mais de um deles.
 - Na ausência materna no registro civil ou na adoção/guarda apenas pelo pai, a licença-paternidade equivale à licença-maternidade, inclusive em duração e estabilidade.
@@ -339,3 +349,16 @@ D) 20 dias desde 1º de janeiro de 2027, sem condição.
 E) 30 dias a partir de 2028.
 
 **Gabarito: B.** A lei estabelece escalonamento temporal e condiciona a duração de 20 dias em 2029 ao cumprimento da meta fiscal prevista. A lei entra em vigor em 1º/1/2027, não na data de sua publicação.
+
+## 19. Questão autoral — licença na adoção conjunta (Lei 15.371/2026)
+
+**10.** A partir de 1º de janeiro de 2027, dois empregados obtêm conjuntamente guarda judicial para fins de adoção de uma criança. De acordo com a nova redação do art. 392-A da CLT, é correto afirmar que:
+
+A) ambos terão licença-maternidade de 120 dias.  
+B) ambos terão licença-paternidade pelo mesmo prazo.  
+C) será concedida licença-maternidade a um e licença-paternidade ao outro, vedada a concessão do mesmo tipo de licença a mais de um adotante/guardião.  
+D) somente a mulher poderá se afastar, pois a licença-paternidade não alcança adoção.  
+E) a licença dependerá de autorização judicial específica para cada modalidade.
+
+**Gabarito: C.** A Lei 15.371/2026 alterou o art. 392-A para contemplar empregado ou empregada e prevê, na adoção/guarda conjunta, uma licença-maternidade e uma licença-paternidade, sem repetição do mesmo tipo para mais de um adotante/guardião. A lei entra em vigor em 1º/1/2027.
+
