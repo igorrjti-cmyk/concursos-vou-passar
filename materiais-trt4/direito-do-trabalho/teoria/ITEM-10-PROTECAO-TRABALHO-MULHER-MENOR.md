@@ -217,3 +217,63 @@ E) substituir o procedimento penal por investigação interna.
 - Lei 14.611/2023 — igualdade salarial: https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/lei/l14611.htm
 - STF — ADI 5938 (afastamento de gestantes e lactantes de atividades insalubres): https://portal.stf.jus.br/processos/detalhe.asp?incidente=5447065
 - TST — Súmula 244 (estabilidade gestante): consultar compilação oficial vigente.
+
+
+## 16. Questões oficiais FCC — proteção ao menor e trabalho noturno
+
+As três questões abaixo já constavam do banco do projeto. Foram conferidos os enunciados, os gabaritos por tipo de caderno e as explicações; as resoluções estruturadas foram atualizadas no Supabase.
+
+### Q3297002 — TRT-6/PE, 2025 — Analista Judiciário, Área Judiciária — questão 31 — gabarito E
+
+**Enunciado em síntese:** trabalhadora rural exerce atividade noturna; o filho de 17 anos quer trabalhar à noite em atividade urbana; outro filho, de 15 anos, pretende ser aprendiz.
+
+**E — correta.**
+- A trabalhadora rural tem direito ao adicional noturno, conforme CF, art. 7º, IX, e Lei 5.889/1973, art. 7º.
+- O filho de 17 anos não pode trabalhar à noite: a proibição constitucional alcança menores de 18 anos.
+- O filho de 15 anos pode ser aprendiz, pois a aprendizagem começa aos 14 anos.
+
+**Por que as demais estão erradas:** A e C permitem trabalho noturno ao adolescente de 17 anos; B e D negam o adicional noturno rural. A e B também negam indevidamente a possibilidade de aprendizagem aos 15 anos.
+
+**Pegadinha:** ter idade mínima de 16 anos para o trabalho comum não afasta a proibição de trabalho noturno, perigoso ou insalubre antes dos 18.
+
+Fontes: caderno da prova — https://arquivos.qconcursos.com/prova/arquivo_prova/128054/fcc-2025-trt-6-regiao-pe-analista-judiciario-area-judiciaria-prova.pdf ; gabarito definitivo — https://arquivos.qconcursos.com/prova/arquivo_gabarito/128054/fcc-2025-trt-6-regiao-pe-analista-judiciario-area-judiciaria-gabarito.pdf
+
+### Q2160939 — TRT-23/MT, 2022 — Técnico Judiciário, Área Administrativa — questão 49 — gabarito D
+
+**Comando:** identificar o trabalho proibido a quem tem mais de 16 e menos de 18 anos.
+
+**D — correta:** trabalho noturno, perigoso ou insalubre.
+
+- A alternativa A omite o trabalho noturno.
+- B proíbe qualquer trabalho, embora o trabalho comum seja permitido a partir dos 16 anos.
+- C confunde a exceção de aprendizagem a partir dos 14 anos com autorização irrestrita.
+- E omite as atividades perigosas e insalubres.
+
+**Pegadinha:** a aprendizagem não afasta as vedações constitucionais aplicáveis a menores de 18 anos.
+
+Fonte de gabarito, caderno T17, tipo 1, questão 49: https://eticaconcursos.com.br/provas/arquivos/gabarito/fcc-2022-trt-23-regiao-mt-tecnico-judiciario-area-administrativa-gabarito.pdf
+
+### Q2239638 — TRT-14/RO-AC, 2022 — Técnico Judiciário, Área Administrativa — questão 56 — gabarito B
+
+**Enunciado em síntese:** mulher adulta deseja trabalhar à noite e seu filho, de 17 anos, pretende exercer atividade no mesmo horário.
+
+**B — correta:** apenas a mãe pode exercer trabalho noturno. O filho de 17 anos está abrangido pela proibição constitucional.
+
+- A está errada porque ter mais de 16 anos não autoriza trabalho noturno.
+- C inverte a proteção e cria proibição inexistente para mulher adulta.
+- D afirma incorretamente que o trabalho noturno é proibido para mulheres adultas.
+- E erra ao sugerir que a condição de aprendiz autoriza trabalho noturno antes dos 18 anos.
+
+**Pegadinha:** diferenciar idade mínima geral de trabalho (16 anos) e idade mínima para trabalho noturno (18 anos).
+
+Fontes: prova e enunciado — https://www.qconcursos.com/questoes-de-concursos/provas/fcc-2022-trt-14-regiao-ro-e-ac-tecnico-judiciario-area-administrativa/questoes ; gabarito definitivo, caderno E05, tipo 1, questão 56 — https://arquivos.qconcursos.com/prova/arquivo_gabarito/89979/fcc-2022-trt-14-regiao-ro-e-ac-tecnico-judiciario-area-administrativa-gabarito.pdf
+
+### Registro no banco oficial do projeto
+
+| ID | Prova | Gabarito | Rank |
+|---|---|---:|---:|
+| 3297002 | TRT-6/2025 | E | 7712 |
+| 2160939 | TRT-23/2022 | D | 7744 |
+| 2239638 | TRT-14/2022 | B | 7748 |
+
+Os três registros já existiam; não foram duplicados. As resoluções detalhadas foram atualizadas e a consulta posterior confirmou o conteúdo e os gabaritos.
