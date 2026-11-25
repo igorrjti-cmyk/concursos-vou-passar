@@ -502,3 +502,73 @@ E) a redução definitiva da jornada.
 
 **Gabarito: A.** O art. 396 inclui expressamente o filho advindo de adoção e prevê dois descansos de meia hora, com horários definidos por acordo individual.
 
+## 22. Estabilidade gestante — aprofundamento e questão oficial FCC
+
+### Regra jurídica consolidada
+
+A garantia provisória de emprego da gestante protege a gravidez e a maternidade, e não depende de o empregador ter conhecimento do estado gravídico:
+
+- **Marco inicial:** confirmação da gravidez, desde que a gestação já exista durante a relação de emprego, observada a projeção do aviso-prévio.
+- **Marco final:** cinco meses após o parto (ADCT, art. 10, II, b).
+- **Aviso-prévio trabalhado:** se a gravidez é confirmada durante o aviso, incide o art. 391-A da CLT.
+- **Aviso-prévio indenizado:** a projeção do aviso integra o tempo de serviço para efeitos legais (CLT, art. 487, § 1º); o art. 391-A menciona expressamente a hipótese.
+- **Contrato de experiência:** por ser contrato por prazo determinado, não afasta a estabilidade gestante (TST, Súmula 244, III).
+- **Desconhecimento pelo empregador:** não elimina o direito à estabilidade ou à indenização correspondente (Súmula 244, I).
+- **Reintegração ou indenização:** se a estabilidade ainda estiver em curso, a tutela pode ser a reintegração; se já terminou, são devidos os salários e demais direitos do período estabilitário (Súmula 244, II).
+- **Limite da proteção:** a estabilidade não impede a resolução contratual por falta grave devidamente caracterizada; a questão abaixo expressamente afasta essa hipótese.
+
+**Atenção à distinção:** a estabilidade não é a licença-maternidade. A primeira é garantia de emprego até cinco meses após o parto; a segunda é afastamento de 120 dias, ressalvadas prorrogações e situações especiais.
+
+### Questão autoral de aplicação
+
+**15.** Uma empregada descobre a gravidez durante o contrato de experiência. O empregador encerra o contrato ao final do prazo, alegando que a natureza temporária do ajuste afasta a garantia. À luz da jurisprudência sumulada do TST:
+
+A) a estabilidade não se aplica, pois o contrato de experiência é incompatível com garantia provisória.  
+B) a estabilidade somente existe se o empregador tiver sido comunicado antes da contratação.  
+C) a estabilidade é assegurada, desde a confirmação da gravidez até cinco meses após o parto.  
+D) a estabilidade termina no último dia do contrato de experiência.  
+E) a empregada tem direito apenas à licença-maternidade, sem garantia de emprego.
+
+**Gabarito: C.** A Súmula 244, III, do TST assegura a estabilidade provisória à gestante também nos contratos por prazo determinado. A confirmação da gravidez durante o contrato atrai a garantia prevista no ADCT, art. 10, II, b.
+
+## 23. Questão oficial FCC — estabilidade gestante em aviso-prévio e contrato de experiência
+
+### Q3598827 — TRT-2/SP, 2025 — Técnico Judiciário, Área Administrativa — questão 45 — gabarito A
+
+**Enunciado:** Considere as seguintes situações hipotéticas:
+
+I. Afrodite, empregada da empresa Vênus Ltda., teve seu contrato de trabalho rescindido sem justa causa com aviso-prévio indenizado. Durante o prazo do aviso-prévio indenizado, ela teve a confirmação de sua gravidez.
+
+II. Héstia, empregada da empresa Gaia Ltda., durante seu aviso-prévio trabalhado, teve a confirmação de sua gravidez.
+
+III. Selene, empregada da empresa Nyx Ltda., teve a confirmação de sua gravidez no início de seu contrato de experiência.
+
+De acordo com a CLT e o entendimento sumulado do TST, não caracterizada falta grave, é vedada a rescisão do contrato de trabalho:
+
+A) de Afrodite, Héstia e Selene, desde a confirmação da gravidez até cinco meses após o parto.  
+B) apenas de Selene, desde a confirmação da gravidez até seis meses após o parto.  
+C) de Afrodite, Héstia e Selene, desde a confirmação da gravidez até seis meses após o parto.  
+D) apenas de Afrodite e Héstia, desde a confirmação da gravidez até cinco meses após o parto.  
+E) apenas de Selene, desde a confirmação da gravidez até cinco meses após o parto.
+
+**A — correta.** As três empregadas estão protegidas:
+
+- **Afrodite:** o art. 391-A da CLT inclui a confirmação da gravidez durante o aviso-prévio indenizado. A projeção do aviso também integra o tempo de serviço (art. 487, § 1º).
+- **Héstia:** o art. 391-A também alcança o aviso-prévio trabalhado.
+- **Selene:** a Súmula 244, III, do TST estende a estabilidade aos contratos por prazo determinado, inclusive o contrato de experiência.
+
+**Por que as demais estão erradas:**
+- B e E excluem indevidamente as empregadas em aviso-prévio e/ou reduzem a proteção.
+- C indica seis meses após o parto; o marco constitucional é cinco meses.
+- D exclui indevidamente a empregada em contrato de experiência.
+
+**Fundamentos:** ADCT, art. 10, II, b; CLT, arts. 391-A e 487, § 1º; TST, Súmula 244, itens I, II e III.
+
+**Fontes de conferência:** prova FCC TRT-2/2025, caderno P16, tipo 004, questão 45: https://arquivos.qconcursos.com/prova/arquivo_prova/136985/fcc-2025-trt-2-regiao-sp-tecnico-judiciario-area-administrativa-prova.pdf ; gabarito oficial, tipo 4, questão 45 = A, sem alteração: https://arquivos.qconcursos.com/prova/arquivo_gabarito/136985/fcc-2025-trt-2-regiao-sp-tecnico-judiciario-area-administrativa-gabarito.pdf
+
+### Registro no banco oficial do projeto
+
+| ID | Prova | Questão | Gabarito | Rank |
+|---|---|---:|---:|---:|
+| 3598827 | TRT-2/2025 | 45 | A | 7907 |
+
