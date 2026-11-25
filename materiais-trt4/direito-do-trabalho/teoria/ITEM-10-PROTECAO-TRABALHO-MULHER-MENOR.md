@@ -868,3 +868,30 @@ E) a lei dispensa regras internas se houver canal externo de denúncia.
 - [ ] Em questão de assédio, lembrar anonimato e treinamento no mínimo anual.
 - [ ] Na Lei 15.371/2026, conferir a vigência escalonada da licença-paternidade, sem antecipar a regra para fatos anteriores a 1º/1/2027.
 
+
+
+## 30. Atualização jurisprudencial de 2026 — art. 386 da CLT e negociação coletiva
+
+**Julgado relevante para provas de 2027:** no ROT-0001503-12.2024.5.21.0000, julgado em 13/04/2026 pela Seção Especializada em Dissídios Coletivos do TST, sob relatoria do Ministro Mauricio Godinho Delgado, foi mantida a invalidação de cláusula coletiva que assegurava repouso dominical às trabalhadoras do comércio apenas a cada três semanas, sem observar a escala quinzenal do art. 386 da CLT.
+
+### Tese aplicada no caso
+
+- O art. 386 da CLT foi recepcionado pela Constituição de 1988 e permanece vigente.
+- A regra especial de repouso dominical quinzenal para as trabalhadoras prevalece sobre a regra geral do art. 6º da Lei 10.101/2000, que disciplina o repouso no comércio em geral.
+- No caso julgado, o TST qualificou a proteção como direito de indisponibilidade absoluta, relacionado à proteção constitucional do mercado de trabalho da mulher (CF, art. 7º, XX).
+- A cláusula coletiva que uniformizava a escala em um domingo a cada três semanas foi considerada inválida quanto às trabalhadoras abrangidas pelo art. 386.
+- O Tema 1.046 do STF não salvou a cláusula examinada, diante da natureza indisponível do direito no caso concreto.
+
+### Cuidado com a consequência pecuniária
+
+Não confundir os fundamentos do ROT-0001503-12.2024.5.21.0000 com uma condenação automática em dobro: esse julgamento, em ação anulatória coletiva, examinou a validade da cláusula normativa. O pagamento em dobro dos domingos trabalhados em desacordo com o repouso legal é consequência reconhecida em outros julgados trabalhistas, mas, em questão objetiva, identifique primeiro o pedido, a causa de pedir e o precedente efetivamente citado. A invalidade da cláusula coletiva e a consequência pecuniária são pontos relacionados, mas não são a mesma conclusão processual.
+
+### Como a FCC pode explorar
+
+1. Apresentar convenção coletiva que prevê repouso dominical a cada três semanas para todas as pessoas empregadas no comércio.
+2. Perguntar se a regra geral da Lei 10.101/2000 afasta o art. 386: **não** para as trabalhadoras protegidas pelo dispositivo.
+3. Invocar o Tema 1.046 do STF como autorização irrestrita para negociar a escala: **incorreto** no caso de direito considerado absolutamente indisponível.
+4. Trocar a escala quinzenal por mensal ou por uma folga dominical a cada três semanas: **incorreto**.
+5. Confundir a decisão coletiva de invalidação da cláusula com a condenação individual em dobro: analisar separadamente.
+
+**Fonte de conferência:** TST, ROT-0001503-12.2024.5.21.0000, SDC, Rel. Min. Mauricio Godinho Delgado, julgamento em 13/04/2026; divulgação no Informativo TST nº 311. Síntese institucional publicada pela Escola Judicial do TRT-6 em 15/06/2026: https://portal-ej.trt6.jus.br/noticias/2026/06/15/ejud-6-atualiza-no-114
