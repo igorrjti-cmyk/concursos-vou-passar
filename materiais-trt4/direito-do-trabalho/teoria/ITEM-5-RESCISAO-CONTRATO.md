@@ -1666,3 +1666,33 @@ Fundamentos: CLT, arts. 146, 147, 477, 479, 480 e 481; Lei 4.090/1962, art. 3º;
 
 Fundamento: CLT, arts. 467 e 477, §§6º e 8º. Texto legal consolidado: https://www.planalto.gov.br/ccivil_03/decreto-lei/del5452compilado.htm
 
+
+
+### 40. Multa do art. 477, §8º — precedentes qualificados do TST
+
+A regra legal é o pagamento das verbas rescisórias e a entrega dos documentos que comprovem a comunicação da extinção aos órgãos competentes em até dez dias do término do contrato (art. 477, §6º). A multa do §8º exige leitura conjunta com os precedentes qualificados:
+
+- **IRR 127:** para contratos extintos na vigência da Lei 13.467/2017, é devida a multa do art. 477, §8º, se o empregador não entregar, em até dez dias, os documentos que comprovem a comunicação da extinção contratual aos órgãos competentes, ainda que tenha pago as verbas rescisórias no prazo.
+- **IRR 142:** a base da multa não se limita ao salário-base; alcança as parcelas de natureza salarial.
+- **IRR 164:** pagamento parcial ou a menor, dentro do prazo legal, em razão de diferenças reconhecidas em juízo, por si só não gera a multa.
+- **IRR 168 / Súmula 462:** o reconhecimento judicial do vínculo de emprego não afasta a multa, salvo se o empregado comprovadamente der causa à mora.
+- **IRR 186:** atraso apenas na homologação, se o pagamento foi feito no prazo legal, não gera por si só a multa.
+- **IRR 238:** a multa do art. 477, §8º, é inaplicável quando a extinção do contrato decorre do falecimento do empregado.
+- **IRR 139:** a recuperação judicial, diferentemente da falência, não isenta a empresa das multas dos arts. 467 e 477, §8º.
+
+**Pegadinha:** após a Reforma Trabalhista, não basta perguntar se o dinheiro foi pago no prazo; também é necessário conferir a entrega tempestiva dos documentos exigidos pelo §6º. Diferenciar atraso documental (IRR127) de atraso meramente homologatório (IRR186).
+
+Fonte: TST, Índice Temático de Precedentes Qualificados, verbetes IRR 127, 139, 142, 164, 168, 186 e 238: https://www.tst.jus.br/pt/indice-tematico-precedentes-qualificados-tst
+
+### 41. Morte, força maior e factum principis
+
+**Falecimento do empregado:** extingue o contrato em razão do caráter pessoal da prestação. São devidas aos dependentes habilitados perante a Previdência Social ou sucessores, conforme a Lei 6.858/1980, as parcelas trabalhistas adquiridas e proporcionais cabíveis, como saldo salarial, 13º proporcional e férias vencidas/proporcionais com 1/3. Não há aviso-prévio nem indenização de 40% do FGTS por dispensa imotivada. Atenção especial: o IRR 238 do TST afasta a multa do art. 477, §8º, nessa hipótese.
+
+**Morte do empregador pessoa física/empresa individual:** não extingue automaticamente o vínculo se a atividade empresarial prosseguir com sucessão. Se a morte provocar a cessação da atividade, observar os arts. 483, §2º, e 485 da CLT; o empregado pode, na hipótese do art. 483, §2º, optar por rescindir o contrato. Não confundir o empregador pessoa física que explora atividade econômica com a morte de sócio de sociedade empresária, que não extingue por si só a pessoa jurídica.
+
+**Força maior (arts. 501 e 502):** exige acontecimento inevitável, para o qual o empregador não tenha concorrido direta ou indiretamente; imprevidência patronal exclui a força maior. Se o evento efetivamente determinar a extinção da empresa ou do estabelecimento, a CLT prevê indenização reduzida para o empregado não estável e, no contrato a termo, redução pela metade da indenização do art. 479. Não basta alegar crise econômica, queda de faturamento ou dificuldade financeira.
+
+**Factum principis (art. 486):** paralisação temporária ou definitiva motivada por ato de autoridade pública ou lei/resolução que impossibilite a continuação da atividade. A CLT atribui a indenização ao ente público responsável, mediante o procedimento legal. Não confundir com força maior empresarial comum: é necessário nexo causal direto com ato estatal que impossibilite a atividade; a mera regulamentação, fiscalização ou restrição que não torne inviável a continuidade não basta automaticamente.
+
+Fundamentos: CLT, arts. 483, §2º, 485, 486, 501 e 502; Lei 6.858/1980; TST, IRR 238.
+
