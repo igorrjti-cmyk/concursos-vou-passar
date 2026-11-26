@@ -4,7 +4,7 @@
 
 O edital exige **Súmulas e Orientações da Jurisprudência uniformizada do TST sobre Direito do Trabalho**. Isso não significa estudar indistintamente todo o repertório do Tribunal. A seleção abaixo prioriza verbetes ligados aos itens 1 a 12 do conteúdo programático e alerta para cancelamentos e alterações.
 
-**Atenção à atualização:** em 30/06/2025, a Resolução TST nº 225 cancelou integralmente as Súmulas 90, 114, 152, 219, 228, 268, 277, 294, 307, 311, 320, 329, 366, 375, 377, 423, 426, 429, 437, 439, 444, 449, 450 e 452; cancelou parcialmente a Súmula 6 (itens I, II, VI, alínea “b”, e X) e o item I da Súmula 331, além de OJs e precedente normativo específicos. Portanto, não estudar texto antigo de apostila como se ainda estivesse vigente. A resolução oficial deve ser conferida antes da prova.
+**Atenção à atualização:** em 30/06/2025, a Resolução TST nº 225 cancelou integralmente as Súmulas 90, 114, 152, 219, 228, 268, 277, 294, 307, 311, 320, 329, 366, 375, 377, 423, 426, 429, 437, 439, 444, 449, 450 e 452; cancelou parcialmente a Súmula 6 (itens I, II, VI, alínea “b”, e X), o item I da Súmula 331 e o item I da Súmula 372, além de OJs e precedente normativo específicos. Portanto, não estudar texto antigo de apostila como se ainda estivesse vigente. A resolução oficial deve ser conferida antes da prova.
 
 Fonte oficial: https://juslaboris.tst.jus.br/handle/20.500.12178/251919
 
