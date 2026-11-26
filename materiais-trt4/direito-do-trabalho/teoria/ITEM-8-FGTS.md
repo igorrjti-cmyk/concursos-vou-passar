@@ -344,7 +344,7 @@ A MP 1.331/2025 autorizou, excepcionalmente, a movimentação de saldo de trabal
 3. tiveram o evento entre 01/01/2020 e 23/12/2025; e
 4. possuíam saldo disponível na conta vinculada daquele contrato.
 
-A MP teve vigência de 23/12/2025 a 01/06/2026, com pagamentos em etapas e ajustes pela MP 1.355/2026. **Em 25/11/2026, essa janela extraordinária está encerrada.** Ela não revogou nem alterou permanentemente a regra geral do saque-aniversário. Desligamentos posteriores a 23/12/2025 seguem a sistemática ordinária: optante do saque-aniversário saca a multa rescisória, mas não o saldo integral por motivo de dispensa.
+A MP teve vigência de 23/12/2025 a 01/06/2026, com pagamentos em etapas e ajustes pela MP 1.355/2026. **Em 26/11/2026, essa janela extraordinária está encerrada.** Ela não revogou nem alterou permanentemente a regra geral do saque-aniversário. Desligamentos posteriores a 23/12/2025 seguem a sistemática ordinária: optante do saque-aniversário saca a multa rescisória, mas não o saldo integral por motivo de dispensa.
 
 ## 18. Multa, recolhimento e fiscalização — questões objetivas
 
