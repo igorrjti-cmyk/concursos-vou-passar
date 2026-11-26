@@ -117,3 +117,119 @@ Busca compensar a desigualdade material entre empregado e empregador. Tradiciona
 ## Posição no plano de estudo
 
 Este item aparece abaixo de FGTS e salário/remuneração no ranking de blocos já classificados, mas é matéria-base que se conecta a todo o Direito do Trabalho. Recomenda-se estudar agora e retomar os princípios durante a revisão dos demais itens.
+
+
+## 7. Revisão integrada FCC — princípios, hierarquia e negociação coletiva
+
+### 7.1. Os três corolários da proteção não se confundem
+
+| Corolário | Pergunta que resolve | Exemplo |
+|---|---|---|
+| In dubio pro operario | Há dúvida interpretativa real entre sentidos plausíveis da mesma norma? | Escolher a interpretação mais favorável, sem contrariar texto inequívoco |
+| Norma mais favorável | Há mais de uma norma potencialmente aplicável? | Comparar os instrumentos normativos pertinentes, respeitando Constituição e regras específicas |
+| Condição mais benéfica | Existe vantagem contratual/regulamentar já incorporada? | Impedir retirada unilateral prejudicial de vantagem incorporada |
+
+**Limites importantes:**
+- In dubio pro operario não é regra de julgamento automático em favor do empregado.
+- Não serve para escolher a versão dos fatos nem para inverter o ônus da prova.
+- Norma mais favorável não significa que toda regra mais vantajosa prevalece sobre qualquer norma constitucional, legal ou coletiva.
+- Condição mais benéfica não congela para sempre todo regulamento empresarial: observar a Súmula 51 do TST e o momento de admissão.
+
+### 7.2. Súmula 51 do TST — regulamento empresarial
+
+- **Item I:** cláusulas regulamentares que revoguem ou alterem vantagens anteriormente concedidas só atingem trabalhadores admitidos após a alteração; para os empregados antigos, preservam-se as condições anteriores, observadas as particularidades do caso.
+- **Item II:** havendo coexistência de dois regulamentos, a opção do empregado por um deles implica renúncia às regras do outro, nos termos do enunciado.
+
+A FCC pode trocar as consequências: a alteração regulamentar prejudicial não alcança automaticamente quem já estava contratado; a regra nova, em princípio, dirige-se aos admitidos depois da alteração.
+
+### 7.3. Hierarquia das fontes: não decorar uma pirâmide rígida
+
+A Constituição ocupa posição superior, mas a aplicação trabalhista exige considerar:
+1. normas constitucionais e direitos fundamentais;
+2. legislação e normas estatais aplicáveis;
+3. normas coletivas válidas, respeitado o espaço constitucional de autonomia coletiva;
+4. contrato individual, regulamentos e condições mais benéficas incorporadas, conforme o caso.
+
+A norma mais favorável não funciona como autorização para ignorar a hierarquia constitucional ou a indisponibilidade absoluta. A solução depende do tipo de conflito, da natureza do direito e das regras próprias de negociação coletiva.
+
+**ACT x CCT:** o art. 620 da CLT determina que as condições estabelecidas em acordo coletivo prevalecem sobre as estipuladas em convenção coletiva. Não se trata de aplicar sempre o instrumento com mais vantagens em cada cláusula isolada.
+
+### 7.4. Negociação coletiva após a Reforma Trabalhista e Tema 1046 do STF
+
+O Tema 1046 fixou tese vinculante: são constitucionais ACTs e CCTs que, considerando a adequação setorial negociada, limitem ou afastem direitos trabalhistas, mesmo sem indicação específica de vantagens compensatórias, desde que respeitados os direitos absolutamente indisponíveis.
+
+**Como resolver questão FCC:**
+- regra geral: prestigiar a autonomia coletiva;
+- limite: direitos absolutamente indisponíveis;
+- não é necessário apontar vantagem compensatória específica para cada direito limitado;
+- analisar o art. 611-A (prevalência do negociado em matérias autorizadas) e o art. 611-B (objeto ilícito de supressão/redução);
+- não afirmar que todo direito trabalhista é negociável, nem que nenhum direito pode ser flexibilizado.
+
+**Atualização jurisprudencial relevante (2026):** o Tribunal Pleno do TST, em 8/5/2026, reconheceu a validade da redução do intervalo intrajornada por norma coletiva também para contrato submetido ao regime anterior à Reforma Trabalhista, à luz do Tema 1046. O precedente afasta a ideia de que a negociação coletiva só possa ser examinada sob a regra temporal posterior a 2017. A conclusão deve ser aplicada ao contexto da tese e do caso, sem generalizar para direitos absolutamente indisponíveis.
+
+Fontes oficiais:
+- STF, Tema 1046: https://portal.stf.jus.br/jurisprudenciarepercussao/tema.asp?num=1046
+- TST, precedente do Tribunal Pleno sobre intervalo intrajornada e Tema 1046: https://jurisprudencia-backend.tst.jus.br/rest/documentos/ca4fe539705c7a3afcdf5c52064674fd
+
+### 7.5. Art. 8º da CLT — integração e aplicação do direito
+
+Na falta de disposições legais ou contratuais, a Justiça do Trabalho decide conforme jurisprudência, analogia, equidade e outros princípios e normas gerais de direito, principalmente do direito do trabalho; também considera usos e costumes e direito comparado, sempre observando os limites legais.
+
+O direito comum é fonte subsidiária do Direito do Trabalho, naquilo em que não for incompatível com seus princípios fundamentais.
+
+**Pegadinha:** subsidiariedade não significa aplicação automática de toda regra civil. É necessário verificar compatibilidade com o sistema trabalhista.
+
+### 7.6. Princípios e fontes: classificações que podem aparecer
+
+- **Fonte material:** fator social, econômico ou político que inspira a criação da norma.
+- **Fonte formal:** veículo jurídico que exterioriza a norma.
+- **Autônoma:** participação dos destinatários na produção normativa, como ACT e CCT.
+- **Heterônoma:** norma produzida por terceiro, normalmente o Estado; exemplos: Constituição e lei.
+- **Sentença normativa:** decisão normativa da Justiça do Trabalho em dissídio coletivo, dentro dos limites constitucionais.
+- **Usos e costumes:** podem atuar como fonte e critério de integração, conforme o contexto e a classificação doutrinária.
+- **Jurisprudência:** orienta a interpretação e, nos casos previstos, pode ter força vinculante; não equiparar automaticamente qualquer decisão isolada a lei.
+
+### 7.7. Questões autorais de recuperação
+
+**1.** O princípio in dubio pro operario autoriza o juiz a considerar provada a versão do empregado sempre que houver dúvida sobre os fatos.
+
+**Gabarito: ERRADO.** O princípio se relaciona à interpretação de norma com sentidos plausíveis, não substitui a distribuição do ônus da prova.
+
+**2.** O princípio da norma mais favorável permite afastar qualquer norma estatal quando houver cláusula contratual individual mais vantajosa.
+
+**Gabarito: ERRADO.** A aplicação deve respeitar a Constituição, normas imperativas e as regras específicas de negociação coletiva.
+
+**3.** A alteração de regulamento empresarial que retira vantagem anteriormente concedida alcança automaticamente todos os empregados, inclusive os admitidos antes da alteração.
+
+**Gabarito: ERRADO.** Súmula 51, I, do TST: a alteração prejudicial, em regra, só atinge empregados admitidos após a mudança.
+
+**4.** O Tema 1046 do STF exige que cada limitação negociada esteja acompanhada de vantagem compensatória específica e expressamente discriminada.
+
+**Gabarito: ERRADO.** A tese dispensa explicitação especificada de vantagens compensatórias, preservados os direitos absolutamente indisponíveis.
+
+**5.** O acordo coletivo prevalece sobre a convenção coletiva, conforme art. 620 da CLT.
+
+**Gabarito: CERTO.** É a regra legal expressa.
+
+**6.** O direito comum é aplicado subsidiariamente ao Direito do Trabalho mesmo quando incompatível com os princípios fundamentais trabalhistas.
+
+**Gabarito: ERRADO.** A subsidiariedade depende de compatibilidade.
+
+**7.** A existência de fonte formal pressupõe necessariamente que ela seja produzida pelo Estado.
+
+**Gabarito: ERRADO.** ACT e CCT são fontes formais autônomas.
+
+**8.** A sentença normativa é fonte formal heterônoma, por decorrer do exercício do poder normativo da Justiça do Trabalho.
+
+**Gabarito: CERTO.** É a classificação doutrinária tradicional.
+
+### 7.8. Checklist de revisão final
+
+- Distinguir proteção, norma mais favorável, condição mais benéfica e in dubio pro operario.
+- Não usar in dubio pro operario para ônus da prova.
+- Aplicar a Súmula 51 do TST aos regulamentos empresariais.
+- Diferenciar fontes materiais/formais e autônomas/heterônomas.
+- Saber a prevalência do ACT sobre a CCT (art. 620).
+- Memorizar vigência máxima de 2 anos e vedação à ultratividade automática.
+- Aplicar Tema 1046 do STF e distinguir direitos negociáveis dos absolutamente indisponíveis.
+- Usar o art. 8º da CLT sem aplicação automática e incompatível do direito comum.
