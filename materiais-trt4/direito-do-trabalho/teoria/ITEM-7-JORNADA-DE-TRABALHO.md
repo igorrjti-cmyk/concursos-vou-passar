@@ -291,6 +291,8 @@ Não confundir o pagamento do DSR com o pagamento em dobro por trabalho em domin
 
 A Súmula 146 do TST estabelece que o trabalho prestado em domingos e feriados, quando não compensado, deve ser pago em dobro, sem prejuízo da remuneração relativa ao repouso semanal.
 
+**Horas extras habituais no DSR:** o Tema Repetitivo 256 do TST reafirmou a Súmula 172: as horas extraordinárias habitualmente prestadas integram o cálculo do repouso semanal remunerado. Não confundir com as gorjetas, que, embora integrem a remuneração, não servem de base para o RSR (Tema 234/Súmula 354). Ver também o Item 6, seção 28.24.
+
 **Pegadinha:** a dobra não substitui o repouso semanal remunerado. A súmula expressamente preserva a remuneração do repouso.
 
 Exemplo didático: empregado trabalha em feriado e não recebe folga compensatória. Em regra, é devido o pagamento em dobro pelo trabalho naquele dia, sem prejuízo do repouso semanal remunerado.
