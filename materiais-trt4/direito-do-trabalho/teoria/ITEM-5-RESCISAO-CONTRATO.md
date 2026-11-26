@@ -1514,3 +1514,53 @@ O Tema 44 (IncJulgRREmbRep-0010045-06.2024.5.03.0134) discute se é possível co
 
 Fonte oficial: TST, Índice Temático de Precedentes Trabalhistas, IRR Tema 44.
 
+
+
+## Atualização jurisprudencial — justa causa, abandono e ônus da prova (26/11/2026)
+
+### 29. Improbidade não comprovada e dano moral — IRR Tema 62/TST
+
+No RRAg-0000761-75.2023.5.05.0611, o Tribunal Pleno do TST firmou a seguinte tese repetitiva (Tema 62; julgamento em 24/02/2025; acórdão publicado em 14/03/2025): **a reversão da dispensa por justa causa baseada em alegação de ato de improbidade (CLT, art. 482, “a”) que se revela judicialmente infundada ou não comprovada enseja reparação civil, in re ipsa, por dano moral.**
+
+Consequências para a prova:
+- A tese é específica para imputação de **improbidade** não comprovada ou infundada; não se deve generalizá-la para toda e qualquer reversão de justa causa.
+- O dano moral é presumido nessa hipótese; é necessário demonstrar o fato gerador (imputação de improbidade sem fundamento/prova e reversão), não provar separadamente o abalo psicológico.
+- O empregador deve possuir prova robusta da falta grave antes de imputar desonestidade ao empregado.
+- Não confundir com a regra geral: a reversão de justa causa por motivo diverso não gera automaticamente dano moral em todos os casos.
+
+Fonte oficial: TST, IRR Tema 62, RRAg-0000761-75.2023.5.05.0611: https://www.tst.jus.br/documents/10157/0/IRR062%2B%282%29.pdf/f5f21ad6-4e48-d931-3eb6-d5e81bad3ce0
+
+### 30. Abandono após cessação de benefício previdenciário — IRR Tema 226/Súmula 32
+
+O Tribunal Pleno do TST, no RR-0000193-17.2024.5.09.0125 (Tema 226), publicado em 02/09/2025, reafirmou a Súmula 32:
+
+**Presume-se o abandono de emprego se o trabalhador não retornar ao serviço no prazo de 30 dias após a cessação do benefício previdenciário nem justificar o motivo de não o fazer.** O tema consta como transitado em julgado no índice oficial consultado.
+
+Aplicação correta:
+- A presunção depende dos dois elementos expressos na tese: não retorno após 30 dias da cessação do benefício **e** ausência de justificativa.
+- Não converter a regra em autorização para dispensar automaticamente qualquer empregado ausente por 30 dias, independentemente do contexto.
+- Permanecem relevantes a prova da cessação do benefício, a ciência/convocação para retorno, eventual justificativa médica ou outra justificativa idônea e as circunstâncias concretas.
+- Para abandono fora desse contexto específico, analisar o elemento objetivo (ausência injustificada prolongada) e o subjetivo (intenção de não retornar), sem transformar 30 dias em prazo legal literal do art. 482, “i”.
+
+Fonte oficial: TST, Livro de Súmulas e Precedentes, Súmula 32 / IRR 226.
+
+### 31. Ônus da prova do término do contrato e da falta grave — Súmula 212 / IRR 278
+
+O TST reafirmou a Súmula 212 no IRR 278 (RRAg-0000062-67.2023.5.09.0322; Tribunal Pleno; publicado em 03/09/2025): quando negados a prestação de serviço e o despedimento, cabe ao empregador provar o término do contrato, em razão do princípio da continuidade da relação de emprego.
+
+Na justa causa, a falta grave invocada como fundamento da ruptura também deve ser provada pelo empregador. A consequência prática é que a mera alegação de improbidade, desídia, abandono ou insubordinação não basta: devem existir elementos probatórios consistentes que sustentem a hipótese legal e os requisitos da punição.
+
+**Pegadinha:** a Súmula 212/IRR 278 trata do ônus da prova do término quando negados prestação de serviço e despedimento; a prova da falta grave é encargo do empregador porque é fato impeditivo/extintivo do conjunto de direitos rescisórios do empregado. Não confundir essas formulações nem deslocar automaticamente o ônus ao trabalhador.
+
+Fonte oficial: TST, Livro de Súmulas e Precedentes, Súmula 212 / IRR 278.
+
+### 32. Checklist de aplicação da justa causa
+
+1. Enquadrar o fato em uma das alíneas do art. 482 da CLT, sem analogia ampliativa prejudicial.
+2. Confirmar autoria, materialidade e prova robusta da conduta.
+3. Examinar gravidade concreta, proporcionalidade, nexo com o contrato e imediatidade, ressalvadas situações em que a apuração justifica o intervalo.
+4. Verificar se houve perdão tácito, dupla punição pelo mesmo fato ou tolerância patronal incompatível com a sanção máxima.
+5. Avaliar se a gradação de penalidades é adequada: comum em faltas leves/reiteradas, mas não obrigatória quando um único ato é suficientemente grave.
+6. Em abandono, demonstrar ausência injustificada e intenção de não retornar; aplicar a presunção específica da Súmula 32/Tema 226 apenas nos seus termos.
+7. Se houver imputação de improbidade não comprovada e reversão judicial, considerar o dano moral in re ipsa conforme Tema 62.
+
