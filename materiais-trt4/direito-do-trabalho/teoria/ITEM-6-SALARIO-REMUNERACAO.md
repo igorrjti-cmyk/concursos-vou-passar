@@ -2248,3 +2248,16 @@ A questão deve indicar se o empregado é comissionista puro ou misto e qual par
 - Distinguir gorjetas de comissões.
 - Identificar comissionista puro ou misto antes de calcular horas extras.
 - Aplicar o Tema 234/Súmula 354 sem ampliar ou reduzir a lista de parcelas excluídas.
+
+## 28.24. Horas extras habituais e repouso semanal — Tema 256 do TST
+
+O Tema Repetitivo 256 do TST reafirmou a Súmula 172: **as horas extraordinárias habitualmente prestadas computam-se no cálculo do repouso semanal remunerado**.
+
+### Não confundir com gorjetas — Tema 234
+
+- **Horas extras habituais:** integram a base de cálculo do repouso semanal remunerado (Tema 256/Súmula 172).
+- **Gorjetas:** integram a remuneração, mas não servem de base para o cálculo do repouso semanal remunerado, do aviso-prévio, do adicional noturno e das horas extraordinárias (Tema 234/Súmula 354).
+
+**Pegadinha FCC:** a banca pode inverter os efeitos. A habitualidade das horas extras repercute no repouso semanal; a gorjeta, embora integre a remuneração, não compõe a base do RSR.
+
+**Fonte:** TST — Índice Temático de Precedentes Trabalhistas, IRR Tema 256 (reafirmação da Súmula 172): https://www.tst.jus.br/indice-tematico-precedentes-trabalhistas-stf-tst
