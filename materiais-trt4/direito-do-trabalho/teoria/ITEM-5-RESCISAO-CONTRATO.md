@@ -1473,3 +1473,44 @@ Fonte oficial: https://www.tst.jus.br/documents/d/guest/irr070
 - Não incluir a projeção do aviso indenizado na base da multa de 40% do FGTS (Tema 255).
 - Aplicar o Tema 70 à rescisão indireta por ausência ou irregularidade do FGTS.
 - Separar o prazo do art. 477, a multa do § 8º e o acréscimo do art. 467.
+
+
+## Atualização jurisprudencial — aviso-prévio e multas rescisórias (26/11/2026)
+
+### 26. Aviso-prévio: renúncia e novo emprego — IRR 227/TST
+
+O Tribunal Pleno do TST, no IRR 227 (RR-0000280-61.2024.5.09.0322), publicado em 03/09/2025, reafirmou a Súmula 276:
+
+- O direito ao aviso-prévio é irrenunciável pelo empregado.
+- O pedido de dispensa do cumprimento, por si só, não exonera o empregador do pagamento.
+- **Exceção:** comprovado que o trabalhador obteve novo emprego, não é devido o pagamento do período dispensado, conforme a própria súmula.
+
+**Pegadinha:** não confundir simples pedido de dispensa do cumprimento com prova de novo emprego. A exceção depende da comprovação do novo emprego.
+
+Fonte oficial: TST, Livro de Súmulas e Precedentes, verbete Súmula 276 / IRR 227.
+
+### 27. Rescisão indireta reconhecida em juízo e multa do art. 477, § 8º — Tema 52/TST
+
+O Tribunal Pleno do TST, no IRR Tema 52 (RRAg-0000367-98.2023.5.17.0008), firmou tese vinculante, com acórdão publicado em 14/03/2025 e trânsito em julgado em 05/04/2025:
+
+**Tese:** reconhecida em juízo a rescisão indireta do contrato de trabalho, é devida a multa prevista no art. 477, § 8º, da CLT.
+
+Atenção às distinções:
+- **Art. 477, § 8º / Tema 52:** multa devida quando reconhecida judicialmente a rescisão indireta.
+- **Exceção da Súmula 462:** a multa não é devida quando, comprovadamente, o empregado der causa à mora.
+- **Art. 467:** é diferente. Incide sobre a parte incontroversa das verbas rescisórias não paga na oportunidade legal. Se a modalidade de ruptura está controvertida em juízo e, por isso, as verbas também são controvertidas, a multa do art. 467 não incide automaticamente. A análise depende das premissas concretas do caso.
+
+**Pegadinha FCC:** não concluir que o reconhecimento judicial da rescisão indireta afasta a multa do art. 477 por existir controvérsia sobre a modalidade de ruptura. O Tema 52 resolveu expressamente essa questão em sentido contrário.
+
+Fonte oficial: TST, Índice Temático de Precedentes Trabalhistas, IRR Tema 52; CLT, arts. 467 e 477.
+
+### 28. Pedido de demissão convertido em rescisão indireta — Tema 44/TST: situação processual
+
+O Tema 44 (IncJulgRREmbRep-0010045-06.2024.5.03.0134) discute se é possível converter judicialmente pedido de demissão em rescisão indireta quando há falta grave patronal, mesmo sem vício de consentimento na manifestação do empregado.
+
+**Situação indicada no índice oficial consultado:** determinada a suspensão dos recursos de revista e de embargos em 09/04/2025. Não tratar a questão como tese vinculante definitivamente firmada enquanto o TST não publicar a tese e o estado processual não for atualizado.
+
+**Pegadinha:** não confundir a tese já firmada no Tema 52 (multa do art. 477 quando reconhecida rescisão indireta) com a questão ainda pendente do Tema 44 (conversão do pedido de demissão em rescisão indireta sem vício de vontade).
+
+Fonte oficial: TST, Índice Temático de Precedentes Trabalhistas, IRR Tema 44.
+
