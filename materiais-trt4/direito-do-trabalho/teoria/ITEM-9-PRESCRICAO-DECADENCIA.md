@@ -348,6 +348,8 @@ Permanece indicado para acompanhamento no material consultado; não atribuir tes
 - TST — Tema 169: https://www.tst.jus.br/documents/10157/33660380/irr169-1-pdf
 - TST — Tema 268: https://www.tst.jus.br/documents/10157/guest/irr268-1-pdf
 - STF — Tema 608 (FGTS): https://portal.stf.jus.br/jurisprudenciaRepercussao/tema.asp?num=608
+- TST — Tema 46 (acórdão repetitivo): https://portal.trt3.jus.br/internet/jurisprudencia/incidentes-suscitados-irr-iac-arginc-tst/downloads/irr-tema-46-acordao.pdf
+- TST — Temas 39 e 91 (índice de incidentes repetitivos, com situação e acórdãos): https://www.trt9.jus.br/bancojurisprudencia/api/v1/incidentes/pdf?listaTipo=IRR&tribunal=TST
 
 
 ## 20. Simulado autoral — prescrição e decadência
