@@ -291,3 +291,30 @@ A tomadora deve garantir condições de segurança, higiene e salubridade quando
 - [ ] Aplicar regras de sucessão dos arts. 10, 448 e 448-A.
 - [ ] Reconhecer licitude da terceirização de atividade-meio e atividade-fim, com responsabilidade subsidiária.
 - [ ] Memorizar hipóteses e prazos do trabalho temporário: 180 + 90 dias e intervalo de 90 dias para nova contratação pela mesma tomadora.
+
+## 12. Tema 1.389 do STF — contratação por PJ ou autônomo (atualização em 26/11/2026)
+
+O Tema 1.389 da repercussão geral discute três pontos relacionados à chamada “pejotização”:
+
+1. competência da Justiça do Trabalho para julgar alegação de fraude em contrato civil/comercial de prestação de serviços;
+2. licitude da contratação de pessoa jurídica ou trabalhador autônomo para essa finalidade, à luz da ADPF 324;
+3. distribuição do ônus da prova quando se alega fraude na contratação civil.
+
+**Situação processual no corte desta revisão:** não há tese de mérito definitiva do STF. O andamento oficial registra conclusão ao Relator em 07/10/2026. Não apresentar como resolvidas, por esse Tema, as controvérsias sobre competência, licitude ou ônus da prova.
+
+### Regra de suspensão — cuidado com a sequência processual
+
+- Em 18/06/2026, o Relator retirou a suspensão dos processos nas instâncias de primeiro e segundo graus, permitindo instrução e julgamento nos juízos e TRTs.
+- Em 22/06/2026, esclareceu que, após a publicação do acórdão pelo TRT, o processo deve ficar imediatamente sobrestado, sem abertura de prazo para recurso de revista, aguardando a definição do STF.
+- Portanto, não dizer que todos os processos continuam suspensos desde a primeira instância; tampouco dizer que o processo segue normalmente ao TST depois do acórdão regional.
+
+### Como estudar para a FCC
+
+- A ADPF 324 e o Tema 725 reconhecem a licitude da terceirização de qualquer atividade, meio ou fim, mas não dispensam a análise da existência de fraude e dos requisitos da relação de emprego em controvérsias concretas.
+- O Tema 1.389 trata especificamente de contratação civil/comercial de pessoa jurídica ou autônomo, competência e ônus da prova; não confundir com a tese geral sobre terceirização.
+- Até o julgamento de mérito, a resposta correta é identificar o Tema como pendente, sem inventar tese vinculante.
+
+**Fontes oficiais:**
+- STF — Tema 1.389 e andamento processual: https://portal.stf.jus.br/jurisprudenciarepercussao/verandamentoprocesso.asp?classeprocesso=are&incidente=7138684&numeroprocesso=1532603&numerotema=1389
+- STF — decisão de 18/06/2026 que retirou a suspensão nas instâncias ordinárias: https://noticias.stf.jus.br/postsnoticias/stf-retira-suspensao-de-processos-sobre-pejotizacao-na-primeira-instancia-e-nos-trts/
+- STF — despacho de 22/06/2026 sobre sobrestamento após acórdão regional: https://portal.stf.jus.br/processos/detalhe.asp?incidente=7138684
