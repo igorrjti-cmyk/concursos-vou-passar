@@ -311,14 +311,36 @@ Beth foi dispensada em março de 2009 e somente procurou orientação em julho d
 
 **Exemplo:** se a pretensão de cobrar determinada verba salarial está prescrita, não se contorna essa prescrição pedindo apenas o FGTS incidente sobre aquela verba.
 
-### Temas em acompanhamento — não tratar como tese firmada
+### Temas repetitivos atualizados — corte em 26/11/2026
 
-O índice temático oficial do TST consultado (outubro de 2025) registrava, sem tese fixada naquele documento:
-- IRR 046: aplicação da suspensão de prazos da Lei 14.010/2020 às prescrições bienal e quinquenal trabalhistas.
-- IRR 091: possibilidade de reconhecimento de ofício da prescrição trabalhista, ressalvada a prescrição intercorrente.
-- IRR 106: prazo e termo inicial para execução individual de decisão coletiva.
+#### Tema 46 — suspensão prescricional durante a pandemia
 
-Esses itens devem ser conferidos novamente na base oficial de precedentes antes da prova. Não memorizar questão jurídica afetada como se já fosse tese vinculante.
+**Tese firmada:** a suspensão dos prazos prescricionais prevista na Lei 14.010/2020 aplica-se ao Direito do Trabalho, alcançando tanto a prescrição bienal quanto a quinquenal, independentemente da efetiva possibilidade de acesso ao Judiciário.
+
+- Período de suspensão: 12/06/2020 a 30/10/2020 (141 dias).
+- Efeito prático: o período deve ser considerado no cálculo dos prazos prescricionais trabalhistas abrangidos.
+- Não confundir suspensão com interrupção: na suspensão, o prazo fica paralisado durante o intervalo; não se reinicia integralmente.
+
+#### Tema 91 — impossibilidade de reconhecimento de ofício da prescrição
+
+**Tese firmada pelo Tribunal Pleno em 24/09/2026, com acórdão publicado em 29/10/2026:** a prescrição trabalhista constitui exceção substancial e deve ser arguida pela parte a quem aproveita; não pode ser reconhecida de ofício pelo órgão julgador.
+
+- A prescrição deve ser arguida na instância ordinária, observada a Súmula 153 do TST.
+- O art. 487, II, do CPC não autoriza o reconhecimento de ofício na Justiça do Trabalho, diante da disciplina específica do art. 11-A, § 2º, da CLT e da incompatibilidade apontada na tese.
+- **Exceção:** prescrição intercorrente, cuja declaração de ofício é expressamente autorizada pelo art. 11-A, § 2º, da CLT.
+
+#### Tema 39 — prescrição intercorrente
+
+**Tese firmada e acórdão publicado em 26/10/2026:** a prescrição intercorrente do art. 11-A da CLT exige inércia qualificada do exequente, caracterizada pelo descumprimento de ordem judicial expedida após a vigência da Lei 13.467/2017.
+
+- A intimação deve ser específica, cominatória e adequada à situação concreta; não basta intimação padronizada ou genérica.
+- Exige-se intimação pessoal do credor, sem prejuízo da intimação do advogado.
+- Antes de reconhecer a prescrição, o juízo deve ouvir a parte prejudicada para que possa alegar fato impeditivo.
+- O marco temporal não depende da data do trânsito em julgado do título: importa a ordem judicial descumprida e a inércia posterior à Reforma.
+
+#### Tema 106 — execução individual de decisão coletiva
+
+Permanece indicado para acompanhamento no material consultado; não atribuir tese sem conferência da situação atual do incidente.
 
 ### Fontes oficiais de precedentes
 
