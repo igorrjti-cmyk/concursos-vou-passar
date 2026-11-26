@@ -1564,3 +1564,27 @@ Fonte oficial: TST, Livro de Súmulas e Precedentes, Súmula 212 / IRR 278.
 6. Em abandono, demonstrar ausência injustificada e intenção de não retornar; aplicar a presunção específica da Súmula 32/Tema 226 apenas nos seus termos.
 7. Se houver imputação de improbidade não comprovada e reversão judicial, considerar o dano moral in re ipsa conforme Tema 62.
 
+
+
+### 33. Gradação das penalidades: regra de adequação, não formalidade absoluta
+
+A jurisprudência do TST não exige advertência e suspensão anteriores em todos os casos. A gradação é normalmente relevante quando a falta é leve, reiterada ou comporta correção pedagógica; pode ser dispensada quando um único ato, devidamente comprovado, é tão grave que rompe a fidúcia e inviabiliza a continuidade do vínculo.
+
+Exemplo citado pelo TST: apresentação de notas/recibos falsos para obter reembolso, caracterizando improbidade, pode justificar a justa causa sem prévia advertência ou suspensão, desde que comprovada a gravidade concreta. Em sentido complementar, a falta de prova da conduta ou a ausência de proporcionalidade pode levar à reversão.
+
+**Como responder à FCC:** não marque que a gradação é sempre obrigatória nem que é sempre dispensável. A resposta depende da gravidade, da reiteração, da prova e das circunstâncias do caso.
+
+Fonte oficial: TST, acórdão disponibilizado em 09/07/2025, com precedentes sobre gradação e quebra de fidúcia: https://www.tst.jus.br/documents/10157/33660380/Ac%C3%B3rd%C3%A3o_196.pdf/623b380c-a845-bf13-09f3-cee0dbe5cf6a
+
+### 34. Embriaguez em serviço e alcoolismo como doença: distinção necessária
+
+O art. 482, “f”, da CLT prevê embriaguez habitual ou em serviço. A aplicação da justa causa, porém, exige distinguir situações diferentes:
+
+- **Dependência/alcoolismo crônico diagnosticado:** a jurisprudência do TST reconhece a síndrome de dependência do álcool como doença e orienta que o caso seja tratado com enfoque de saúde e encaminhamento para tratamento, não com punição automática. A existência de diagnóstico e o contexto clínico são relevantes.
+- **Embriaguez em serviço sem quadro de dependência/doença:** pode configurar falta grave, inclusive em episódio único, conforme a atividade exercida, risco a terceiros, gravidade, prova e circunstâncias.
+- **Conclusão:** nem toda ingestão de álcool configura justa causa; tampouco o simples rótulo de embriaguez resolve o caso sem análise da condição clínica e do contexto laboral.
+
+**Pegadinha:** não confundir embriaguez em serviço com alcoolismo crônico. Se há indícios de dependência, o empregador deve considerar a avaliação médica e o tratamento. Se não há doença e o ato em serviço é grave, a sanção pode ser juridicamente possível, observados os demais requisitos.
+
+Referências jurisprudenciais oficiais do TST: RR-2000/2004-003-19-40.6 (alcoolismo como doença) e julgados posteriores sobre o tema. A conclusão deve ser aplicada conforme a prova clínica e os fatos do caso concreto.
+
