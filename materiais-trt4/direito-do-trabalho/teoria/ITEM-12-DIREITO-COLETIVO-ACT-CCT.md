@@ -187,7 +187,7 @@ Nos embargos julgados em 25/11/2025, o STF acrescentou parâmetros:
 2. Terceiros, inclusive empregador ou sindicato, não podem interferir no livre exercício do direito de oposição.
 3. O valor deve observar razoabilidade e compatibilidade com a capacidade econômica da categoria.
 
-**Atenção à data de corte:** em 25/11/2026, há novo incidente de embargos no Tema 935 que foi destacado no julgamento virtual de outubro de 2026; não tratar esse incidente posterior como tese definitivamente julgada sem nova conferência oficial. A tese vinculante e os parâmetros dos embargos de 2025 permanecem a referência segura.
+**Atenção à data de corte (26/11/2026):** há novo incidente de embargos no ARE 1.018.459 (ED-ED-segundos). Na sessão virtual de 25/09 a 02/10/2026, o Relator votou pelo reconhecimento da legitimidade do embargante e pelo rejeitamento das demais alegações, mas o processo foi destacado. O andamento oficial registra conclusão ao Relator em 16/10/2026, sem julgamento colegiado definitivo desse incidente até a data desta revisão. Portanto, não tratar o voto individual nem o destaque como alteração da tese vinculante. Permanecem como referência segura a tese do Tema 935 e os três parâmetros fixados nos embargos julgados em 2025.
 
 **Súmula Vinculante 40:** a contribuição confederativa de que trata o art. 8º, IV, da Constituição só é exigível dos filiados ao sindicato.
 
@@ -692,7 +692,7 @@ Nos embargos de declaração concluídos em 25/11/2025 e publicados em dezembro 
 1. É vedada a cobrança retroativa referente ao período em que o próprio STF mantinha entendimento pela inconstitucionalidade da cobrança aos não filiados.
 2. Terceiros não podem interferir no livre exercício do direito de oposição.
 3. O valor deve observar razoabilidade e compatibilidade com a capacidade econômica da categoria.
-4. A deliberação deve ser transparente e democrática, em assembleia.
+**Nota sobre assembleia:** a deliberação sindical para celebração de ACT/CCT deve observar o art. 612 da CLT, os estatutos e as regras de convocação e quórum. Isso não constitui um quarto parâmetro específico acrescentado pelo STF nos embargos do Tema 935 de 2025.
 
 **Não confundir as contribuições:**
 - Assistencial: pode alcançar não filiados, desde que garantido o direito de oposição.
