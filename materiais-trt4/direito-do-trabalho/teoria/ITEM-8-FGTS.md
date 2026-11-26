@@ -478,3 +478,61 @@ Registro Supabase: ID `3089719`, rank 7903. É questão de cruzamento entre exti
 ### Atualização do banco
 
 As questões Q2400725 e Q3089719 foram inseridas em `public.questoes` e consultadas novamente após a inserção. Os registros retornaram com os gabaritos C e D, respectivamente. Nenhuma questão autoral foi inserida no banco de questões oficiais.
+
+
+## 23. Revisão autoral — FGTS, aviso-prévio e base da indenização
+
+As questões abaixo são **autorais**, elaboradas para fixação. Não foram extraídas de provas da FCC.
+
+**19.** Um empregado é dispensado sem justa causa e recebe aviso-prévio indenizado. Considerando a orientação do TST, assinale a alternativa correta:
+
+A) Não há depósito de FGTS sobre o aviso-prévio indenizado, nem sua projeção integra o tempo de serviço.  
+B) É devido o depósito de FGTS sobre o aviso-prévio indenizado, mas os valores decorrentes da projeção não integram a base da indenização de 40%, conforme o Tema 255 do TST.  
+C) O depósito de FGTS é devido e todos os valores projetados entram necessariamente na base da indenização de 40%.  
+D) A indenização de 40% incide apenas sobre o saldo disponível na conta na data da rescisão.
+
+**Gabarito: B.** A Súmula 305 do TST assegura o FGTS sobre o aviso-prévio, trabalhado ou indenizado. O Tema 255 trata de questão distinta: exclui da base da indenização de 40% os valores decorrentes da projeção do aviso-prévio indenizado. Não confundir obrigação de depositar FGTS com base de cálculo da indenização compensatória.
+
+**20.** Durante o contrato, o empregado realizou saques autorizados do FGTS. Na dispensa sem justa causa, para calcular a indenização de 40%, o empregador deverá:
+
+A) Considerar apenas o saldo remanescente disponível.  
+B) Deduzir todos os saques realizados pelo trabalhador.  
+C) Considerar o montante dos depósitos devidos durante o contrato, atualizado e acrescido de juros, observadas as exclusões legais e jurisprudenciais.  
+D) Considerar apenas os depósitos dos últimos 12 meses.
+
+**Gabarito: C.** A base não se limita ao saldo atual da conta. Saques anteriores não apagam os depósitos históricos que compõem a base legal da indenização.
+
+**21.** A empresa sustenta que, por ter recolhido o FGTS sobre o aviso-prévio indenizado, também deve incluir automaticamente os valores projetados na base da indenização de 40%. A afirmação é:
+
+A) Correta, pois depósito e indenização possuem necessariamente a mesma base.  
+B) Incorreta, porque são obrigações distintas: o FGTS sobre o aviso é devido, mas a projeção do aviso indenizado é excluída da base dos 40%, nos termos do Tema 255.  
+C) Correta apenas quando o aviso ultrapassa 30 dias.  
+D) Incorreta porque não existe FGTS sobre aviso-prévio indenizado.
+
+**Gabarito: B.** O Tema 255 exige separar o recolhimento do FGTS da apuração da indenização de 40%. A exclusão da projeção na base dos 40% não elimina o dever de depósito.
+
+**22.** A distribuição de resultados do FGTS ao trabalhador deve ser incluída na base da indenização de 40%?
+
+A) Sim, em qualquer hipótese.  
+B) Sim, mas somente se houver dispensa sem justa causa.  
+C) Não, pois o art. 13, § 7º, da Lei 8.036/1990 exclui os valores distribuídos, com os acréscimos legais, da base da indenização.  
+D) Não, porque a distribuição de resultados não é creditada na conta vinculada.
+
+**Gabarito: C.** A exclusão decorre de regra legal expressa. Não confundir a distribuição de resultados com os depósitos mensais efetuados pelo empregador.
+
+**23.** Na extinção do contrato por acordo entre empregado e empregador, prevista no art. 484-A da CLT, a indenização compensatória do FGTS corresponde, em regra, a:
+
+A) 40% do montante dos depósitos.  
+B) 20% do montante dos depósitos.  
+C) 10% do montante dos depósitos.  
+D) Nenhuma indenização compensatória.
+
+**Gabarito: B.** No acordo do art. 484-A, a indenização do FGTS é paga pela metade, resultando em 20%. O saque do saldo é limitado a 80%, e não há direito ao seguro-desemprego.
+
+### Síntese de recuperação ativa
+
+- **Depósito mensal/rescisório:** obrigação de recolher FGTS nas hipóteses legais.
+- **Indenização de 40%:** calculada sobre a base legal dos depósitos do contrato, com as exclusões pertinentes.
+- **Aviso-prévio indenizado:** há FGTS (Súmula 305), mas a projeção não compõe a base dos 40% (Tema 255).
+- **Saques anteriores:** não reduzem a base histórica da indenização.
+- **Acordo do art. 484-A:** indenização de 20%, saque limitado a 80% e sem seguro-desemprego.
