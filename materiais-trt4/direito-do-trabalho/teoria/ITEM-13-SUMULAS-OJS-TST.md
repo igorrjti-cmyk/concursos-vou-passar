@@ -106,9 +106,9 @@ A jurisprudência do TST passou a organizar parte da uniformização por inciden
 
 ### 15.1 Tema 278 do TST — continuidade da relação de emprego e ônus da prova
 
-O TST reafirmou a matéria da Súmula 212: quando o empregador nega a prestação de serviço e o despedimento, o ônus de provar o término do contrato é do empregador, em razão do princípio da continuidade da relação de emprego.
+O TST reafirmou a matéria da Súmula 212. **A redação literal da tese repetitiva** atribui ao empregador o ônus de provar o término do contrato quando negados a prestação de serviço e o despedimento, em razão do princípio da continuidade da relação de emprego.
 
-**Aplicação prática:** se a empresa admite a prestação de serviços, mas sustenta que o vínculo terminou por iniciativa ou fato que afasta a continuidade, deve provar o término nos termos da tese. Não confundir com a situação em que a própria existência do vínculo é controvertida e o empregador nega a prestação de serviços.
+**Aplicação prática da Súmula 212:** na hipótese clássica em que a prestação de serviços/vínculo é reconhecida, mas o empregador alega que o contrato terminou por iniciativa do trabalhador ou por outro fato extintivo, cabe ao empregador provar o término. Não confundir essa hipótese com a controvérsia em que a própria existência da relação é negada. Para prova, memorize a formulação exata do Tema 278 e identifique a distribuição do ônus no caso concreto.
 
 Fonte oficial do TST: https://www.tst.jus.br/documents/d/guest/irr278-pdf
 
@@ -142,7 +142,7 @@ E) cancelou a Súmula 212.
 
 **Gabarito: B.** A resolução cancelou o item I da Súmula 331, não a súmula inteira, e cancelou apenas itens específicos da Súmula 6.
 
-**Questão 2.** Segundo a tese reafirmada no Tema 278 do TST, quando o empregador admite a prestação de serviços, mas nega o despedimento e sustenta que o contrato terminou, o ônus de provar o término:
+**Questão 2.** Segundo a redação literal da tese reafirmada no Tema 278 do TST, quando são negados a prestação de serviços e o despedimento, o ônus de provar o término do contrato:
 
 A) é sempre do trabalhador.  
 B) é do sindicato profissional.  
