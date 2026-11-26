@@ -8,6 +8,27 @@
 - Prioridade **complementar**: leitura seletiva, sem retirar tempo dos itens expressos no edital.
 - O programa de Direito do Trabalho do edital TRT-4 2026 foi organizado em 14 itens. Este guia acompanha essa delimitação; assuntos correlatos não devem ser tratados automaticamente como tópicos autônomos.
  
+
+## Item 1 — Princípios e fontes do Direito do Trabalho
+
+### Páginas do PDF único
+| Páginas | Conteúdo | Prioridade |
+|---|---|---|
+| 6–48 | Introdução, autonomia, princípios, fontes, hierarquia e aplicação do Direito do Trabalho | Essencial |
+
+### Pontos de revisão
+- Distinguir princípio da proteção e suas projeções: norma mais favorável, condição mais benéfica e in dubio pro operario, sem transformar este último em regra geral de julgamento de fatos ou de distribuição do ônus da prova.
+- Diferenciar fontes materiais e formais; entre as formais, reconhecer fontes heterônomas e autônomas.
+- Aplicar a hierarquia trabalhista de modo não puramente mecânico: considerar a norma mais favorável quando juridicamente cabível, sem ignorar a Constituição, as normas de ordem pública e os limites legais à negociação coletiva.
+- Memorizar o art. 620 da CLT: condições estabelecidas em acordo coletivo prevalecem sobre as estipuladas em convenção coletiva.
+- Estudar o Tema 1.046 do STF com seus limites: a negociação coletiva pode limitar/afastar direitos não absolutamente indisponíveis, observados os parâmetros constitucionais.
+- Relacionar a proteção trabalhista aos fundamentos constitucionais da dignidade da pessoa humana, dos valores sociais do trabalho e da livre iniciativa, e aos arts. 170 e 193 da CF.
+- Revisar a autonomia científica do Direito do Trabalho sem confundi-la com isolamento dos demais ramos.
+
+### Questões e controle
+O arquivo específico do Item 1 contém revisão integrada e questões autorais. As questões autorais permanecem no material didático e não devem ser importadas para o banco reservado às questões oficiais.
+
+
 ## Item 2 — Direitos constitucionais dos trabalhadores (art. 7º da CF/1988)
  
 ### Páginas do PDF único
