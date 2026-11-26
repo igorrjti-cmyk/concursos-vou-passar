@@ -1624,3 +1624,45 @@ Fonte oficial: TST, Súmula 14; CLT, arts. 484 e 484-A: https://www.tst.jus.br/d
 
 **Nota de prova:** no art. 484-A, as demais verbas são pagas integralmente; na culpa recíproca, a Súmula 14 limita a metade às três parcelas expressamente indicadas. Para FGTS e saque, conferir a legislação específica e a forma de reconhecimento da ruptura, sem misturar os regimes.
 
+
+
+### 38. Verbas rescisórias por modalidade — quadro de revisão
+
+O candidato deve identificar primeiro a causa da extinção; só depois selecionar as parcelas. O quadro abaixo resume o regime geral do empregado urbano regido pela CLT, sem prejuízo de estabilidade, normas coletivas, parcelas especiais ou peculiaridades do caso concreto.
+
+| Parcela | Dispensa sem justa causa | Pedido de demissão | Dispensa por justa causa | Término normal do contrato a termo |
+|---|---|---|---|---|
+| Saldo de salário | Sim | Sim | Sim | Sim |
+| Aviso-prévio | Sim, trabalhado ou indenizado; proporcional até 90 dias, devido pelo empregador | Em regra, empregado deve conceder 30 dias; se não cumprir, pode haver desconto, observados limites legais | Não | Não, salvo cláusula assecuratória exercida (art. 481) |
+| 13º proporcional | Sim | Sim | Não | Sim |
+| Férias vencidas + 1/3 | Sim | Sim | Sim | Sim, se adquiridas |
+| Férias proporcionais + 1/3 | Sim | Sim, inclusive antes de 12 meses (Súmula 261) | Não (Súmula 171) | Sim |
+| Indenização de 40% do FGTS | Sim | Não | Não | Não, no término regular |
+| Saque do FGTS | Hipótese legal de dispensa sem justa causa, ressalvada a opção saque-aniversário e suas regras | Não por essa causa | Não por essa causa | Permitido nas hipóteses legais de término normal de contrato a termo |
+| Seguro-desemprego | Se preenchidos os requisitos legais | Não | Não | Em regra, não no término normal do prazo |
+
+**Ruptura antecipada do contrato a termo:**
+- Iniciativa do empregador, sem justa causa e sem cláusula assecuratória exercida: indenização do art. 479, equivalente à metade da remuneração a que o empregado teria direito até o termo, além das parcelas rescisórias compatíveis com a dispensa imotivada.
+- Iniciativa do empregado, sem justa causa e sem cláusula assecuratória exercida: art. 480; só há indenização se demonstrados prejuízos ao empregador, limitada ao valor que seria devido em situação equivalente pelo art. 479.
+- Cláusula assecuratória exercida por qualquer das partes: art. 481; aplicam-se os princípios dos contratos por prazo indeterminado, inclusive aviso-prévio, afastando a indenização própria dos arts. 479 e 480.
+
+**Atenção:** no contrato a termo, término normal e ruptura antecipada são fatos jurídicos diferentes. Não aplicar automaticamente a indenização do art. 479 ao fim natural do prazo. A estabilidade provisória pode impedir ou alterar os efeitos do término, conforme o tipo de garantia e a jurisprudência aplicável.
+
+Fundamentos: CLT, arts. 146, 147, 477, 479, 480 e 481; Lei 4.090/1962, art. 3º; Lei 12.506/2011; TST, Súmulas 171 e 261.
+
+### 39. Prazo de pagamento e multas dos arts. 467 e 477 da CLT
+
+**Prazo do art. 477, §6º:** o pagamento dos valores constantes do instrumento de rescisão/recibo deve ocorrer em até dez dias contados do término do contrato. A regra atual, após a Lei 13.467/2017, unificou o prazo; não repetir a antiga distinção entre aviso trabalhado e indenizado.
+
+**Multa do art. 477, §8º:** o atraso no pagamento no prazo legal pode gerar multa em favor do empregado em valor equivalente ao seu salário, salvo quando comprovadamente o trabalhador der causa à mora. Distinguir atraso no pagamento das parcelas rescisórias de diferenças reconhecidas posteriormente em juízo: a mera existência de diferenças não gera automaticamente a multa se houve pagamento tempestivo das parcelas então devidas, conforme a jurisprudência aplicável.
+
+**Multa do art. 467:** se, na data do comparecimento à Justiça do Trabalho, houver verbas rescisórias incontroversas não pagas, o empregador deve pagá-las acrescidas de 50%. A multa não incide sobre parcelas efetivamente controvertidas apenas porque foram deferidas na sentença.
+
+**Pegadinhas FCC:**
+1. Art. 467: 50% sobre verbas rescisórias incontroversas não pagas na oportunidade legal; não é multa geral por qualquer condenação.
+2. Art. 477, §8º: equivale a um salário do empregado; não é 50% das verbas rescisórias.
+3. O prazo atual é de dez dias corridos a partir do término do contrato; não contar dez dias úteis.
+4. O reconhecimento judicial de diferenças não equivale, por si só, a atraso no pagamento tempestivo das verbas rescisórias originalmente quitadas.
+
+Fundamento: CLT, arts. 467 e 477, §§6º e 8º. Texto legal consolidado: https://www.planalto.gov.br/ccivil_03/decreto-lei/del5452compilado.htm
+
