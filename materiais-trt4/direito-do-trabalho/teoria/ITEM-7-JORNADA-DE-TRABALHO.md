@@ -1067,7 +1067,7 @@ A regra geral passa a assegurar dois repousos semanais de 24 horas. A negociaç�
 
 ### 38.6. Fontes oficiais da atualização de novembro de 2026
 
-- EC 141/2026 — texto promulgado: https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=detalharAto&cod_menu=9381&cod_modulo=631&numeroAto=00000141&orgao=CN&seqAto=000&tipo=EMC&valorAno=2026
+- EC 141/2026 — texto promulgado: https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc141.htm
 - Decreto 13.173/2026 — texto oficial da Câmara: https://www2.camara.leg.br/legin/fed/decret/2026/decreto-13173-19-novembro-2026-800207-publicacaooriginal-182072-pe.html
 - Portaria MTE 2.041/2026 — publicação e síntese oficial do MTE: https://www.gov.br/trabalho-e-emprego/pt-br/noticias-e-conteudo/2026/novembro/governo-federal-publica-portaria-com-regras-complementares-para-aplicacao-da-escala-5x2
 - CLT compilada: https://www.planalto.gov.br/ccivil_03/decreto-lei/del5452compilado.htm
