@@ -1619,7 +1619,7 @@ Fonte oficial: TST, Súmula 14; CLT, arts. 484 e 484-A: https://www.tst.jus.br/d
 | 13º proporcional | 50%, conforme Súmula 14 | Integral |
 | Férias proporcionais + 1/3 | 50% da parcela proporcional, conforme Súmula 14; terço acompanha a parcela | Integrais |
 | Multa do FGTS | 20% (metade da indenização de 40%) | 20% (metade da indenização de 40%) |
-| Saque do FGTS | Observar a hipótese legal e o enquadramento reconhecido; não equiparar automaticamente a dispensa imotivada | Até 80% do saldo, art. 484-A, §1º e art. 20, I-A, da Lei 8.036/1990 |
+| Saque do FGTS | Saque-rescisão: hipótese expressa do art. 20, I, da Lei 8.036/1990; observar eventual opção pelo saque-aniversário e suas restrições | Até 80% do saldo, art. 484-A, §1º e art. 20, I-A, da Lei 8.036/1990 |
 | Seguro-desemprego | Não presumir direito; depende da hipótese legal | Não é devido, art. 484-A, §2º |
 
 **Nota de prova:** no art. 484-A, as demais verbas são pagas integralmente; na culpa recíproca, a Súmula 14 limita a metade às três parcelas expressamente indicadas. Para FGTS e saque, conferir a legislação específica e a forma de reconhecimento da ruptura, sem misturar os regimes.
