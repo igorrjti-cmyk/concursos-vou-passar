@@ -1588,3 +1588,39 @@ O art. 482, “f”, da CLT prevê embriaguez habitual ou em serviço. A aplica�
 
 Referências jurisprudenciais oficiais do TST: RR-2000/2004-003-19-40.6 (alcoolismo como doença) e julgados posteriores sobre o tema. A conclusão deve ser aplicada conforme a prova clínica e os fatos do caso concreto.
 
+
+
+### 35. Rescisão indireta: imediatidade mitigada
+
+A rescisão indireta exige falta patronal suficientemente grave para tornar insustentável a continuidade do vínculo (CLT, art. 483). Entretanto, **a reação do empregado não precisa ser necessariamente imediata** em todos os casos. O TST considera a hipossuficiência do trabalhador e o receio de perder o emprego, mitigando o requisito temporal, especialmente em descumprimentos contratuais continuados.
+
+Em acórdão da 7ª Turma no processo TST-Ag-RR-1000026-16.2024.5.02.0468, publicado em 11/09/2026, foi mantido o reconhecimento da rescisão indireta por falta de pagamento de adicional de insalubridade, afastando-se a exigência de imediatidade rígida. O TST destacou que o inadimplemento de verba alimentar ligada à saúde e higiene do trabalho pode configurar descumprimento grave (art. 483, “d”).
+
+**Pegadinha:** não transportar automaticamente para a rescisão indireta o rigor da imediatidade frequentemente exigido na justa causa do empregado. O contexto de subordinação e hipossuficiência pode justificar a demora na reação. O precedente é decisão de Turma, não tese repetitiva geral; a gravidade e a prova continuam indispensáveis.
+
+Fonte: TST, Ag-RR-1000026-16.2024.5.02.0468, 7ª Turma, acórdão de 11/09/2026: https://jurisprudencia-backend.tst.jus.br/rest/documentos/10000261620245020468/01-09-2026/11-09-2026
+
+### 36. Culpa recíproca — art. 484 da CLT e Súmula 14 do TST
+
+Quando ambas as partes praticam faltas relevantes que contribuem para a ruptura, a Justiça do Trabalho pode reconhecer culpa recíproca (CLT, art. 484). Não basta haver qualquer irregularidade dos dois lados: as condutas devem ser juridicamente relevantes e relacionadas à ruptura contratual.
+
+Segundo a Súmula 14 do TST, reconhecida a culpa recíproca, o empregado tem direito a **50% do valor do aviso-prévio, do 13º salário e das férias proporcionais**. A redução pela metade não deve ser generalizada para todas as verbas rescisórias; saldo salarial e férias vencidas, por exemplo, não são automaticamente reduzidos por essa súmula.
+
+**Pegadinha:** art. 484 (culpa recíproca reconhecida judicialmente) não se confunde com art. 484-A (extinção por acordo entre empregado e empregador). No primeiro, aplicam-se a regra legal e a Súmula 14; no segundo, as partes formalizam consensualmente a extinção, com aviso-prévio indenizado e indenização do FGTS pela metade, demais verbas integrais, saque limitado a 80% e sem seguro-desemprego.
+
+Fonte oficial: TST, Súmula 14; CLT, arts. 484 e 484-A: https://www.tst.jus.br/documents/10157/0/LivroInternet.pdf ; https://www.planalto.gov.br/ccivil_03/decreto-lei/del5452compilado.htm
+
+### 37. Quadro comparativo — culpa recíproca e extinção por acordo
+
+| Critério | Culpa recíproca — art. 484 | Acordo — art. 484-A |
+|---|---|---|
+| Origem | Faltas relevantes de ambas as partes, reconhecidas judicialmente | Vontade consensual das partes |
+| Aviso-prévio | 50% do valor, conforme Súmula 14 | 50% se indenizado |
+| 13º proporcional | 50%, conforme Súmula 14 | Integral |
+| Férias proporcionais + 1/3 | 50% da parcela proporcional, conforme Súmula 14; terço acompanha a parcela | Integrais |
+| Multa do FGTS | 20% (metade da indenização de 40%) | 20% (metade da indenização de 40%) |
+| Saque do FGTS | Observar a hipótese legal e o enquadramento reconhecido; não equiparar automaticamente a dispensa imotivada | Até 80% do saldo, art. 484-A, §1º e art. 20, I-A, da Lei 8.036/1990 |
+| Seguro-desemprego | Não presumir direito; depende da hipótese legal | Não é devido, art. 484-A, §2º |
+
+**Nota de prova:** no art. 484-A, as demais verbas são pagas integralmente; na culpa recíproca, a Súmula 14 limita a metade às três parcelas expressamente indicadas. Para FGTS e saque, conferir a legislação específica e a forma de reconhecimento da ruptura, sem misturar os regimes.
+
