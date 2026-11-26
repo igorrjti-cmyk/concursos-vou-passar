@@ -288,6 +288,18 @@ Pontos de prova:
 
 **Exemplo didático:** depósitos contratuais considerados para fins rescisórios = R$ 30.000,00, já atualizados; saques anteriores não alteram a base. Multa de 40% = R$ 12.000,00. Se a hipótese legal for de 20%, a indenização será R$ 6.000,00. O exemplo não inclui eventual distribuição de resultados, que deve ser excluída da base.
 
+### 15.1. Tema 255 do TST — aviso-prévio indenizado e base da multa de 40%
+
+O Tema Repetitivo 255 do TST fixou que a indenização de 40% do FGTS é calculada sobre a soma dos valores devidos na conta vinculada durante a vigência do contrato, atualizados monetariamente e acrescidos dos juros, **desconsiderada a indenização resultante da projeção no tempo de serviço do aviso-prévio indenizado**.
+
+**Atenção à distinção que costuma gerar erro:**
+- **Depósito do FGTS sobre o aviso-prévio indenizado:** continua devido, conforme Súmula 305 do TST.
+- **Base da indenização compensatória de 40%:** não inclui o valor correspondente à projeção do aviso-prévio indenizado, conforme Tema 255.
+
+Não confundir a incidência do depósito fundiário sobre a parcela com sua inclusão na base da multa rescisória. A projeção continua relevante para tempo de serviço e prescrição, mas isso não altera a exclusão específica estabelecida pelo Tema 255.
+
+**Fonte oficial:** TST, Tema Repetitivo 255 — https://www.tst.jus.br/documents/d/guest/irr255-1-pdf. Ver também o Item 5, seção 25.2.
+
 ## 16. Saques — distinções que a FCC pode explorar
 
 ### 16.1. Extinção normal do contrato a termo
