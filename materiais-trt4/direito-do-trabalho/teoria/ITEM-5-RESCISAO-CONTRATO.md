@@ -1696,3 +1696,14 @@ Fonte: TST, Índice Temático de Precedentes Qualificados, verbetes IRR 127, 139
 
 Fundamentos: CLT, arts. 483, §2º, 485, 486, 501 e 502; Lei 6.858/1980; TST, IRR 238.
 
+### 42. Rescisão indireta por inadimplemento habitual de horas extras e intervalo — IRR 85 do TST
+
+O TST firmou, no IRR 85 (RRAg-1000642-07.2023.5.02.0086), que o **descumprimento contratual contumaz** consistente na ausência de pagamento de horas extraordinárias e na não concessão ou concessão parcial do intervalo intrajornada autoriza a rescisão indireta, com fundamento no art. 483, “d”, da CLT. O acórdão foi publicado em 08/04/2025 e transitou em julgado em 08/05/2025, conforme o índice oficial de precedentes do TST.
+
+**Como aplicar em prova:** a tese não transforma qualquer diferença isolada de horas extras ou qualquer episódio pontual de intervalo em rescisão indireta automática. O elemento expressamente destacado é a contumácia do descumprimento. Identifique a repetição da conduta e a gravidade do inadimplemento contratual.
+
+**Distinção importante:** o IRR 85 trata do inadimplemento contumaz de horas extras e intervalo; o IRR 70 trata da ausência ou irregularidade dos depósitos do FGTS e dispensa a imediatidade; o Tema 52 estabelece a multa do art. 477, §8º, quando a rescisão indireta é reconhecida judicialmente. São teses diferentes, com pressupostos próprios.
+
+**Pegadinha:** não confundir a multa do art. 477, §8º, com a do art. 467. O reconhecimento judicial da rescisão indireta atrai a primeira (Tema 52); a segunda exige parcela rescisória incontroversa não paga na oportunidade legal, e a controvérsia sobre a própria modalidade de ruptura, em regra, afasta sua incidência.
+
+Fonte oficial: TST, Índice Temático de Precedentes Trabalhistas, IRR 85 — RRAg-1000642-07.2023.5.02.0086: https://www.tst.jus.br/indice-tematico-precedentes-trabalhistas-stf-tst ; CLT, arts. 467, 477 e 483: https://www.planalto.gov.br/ccivil_03/decreto-lei/del5452compilado.htm
