@@ -25,7 +25,7 @@
 A página 52 (arts. 8º a 11) deve ser retomada principalmente no Item 12, Direito Coletivo do Trabalho.
  
 ### Pontos de revisão
-- Jornada normal: até 8 horas diárias e 44 semanais, observadas as regras constitucionais e legais.
+- Jornada normal: até 8 horas diárias; quanto ao limite semanal geral, observar a transição da EC 141/2026: 44 horas até 15/12/2026, 42 horas de 16/12/2026 a 15/12/2027 e 40 horas a partir de 16/12/2027. Conferir regras especiais e negociação coletiva válida.
 - Hora extraordinária: adicional mínimo de 50%.
 - Turnos ininterruptos de revezamento: jornada de 6 horas, salvo negociação coletiva.
 - Férias: adicional de pelo menos um terço.
