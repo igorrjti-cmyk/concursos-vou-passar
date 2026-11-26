@@ -1239,7 +1239,7 @@ Também foi identificada a questão de rank 7714, FCC/TRT-1/2025, sobre direitos
 
 ### 15. Questões oficiais já cadastradas — resolução complementar
 
-**Rank 7830 — FCC, TRT-2, 2025, questão 198 — cláusula assecuratória (gabarito E).**
+**Rank 7830 — FCC, TRT-2/SP, 2025, questão 47 (caderno A01, Tipo 001) — cláusula assecuratória (gabarito definitivo E).**
 
 O enunciado trata do empregado que rompe antecipadamente contrato por prazo determinado quando existe cláusula assecuratória do direito recíproco de rescisão. A alternativa correta é a que aplica os princípios dos contratos por prazo indeterminado, inclusive aviso-prévio ou indenização correspondente. Fundamento: art. 481 da CLT. A cláusula precisa ser exercida; não basta sua existência abstrata.
 
