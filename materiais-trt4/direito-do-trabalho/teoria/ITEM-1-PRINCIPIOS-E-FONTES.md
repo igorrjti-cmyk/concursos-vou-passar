@@ -233,3 +233,96 @@ O direito comum é fonte subsidiária do Direito do Trabalho, naquilo em que nã
 - Memorizar vigência máxima de 2 anos e vedação à ultratividade automática.
 - Aplicar Tema 1046 do STF e distinguir direitos negociáveis dos absolutamente indisponíveis.
 - Usar o art. 8º da CLT sem aplicação automática e incompatível do direito comum.
+
+
+## 7.9. Complemento de abertura — conceito, autonomia, natureza e finalidade do Direito do Trabalho
+
+### Conceito e objeto
+
+O Direito do Trabalho é o ramo jurídico que disciplina, em especial, as relações de trabalho subordinado e as relações coletivas de trabalho, estabelecendo direitos, deveres e mecanismos de proteção e organização. Seu núcleo clássico é a relação de emprego, mas o sistema também contém normas sobre representação coletiva, negociação, greve e outras formas de trabalho, conforme a disciplina legal e constitucional.
+
+A CLT, em seu art. 1º, declara que a Consolidação estatui as normas que regulam as relações individuais e coletivas de trabalho nela previstas. Isso não significa que toda relação de trabalho esteja integralmente submetida à CLT: há regimes especiais e relações regidas por legislação própria.
+
+**Distinção-chave para a FCC:**
+- Relação de trabalho: expressão ampla, que abrange diferentes formas de prestação de atividade humana.
+- Relação de emprego: espécie de relação de trabalho que reúne os requisitos jurídicos próprios, estudados em detalhe no Item 3.
+- Direito do Trabalho: ramo jurídico que disciplina relações individuais e coletivas de trabalho, sem se confundir com o Direito Processual do Trabalho, que trata da tutela jurisdicional dessas relações.
+
+### Autonomia como ramo jurídico
+
+A autonomia do Direito do Trabalho é reconhecida didaticamente por possuir:
+- objeto próprio, centrado nas relações individuais e coletivas de trabalho;
+- princípios próprios, como proteção, primazia da realidade e continuidade;
+- fontes específicas, como ACT e CCT;
+- institutos próprios, como contrato de trabalho, salário, jornada, férias, FGTS e organização sindical;
+- desenvolvimento doutrinário e acadêmico próprio.
+
+A autonomia não significa isolamento: o Direito do Trabalho dialoga com o Direito Constitucional, Civil, Administrativo, Previdenciário e Processual, aplicando normas subsidiárias quando cabíveis e compatíveis.
+
+### Natureza jurídica: cuidado com a questão doutrinária
+
+A classificação da natureza jurídica do Direito do Trabalho é objeto de debate doutrinário. Há concepções que destacam sua dimensão de Direito Privado, por disciplinar relação contratual entre particulares; outras ressaltam a intensa presença de normas de ordem pública e a dimensão coletiva e social, aproximando-o de uma concepção mista ou unitária com características próprias.
+
+**Para prova objetiva:** não tratar a classificação como unanimidade absoluta. Se o enunciado pedir a posição tradicional predominante, a resposta costuma destacar a inserção no Direito Privado, fortemente limitada por normas imperativas e por interesses sociais e coletivos. Se apresentar teorias, identificar o critério utilizado.
+
+### Finalidades e funções
+
+1. **Protetiva:** reduzir a desigualdade estrutural entre quem presta o trabalho e quem organiza/dirige a atividade.
+2. **Organizadora ou coordenadora:** estabelecer padrões mínimos e ordenar as relações individuais e coletivas.
+3. **Social:** promover dignidade, inclusão, saúde, segurança e melhoria das condições de trabalho.
+4. **Econômica:** oferecer parâmetros de previsibilidade, remuneração e organização produtiva, sem reduzir o ramo a instrumento exclusivo de eficiência empresarial.
+5. **Pacificação de conflitos:** fornecer instrumentos de negociação, representação e solução de controvérsias.
+
+Essas funções são complementares; a função protetiva é central na formação histórica do ramo, mas não elimina a autonomia coletiva nem a necessidade de equilíbrio entre os valores constitucionais envolvidos.
+
+### Fundamentos constitucionais
+
+- **CF, art. 1º, III e IV:** dignidade da pessoa humana e valores sociais do trabalho e da livre iniciativa como fundamentos da República.
+- **CF, art. 7º:** catálogo de direitos dos trabalhadores urbanos e rurais, além de outros que visem à melhoria de sua condição social.
+- **CF, art. 8º:** liberdade sindical e organização coletiva, com limites constitucionais próprios.
+- **CF, art. 170:** ordem econômica fundada na valorização do trabalho humano e na livre iniciativa, voltada a assegurar existência digna conforme a justiça social.
+- **CF, art. 193:** ordem social fundada no primado do trabalho e voltada ao bem-estar e à justiça sociais.
+
+**Pegadinha:** a Constituição não coloca trabalho e livre iniciativa como valores necessariamente excludentes. O texto constitucional os articula, e a ordem econômica deve observar a valorização do trabalho humano e a existência digna.
+
+### Evolução histórica em síntese
+
+- A industrialização e a expansão do trabalho assalariado evidenciaram desigualdades e riscos que a autonomia contratual individual, isoladamente, não conseguia resolver.
+- A organização coletiva dos trabalhadores e a intervenção estatal impulsionaram a criação de limites de jornada, proteção à saúde, remuneração mínima e regras de associação.
+- No plano internacional, a criação da Organização Internacional do Trabalho em 1919 consolidou a dimensão internacional da proteção laboral.
+- No Brasil, a CLT foi aprovada pelo Decreto-Lei 5.452/1943.
+- A Constituição de 1988 elevou o trabalho e os direitos sociais ao centro da ordem constitucional, articulando valorização do trabalho humano, dignidade e livre iniciativa.
+
+A evolução histórica explica a função protetiva, mas não autoriza concluir que todo conflito deve ser resolvido automaticamente em favor de uma parte, sem examinar a norma aplicável, a prova e os limites constitucionais.
+
+## 7.10. Questões autorais — conceito e fundamentos
+
+**1.** A relação de emprego corresponde a toda e qualquer forma de prestação de trabalho humano, sendo expressão sinônima de relação de trabalho.
+
+**Gabarito: ERRADO.** Relação de trabalho é gênero; relação de emprego é espécie que exige requisitos específicos.
+
+**2.** A autonomia do Direito do Trabalho significa que suas normas não podem dialogar com outros ramos jurídicos.
+
+**Gabarito: ERRADO.** Autonomia significa objeto, princípios e institutos próprios, não isolamento. A integração com outros ramos é possível, respeitados os critérios legais de compatibilidade.
+
+**3.** A Constituição de 1988 articula valorização do trabalho humano e livre iniciativa como fundamentos relevantes da ordem econômica.
+
+**Gabarito: CERTO.** A articulação aparece expressamente no art. 170, em harmonia com os fundamentos do art. 1º, IV.
+
+**4.** Como a função protetiva é central no Direito do Trabalho, toda dúvida factual deve ser resolvida em favor do empregado, independentemente das regras de prova.
+
+**Gabarito: ERRADO.** A função protetiva não elimina regras processuais de ônus da prova nem transforma o princípio interpretativo em presunção universal.
+
+**5.** A CLT disciplina relações individuais e coletivas de trabalho nela previstas, mas isso não significa que toda modalidade de trabalho esteja integralmente sujeita ao regime celetista.
+
+**Gabarito: CERTO.** Existem regimes especiais e relações submetidas a legislação própria.
+
+### 7.11. Checklist de abertura do Item 1
+
+- Diferenciar Direito do Trabalho, relação de trabalho e relação de emprego.
+- Saber que a relação de emprego é espécie do gênero relação de trabalho.
+- Explicar a autonomia do ramo sem afirmar isolamento jurídico.
+- Reconhecer a controvérsia doutrinária sobre a natureza jurídica.
+- Identificar as funções protetiva, organizadora, social, econômica e pacificadora.
+- Relacionar os arts. 1º, 7º, 8º, 170 e 193 da Constituição ao Direito do Trabalho.
+- Entender a evolução histórica como resposta à desigualdade e aos riscos do trabalho industrial.
