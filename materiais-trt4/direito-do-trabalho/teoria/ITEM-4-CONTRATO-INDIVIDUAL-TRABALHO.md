@@ -1648,3 +1648,139 @@ Requisitos e limites:
 8. Tema 93 do TST: acompanhar a situação do julgamento; não inventar critério temporal fixo enquanto não houver tese firmada.
 
 **Fontes normativas e jurisprudenciais:** CLT consolidada, arts. 469, 469-A e 470; Lei 6.203/1975; Lei 15.175/2025; OJ 113 da SDI-1 do TST; Tema Repetitivo 93 do TST.
+
+
+## 11. Revisão integrada FCC — formação, duração, alterações e paralisações do contrato
+
+### 11.1. Elementos do vínculo e primazia da realidade
+
+Para reconhecer a relação de emprego, a FCC costuma cobrar a presença conjunta de:
+- pessoa física prestando serviços;
+- pessoalidade;
+- não eventualidade;
+- onerosidade;
+- subordinação jurídica.
+
+A exclusividade não é requisito geral do vínculo. A denominação dada pelas partes também não prevalece sobre a realidade: contrato de prestação de serviços, MEI ou parceria não afastam o vínculo se os elementos dos arts. 2º e 3º da CLT estiverem presentes.
+
+**Pegadinha:** a subordinação pode ser estrutural, objetiva ou algorítmica; não se exige ordem presencial contínua. O trabalho remoto não elimina, por si só, a subordinação.
+
+### 11.2. Contrato por prazo determinado: quadro de prazos
+
+| Regra | Prazo / consequência |
+|---|---|
+| Duração máxima geral (art. 445) | 2 anos |
+| Contrato de experiência | 90 dias, incluídas prorrogações |
+| Prorrogação (art. 451) | Apenas uma; mais de uma prorrogação converte o contrato em indeterminado |
+| Sucessão de contratos (art. 452) | Em regra, novo contrato a termo dentro de 6 meses converte-se em indeterminado, salvo exceções legais |
+| Ruptura antecipada pelo empregador, sem cláusula assecuratória | Art. 479: metade da remuneração a que teria direito até o termo |
+| Ruptura antecipada pelo empregado, sem cláusula assecuratória | Art. 480: perdas e danos comprovados, limitados ao valor que seria devido na hipótese do art. 479 |
+| Cláusula assecuratória recíproca | Art. 481: aplicam-se os princípios da rescisão dos contratos por prazo indeterminado |
+
+O contrato a termo só é válido nas hipóteses do art. 443, § 2º: serviço cuja natureza ou transitoriedade justifique o prazo; atividade empresarial transitória; ou contrato de experiência.
+
+**Pegadinha:** o limite de 90 dias do contrato de experiência não significa que ele possa ser prorrogado indefinidamente até completar 90 dias. A prorrogação é única, e o total não pode ultrapassar 90 dias.
+
+### 11.3. Contrato intermitente: sequência que a banca pode inverter
+
+Nos termos dos arts. 443, § 3º, e 452-A:
+1. contrato escrito, com valor da hora ou do dia;
+2. convocação pelo empregador com pelo menos 3 dias corridos de antecedência;
+3. empregado dispõe de 1 dia útil para responder;
+4. silêncio equivale a recusa;
+5. recusar a convocação não descaracteriza a subordinação;
+6. aceita a convocação, o descumprimento injustificado por qualquer parte gera multa de 50% da remuneração que seria devida, admitida compensação em 30 dias;
+7. ao final de cada período de prestação, pagamento imediato das parcelas legais: remuneração, férias proporcionais + 1/3, 13º proporcional, repouso semanal remunerado e adicionais legais;
+8. período de inatividade não é tempo à disposição e permite prestação de serviços a outros contratantes.
+
+O valor horário não pode ser inferior ao salário mínimo horário nem ao pago aos demais empregados do estabelecimento na mesma função.
+
+### 11.4. Alteração contratual — teste de validade do art. 468
+
+A alteração das condições do contrato exige, cumulativamente:
+- mútuo consentimento;
+- ausência de prejuízo direto ou indireto ao empregado.
+
+Mesmo com concordância expressa, a alteração lesiva é inválida. A anuência não convalida renúncia a direito indisponível nem fraude.
+
+**Jus variandi:** poder empresarial de organizar a atividade e promover ajustes lícitos dentro dos limites legais e contratuais. Não autoriza alteração unilateral lesiva.
+
+Exemplos:
+- mudança de horário sem prejuízo relevante: análise do caso concreto;
+- redução salarial individual: vedada, salvo hipóteses constitucionais e negociação coletiva válida;
+- reversão de função de confiança: art. 468, § 1º, permite retorno ao cargo efetivo;
+- após a Lei 13.467/2017, a gratificação de função não se incorpora pelo simples exercício por dez anos; a regra anterior não se aplica a fatos geradores posteriores, conforme Tema 23 do TST quanto à aplicação temporal da Reforma.
+
+### 11.5. Suspensão x interrupção: matriz de memorização
+
+| Situação | Salário pelo empregador? | Tempo de serviço? | FGTS? |
+|---|---:|---:|---:|
+| Férias | Sim (remuneração de férias) | Sim | Sim |
+| Repouso semanal remunerado e feriados | Sim, conforme regime | Sim | Sim |
+| Primeiros 15 dias de afastamento por doença comum | Sim | Sim | Sim |
+| Afastamento por acidente/doença ocupacional com benefício acidentário | Em regra, não após os primeiros 15 dias | Sim para efeitos legais específicos | Sim |
+| Afastamento por doença comum após os primeiros 15 dias | Não | Em regra, não | Em regra, não |
+| Serviço militar obrigatório | Não, em regra | Sim para efeitos legais | Sim |
+| Licença-maternidade | Sim, paga pelo sistema previdenciário/compensada pelo empregador | Sim | Sim |
+| Greve | Em regra, não; depende de acordo, convenção ou decisão judicial | Regra geral de suspensão | Depende do regime e do ajuste |
+| Suspensão disciplinar válida | Não | Não | Não |
+
+A tabela é um mapa de prova, não substitui a regra específica de cada hipótese. Na suspensão, a prestação principal de trabalho e a obrigação de pagar salário ficam sustadas, mas sobrevivem deveres laterais de lealdade, proteção e boa-fé.
+
+**Exceção importante:** durante auxílio-doença acidentário e aposentadoria por incapacidade permanente acidentária, o empregador deve manter os depósitos do FGTS (Lei 8.036/1990, art. 15, § 5º). A Súmula 440 do TST assegura a manutenção do plano de saúde ou assistência médica oferecido pela empresa durante auxílio-doença acidentário e aposentadoria por incapacidade permanente.
+
+### 11.6. Faltas justificadas e interrupção
+
+O art. 473 da CLT enumera hipóteses em que o empregado pode deixar de comparecer sem prejuízo do salário. Para a prova, não confundir:
+- ausência legalmente justificada (interrupção);
+- falta injustificada (pode gerar desconto e repercussões);
+- licença sem remuneração (em regra, suspensão).
+
+Revisar o rol atualizado do art. 473 diretamente na CLT, pois há hipóteses acrescidas por leis posteriores. A FCC pode cobrar o número de dias e o evento específico; não generalizar que toda licença é remunerada.
+
+### 11.7. Transferência: adicional e Tema 93 do TST
+
+A transferência do art. 469 exige mudança de domicílio. O adicional legal é de, no mínimo, 25% enquanto durar a transferência provisória, e as despesas resultantes da transferência são suportadas pelo empregador (art. 470), observada a regra especial do art. 469-A.
+
+**Atualização jurisprudencial:** o Tema Repetitivo 93 do TST foi afetado para definir os critérios de aferição da provisoriedade da transferência. A página de acompanhamento consultada registra suspensão nacional e não apresenta tese de mérito firmada. Portanto, não apresentar como tese vinculante definitiva um critério matemático isolado de dois ou três anos. A OJ 113 continua sendo referência para a exigência de provisoriedade e para o fato de que cargo de confiança ou previsão contratual não afastam, por si sós, o adicional.
+
+Fontes de acompanhamento:
+- Tema 93 — TST: https://www.tst.jus.br/nugep-sp/recursos-repetitivos
+- Registro de afetação e suspensão nacional: https://portal.trt3.jus.br/internet/jurisprudencia/incidentes-suscitados-irr-iac-arginc-tst/casos-repetitivos-tst
+
+### 11.8. Questões autorais de recuperação
+
+**1.** O contrato de experiência pode durar 90 dias e ser prorrogado duas vezes, desde que nenhuma prorrogação ultrapasse 45 dias.
+
+**Gabarito: ERRADO.** A prorrogação só pode ocorrer uma vez, e a duração total não pode exceder 90 dias.
+
+**2.** A recusa do empregado à convocação para trabalho intermitente descaracteriza a subordinação.
+
+**Gabarito: ERRADO.** O art. 452-A, § 3º, afirma expressamente que a recusa não descaracteriza a subordinação.
+
+**3.** Uma alteração contratual expressamente aceita pelo empregado é válida mesmo que lhe cause prejuízo indireto.
+
+**Gabarito: ERRADO.** O art. 468 exige consentimento mútuo e ausência de prejuízo direto ou indireto.
+
+**4.** Durante o afastamento por doença comum, após os primeiros 15 dias, o empregador continua obrigado a depositar FGTS como regra geral.
+
+**Gabarito: ERRADO.** A obrigação de depósito durante afastamento previdenciário é mantida, entre outras hipóteses legais, no afastamento acidentário; não é regra geral para doença comum.
+
+**5.** O adicional de transferência de 25% é devido sempre que o empregado muda de cidade, ainda que a transferência seja definitiva.
+
+**Gabarito: ERRADO.** A jurisprudência exige caráter provisório para o adicional legal.
+
+**6.** O contrato por prazo determinado com cláusula assecuratória recíproca, quando exercida, submete a ruptura antecipada aos princípios dos contratos por prazo indeterminado.
+
+**Gabarito: CERTO.** É a regra do art. 481 da CLT.
+
+### 11.9. Checklist final
+
+- Identificar os cinco elementos do vínculo; exclusividade não é requisito.
+- Memorizar hipóteses e prazos do contrato a termo.
+- Separar arts. 479, 480 e 481.
+- Decorar a sequência de convocação e resposta do intermitente.
+- Aplicar o teste cumulativo do art. 468.
+- Diferenciar suspensão e interrupção, com atenção ao FGTS.
+- Saber que a transferência exige mudança de domicílio e que o adicional depende da provisoriedade.
+- Acompanhar o Tema 93 do TST sem antecipar tese ainda não firmada.
